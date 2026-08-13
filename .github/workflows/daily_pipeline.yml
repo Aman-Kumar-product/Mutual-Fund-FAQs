@@ -45,11 +45,11 @@ jobs:
           echo "Building Index (Chunking and Embedding)..."
           python -m indexing.build_index
 
-      - name: Commit tracked changes (metadata.json and cleaned data)
+      - name: Commit tracked changes (metadata.json, cleaned data, and DB)
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/metadata.json data/cleaned/
+          git add data/metadata.json data/cleaned/ chroma_db/
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Daily data pipeline update" && git push)
 

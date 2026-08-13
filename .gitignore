@@ -1,7 +1,5 @@
 # Raw scraped data and vector DB (large, regeneratable)
 data/raw/
-chroma_db/
-
 # Environment secrets
 .env
 

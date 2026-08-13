@@ -37,10 +37,10 @@ jobs:
           python update_metadata.py
           
           echo "Running Ingestion (Scraping)..."
-          python ingestion/run_ingestion.py
+          python -m ingestion.run_ingestion
           
           echo "Running Extraction (Groq LLM)..."
-          python ingestion/extractor.py
+          python -m ingestion.extractor
           
           echo "Building Index (Chunking and Embedding)..."
           python -m indexing.build_index

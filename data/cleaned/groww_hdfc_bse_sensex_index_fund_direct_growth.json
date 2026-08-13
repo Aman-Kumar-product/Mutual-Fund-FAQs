@@ -1,0 +1,21 @@
+{
+  "expense_ratio": "0.23%",
+  "minimum_sip": "\u20b9100",
+  "minimum_investment": "\u20b9100",
+  "exit_load": "0.25% if redeemed within 3 days",
+  "riskometer_rating": "Very High",
+  "fund_manager": "Arun Agarwal, Nandita Menezes",
+  "benchmark": "BSE Sensex Total Return Index",
+  "category": "Equity Large Cap",
+  "investment_objective": "The scheme aims to generate returns that are commensurate with the performance of S&P BSE Sensex, subject to tracking errors.",
+  "plan_option": "Direct Growth",
+  "asset_allocation": "Equity: 100%",
+  "portfolio_characteristics": "null",
+  "inception_date": "10 Dec 1999",
+  "nav_and_date": "\u20b9746.44 on 12 Aug 2026",
+  "additional_investment_minimum": "\u20b9100",
+  "purchase_redemption_info": "null",
+  "cut_off_info": "3 days",
+  "elss_lock_in_period": "null",
+  "download_capital_gains_statement": "null"
+}

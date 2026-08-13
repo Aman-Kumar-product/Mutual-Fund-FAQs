@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MF FAQ Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --chat-bg: rgba(20, 25, 35, 0.65);
+            --border-color: rgba(255, 255, 255, 0.1);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-gradient: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --accent-hover: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+            --bot-bubble: rgba(30, 41, 59, 0.8);
+            --user-bubble: var(--accent-gradient);
+            --refusal-bg: rgba(71, 85, 105, 0.4);
+            --error-bg: rgba(239, 68, 68, 0.15);
+            --error-border: rgba(239, 68, 68, 0.4);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: 
+                radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.15), transparent 25%),
+                radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.15), transparent 25%);
+            overflow: hidden;
+        }
+
+        .chat-container {
+            width: 100%;
+            max-width: 900px;
+            height: 90vh;
+            display: flex;
+            flex-direction: column;
+            background: var(--chat-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+        }
+
+        .chat-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(20, 25, 35, 0.8);
+            z-index: 10;
+        }
+
+        .header-title {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header-title h1 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .header-title p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .chat-window {
+            flex: 1;
+            padding: 24px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            scroll-behavior: smooth;
+        }
+
+        /* Custom Scrollbar */
+        .chat-window::-webkit-scrollbar {
+            width: 6px;
+        }
+        .chat-window::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .chat-window::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+
+        .message-row {
+            display: flex;
+            width: 100%;
+            animation: fadeIn 0.4s ease-out forwards;
+            opacity: 0;
+            transform: translateY(10px);
+        }
+
+        @keyframes fadeIn {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message-row.user {
+            justify-content: flex-end;
+        }
+
+        .message-row.bot {
+            justify-content: flex-start;
+        }
+
+        .bubble {
+            max-width: 80%;
+            padding: 14px 18px;
+            border-radius: 18px;
+            font-size: 0.95rem;
+            line-height: 1.5;
+            position: relative;
+        }
+
+        .user .bubble {
+            background: var(--user-bubble);
+            border-bottom-right-radius: 4px;
+            box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.3);
+        }
+
+        .bot .bubble {
+            background: var(--bot-bubble);
+            border: 1px solid var(--border-color);
+            border-bottom-left-radius: 4px;
+        }
+
+        .refusal-card {
+            background: var(--refusal-bg);
+            border-left: 4px solid #f59e0b;
+        }
+
+        .error-card {
+            background: var(--error-bg);
+            border: 1px solid var(--error-border);
+            color: #fca5a5;
+        }
+
+        .citation {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .citation a {
+            color: #60a5fa;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .citation a:hover {
+            color: #93c5fd;
+            text-decoration: underline;
+        }
+
+        .examples-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+        }
+
+        .example-pill {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-color);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .example-pill:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--text-primary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .input-container {
+            padding: 20px 24px;
+            background: rgba(20, 25, 35, 0.8);
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            gap: 12px;
+        }
+
+        .input-box {
+            flex: 1;
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 14px 16px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+
+        .input-box:focus {
+            border-color: #60a5fa;
+            box-shadow: 0 0 0 2px rgba(96, 165, 250, 0.2);
+        }
+
+        .send-btn {
+            background: var(--accent-gradient);
+            border: none;
+            border-radius: 12px;
+            padding: 0 24px;
+            color: white;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .send-btn:hover:not(:disabled) {
+            background: var(--accent-hover);
+            box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.4);
+            transform: translateY(-1px);
+        }
+
+        .send-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        /* Loading Dots */
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 8px 4px;
+        }
+        .typing-dot {
+            width: 6px;
+            height: 6px;
+            background-color: var(--text-secondary);
+            border-radius: 50%;
+            animation: typing 1.4s infinite ease-in-out both;
+        }
+        .typing-dot:nth-child(1) { animation-delay: -0.32s; }
+        .typing-dot:nth-child(2) { animation-delay: -0.16s; }
+        
+        @keyframes typing {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1); }
+        }
+
+        /* Accordion Styles */
+        details.info-accordion {
+            margin-top: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            padding: 10px 14px;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+
+        details.info-accordion summary {
+            font-weight: 500;
+            cursor: pointer;
+            outline: none;
+            color: #93c5fd;
+            user-select: none;
+            font-size: 0.9rem;
+        }
+        
+        details.info-accordion[open] summary {
+            margin-bottom: 8px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 8px;
+            color: #60a5fa;
+        }
+
+        .info-list {
+            list-style-type: none;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        
+        .info-list li {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 4px 10px;
+            border-radius: 6px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="chat-container">
+        <header class="chat-header">
+            <div class="header-title">
+                <h1>🪙 MF FAQ Assistant</h1>
+                <p>Facts-only. No investment advice.</p>
+            </div>
+        </header>
+
+        <div class="chat-window" id="chat-window">
+            <div class="message-row bot">
+                <div class="bubble">
+                    Welcome! Ask me factual questions about our indexed Mutual Fund schemes.
+                    
+                    <details class="info-accordion">
+                        <summary>View Available Funds (15)</summary>
+                        <ul class="info-list" style="margin-top: 8px;">
+                            <li>HDFC BSE Sensex Index Fund</li>
+                            <li>HDFC Defence Fund</li>
+                            <li>HDFC Equity Fund</li>
+                            <li>HDFC Focused Fund</li>
+                            <li>HDFC Gold ETF FOF</li>
+                            <li>HDFC Manufacturing Fund</li>
+                            <li>HDFC Midcap Fund</li>
+                            <li>HDFC Multi Cap Fund</li>
+                            <li>HDFC Nifty 50 Index Fund</li>
+                            <li>HDFC Nifty Next 50 Index Fund</li>
+                            <li>HDFC Pharma And Healthcare Fund</li>
+                            <li>HDFC Short Term Opportunities Fund</li>
+                            <li>HDFC Silver ETF</li>
+                            <li>HDFC Small Cap Fund</li>
+                            <li>SBI Gold Fund</li>
+                        </ul>
+                    </details>
+
+                    <details class="info-accordion">
+                        <summary>View Supported Facts</summary>
+                        <ul class="info-list" style="margin-top: 8px;">
+                            <li>Expense Ratio</li>
+                            <li>Minimum SIP & Investment</li>
+                            <li>Exit Load</li>
+                            <li>Riskometer Rating</li>
+                            <li>Fund Manager</li>
+                            <li>Benchmark & Category</li>
+                            <li>Asset Allocation</li>
+                            <li>Investment Objective</li>
+                            <li>Inception Date & NAV</li>
+                        </ul>
+                    </details>
+
+                    <div style="margin-top: 16px; font-size: 0.85rem; color: var(--text-secondary);">Here are some examples to get started:</div>
+                    <div class="examples-container" id="examples-container">
+                        <!-- Example pills will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-container">
+            <input type="text" class="input-box" id="user-input" placeholder="Type your question..." autocomplete="off">
+            <button class="send-btn" id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE_URL = '';
+        
+        const chatWindow = document.getElementById('chat-window');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+        const examplesContainer = document.getElementById('examples-container');
+
+        let isWaiting = false;
+
+        // Load examples on init
+        async function loadExamples() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/examples`);
+                if (response.ok) {
+                    const data = await response.json();
+                    examplesContainer.innerHTML = '';
+                    data.examples.forEach(example => {
+                        const pill = document.createElement('div');
+                        pill.className = 'example-pill';
+                        pill.textContent = example;
+                        pill.onclick = () => {
+                            userInput.value = example;
+                            userInput.focus();
+                        };
+                        examplesContainer.appendChild(pill);
+                    });
+                }
+            } catch (e) {
+                console.error("Failed to load examples", e);
+                examplesContainer.style.display = 'none';
+            }
+        }
+
+        function addMessage(text, isUser = false, metadata = null) {
+            const row = document.createElement('div');
+            row.className = `message-row ${isUser ? 'user' : 'bot'}`;
+            
+            const bubble = document.createElement('div');
+            bubble.className = 'bubble';
+            
+            // Check for refusal or error in metadata
+            if (metadata?.refused) {
+                bubble.classList.add('refusal-card');
+            } else if (metadata?.error) {
+                bubble.classList.add('error-card');
+            }
+
+            bubble.innerHTML = text.replace(/\n/g, '<br>');
+
+            if (!isUser && metadata && metadata.sources && metadata.sources.length > 0) {
+                const citationContainer = document.createElement('div');
+                citationContainer.style.marginTop = '12px';
+                citationContainer.style.paddingTop = '12px';
+                citationContainer.style.borderTop = '1px solid rgba(255, 255, 255, 0.1)';
+                citationContainer.style.display = 'flex';
+                citationContainer.style.flexDirection = 'column';
+                citationContainer.style.gap = '8px';
+
+                metadata.sources.forEach(source => {
+                    const citation = document.createElement('div');
+                    // removed .citation class styles of margin-top and border-top by overriding or not using it entirely
+                    // Let's just use the citation class, but we can override the styles
+                    citation.className = 'citation';
+                    citation.style.marginTop = '0';
+                    citation.style.paddingTop = '0';
+                    citation.style.borderTop = 'none';
+                    
+                    const link = document.createElement('a');
+                    link.href = source.url;
+                    link.target = "_blank";
+                    link.innerHTML = `🔗 ${source.name || 'Source'}`;
+                    
+                    citation.appendChild(link);
+                    
+                    if (source.ingested_at) {
+                        const dateInfo = document.createElement('span');
+                        // Format the date if it's a valid date string
+                        let dateStr = source.ingested_at;
+                        try {
+                            const d = new Date(dateStr);
+                            if (!isNaN(d)) dateStr = d.toLocaleDateString();
+                        } catch(e) {}
+                        dateInfo.textContent = `Last updated: ${dateStr}`;
+                        citation.appendChild(dateInfo);
+                    }
+                    
+                    citationContainer.appendChild(citation);
+                });
+
+                bubble.appendChild(citationContainer);
+            }
+
+            row.appendChild(bubble);
+            chatWindow.appendChild(row);
+            scrollToBottom();
+            return row;
+        }
+
+        function addLoadingIndicator() {
+            const row = document.createElement('div');
+            row.className = 'message-row bot';
+            row.id = 'loading-indicator';
+            
+            const bubble = document.createElement('div');
+            bubble.className = 'bubble';
+            bubble.innerHTML = `
+                <div class="typing-indicator">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            `;
+            
+            row.appendChild(bubble);
+            chatWindow.appendChild(row);
+            scrollToBottom();
+            return row;
+        }
+
+        function removeLoadingIndicator() {
+            const indicator = document.getElementById('loading-indicator');
+            if (indicator) {
+                indicator.remove();
+            }
+        }
+
+        function scrollToBottom() {
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+        }
+
+        async function handleSend() {
+            const query = userInput.value.trim();
+            if (!query || isWaiting) return;
+
+            // Optimistic UI update
+            addMessage(query, true);
+            userInput.value = '';
+            isWaiting = true;
+            sendBtn.disabled = true;
+            
+            addLoadingIndicator();
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/ask`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query })
+                });
+
+                removeLoadingIndicator();
+
+                if (!response.ok) {
+                    addMessage("Server returned an error. Please try again.", false, { error: true });
+                } else {
+                    const data = await response.json();
+                    addMessage(data.answer, false, data);
+                }
+            } catch (err) {
+                removeLoadingIndicator();
+                addMessage("Could not reach the server. Make sure the API is running.", false, { error: true });
+            } finally {
+                isWaiting = false;
+                sendBtn.disabled = false;
+                userInput.focus();
+            }
+        }
+
+        sendBtn.addEventListener('click', handleSend);
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') handleSend();
+        });
+
+        // Init
+        loadExamples();
+    </script>
+</body>
+</html>

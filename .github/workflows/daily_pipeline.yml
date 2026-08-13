@@ -1,0 +1,60 @@
+name: Daily Data Pipeline
+
+on:
+  schedule:
+    # Runs at 9:30 AM IST (which is 4:00 AM UTC)
+    - cron: '0 4 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' # Update this to your Python version
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # Playwright requires installing browsers
+          playwright install chromium
+
+      - name: Run Pipeline Steps
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          echo "Updating Metadata..."
+          python update_metadata.py
+          
+          echo "Running Ingestion (Scraping)..."
+          python ingestion/run_ingestion.py
+          
+          echo "Running Extraction (Groq LLM)..."
+          python ingestion/extractor.py
+          
+          echo "Building Index (Chunking and Embedding)..."
+          python -m indexing.build_index
+
+      - name: Commit tracked changes (metadata.json and cleaned data)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/metadata.json data/cleaned/
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Daily data pipeline update" && git push)
+
+      - name: Upload ChromaDB as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: updated-chroma-db
+          path: chroma_db/
+          retention-days: 7

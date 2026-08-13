@@ -45,9 +45,9 @@ Monthly investment
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
 | 1 year | ₹1,200 | ₹1,237 | | +3.08% |
-| 3 years | ₹3,600 | ₹4,005 | | +11.25% |
+| 3 years | ₹3,600 | ₹4,006 | | +11.28% |
 | 5 years | ₹6,000 | ₹7,189 | | +19.82% |
-| 10 years | ₹12,000 | ₹17,400 | | +45.00% |
+| 10 years | ₹12,000 | ₹17,402 | | +45.02% |
 
 ## Holdings (150)
 
@@ -297,7 +297,7 @@ Check past data
 | | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +6.81% | +8.06% | 19,259.89 |
 | | [Axis Short Duration Fund Direct Growth](/mutual-funds/axis-short-duration-fund-direct-growth) | +6.46% | +7.97% | 8,010.24 |
 | | [Bandhan Short Duration Fund Direct Growth](/mutual-funds/bandhan-short-duration-fund-direct-growth) | +6.53% | +7.92% | 9,287.26 |
-| | [Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth) | +6.25% | +7.92% | 7,189.44 |
+| | [Nippon India Short Duration Fund DirectGrowth](/mutual-funds/nippon-india-short-duration-fund-direct-growth) | +6.25% | +7.92% | 7,189.44 |
 | | [HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth) | +6.22% | +7.76% | 15,080.98 |
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -305,7 +305,7 @@ Check past data
 
 ### Fund management
 
-### AB Anil Bamboli Jan 2013 - Present View details
+### AB Anil Bamboli Dec 2012 - Present View details
 
 Education
 
@@ -317,33 +317,33 @@ Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.
 
 Also manages these schemes
 
-[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
-
-[HDFC Gilt Fund Direct Growth](/mutual-funds/hdfc-gilt-fund-direct-growth)
-
-[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
-
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
 
 [HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
 
-[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
-
-[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
-
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
-
 [HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
 
-[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+[HDFC Gilt Fund Direct Growth](/mutual-funds/hdfc-gilt-fund-direct-growth)
 
-[HDFC Income Plus Arbitrage Active FoF Direct Growth](/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth)
+[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+
+[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
 [HDFC Ultra Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-term-fund-direct-growth)
 
+[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
+
+[HDFC Income Plus Arbitrage Active FoF Direct Growth](/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth)
+
+[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+
 [HDFC Multi Asset Active FoF Direct Growth](/mutual-funds/hdfc-multi-asset-active-fof-direct-growth)
 
-[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
+[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
+
+[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
 ### DM Dhruv Muchhal Jun 2023 - Present View details
 
@@ -357,103 +357,103 @@ Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd
 
 Also manages these schemes
 
-[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
+[HDFC Consumption Fund Direct Growth](/mutual-funds/hdfc-consumption-fund-direct-growth)
+
+[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
+
+[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+
+[HDFC Ultra Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-term-fund-direct-growth)
+
+[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
+
+[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
+
+[HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
+
+[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
+
+[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
+
+[HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
+
+[HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
+
+[HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
+
+[HDFC Transportation and Logistics Fund Direct Growth](/mutual-funds/hdfc-transportation-and-logistics-fund-direct-growth)
+
+[HDFC Liquid Direct Plan Growth](/mutual-funds/hdfc-liquid-fund-direct-growth)
+
+[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+
+[HDFC Banking & Financial Services Fund Direct Growth](/mutual-funds/hdfc-banking-financial-services-fund-direct-growth)
+
+[HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
+
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
+
+[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
+
+[HDFC Technology Fund Direct Growth](/mutual-funds/hdfc-technology-fund-direct-growth)
+
+[HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
 
 [HDFC Value Fund Direct Plan Growth](/mutual-funds/hdfc-value-fund-direct-plan-growth)
 
 [HDFC Low Duration Fund Direct Growth](/mutual-funds/hdfc-low-duration-fund-direct-growth)
 
-[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
-
-[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
-
-[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
-
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
-
-[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
-
-[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
-
-[HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
-
-[HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
-
 [HDFC Hybrid Debt Fund Direct Growth](/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth)
-
-[HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
-
-[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
-
-[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
-
-[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
-
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
-
-[HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
-
-[HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
-
-[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
-
-[HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
-
-[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
-
-[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
-
-[HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
-
-[HDFC Ultra Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-term-fund-direct-growth)
-
-[HDFC Liquid Direct Plan Growth](/mutual-funds/hdfc-liquid-fund-direct-growth)
 
 [HDFC Overnight Fund Direct Growth](/mutual-funds/hdfc-overnight-fund-direct-growth)
 
-[HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
+[HDFC Pharma And Healthcare Fund Direct Growth](/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
-
-[HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
-
-[HDFC Banking & Financial Services Fund Direct Growth](/mutual-funds/hdfc-banking-financial-services-fund-direct-growth)
+[HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
 
 [HDFC Multi Cap Fund Direct Growth](/mutual-funds/hdfc-multi-cap-fund-direct-growth)
 
-[HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
-
 [HDFC Long Duration Debt Fund Direct Growth](/mutual-funds/hdfc-long-duration-debt-fund-direct-growth)
 
-[HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
+[HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
 
-[HDFC Defence Fund Direct Growth](/mutual-funds/hdfc-defence-fund-direct-growth)
+[HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
 
-[HDFC Consumption Fund Direct Growth](/mutual-funds/hdfc-consumption-fund-direct-growth)
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
 
-[HDFC Transportation and Logistics Fund Direct Growth](/mutual-funds/hdfc-transportation-and-logistics-fund-direct-growth)
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
 
-[HDFC Technology Fund Direct Growth](/mutual-funds/hdfc-technology-fund-direct-growth)
+[HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
 
-[HDFC Pharma And Healthcare Fund Direct Growth](/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth)
+[HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
+
+[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
+
+[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
+
+[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
+
+[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+
+[HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
+
+[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
+
+[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
 
 [HDFC Manufacturing Fund Direct Growth](/mutual-funds/hdfc-manufacturing-fund-direct-growth)
 
-[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
+[HDFC Defence Fund Direct Growth](/mutual-funds/hdfc-defence-fund-direct-growth)
 
-[HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
-
-[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
 ### About HDFC Short Term Debt Fund Direct Plan Growth
 
-HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Man
+HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Man
 
-HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 12 Aug 2026 is ₹35.43.
+HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 12 Aug 2026 is ₹35.43.
 The HDFC Short Term Debt Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -472,9 +472,9 @@ Fund benchmarkCRISIL Short Duration Debt A-II Index
 
 Rank (total assets)#2 in India
 
-Total AUM₹9,44,244.21 Cr
+Total AUM₹9,67,910.31 Cr
 
-Date of Incorporation10 Dec 1999
+Date of Incorporation09 Dec 1999
 
 Phone022 – 66316333
 
@@ -482,7 +482,7 @@ E-mail[shareholders.relations@hdfcfund.com](https://mail.google.com/mail/?view=c
 
 Website<http://www.hdfcfund.com>
 
-Launch Date10 Dec 1999
+Launch Date09 Dec 1999
 
 Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
 

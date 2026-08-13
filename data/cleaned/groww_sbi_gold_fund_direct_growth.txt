@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,677 | | +11.28% |
-| 3 years | ₹18,000 | ₹30,826 | | +71.26% |
-| 5 years | ₹30,000 | ₹64,268 | | +114.23% |
-| 10 years | ₹60,000 | ₹1,86,052 | | +210.09% |
+| 1 year | ₹6,000 | ₹6,718 | | +11.97% |
+| 3 years | ₹18,000 | ₹31,013 | | +72.29% |
+| 5 years | ₹30,000 | ₹64,671 | | +115.57% |
+| 10 years | ₹60,000 | ₹1,87,266 | | +212.11% |
 
 ## Holdings (3)
 
@@ -91,7 +91,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +36.0% | +25.6% | +16.3% | +11.4% |
 | Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 3 | 3 | 3 | -- |
+| Rank (Commodities Gold) | 5 | 3 | 2 | -- |
 
 ## Understand terms
 
@@ -139,53 +139,7 @@ Check past data
 
 ### Fund management
 
-### VC Viral Chhadva Mar 2026 - Present View details
-
-Education
-
-Mr. Chhadva has done MFM (Finance) and CFA
-
-Experience
-
-Prior to joining SBI Mutual Fund, he has worked with India Infoline Ltd. and ICICI Securities
-
-Also manages these schemes
-
-[SBI Gold Direct Plan Growth](/mutual-funds/sbi-gold-fund-direct-growth)
-
-[SBI Nifty Index Direct Plan Growth](/mutual-funds/sbi-nifty-index-fund-direct-growth)
-
-[SBI Nifty Midcap 150 Index Fund Direct Growth](/mutual-funds/sbi-nifty-midcap-150-index-fund-direct-growth)
-
-[SBI Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/sbi-nifty-smallcap-250-index-fund-direct-growth)
-
-[SBI BSE Sensex Index Fund Direct Growth](/mutual-funds/sbi-bse-sensex-index-fund-direct-growth)
-
-[SBI Nifty Next 50 Index Fund Direct Growth](/mutual-funds/sbi-nifty-next-50-index-fund-direct-growth)
-
-[SBI Nifty50 Equal Weight Index Fund Direct Growth](/mutual-funds/sbi-nifty50-equal-weight-index-fund-direct-growth)
-
-[SBI Silver ETF FoF Direct Growth](/mutual-funds/sbi-silver-etf-fof-direct-growth)
-
-[SBI Nifty 500 Index Fund Direct Growth](/mutual-funds/sbi-nifty-500-index-fund-direct-growth)
-
-[SBI Nifty India Consumption Index Fund Direct Growth](/mutual-funds/sbi-nifty-india-consumption-index-fund-direct-growth)
-
-[SBI Nifty Bank Index Fund Direct Growth](/mutual-funds/sbi-nifty-bank-index-fund-direct-growth)
-
-[SBI Nifty IT Index Fund Direct Growth](/mutual-funds/sbi-nifty-it-index-fund-direct-growth)
-
-[SBI BSE PSU Bank Index Fund Direct Growth](/mutual-funds/sbi-bse-psu-bank-index-fund-direct-growth)
-
-[SBI Nifty200 Quality 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty200-quality-30-index-fund-direct-growth)
-
-[SBI Nifty200 Momentum 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty200-momentum-30-index-fund-direct-growth)
-
-[SBI Nifty100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty100-low-volatility-30-index-fund-direct-growth)
-
-[SBI Nifty Midcap 150 Momentum 50 ETF FoF Direct Growth](/mutual-funds/sbi-nifty-midcap-150-momentum-50-etf-fof-direct-growth)
-
-### PK Pradeep Kesavan Dec 2023 - Present View details
+### PK Pradeep Kesavan Nov 2023 - Present View details
 
 Education
 
@@ -197,103 +151,147 @@ Prior to joining SBI MF, he has worked with Elara Capital, Accenture Strategy, M
 
 Also manages these schemes
 
-[SBI Children's Fund Savings Plan Direct Growth](/mutual-funds/sbi-children's-fund-savings-plan-direct-growth)
-
-[SBI Arbitrage Opportunities Fund Direct Growth](/mutual-funds/sbi-arbitrage-opportunities-fund-direct-growth)
-
-[SBI Large Cap Direct Plan Growth](/mutual-funds/sbi-large-cap-direct-plan-growth)
-
-[SBI Contra Direct Plan Growth](/mutual-funds/sbi-contra-fund-direct-growth)
-
-[SBI Dynamic Bond Direct Plan Growth](/mutual-funds/sbi-dynamic-bond-fund-direct-growth)
-
-[SBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth)
-
-[SBI Consumption Opportunities Fund Direct Growth](/mutual-funds/sbi-fmcg-fund-direct-growth)
-
-[SBI Gold Direct Plan Growth](/mutual-funds/sbi-gold-fund-direct-growth)
-
-[SBI Infrastructure Fund Direct Growth](/mutual-funds/sbi-infrastructure-fund-direct-growth)
-
-[SBI Technology Opportunities Fund Direct Growth](/mutual-funds/sbi-it-fund-direct-growth)
-
-[SBI Equity Hybrid Fund Direct Plan Growth](/mutual-funds/sbi-magnum-balanced-fund-direct-growth)
-
-[SBI Comma Fund Direct Growth](/mutual-funds/sbi-comma-fund-direct-growth)
-
-[SBI ESG Exclusionary Strategy Fund Direct Plan Growth](/mutual-funds/sbi-esg-exclusionary-strategy-fund-direct-plan-growth)
-
-[SBI MNC Direct Plan Growth](/mutual-funds/sbi-mnc-direct-plan-growth)
-
-[SBI Medium to Long Duration Fund Direct Growth](/mutual-funds/sbi-medium-to-long-duration-fund-direct-growth)
-
-[SBI Credit Risk Fund Direct Growth](/mutual-funds/sbi-corporate-credit-risk-bond-fund-direct-growth)
-
-[SBI Savings Fund Direct Growth](/mutual-funds/sbi-savings-fund-direct-growth)
-
-[SBI Small Cap Fund Direct Growth](/mutual-funds/sbi-small-midcap-fund-direct-growth)
-
-[SBI Nifty Index Direct Plan Growth](/mutual-funds/sbi-nifty-index-fund-direct-growth)
-
-[SBI Ultra Short Duration Fund Direct Growth](/mutual-funds/sbi-ultra-short-duration-fund-direct-growth)
-
-[SBI Mid Cap Direct Plan Growth](/mutual-funds/sbi-mid-cap-direct-plan-growth)
-
-[SBI Multi Asset Allocation Fund Direct Growth](/mutual-funds/sbi-magnum-monthly-i-come-plan-floater-direct-growth)
-
-[SBI Flexicap Fund Direct Growth](/mutual-funds/sbi-flexicap-fund-direct-growth)
-
-[SBI Large & Midcap Fund Direct Plan Growth](/mutual-funds/sbi-magnum-multiplier-fund-direct-growth)
-
-[SBI Healthcare Opportunities Fund Direct Plan Growth](/mutual-funds/sbi-pharma-fund-direct-growth)
+[SBI Corporate Bond Fund Direct Growth](/mutual-funds/sbi-corporate-bond-fund-direct-growth)
 
 [SBI Banking and PSU Fund Direct Growth](/mutual-funds/sbi-treasury-advantage-fund-direct-growth)
 
-[SBI Medium Duration Fund Direct Growth](/mutual-funds/sbi-medium-duration-fund-direct-growth)
+[SBI Multicap Fund Direct Growth](/mutual-funds/sbi-multicap-fund-direct-growth)
 
-[SBI Short Term Debt Fund Direct Growth](/mutual-funds/sbi-short-term-debt-fund-direct-growth)
+[SBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth)
 
-[SBI Low Duration Fund Direct Growth](/mutual-funds/sbi-low-duration-fund-direct-growth)
-
-[SBI Dividend Yield Fund Direct Growth](/mutual-funds/sbi-dividend-yield-fund-direct-growth)
+[SBI Equity Hybrid Fund Direct Plan Growth](/mutual-funds/sbi-magnum-balanced-fund-direct-growth)
 
 [SBI Banking & Financial Services Fund Direct Growth](/mutual-funds/sbi-banking-financial-services-fund-direct-growth)
 
-[SBI Long Duration Fund Direct Growth](/mutual-funds/sbi-long-duration-fund-direct-growth)
-
-[SBI Multicap Fund Direct Growth](/mutual-funds/sbi-multicap-fund-direct-growth)
-
-[SBI Equity Minimum Variance Fund Direct Growth](/mutual-funds/sbi-equity-minimum-variance-fund-direct-growth)
-
-[SBI Equity Savings Fund Direct Growth](/mutual-funds/sbi-equity-savings-fund-direct-growth)
-
-[SBI Children's Fund Investment Plan Direct Growth](/mutual-funds/sbi-children's-fund-investment-plan-direct-growth)
-
 [SBI Floating Rate Debt Fund Direct Growth](/mutual-funds/sbi-floating-rate-debt-fund-direct-growth)
 
-[SBI Retirement Benefit Fund Aggressive Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-aggressive-plan-direct-growth)
-
-[SBI Retirement Benefit Fund Aggressive Hybrid Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-aggressive-hybrid-plan-direct-growth)
-
-[SBI Retirement Benefit Fund Conservative Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-conservative-plan-direct-growth)
-
-[SBI Retirement Benefit Fund Conservative Hybrid Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-conservative-hybrid-plan-direct-growth)
-
 [SBI Balanced Advantage Fund Direct Growth](/mutual-funds/sbi-balanced-advantage-fund-direct-growth)
-
-[SBI Corporate Bond Fund Direct Growth](/mutual-funds/sbi-corporate-bond-fund-direct-growth)
 
 [SBI Energy Opportunities Fund Direct Growth](/mutual-funds/sbi-energy-opportunities-fund-direct-growth)
 
 [SBI Automotive Opportunities Fund Direct Growth](/mutual-funds/sbi-automotive-opportunities-fund-direct-growth)
 
+[SBI Credit Risk Fund Direct Growth](/mutual-funds/sbi-corporate-credit-risk-bond-fund-direct-growth)
+
+[SBI Long Duration Fund Direct Growth](/mutual-funds/sbi-long-duration-fund-direct-growth)
+
+[SBI Dynamic Bond Direct Plan Growth](/mutual-funds/sbi-dynamic-bond-fund-direct-growth)
+
+[SBI Healthcare Opportunities Fund Direct Plan Growth](/mutual-funds/sbi-pharma-fund-direct-growth)
+
+[SBI Gold Direct Plan Growth](/mutual-funds/sbi-gold-fund-direct-growth)
+
 [SBI Quant Fund Direct Growth](/mutual-funds/sbi-quant-fund-direct-growth)
+
+[SBI Children's Fund Investment Plan Direct Growth](/mutual-funds/sbi-children's-fund-investment-plan-direct-growth)
+
+[SBI Equity Savings Fund Direct Growth](/mutual-funds/sbi-equity-savings-fund-direct-growth)
+
+[SBI Consumption Opportunities Fund Direct Growth](/mutual-funds/sbi-fmcg-fund-direct-growth)
+
+[SBI Large Cap Direct Plan Growth](/mutual-funds/sbi-large-cap-direct-plan-growth)
+
+[SBI Technology Opportunities Fund Direct Growth](/mutual-funds/sbi-it-fund-direct-growth)
+
+[SBI Equity Minimum Variance Fund Direct Growth](/mutual-funds/sbi-equity-minimum-variance-fund-direct-growth)
+
+[SBI Arbitrage Opportunities Fund Direct Growth](/mutual-funds/sbi-arbitrage-opportunities-fund-direct-growth)
+
+[SBI Retirement Benefit Fund Aggressive Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-aggressive-plan-direct-growth)
+
+[SBI Mid Cap Direct Plan Growth](/mutual-funds/sbi-mid-cap-direct-plan-growth)
+
+[SBI Retirement Benefit Fund Aggressive Hybrid Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-aggressive-hybrid-plan-direct-growth)
+
+[SBI Medium to Long Duration Fund Direct Growth](/mutual-funds/sbi-medium-to-long-duration-fund-direct-growth)
+
+[SBI Contra Direct Plan Growth](/mutual-funds/sbi-contra-fund-direct-growth)
+
+[SBI Children's Fund Savings Plan Direct Growth](/mutual-funds/sbi-children's-fund-savings-plan-direct-growth)
+
+[SBI Flexicap Fund Direct Growth](/mutual-funds/sbi-flexicap-fund-direct-growth)
+
+[SBI Multi Asset Allocation Fund Direct Growth](/mutual-funds/sbi-magnum-monthly-i-come-plan-floater-direct-growth)
+
+[SBI Large & Midcap Fund Direct Plan Growth](/mutual-funds/sbi-magnum-multiplier-fund-direct-growth)
+
+[SBI Comma Fund Direct Growth](/mutual-funds/sbi-comma-fund-direct-growth)
+
+[SBI Medium Duration Fund Direct Growth](/mutual-funds/sbi-medium-duration-fund-direct-growth)
+
+[SBI Retirement Benefit Fund Conservative Hybrid Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-conservative-hybrid-plan-direct-growth)
+
+[SBI ESG Exclusionary Strategy Fund Direct Plan Growth](/mutual-funds/sbi-esg-exclusionary-strategy-fund-direct-plan-growth)
+
+[SBI Nifty Index Direct Plan Growth](/mutual-funds/sbi-nifty-index-fund-direct-growth)
+
+[SBI Ultra Short Duration Fund Direct Growth](/mutual-funds/sbi-ultra-short-duration-fund-direct-growth)
+
+[SBI MNC Direct Plan Growth](/mutual-funds/sbi-mnc-direct-plan-growth)
+
+[SBI Retirement Benefit Fund Conservative Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-conservative-plan-direct-growth)
+
+[SBI Low Duration Fund Direct Growth](/mutual-funds/sbi-low-duration-fund-direct-growth)
+
+[SBI Short Term Debt Fund Direct Growth](/mutual-funds/sbi-short-term-debt-fund-direct-growth)
+
+[SBI Infrastructure Fund Direct Growth](/mutual-funds/sbi-infrastructure-fund-direct-growth)
+
+[SBI Savings Fund Direct Growth](/mutual-funds/sbi-savings-fund-direct-growth)
+
+[SBI Small Cap Fund Direct Growth](/mutual-funds/sbi-small-midcap-fund-direct-growth)
+
+### VC Viral Chhadva Feb 2026 - Present View details
+
+Education
+
+Mr. Chhadva has done MFM (Finance) and CFA
+
+Experience
+
+Prior to joining SBI Mutual Fund, he has worked with India Infoline Ltd. and ICICI Securities
+
+Also manages these schemes
+
+[SBI BSE PSU Bank Index Fund Direct Growth](/mutual-funds/sbi-bse-psu-bank-index-fund-direct-growth)
+
+[SBI Nifty200 Quality 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty200-quality-30-index-fund-direct-growth)
+
+[SBI Nifty Midcap 150 Momentum 50 ETF FoF Direct Growth](/mutual-funds/sbi-nifty-midcap-150-momentum-50-etf-fof-direct-growth)
+
+[SBI Nifty100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty100-low-volatility-30-index-fund-direct-growth)
+
+[SBI BSE Sensex Index Fund Direct Growth](/mutual-funds/sbi-bse-sensex-index-fund-direct-growth)
+
+[SBI Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/sbi-nifty-smallcap-250-index-fund-direct-growth)
+
+[SBI Silver ETF FoF Direct Growth](/mutual-funds/sbi-silver-etf-fof-direct-growth)
+
+[SBI Nifty Midcap 150 Index Fund Direct Growth](/mutual-funds/sbi-nifty-midcap-150-index-fund-direct-growth)
+
+[SBI Nifty200 Momentum 30 Index Fund Direct Growth](/mutual-funds/sbi-nifty200-momentum-30-index-fund-direct-growth)
+
+[SBI Nifty 500 Index Fund Direct Growth](/mutual-funds/sbi-nifty-500-index-fund-direct-growth)
+
+[SBI Nifty Index Direct Plan Growth](/mutual-funds/sbi-nifty-index-fund-direct-growth)
+
+[SBI Nifty India Consumption Index Fund Direct Growth](/mutual-funds/sbi-nifty-india-consumption-index-fund-direct-growth)
+
+[SBI Gold Direct Plan Growth](/mutual-funds/sbi-gold-fund-direct-growth)
+
+[SBI Nifty50 Equal Weight Index Fund Direct Growth](/mutual-funds/sbi-nifty50-equal-weight-index-fund-direct-growth)
+
+[SBI Nifty IT Index Fund Direct Growth](/mutual-funds/sbi-nifty-it-index-fund-direct-growth)
+
+[SBI Nifty Next 50 Index Fund Direct Growth](/mutual-funds/sbi-nifty-next-50-index-fund-direct-growth)
+
+[SBI Nifty Bank Index Fund Direct Growth](/mutual-funds/sbi-nifty-bank-index-fund-direct-growth)
 
 ### About SBI Gold Direct Plan Growth
 
-SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 29 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819
+SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Pradeep Kesavan is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,81
 
-SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 29 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819 Cr and the Latest NAV as of 12 Aug 2026 is ₹46.72.
+SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Pradeep Kesavan is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819 Cr and the Latest NAV as of 12 Aug 2026 is ₹46.72.
 The SBI Gold Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days.
 
 ...Read more
@@ -314,7 +312,7 @@ Rank (total assets)#1 in India
 
 Total AUM₹13,11,819.47 Cr
 
-Date of Incorporation29 Jun 1987
+Date of Incorporation28 Jun 1987
 
 Phone022-61793000 / 1800-425-5425
 
@@ -322,7 +320,7 @@ E-mail[Customer.Delight@sbimf.com](https://mail.google.com/mail/?view=cm&fs=1&tf
 
 Website<http://www.sbimf.com>
 
-Launch Date29 Jun 1987
+Launch Date28 Jun 1987
 
 Address9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051
 

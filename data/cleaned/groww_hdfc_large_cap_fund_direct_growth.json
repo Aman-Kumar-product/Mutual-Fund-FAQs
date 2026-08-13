@@ -1,0 +1,21 @@
+{
+  "expense_ratio": "1.02%",
+  "minimum_sip": "\u20b9100",
+  "minimum_investment": "\u20b9100",
+  "exit_load": "1% if redeemed within 1 year",
+  "riskometer_rating": "Very High",
+  "fund_manager": "Rahul Baijal, Dhruv Muchhal",
+  "benchmark": "NIFTY 100 Total Return Index",
+  "category": "Equity Large Cap",
+  "investment_objective": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
+  "plan_option": "Direct Growth",
+  "asset_allocation": "Large-Cap companies",
+  "portfolio_characteristics": "null",
+  "inception_date": "09 Dec 1999",
+  "nav_and_date": "\u20b91,249.48 on 12 Aug '26",
+  "additional_investment_minimum": "\u20b9100",
+  "purchase_redemption_info": "null",
+  "cut_off_info": "null",
+  "elss_lock_in_period": "null",
+  "download_capital_gains_statement": "null"
+}

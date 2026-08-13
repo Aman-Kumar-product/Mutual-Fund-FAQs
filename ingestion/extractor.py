@@ -11,6 +11,7 @@ required by the Problem Statement into a clean JSON file.
 import json
 import logging
 import os
+import time
 from pathlib import Path
 from typing import Optional
 
@@ -142,6 +143,9 @@ def extract_facts_to_json():
         except Exception as e:
             logger.exception("Failed to extract %s: %s", doc_id, e)
             stats["failed"] += 1
+            
+        # Add a short delay to avoid hitting LLM rate limits (TPM)
+        time.sleep(3)
 
     logger.info("Extraction complete. ✓ Success: %d | ✗ Failed: %d | ⏭ Skipped: %d", 
                 stats["success"], stats["failed"], stats["skipped"])

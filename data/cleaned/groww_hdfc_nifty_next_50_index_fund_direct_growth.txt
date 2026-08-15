@@ -1,8 +1,8 @@
-+1012345678990123456789.0012345678990123456789%
++1012345678990123456789.4012345678980123456789%
 
 3Y annualised
 
-+0.13% 1D
+-0.29% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 12 Aug '26
+NAV: 14 Aug '26
 
-₹17.69
+₹17.63
 
 Min. for SIP
 
@@ -138,9 +138,9 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.4% | +13.5% | +19.1% | +12.7% |
+| Fund returns | +8.7% | +12.6% | +19.5% | +12.6% |
 | Category average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | -- |
-| Rank (Equity Large Cap) | -- | 15 | 13 | -- |
+| Rank (Equity Large Cap) | -- | 14 | 13 | -- |
 
 ## Understand terms
 
@@ -186,11 +186,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +10.65% | +16.04% | 1,931.40 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +6.35% | +14.78% | 2,144.56 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | +1.72% | +13.33% | 80,960.34 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | +2.59% | +13.29% | 54,224.57 |
-| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +4.89% | +12.13% | 1,443.24 |
+| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +9.20% | +15.96% | 1,931.40 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +5.37% | +14.63% | 2,144.56 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | +1.41% | +13.29% | 54,224.57 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | +0.76% | +13.15% | 80,960.34 |
+| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +3.66% | +12.12% | 1,443.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-next-50-index-fund-direct-growth) | | | | |
@@ -209,71 +209,71 @@ Prior to joining HDFC Asset Management Company Limited, he has worked with SBI F
 
 Also manages these schemes
 
-[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
-
-[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
-
-[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
-
-[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
-
-[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
-
-[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
-
-[HDFC BSE Sensex ETF](/mutual-funds/hdfc-bse-sensex-etf)
-
-[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
-
-[HDFC NIFTY 50 ETF IDCW](/mutual-funds/hdfc-nifty-etf)
-
-[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
 
 [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Nifty Auto Index Fund Direct Growth](/mutual-funds/hdfc-nifty-auto-index-fund-direct-growth)
-
-[HDFC Nifty Metal ETF FoF Direct Growth](/mutual-funds/hdfc-nifty-metal-etf-fof-direct-growth)
-
-[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
-
-[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
-
-[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
-
-[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
-
-[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
 
 [HDFC BSE Sensex Index Fund Direct Growth](/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth)
 
-[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
 
-[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
-
-[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
-
-[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
-
-[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
 [HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
 
-[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+
+[HDFC NIFTY 50 ETF IDCW](/mutual-funds/hdfc-nifty-etf)
+
+[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+
+[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+
+[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
+
+[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
+
+[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
+
+[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
+
+[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
+
+[HDFC BSE Sensex ETF](/mutual-funds/hdfc-bse-sensex-etf)
+
+[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
 
 [HDFC NIFTY Realty Index Fund Direct Growth](/mutual-funds/hdfc-nifty-realty-index-fund-direct-growth)
 
-[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
+[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
 
-[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
+[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
+
+[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
 
 [HDFC Nifty India Digital Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-digital-index-fund-direct-growth)
+
+[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
+
+[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+
+[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
+
+[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
+
+[HDFC Nifty Auto Index Fund Direct Growth](/mutual-funds/hdfc-nifty-auto-index-fund-direct-growth)
+
+[HDFC Nifty Metal ETF FoF Direct Growth](/mutual-funds/hdfc-nifty-metal-etf-fof-direct-growth)
 
 ### NM Nandita Menezes Mar 2025 - Present View details
 
@@ -287,73 +287,73 @@ Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LL
 
 Also manages these schemes
 
-[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
-
-[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
-
-[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
-
-[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
-
-[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
-
-[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
-
-[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
-
-[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
 
 [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Nifty Auto Index Fund Direct Growth](/mutual-funds/hdfc-nifty-auto-index-fund-direct-growth)
-
-[HDFC Nifty Metal ETF FoF Direct Growth](/mutual-funds/hdfc-nifty-metal-etf-fof-direct-growth)
-
-[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
-
-[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
-
-[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
-
-[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
-
-[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
 
 [HDFC BSE Sensex Index Fund Direct Growth](/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth)
 
-[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
 
-[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
-
-[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
-
-[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
-
-[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
 [HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
 
-[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+
+[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+
+[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+
+[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
+
+[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
+
+[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
+
+[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
+
+[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
+
+[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
 
 [HDFC NIFTY Realty Index Fund Direct Growth](/mutual-funds/hdfc-nifty-realty-index-fund-direct-growth)
 
-[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
+[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
 
-[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
+[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
+
+[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
 
 [HDFC Nifty India Digital Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-digital-index-fund-direct-growth)
+
+[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
+
+[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+
+[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
+
+[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
+
+[HDFC Nifty Auto Index Fund Direct Growth](/mutual-funds/hdfc-nifty-auto-index-fund-direct-growth)
+
+[HDFC Nifty Metal ETF FoF Direct Growth](/mutual-funds/hdfc-nifty-metal-etf-fof-direct-growth)
 
 ### About HDFC NIFTY Next 50 Index Fund Direct Growth
 
 HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Man
 
-HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 12 Aug 2026 is ₹17.69.
+HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 14 Aug 2026 is ₹17.63.
 The HDFC NIFTY Next 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -412,7 +412,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC NIFTY Next 50 Index Fund Direct Growth provide?
 
-The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 12.69% since its inception.
+The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 12.60% since its inception.
 
 ### How much expense ratio is charged by HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -420,13 +420,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY Next 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.36% as of 13 Aug 2026...
+The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.36% as of 15 Aug 2026...
 
 ### What is the AUM of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,659.43Cr as of 13 Aug 2026.
+of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,659.43Cr as of 15 Aug 2026.
 
 ### How to Redeem HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -443,7 +443,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
-The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.69 as of 12 Aug 2026.
+The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.63 as of 14 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC NIFTY Next 50 Index Fund Direct Growth?
 

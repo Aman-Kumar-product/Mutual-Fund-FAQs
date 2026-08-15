@@ -1,8 +1,8 @@
-+1012345678970123456789.5012345678980123456789%
++1012345678970123456789.7012345678980123456789%
 
 3Y annualised
 
-+0.38% 1D
+-0.08% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 12 Aug '26
+NAV: 14 Aug '26
 
-₹209.42
+₹209.20
 
 Min. for SIP
 
@@ -342,9 +342,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.6% | +20.3% | +22.0% | +24.1% |
+| Fund returns | +17.8% | +20.2% | +21.9% | +24.1% |
 | Category average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | -- |
-| Rank (Equity Small Cap) | 20 | 4 | 1 | -- |
+| Rank (Equity Small Cap) | 18 | 4 | 1 | -- |
 
 ## Understand terms
 
@@ -406,11 +406,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +14.44% | +27.22% | 31,103.03 |
-| | [Invesco India Smallcap Fund Direct Growth](/mutual-funds/invesco-india-smallcap-fund-direct-growth) | +18.81% | +24.89% | 14,474.79 |
-| | [Union Small Cap Fund Direct Growth](/mutual-funds/union-small-and-midcap-fund-direct-growth) | +26.92% | +19.73% | 2,401.95 |
-| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +19.43% | +19.15% | 3,922.31 |
-| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +12.86% | +17.58% | 78,956.77 |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +13.87% | +27.16% | 31,103.03 |
+| | [Invesco India Smallcap Fund Direct Growth](/mutual-funds/invesco-india-smallcap-fund-direct-growth) | +17.53% | +24.87% | 14,474.79 |
+| | [Union Small Cap Fund Direct Growth](/mutual-funds/union-small-and-midcap-fund-direct-growth) | +26.23% | +19.88% | 2,401.95 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +19.66% | +19.43% | 3,922.31 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +12.85% | +17.78% | 78,956.77 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/nippon-india-small-cap-fund-direct-growth) | | | | |
@@ -431,102 +431,6 @@ Also manages these schemes
 
 [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
 
-### KD Kinjal Desai Mar 2026 - Present View details
-
-Education
-
-Ms. Desai has done B.A (Economics), MSc. (Economics) and has cleared CFA Level 1
-
-Experience
-
-She has been working with Nippon India Mutual Fund since year, 2012
-
-Also manages these schemes
-
-[Nippon India Medium Duration Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-1-direct-growth)
-
-[Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth)
-
-[Nippon India Gilt Fund Direct Defined Maturity Date Growth](/mutual-funds/nippon-india-gilt-fund-direct-defined-maturity-date-growth)
-
-[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
-
-[Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth)
-
-[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
-
-[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
-
-[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
-
-[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
-
-[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
-
-[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
-
-[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
-
-[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
-
-[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
-
-[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
-
-[Nippon India Equity Savings Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-1-direct-growth)
-
-[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
-
-[Nippon India Medium Duration Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-2-direct-growth)
-
-[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
-
-[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
-
-[Nippon India Quarterly Interval Fund Series II Retail Plan Direct Growth](/mutual-funds/nippon-india-quarterly-interval-fund-series-ii-retail-plan-direct-growth)
-
-[Nippon India Focused Fund Direct Growth](/mutual-funds/nippon-india-focused-fund-direct-growth)
-
-[Nippon India Medium to Long Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-to-long-duration-fund-direct-growth)
-
-[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
-
-[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
-
-[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
-
-[Nippon India Liquid Fund Direct Growth](/mutual-funds/nippon-india-liquid-fund-direct-growth)
-
-[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
-
-[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
-
-[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
-
-[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
-
-[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
-
-[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
-
-[Nippon India Japan Equity Fund Direct Growth](/mutual-funds/nippon-india-japan-equity-fund-direct-growth)
-
-[Nippon India Equity Savings Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-2-direct-growth)
-
-[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
-
-[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
-
-[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
-
-[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
-
-[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
-
-[Nippon India Innovation Fund Direct Growth](/mutual-funds/nippon-india-innovation-fund-direct-growth)
-
-[Nippon India Money Market Fund Direct Growth](/mutual-funds/nippon-india-money-market-fund-direct-growth)
-
 ### AS Amber Singhania Mar 2026 - Present View details
 
 Education
@@ -539,99 +443,203 @@ Prior to joining the Nippon India AMC, he was associated with Asian Markets Secu
 
 Also manages these schemes
 
+[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
+
+[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
+
+[Nippon India Aggressive Hybrid Fund Direct Growth](/mutual-funds/nippon-india-aggressive-hybrid-fund-direct-growth)
+
+[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
+
+[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
+
+[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
+
 [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth)
 
 [Nippon India Gilt Fund Direct Defined Maturity Date Growth](/mutual-funds/nippon-india-gilt-fund-direct-defined-maturity-date-growth)
 
-[Nippon India Aggressive Hybrid Fund Direct Growth](/mutual-funds/nippon-india-aggressive-hybrid-fund-direct-growth)
-
-[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
-
 [Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth)
-
-[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
-
-[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
-
-[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
-
-[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
-
-[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
-
-[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
-
-[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
-
-[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
-
-[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
-
-[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
-
-[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
-
-[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
-
-[Nippon India Arbitrage Fund Direct Growth](/mutual-funds/nippon-india-arbitrage-fund-direct-growth)
-
-[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
 
 [Nippon India Quarterly Interval Fund Series II Retail Plan Direct Growth](/mutual-funds/nippon-india-quarterly-interval-fund-series-ii-retail-plan-direct-growth)
 
 [Nippon India Focused Fund Direct Growth](/mutual-funds/nippon-india-focused-fund-direct-growth)
 
+[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
+
+[Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth)
+
+[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
+
+[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
+
+[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
+
+[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
+
+[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
+
+[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
+
+[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
+
+[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
+
+[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
+
 [Nippon India Medium to Long Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-to-long-duration-fund-direct-growth)
 
-[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
+[Nippon India Arbitrage Fund Direct Growth](/mutual-funds/nippon-india-arbitrage-fund-direct-growth)
 
-[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
+[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
 
-[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
+[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
 
 [Nippon India Liquid Fund Direct Growth](/mutual-funds/nippon-india-liquid-fund-direct-growth)
 
-[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
+[Nippon India Money Market Fund Direct Growth](/mutual-funds/nippon-india-money-market-fund-direct-growth)
 
-[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
+[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
 
-[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
+[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
 
 [Nippon India Retirement Fund Wealth Creation Scheme Direct Growth](/mutual-funds/nippon-india-retirement-fund-wealth-creation-scheme-direct-growth)
 
 [Nippon IndiaRetirement Fund Income Generation Scheme Direct Growth](/mutual-funds/nippon-indiaretirement-fund-i-come-generation-scheme-direct-growth)
 
-[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
-
-[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
-
-[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
+[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
 
 [Nippon India Japan Equity Fund Direct Growth](/mutual-funds/nippon-india-japan-equity-fund-direct-growth)
 
-[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
+[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
 
-[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
-
-[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
-
-[Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth)
-
-[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
-
-[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
+[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
 
 [Nippon India Multi Asset Allocation Fund Direct Growth](/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth)
 
+[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
+
+[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
+
+[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
+
 [Nippon India Innovation Fund Direct Growth](/mutual-funds/nippon-india-innovation-fund-direct-growth)
 
+[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
+
+[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
+
+### KD Kinjal Desai Mar 2026 - Present View details
+
+Education
+
+Ms. Desai has done B.A (Economics), MSc. (Economics) and has cleared CFA Level 1
+
+Experience
+
+She has been working with Nippon India Mutual Fund since year, 2012
+
+Also manages these schemes
+
+[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
+
+[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
+
+[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
+
+[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
+
+[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
+
+[Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Defined Maturity Date Growth](/mutual-funds/nippon-india-gilt-fund-direct-defined-maturity-date-growth)
+
+[Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth)
+
+[Nippon India Quarterly Interval Fund Series II Retail Plan Direct Growth](/mutual-funds/nippon-india-quarterly-interval-fund-series-ii-retail-plan-direct-growth)
+
+[Nippon India Focused Fund Direct Growth](/mutual-funds/nippon-india-focused-fund-direct-growth)
+
+[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
+
+[Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth)
+
+[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
+
+[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
+
+[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
+
+[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
+
+[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
+
+[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
+
+[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
+
+[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
+
+[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
+
+[Nippon India Medium to Long Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-to-long-duration-fund-direct-growth)
+
+[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
+
+[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
+
+[Nippon India Liquid Fund Direct Growth](/mutual-funds/nippon-india-liquid-fund-direct-growth)
+
 [Nippon India Money Market Fund Direct Growth](/mutual-funds/nippon-india-money-market-fund-direct-growth)
+
+[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
+
+[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
+
+[Nippon India Retirement Fund Wealth Creation Scheme Direct Growth](/mutual-funds/nippon-india-retirement-fund-wealth-creation-scheme-direct-growth)
+
+[Nippon IndiaRetirement Fund Income Generation Scheme Direct Growth](/mutual-funds/nippon-indiaretirement-fund-i-come-generation-scheme-direct-growth)
+
+[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
+
+[Nippon India Japan Equity Fund Direct Growth](/mutual-funds/nippon-india-japan-equity-fund-direct-growth)
+
+[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
+
+[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
+
+[Nippon India Medium Duration Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-2-direct-growth)
+
+[Nippon India Equity Savings Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-1-direct-growth)
+
+[Nippon India Medium Duration Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-1-direct-growth)
+
+[Nippon India Equity Savings Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-2-direct-growth)
+
+[Nippon India Multi Asset Allocation Fund Direct Growth](/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth)
+
+[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
+
+[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
+
+[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
+
+[Nippon India Innovation Fund Direct Growth](/mutual-funds/nippon-india-innovation-fund-direct-growth)
+
+[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
+
+[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
 
 ### About Nippon India Small Cap Fund Direct Growth
 
 Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under
 
-Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,78,923 Cr and the Latest NAV as of 12 Aug 2026 is ₹209.42.
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,78,923 Cr and the Latest NAV as of 14 Aug 2026 is ₹209.20.
 The Nippon India Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1% if redeemed within 1 year.
 
 ...Read more
@@ -696,7 +704,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Nippon India Small Cap Fund Direct Growth provide?
 
-The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 24.15% since its inception.
+The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 24.13% since its inception.
 
 ### How much expense ratio is charged by Nippon India Small Cap Fund Direct Growth?
 
@@ -704,13 +712,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.70% as of 13 Aug 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.70% as of 15 Aug 2026...
 
 ### What is the AUM of Nippon India Small Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Nippon India Small Cap Fund Direct Growth is ₹78,956.77Cr as of 13 Aug 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹78,956.77Cr as of 15 Aug 2026.
 
 ### How to Redeem Nippon India Small Cap Fund Direct Growth?
 
@@ -727,7 +735,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Nippon India Small Cap Fund Direct Growth?
 
-The NAV of Nippon India Small Cap Fund Direct Growth is ₹209.42 as of 12 Aug 2026.
+The NAV of Nippon India Small Cap Fund Direct Growth is ₹209.20 as of 14 Aug 2026.
 
 ### What is the PE and PB ratio of Nippon India Small Cap Fund Direct Growth?
 

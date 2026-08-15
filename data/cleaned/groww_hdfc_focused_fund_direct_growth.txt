@@ -2,7 +2,7 @@
 
 3Y annualised
 
-+0.12% 1D
+-0.07% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 12 Aug '26
+NAV: 14 Aug '26
 
-₹270.90
+₹270.41
 
 Min. for SIP
 
@@ -30,7 +30,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.76%
+0.79%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,233 | | +2.75% |
-| 3 years | ₹3,600 | ₹4,182 | | +16.17% |
-| 5 years | ₹6,000 | ₹8,977 | | +49.62% |
-| 10 years | ₹12,000 | ₹29,648 | | +147.07% |
+| 1 year | ₹1,200 | ₹1,231 | | +2.58% |
+| 3 years | ₹3,600 | ₹4,173 | | +15.92% |
+| 5 years | ₹6,000 | ₹8,954 | | +49.23% |
+| 10 years | ₹12,000 | ₹29,569 | | +146.41% |
 
 ## Holdings (33)
 
@@ -121,7 +121,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.5% | +19.8% | +15.4% | +15.0% |
+| Fund returns | +17.5% | +19.6% | +15.4% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
 | Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
 
@@ -181,32 +181,16 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +17.87% | +22.14% | 2,786.40 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +17.95% | +20.44% | 1,467.30 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +7.24% | +17.75% | 1,10,736.41 |
-| | [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | +0.02% | +14.66% | 1,48,429.00 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | +2.47% | +13.76% | 19,509.44 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +17.21% | +22.19% | 2,786.40 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +16.08% | +20.33% | 1,467.30 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +6.29% | +17.73% | 1,10,736.41 |
+| | [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.24% | +14.66% | 1,48,429.00 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | +1.47% | +13.72% | 19,509.44 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 
 ### Fund management
-
-### AG Amit Ganatra Jan 2026 - Present View details
-
-Education
-
-Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
-
-Experience
-
-Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
-
-Also manages these schemes
-
-[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
-
-[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
 
 ### DM Dhruv Muchhal Jun 2023 - Present View details
 
@@ -220,103 +204,119 @@ Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd
 
 Also manages these schemes
 
-[HDFC Consumption Fund Direct Growth](/mutual-funds/hdfc-consumption-fund-direct-growth)
-
-[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
-
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
-
-[HDFC Ultra Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-term-fund-direct-growth)
-
-[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
-
-[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
-
-[HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
-
-[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
-
-[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
-
-[HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
-
-[HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
-
-[HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
-
-[HDFC Transportation and Logistics Fund Direct Growth](/mutual-funds/hdfc-transportation-and-logistics-fund-direct-growth)
-
-[HDFC Liquid Direct Plan Growth](/mutual-funds/hdfc-liquid-fund-direct-growth)
-
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
-
-[HDFC Banking & Financial Services Fund Direct Growth](/mutual-funds/hdfc-banking-financial-services-fund-direct-growth)
-
-[HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
-
-[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
-
-[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
-
-[HDFC Technology Fund Direct Growth](/mutual-funds/hdfc-technology-fund-direct-growth)
-
-[HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
+[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
 
 [HDFC Value Fund Direct Plan Growth](/mutual-funds/hdfc-value-fund-direct-plan-growth)
 
 [HDFC Low Duration Fund Direct Growth](/mutual-funds/hdfc-low-duration-fund-direct-growth)
 
-[HDFC Hybrid Debt Fund Direct Growth](/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth)
-
-[HDFC Overnight Fund Direct Growth](/mutual-funds/hdfc-overnight-fund-direct-growth)
-
-[HDFC Pharma And Healthcare Fund Direct Growth](/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth)
-
-[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
-
-[HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
-
-[HDFC Multi Cap Fund Direct Growth](/mutual-funds/hdfc-multi-cap-fund-direct-growth)
-
-[HDFC Long Duration Debt Fund Direct Growth](/mutual-funds/hdfc-long-duration-debt-fund-direct-growth)
-
-[HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
-
-[HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
-
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
-
-[HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
-
-[HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
-
-[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
-
-[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
-
-[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
-
-[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
-
-[HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
+[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
 
 [HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
 
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Manufacturing Fund Direct Growth](/mutual-funds/hdfc-manufacturing-fund-direct-growth)
+[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
 
-[HDFC Defence Fund Direct Growth](/mutual-funds/hdfc-defence-fund-direct-growth)
+[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
+
+[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
+
+[HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
+
+[HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
+
+[HDFC Hybrid Debt Fund Direct Growth](/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth)
+
+[HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
+
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
 
 [HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
+[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
+
+[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+
+[HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
+
+[HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
+
+[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
+
+[HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
+
+[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+
+[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
+
+[HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
+
+[HDFC Ultra Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-term-fund-direct-growth)
+
+[HDFC Liquid Direct Plan Growth](/mutual-funds/hdfc-liquid-fund-direct-growth)
+
+[HDFC Overnight Fund Direct Growth](/mutual-funds/hdfc-overnight-fund-direct-growth)
+
+[HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
+
+[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+
+[HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
+
+[HDFC Banking & Financial Services Fund Direct Growth](/mutual-funds/hdfc-banking-financial-services-fund-direct-growth)
+
+[HDFC Multi Cap Fund Direct Growth](/mutual-funds/hdfc-multi-cap-fund-direct-growth)
+
+[HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
+
+[HDFC Long Duration Debt Fund Direct Growth](/mutual-funds/hdfc-long-duration-debt-fund-direct-growth)
+
+[HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
+
+[HDFC Defence Fund Direct Growth](/mutual-funds/hdfc-defence-fund-direct-growth)
+
+[HDFC Consumption Fund Direct Growth](/mutual-funds/hdfc-consumption-fund-direct-growth)
+
+[HDFC Transportation and Logistics Fund Direct Growth](/mutual-funds/hdfc-transportation-and-logistics-fund-direct-growth)
+
+[HDFC Technology Fund Direct Growth](/mutual-funds/hdfc-technology-fund-direct-growth)
+
+[HDFC Pharma And Healthcare Fund Direct Growth](/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth)
+
+[HDFC Manufacturing Fund Direct Growth](/mutual-funds/hdfc-manufacturing-fund-direct-growth)
+
+[HDFC Children's Fund Direct Plan](/mutual-funds/hdfc-children's-fund-direct-plan)
+
+[HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
+
+[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
+
+### AG Amit Ganatra Jan 2026 - Present View details
+
+Education
+
+Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
+
+Experience
+
+Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
+
+Also manages these schemes
+
+[HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth)
+
+[HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
+
 ### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amit Ganatra is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,91
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,9
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amit Ganatra is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 12 Aug 2026 is ₹270.90.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 14 Aug 2026 is ₹270.41.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -381,7 +381,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Focused Fund Direct Growth provide?
 
-The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.02% since its inception.
+The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.99% since its inception.
 
 ### How much expense ratio is charged by HDFC Focused Fund Direct Growth?
 
@@ -389,13 +389,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Focused Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Focused Fund Direct Growth is 0.76% as of 13 Aug 2026...
+The Expense Ratio of HDFC Focused Fund Direct Growth is 0.79% as of 15 Aug 2026...
 
 ### What is the AUM of HDFC Focused Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Focused Fund Direct Growth is ₹27,924.78Cr as of 13 Aug 2026.
+of HDFC Focused Fund Direct Growth is ₹27,924.78Cr as of 15 Aug 2026.
 
 ### How to Redeem HDFC Focused Fund Direct Growth?
 
@@ -412,7 +412,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Focused Fund Direct Growth?
 
-The NAV of HDFC Focused Fund Direct Growth is ₹270.90 as of 12 Aug 2026.
+The NAV of HDFC Focused Fund Direct Growth is ₹270.41 as of 14 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Focused Fund Direct Growth?
 

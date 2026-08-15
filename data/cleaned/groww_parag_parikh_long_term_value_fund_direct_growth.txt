@@ -2,7 +2,7 @@
 
 3Y annualised
 
--0.44% 1D
++0.06% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 12 Aug '26
+NAV: 14 Aug '26
 
-₹91.75
+₹91.68
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹12,000 | ₹12,026 | | +0.22% |
-| 3 years | ₹36,000 | ₹39,936 | | +10.93% |
-| 5 years | ₹60,000 | ₹81,778 | | +36.30% |
-| 10 years | ₹1,20,000 | ₹2,98,135 | | +148.45% |
+| 1 year | ₹12,000 | ₹11,982 | | -0.15% |
+| 3 years | ₹36,000 | ₹39,770 | | +10.47% |
+| 5 years | ₹60,000 | ₹81,413 | | +35.69% |
+| 10 years | ₹1,20,000 | ₹2,96,727 | | +147.27% |
 
 ## Holdings (146)
 
@@ -234,7 +234,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.7% | +13.6% | +17.4% | +18.2% |
+| Fund returns | +14.7% | +13.5% | +17.4% | +18.2% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 22 | 14 | 1 | -- |
 
@@ -290,138 +290,16 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +17.87% | +22.14% | 2,786.40 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +17.95% | +20.44% | 1,467.30 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +7.24% | +17.75% | 1,10,736.41 |
-| | [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | +0.02% | +14.66% | 1,48,429.00 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | +2.47% | +13.76% | 19,509.44 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +17.21% | +22.19% | 2,786.40 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +16.08% | +20.33% | 1,467.30 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +6.29% | +17.73% | 1,10,736.41 |
+| | [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.24% | +14.66% | 1,48,429.00 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | +1.47% | +13.72% | 19,509.44 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/parag-parikh-long-term-value-fund-direct-growth) | | | | |
 
 ### Fund management
-
-### RT Rajeev Thakkar May 2013 - Present View details
-
-Education
-
-Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.
-
-Experience
-
-He has been associated with PPFAS AMC since 2013.
-
-Also manages these schemes
-
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
-
-[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
-
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
-
-[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
-
-[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
-
-[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
-
-### RO Raunak Onkar May 2013 - Present View details
-
-Education
-
-Mr.Onkar is an MMS (Finance) from the University of Mumbai.
-
-Experience
-
-He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager.
-
-Also manages these schemes
-
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
-
-[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
-
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
-
-[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
-
-[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
-
-[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
-
-### RM Raj Mehta Jan 2016 - Present View details
-
-Education
-
-Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.
-
-Experience
-
-Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team.
-
-Also manages these schemes
-
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
-
-[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
-
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
-
-[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
-
-[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
-
-[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
-
-### RT Rukun Tarachandani May 2022 - Present View details
-
-Education
-
-Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.
-
-Experience
-
-Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group.
-
-Also manages these schemes
-
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
-
-[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
-
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
-
-[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
-
-[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
-
-[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
-
-### TS Tejas Soman Aug 2025 - Present View details
-
-Education
-
-Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’
-
-Experience
-
-Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers
-
-Also manages these schemes
-
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
-
-[Parag Parikh Liquid Fund Direct Growth](/mutual-funds/parag-parikh-liquid-fund-direct-growth)
-
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
-
-[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
-
-[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
-
-[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
-
-[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
 
 ### MK Mansi Kariya Dec 2023 - Present View details
 
@@ -435,13 +313,63 @@ Prior to joining PPFAS AMC, she has worked with Insync and Zacks Investment Rese
 
 Also manages these schemes
 
-[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
 
 [Parag Parikh Liquid Fund Direct Growth](/mutual-funds/parag-parikh-liquid-fund-direct-growth)
 
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
 [Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
 
+### RO Raunak Onkar May 2013 - Present View details
+
+Education
+
+Mr.Onkar is an MMS (Finance) from the University of Mumbai.
+
+Experience
+
+He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager.
+
+Also manages these schemes
+
 [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
+
+[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
+
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
+[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
+
+[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
+
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+
+### TS Tejas Soman Aug 2025 - Present View details
+
+Education
+
+Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’
+
+Experience
+
+Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers
+
+Also manages these schemes
+
+[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
+
+[Parag Parikh Liquid Fund Direct Growth](/mutual-funds/parag-parikh-liquid-fund-direct-growth)
+
+[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
+
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
+[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
+
+[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
+
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
 
 ### AD Aishwarya Dhar Aug 2025 - Present View details
 
@@ -455,21 +383,93 @@ Prior to joining the PPFAS MF, she was associated with TATA AIA Life Insurance C
 
 Also manages these schemes
 
-[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
+
+[Parag Parikh Liquid Fund Direct Growth](/mutual-funds/parag-parikh-liquid-fund-direct-growth)
 
 [Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
 
 [Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
 
-[Parag Parikh Liquid Fund Direct Growth](/mutual-funds/parag-parikh-liquid-fund-direct-growth)
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+
+### RM Raj Mehta Jan 2016 - Present View details
+
+Education
+
+Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.
+
+Experience
+
+Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team.
+
+Also manages these schemes
 
 [Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
 
+[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
+
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
+[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
+
+[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
+
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+
+### RT Rukun Tarachandani May 2022 - Present View details
+
+Education
+
+Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.
+
+Experience
+
+Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group.
+
+Also manages these schemes
+
+[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
+
+[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
+
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
+[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
+
+[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
+
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+
+### RT Rajeev Thakkar May 2013 - Present View details
+
+Education
+
+Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.
+
+Experience
+
+He has been associated with PPFAS AMC since 2013.
+
+Also manages these schemes
+
+[Parag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)
+
+[Parag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth)
+
+[Parag Parikh Conservative Hybrid Fund Direct Growth](/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth)
+
+[Parag Parikh Arbitrage Fund Direct Growth](/mutual-funds/parag-parikh-arbitrage-fund-direct-growth)
+
+[Parag Parikh Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth)
+
+[Parag Parikh Large Cap Fund Direct Growth](/mutual-funds/parag-parikh-large-cap-fund-direct-growth)
+
 ### About Parag Parikh Flexi Cap Fund Direct Growth
 
-Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Rajeev Thakkar is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Mana
+Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Manage
 
-Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Rajeev Thakkar is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,70,790 Cr and the Latest NAV as of 12 Aug 2026 is ₹91.75.
+Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,70,790 Cr and the Latest NAV as of 14 Aug 2026 is ₹91.68.
 The Parag Parikh Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹1,000. For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% if redeemed after 365 days but on or before 730 days.
 
 ...Read more
@@ -542,13 +542,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Parag Parikh Flexi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.68% as of 13 Aug 2026...
+The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.68% as of 15 Aug 2026...
 
 ### What is the AUM of Parag Parikh Flexi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,48,429.00Cr as of 13 Aug 2026.
+of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,48,429.00Cr as of 15 Aug 2026.
 
 ### How to Redeem Parag Parikh Flexi Cap Fund Direct Growth?
 
@@ -565,7 +565,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Parag Parikh Flexi Cap Fund Direct Growth?
 
-The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹91.75 as of 12 Aug 2026.
+The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹91.68 as of 14 Aug 2026.
 
 ### What is the PE and PB ratio of Parag Parikh Flexi Cap Fund Direct Growth?
 

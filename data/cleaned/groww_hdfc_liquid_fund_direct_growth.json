@@ -1,0 +1,21 @@
+{
+  "expense_ratio": "0.20%",
+  "minimum_sip": "\u20b9100",
+  "minimum_investment": "\u20b9100",
+  "exit_load": "0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days",
+  "riskometer_rating": "Low to Moderate risk",
+  "fund_manager": "Dhruv Muchhal, Swapnil Jangam, Rohan Pillai",
+  "benchmark": "CRISIL Liquid Debt A-I Index",
+  "category": "Debt Liquid",
+  "investment_objective": "The scheme seeks to generate income through a portfolio comprising money market and debt instruments.",
+  "plan_option": "Direct Growth",
+  "asset_allocation": "Government of India 37370 091 DAYS TBILL 16JL26 FV RS 100: 5.68%, Government of India 37477 091 DAYS TBILL 03SP26 FV RS 100: 5.42%, GOI Sec 6.97 06/09/2026: 5.40%, RELIANCE RETAIL VENTURES LIMITED 91D CP 21SEP26: 2.99%, BANK OF BARODA CD 11SEP26: 2.70%",
+  "portfolio_characteristics": "null",
+  "inception_date": "09 Dec 1999",
+  "nav_and_date": "\u20b95,550.87 as of 14 Aug 2026",
+  "additional_investment_minimum": "\u20b9100",
+  "purchase_redemption_info": "null",
+  "cut_off_info": "null",
+  "elss_lock_in_period": "null",
+  "download_capital_gains_statement": "null"
+}

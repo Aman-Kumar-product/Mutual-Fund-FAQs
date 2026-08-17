@@ -212,7 +212,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +2.3% | +3.9% | +14.4% | +16.1% |
 | Category average (Equity Multi Cap) | -0.8% | +0.9% | +18.5% | -- |
-| Rank (Equity Multi Cap) | -- | 33 | 18 | -- |
+| Rank (Equity Multi Cap) | -- | 34 | 18 | -- |
 
 ## Understand terms
 
@@ -466,13 +466,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Multi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.93% as of 15 Aug 2026...
+The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.93% as of 17 Aug 2026...
 
 ### What is the AUM of HDFC Multi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Multi Cap Fund Direct Growth is ₹20,582.74Cr as of 15 Aug 2026.
+of HDFC Multi Cap Fund Direct Growth is ₹20,582.74Cr as of 17 Aug 2026.
 
 ### How to Redeem HDFC Multi Cap Fund Direct Growth?
 

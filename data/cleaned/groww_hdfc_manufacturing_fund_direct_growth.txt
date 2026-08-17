@@ -170,7 +170,7 @@ Absolute returns
 
 | Name | 3M | 6M | 1Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +5.0% | +10.5% | +15.3% | +23.8% |
+| Fund returns | +7.8% | +9.5% | +14.6% | +23.5% |
 | Category average (Equity Thematic) | -- | -- | +3.0% | -- |
 | Rank (Equity Thematic) | 6 | 11 | 15 | -- |
 
@@ -411,13 +411,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Manufacturing Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.93% as of 15 Aug 2026...
+The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.93% as of 17 Aug 2026...
 
 ### What is the AUM of HDFC Manufacturing Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Manufacturing Fund Direct Growth is ₹10,590.14Cr as of 15 Aug 2026.
+of HDFC Manufacturing Fund Direct Growth is ₹10,590.14Cr as of 17 Aug 2026.
 
 ### How to Redeem HDFC Manufacturing Fund Direct Growth?
 

@@ -142,7 +142,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +8.8% | +9.1% | +11.9% | +11.9% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 69 | 48 | 25 | -- |
+| Rank (Equity Large Cap) | 70 | 48 | 25 | -- |
 
 ## Understand terms
 
@@ -430,13 +430,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY 50 Index Fund Direct Growth is 0.29% as of 15 Aug 2026...
+The Expense Ratio of HDFC NIFTY 50 Index Fund Direct Growth is 0.29% as of 17 Aug 2026...
 
 ### What is the AUM of HDFC NIFTY 50 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY 50 Index Fund Direct Growth is ₹24,189.60Cr as of 15 Aug 2026.
+of HDFC NIFTY 50 Index Fund Direct Growth is ₹24,189.60Cr as of 17 Aug 2026.
 
 ### How to Redeem HDFC NIFTY 50 Index Fund Direct Growth?
 

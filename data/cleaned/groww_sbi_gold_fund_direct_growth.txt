@@ -91,7 +91,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +35.7% | +25.4% | +16.1% | +11.3% |
 | Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 6 | 3 | 2 | -- |
+| Rank (Commodities Gold) | 5 | 2 | 2 | -- |
 
 ## Understand terms
 
@@ -360,13 +360,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for SBI Gold Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of SBI Gold Direct Plan Growth is 0.24% as of 15 Aug 2026...
+The Expense Ratio of SBI Gold Direct Plan Growth is 0.24% as of 17 Aug 2026...
 
 ### What is the AUM of SBI Gold Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of SBI Gold Direct Plan Growth is ₹15,811.87Cr as of 15 Aug 2026.
+of SBI Gold Direct Plan Growth is ₹15,811.87Cr as of 17 Aug 2026.
 
 ### How to Redeem SBI Gold Direct Plan Growth?
 

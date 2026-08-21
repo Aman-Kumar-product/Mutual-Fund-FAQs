@@ -1,15 +1,746 @@
-Simple, Free
++1012345678970123456789.9012345678970123456789%
 
-Investing.
+3Y annualised
 
-# Welcome to Groww
++0.62% 1D
 
-Continue with Google
+1M
 
-Or
+6M
 
-Your Email Address
+1Y
 
-By proceeding, I agree to[T&C](https://groww.in/terms-and-conditions/),[Privacy Policy](https://groww.in/privacy-policy/)&[Tariff Rates](https://groww.in/pricing/)
+3Y
 
-Log in to your account
+5Y
+
+All
+
+NAV: 20 Aug '26
+
+₹210.37
+
+Min. for SIP
+
+₹100
+
+Fund size (AUM)
+
+₹78,956.77 Cr
+
+Expense ratio
+
+0.69%
+
+Rating
+
+4
+
+### Return calculator
+
+Monthly investment
+
+₹100
+
+| Over the past | Total investment | Would've become | Historic returns | Returns |
+| --- | --- | --- | --- | --- |
+| 1 year | ₹1,200 | ₹1,311 | | +9.25% |
+| 3 years | ₹3,600 | ₹4,220 | | +17.22% |
+| 5 years | ₹6,000 | ₹9,298 | | +54.97% |
+| 10 years | ₹12,000 | ₹38,688 | | +222.40% |
+
+## Holdings (254)
+
+| Name | Sector | Instruments | Assets |
+| --- | --- | --- | --- |
+| Repo | Unspecified | Repo | 3.10% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 2.03% |
+| [Bharat Heavy Electricals Ltd](/stocks/bharat-heavy-electricals-ltd) | Industrials | Equity | 1.82% |
+| [Apar Industries Ltd](/stocks/apar-industries-ltd) | Diversified | Equity | 1.71% |
+| [TD Power Systems Ltd](/stocks/td-power-systems-ltd) | Industrials | Equity | 1.53% |
+| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 1.31% |
+| [Zydus Wellness Ltd](/stocks/zydus-wellness-ltd) | Consumer Staples | Equity | 1.27% |
+| [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 1.20% |
+| [Kirloskar Brothers Ltd](/stocks/kirloskar-brothers-ltd) | Industrials | Equity | 1.19% |
+| [ACME Solar Holdings Ltd.](/stocks/acme-solar-holdings-ltd) | Energy & Utilities | Equity | 1.19% |
+| [NLC India Ltd](/stocks/nlc-india-ltd) | Energy & Utilities | Equity | 1.11% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 1.03% |
+| [Kirloskar Oil Engines Ltd](/stocks/kirloskar-oil-engines-ltd) | Industrials | Equity | 1.03% |
+| [Sai Life Sciences Ltd.](/stocks/sai-life-sciences-ltd) | Healthcare | Equity | 1.03% |
+| [Kirloskar Pneumatic Company Ltd](/stocks/kirloskar-pneumatic-company-ltd) | Industrials | Equity | 1.02% |
+| [Multi Commodity Exchange Of India Ltd](/stocks/multi-commodity-exchange-of-india-ltd) | Financial | Equity | 1.01% |
+| [Sundram Fasteners Ltd](/stocks/sundram-fasteners-ltd) | Industrials | Equity | 0.98% |
+| [Tube Investments Of India Ltd](/stocks/tube-investments-of-india-ltd) | Consumer Discretionary | Equity | 0.97% |
+| [Elantas Beck India Ltd](/stocks/elantas-beck-india-ltd) | Materials | Equity | 0.91% |
+| [MTAR Technologies Ltd](/stocks/mtar-technologies-ltd) | Industrials | Equity | 0.90% |
+| [Avalon Technologies Ltd.](/stocks/avalon-technologies-ltd) | Industrials | Equity | 0.89% |
+| [Aster DM Healthcare Ltd](/stocks/aster-dm-healthcare-ltd) | Healthcare | Equity | 0.88% |
+| [Emami Ltd](/stocks/emami-ltd) | Consumer Staples | Equity | 0.87% |
+| [Radico Khaitan Ltd](/stocks/radico-khaitan-ltd) | Consumer Staples | Equity | 0.86% |
+| [Voltamp Transformers Ltd](/stocks/voltamp-transformers-ltd) | Industrials | Equity | 0.85% |
+| [Whirlpool Of India Ltd](/stocks/whirlpool-of-india-ltd) | Consumer Discretionary | Equity | 0.83% |
+| [Central Mine Planning & Design Institute Ltd.](/stocks/central-mine-planning-design-institute-ltd) | Materials | Equity | 0.80% |
+| [Balrampur Chini Mills Ltd](/stocks/balrampur-chini-mills-ltd) | Consumer Staples | Equity | 0.79% |
+| [Craftsman Automation Ltd](/stocks/craftsman-automation-ltd) | Consumer Discretionary | Equity | 0.75% |
+| [Ajanta Pharma Ltd](/stocks/ajanta-pharma-ltd) | Healthcare | Equity | 0.73% |
+| [Syngene International Ltd](/stocks/syngene-international-ltd) | Healthcare | Equity | 0.70% |
+| [Astrazeneca Pharma India Ltd](/stocks/astrazeneca-pharma-india-ltd) | Healthcare | Equity | 0.69% |
+| [Vardhman Textiles Ltd](/stocks/vardhman-textiles-ltd) | Consumer Discretionary | Equity | 0.69% |
+| [Pfizer Ltd](/stocks/pfizer-ltd) | Healthcare | Equity | 0.68% |
+| [Paradeep Phosphates Ltd](/stocks/paradeep-phosphates-ltd) | Materials | Equity | 0.68% |
+| [Krishna Institute Of Medical Sciences Ltd](/stocks/krishna-institute-of-medical-sciences-ltd) | Healthcare | Equity | 0.64% |
+| [Kalpataru Power Transmission Ltd](/stocks/kalpataru-power-transmission-ltd) | Industrials | Equity | 0.63% |
+| [HDFC Life Insurance Co Ltd](/stocks/hdfc-standard-life-insurance-co-ltd) | Financial | Equity | 0.63% |
+| [Delhivery Ltd](/stocks/delhivery-ltd) | Industrials | Equity | 0.63% |
+| [Orkla India Ltd.](/stocks/orkla-india-ltd) | Consumer Staples | Equity | 0.63% |
+| [Esab India Ltd](/stocks/esab-india-ltd) | Industrials | Equity | 0.62% |
+| [PNB Housing Finance Ltd](/stocks/pnb-housing-finance-ltd) | Financial | Equity | 0.62% |
+| [TBO Tek Ltd.](/stocks/tbo-tek-ltd) | Consumer Discretionary | Equity | 0.62% |
+| [Carborundum Universal Ltd](/stocks/carborundum-universal-ltd) | Materials | Equity | 0.61% |
+| [Timken India Ltd](/stocks/timken-india-ltd) | Industrials | Equity | 0.61% |
+| [RateGain Travel Technologies Ltd](/stocks/rategain-travel-technologies-ltd) | Technology | Equity | 0.61% |
+| [Gokaldas Exports Ltd](/stocks/gokaldas-exports-ltd) | Consumer Discretionary | Equity | 0.60% |
+| [The Ramco Cements Ltd](/stocks/the-ramco-cements-ltd) | Materials | Equity | 0.60% |
+| [Aditya Birla Sun Life AMC Ltd](/stocks/aditya-birla-sun-life-amc-ltd) | Financial | Equity | 0.60% |
+| [Mas Financial Services Ltd](/stocks/mas-financial-services-ltd) | Financial | Equity | 0.59% |
+| [Omnitech Engineering Ltd.](/stocks/omnitech-engineering-ltd) | Industrials | Equity | 0.59% |
+| [eClerx Services Ltd](/stocks/eclerx-services-ltd) | Technology | Equity | 0.58% |
+| [Gland Pharma Ltd](/stocks/gland-pharma-ltd) | Healthcare | Equity | 0.58% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 0.57% |
+| [Procter & Gamble Health Ltd](/stocks/merck-ltd) | Healthcare | Equity | 0.56% |
+| [Navin Fluorine International Ltd](/stocks/navin-fluorine-international-ltd) | Materials | Equity | 0.56% |
+| [Bajaj Consumer Care Ltd](/stocks/bajaj-corp-ltd) | Consumer Staples | Equity | 0.56% |
+| [Dixon Technologies (India) Ltd](/stocks/dixon-technologies-india-ltd) | Consumer Discretionary | Equity | 0.56% |
+| [Physicswallah Ltd.](/stocks/physicswallah-ltd) | Consumer Staples | Equity | 0.56% |
+| [Asahi India Glass Ltd](/stocks/asahi-india-glass-ltd) | Consumer Discretionary | Equity | 0.55% |
+| [ICRA Ltd](/stocks/icra-ltd) | Industrials | Equity | 0.54% |
+| [Crompton Greaves Consumer Electricals Ltd](/stocks/crompton-greaves-consumer-electricals-ltd) | Consumer Discretionary | Equity | 0.54% |
+| [REC Ltd](/stocks/rec-ltd) | Financial | Equity | 0.53% |
+| [ISGEC Heavy Engineering Ltd](/stocks/isgec-heavy-engineering-ltd) | Industrials | Equity | 0.53% |
+| [Fine Organic Industries Ltd](/stocks/fine-organic-industries-ltd) | Materials | Equity | 0.53% |
+| [Adani Wilmar Ltd](/stocks/adani-wilmar-ltd) | Consumer Staples | Equity | 0.53% |
+| [KPR Mills Ltd](/stocks/kpr-mill-ltd) | Consumer Discretionary | Equity | 0.52% |
+| [Grindwell Norton Ltd](/stocks/grindwell-norton-ltd) | Materials | Equity | 0.50% |
+| [Tata Consumer Products Ltd](/stocks/tata-global-beverages-ltd) | Consumer Staples | Equity | 0.50% |
+| [Astra Microwave Products Ltd](/stocks/astra-microwave-products-ltd) | Technology | Equity | 0.49% |
+| [Lumax Auto Technologies Ltd](/stocks/lumax-auto-technologies-ltd) | Consumer Discretionary | Equity | 0.49% |
+| [Century Plyboards (India) Ltd](/stocks/century-plyboards-india-ltd) | Materials | Equity | 0.48% |
+| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 0.48% |
+| [Affle (India) Ltd](/stocks/affle-india-ltd) | Industrials | Equity | 0.47% |
+| [Asian Paints Ltd](/stocks/asian-paints-ltd) | Materials | Equity | 0.46% |
+| [Hindustan Unilever Ltd](/stocks/hindustan-unilever-ltd) | Consumer Staples | Equity | 0.46% |
+| [Poonawalla Fincorp Ltd](/stocks/magma-fincorp-ltd) | Financial | Equity | 0.46% |
+| [Sundaram Finance Holdings Ltd](/stocks/sundaram-finance-holdings-ltd) | Financial | Equity | 0.46% |
+| [Finolex Cables Ltd](/stocks/finolex-cables-ltd) | Industrials | Equity | 0.45% |
+| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 0.45% |
+| [KFin Technologies Ltd](/stocks/kfin-technologies-ltd) | Financial | Equity | 0.44% |
+| [Blue Star Ltd](/stocks/blue-star-ltd) | Industrials | Equity | 0.42% |
+| [RBL Bank Ltd](/stocks/rbl-bank-ltd) | Financial | Equity | 0.42% |
+| [Central Depository Services (India) Ltd](/stocks/central-depository-services-india-ltd) | Financial | Equity | 0.42% |
+| [Allied Blenders And Distillers Ltd.](/stocks/allied-blenders-and-distillers-ltd) | Consumer Staples | Equity | 0.42% |
+| [PVR Ltd](/stocks/pvr-ltd) | Consumer Discretionary | Equity | 0.41% |
+| [Voltas Ltd](/stocks/voltas-ltd) | Industrials | Equity | 0.41% |
+| [BlueStone Jewellery and Lifestyle Ltd.](/stocks/bluestone-jewellery-and-lifestyle-ltd) | Consumer Discretionary | Equity | 0.41% |
+| [Power Finance Corporation Ltd](/stocks/power-finance-corporation-ltd) | Financial | Equity | 0.40% |
+| [Vedanta Aluminium Metal Ltd](/stocks/vedanta-aluminium-metal-ltd) | Materials | Equity | 0.40% |
+| [Tejas Networks Ltd](/stocks/tejas-networks-ltd) | Technology | Equity | 0.39% |
+| [Shadowfax Technologies Ltd.](/stocks/shadowfax-technologies-ltd) | Industrials | Equity | 0.39% |
+| [Tata Power Company Ltd](/stocks/tata-power-company-ltd) | Energy & Utilities | Equity | 0.38% |
+| [Sona BLW Precision Forgings Ltd](/stocks/sona-blw-precision-forgings-ltd) | Consumer Discretionary | Equity | 0.38% |
+| [Sansera Engineering Ltd](/stocks/sansera-engineering-ltd) | Consumer Discretionary | Equity | 0.38% |
+| [NTPC Green Energy Ltd.](/stocks/ntpc-green-energy-ltd) | Energy & Utilities | Equity | 0.38% |
+| [Linde India Ltd](/stocks/linde-india-ltd) | Materials | Equity | 0.37% |
+| [Ion Exchange (India) Ltd](/stocks/ion-exchange-india-ltd) | Industrials | Equity | 0.37% |
+| [Adani Ports and Special Economic Zone Ltd](/stocks/adani-ports-and-special-economic-zone-ltd) | Industrials | Equity | 0.37% |
+| [JTEKT India Ltd](/stocks/jtekt-india-ltd) | Consumer Discretionary | Equity | 0.37% |
+| [Healthcare Global Enterprises Ltd](/stocks/healthcare-global-enterprises-ltd) | Healthcare | Equity | 0.37% |
+| [NIIT Learning Systems Ltd](/stocks/niit-learning-systems-ltd-) | Consumer Staples | Equity | 0.37% |
+| [Ambuja Cements Ltd](/stocks/ambuja-cements-ltd) | Materials | Equity | 0.36% |
+| [City Union Bank Ltd](/stocks/city-union-bank-ltd) | Financial | Equity | 0.36% |
+| [The Indian Hotels Company Ltd](/stocks/the-indian-hotels-company-ltd) | Consumer Discretionary | Equity | 0.36% |
+| [Thyrocare Technologies Ltd](/stocks/thyrocare-technologies-ltd) | Healthcare | Equity | 0.36% |
+| [Galaxy Surfactants Ltd](/stocks/galaxy-surfactants-ltd) | Materials | Equity | 0.36% |
+| [Deepak Nitrite Ltd](/stocks/deepak-nitrite-ltd) | Materials | Equity | 0.35% |
+| [Cyient Ltd](/stocks/cyient-ltd) | Technology | Equity | 0.35% |
+| [Orient Electric Ltd](/stocks/orient-electric-ltd) | Consumer Discretionary | Equity | 0.35% |
+| [Birla Corporation Ltd](/stocks/birla-corporation-ltd) | Materials | Equity | 0.34% |
+| [NTPC Ltd](/stocks/ntpc-ltd) | Energy & Utilities | Equity | 0.34% |
+| [TTK Prestige Ltd](/stocks/ttk-prestige-ltd) | Consumer Discretionary | Equity | 0.34% |
+| [Indigo Paints Ltd](/stocks/indigo-paints-ltd) | Materials | Equity | 0.34% |
+| [Aarti Industries Ltd](/stocks/aarti-industries-ltd) | Materials | Equity | 0.33% |
+| [Genus Power Infrastructures Ltd](/stocks/genus-power-infrastructures-ltd) | Industrials | Equity | 0.33% |
+| [INEOS Styrolution India Ltd](/stocks/ineos-styrolution-india-ltd) | Materials | Equity | 0.33% |
+| [Union Bank of India](/stocks/union-bank-of-india) | Financial | Equity | 0.33% |
+| [Billionbrains Garage Ventures Ltd.](/stocks/billionbrains-garage-ventures-ltd) | Financial | Equity | 0.33% |
+| [Samvardhana Motherson International Ltd](/stocks/motherson-sumi-systems-ltd) | Consumer Discretionary | Equity | 0.32% |
+| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 0.32% |
+| [Pine Labs Ltd.](/stocks/pine-labs-ltd) | Technology | Equity | 0.32% |
+| [CARE Ratings Ltd](/stocks/care-ratings-ltd) | Industrials | Equity | 0.31% |
+| [Kajaria Ceramics Ltd](/stocks/kajaria-ceramics-ltd) | Industrials | Equity | 0.31% |
+| [Bayer CropScience Ltd](/stocks/bayer-cropscience-ltd) | Materials | Equity | 0.30% |
+| [Persistent Systems Ltd](/stocks/persistent-systems-ltd) | Technology | Equity | 0.30% |
+| [Bharat Dynamics Ltd](/stocks/bharat-dynamics-ltd) | Industrials | Equity | 0.30% |
+| [Clean Science And Technology Ltd](/stocks/clean-science-and-technology-ltd) | Materials | Equity | 0.30% |
+| [Data Patterns (India) Ltd](/stocks/data-patterns-india-ltd) | Industrials | Equity | 0.30% |
+| [Belrise Industries Ltd.](/stocks/belrise-industries-ltd) | Consumer Discretionary | Equity | 0.30% |
+| [Century Textiles & Industries Ltd](/stocks/century-textiles-industries-ltd) | Materials | Equity | 0.29% |
+| [Godrej Agrovet Ltd](/stocks/godrej-agrovet-ltd) | Consumer Staples | Equity | 0.29% |
+| [JB Chemicals & Pharmaceuticals Ltd](/stocks/jb-chemicals-pharmaceuticals-ltd) | Healthcare | Equity | 0.29% |
+| [LIC Housing Finance Ltd](/stocks/lic-housing-finance-ltd) | Financial | Equity | 0.29% |
+| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 0.29% |
+| [Sudarshan Chemical Industries Ltd](/stocks/sudarshan-chemical-industries-ltd) | Materials | Equity | 0.29% |
+| [VST Tillers Tractors Ltd](/stocks/vst-tillers-tractors-ltd) | Industrials | Equity | 0.29% |
+| [eMudhra Ltd](/stocks/emudhra-ltd) | Financial | Equity | 0.29% |
+| [Exide Industries Ltd](/stocks/exide-industries-ltd) | Consumer Discretionary | Equity | 0.28% |
+| [AFCONS INFRASTRUCTURE LIMITED EQ](/stocks/afcons-infrastructure-ltd) | Industrials | Equity | 0.27% |
+| [Dr. Lal Pathlabs Ltd](/stocks/dr-lal-pathlabs-ltd) | Healthcare | Equity | 0.27% |
+| [Aditya Birla Lifestyle Brands Ltd](/stocks/aditya-birla-lifestyle-brands-ltd) | Consumer Discretionary | Equity | 0.27% |
+| [Schaeffler India Ltd](/stocks/schaeffler-india-ltd) | Industrials | Equity | 0.26% |
+| [Jyothy Labs Ltd](/stocks/jyothy-laboratories-ltd) | Consumer Staples | Equity | 0.26% |
+| [Vindhya Telelinks Ltd](/stocks/vindhya-telelinks-ltd) | Technology | Equity | 0.26% |
+| [Dr. Reddy's Laboratories Ltd](/stocks/dr-reddys-laboratories-ltd) | Healthcare | Equity | 0.25% |
+| [Honda India Power Products Ltd](/stocks/honda-siel-power-products-ltd) | Industrials | Equity | 0.25% |
+| [Jindal Saw Ltd](/stocks/jindal-saw-ltd) | Materials | Equity | 0.25% |
+| [Vedanta Ltd](/stocks/vedanta-ltd) | Materials | Equity | 0.25% |
+| [Aavas Financiers Ltd](/stocks/aavas-financiers-ltd) | Financial | Equity | 0.25% |
+| [Sapphire Foods India Ltd](/stocks/sapphire-foods-india-ltd) | Consumer Discretionary | Equity | 0.25% |
+| [CESC Ltd](/stocks/cesc-ltd) | Energy & Utilities | Equity | 0.24% |
+| [Castrol India Ltd](/stocks/castrol-india-ltd) | Materials | Equity | 0.24% |
+| [Chambal Fertilisers & Chemicals Ltd](/stocks/chambal-fertilisers-chemicals-ltd) | Materials | Equity | 0.24% |
+| [Sun Pharmaceutical Industries Ltd](/stocks/sun-pharmaceutical-industries-ltd) | Healthcare | Equity | 0.24% |
+| [West Coast Paper Mills Ltd](/stocks/west-coast-paper-mills-ltd) | Materials | Equity | 0.24% |
+| [Narayana Hrudayalaya Ltd](/stocks/narayana-hrudayalaya-ltd) | Healthcare | Equity | 0.24% |
+| [Rites Ltd](/stocks/rites-ltd) | Industrials | Equity | 0.24% |
+| [Hitachi Energy India Ltd](/stocks/abb-power-products-systems-india-ltd) | Industrials | Equity | 0.24% |
+| [FDC Ltd](/stocks/fdc-ltd) | Healthcare | Equity | 0.23% |
+| [Praj Industries Ltd](/stocks/praj-industries-ltd) | Industrials | Equity | 0.23% |
+| [PG Electroplast Ltd](/stocks/pg-electroplast-ltd) | Industrials | Equity | 0.23% |
+| [Sandhar Technologies Ltd](/stocks/sandhar-technologies-ltd) | Consumer Discretionary | Equity | 0.23% |
+| [ZF Commercial Vehicle Control Systems India Ltd](/stocks/wabco-india-ltd) | Consumer Discretionary | Equity | 0.22% |
+| [Harsha Engineers International Ltd](/stocks/harsha-engineers-international-ltd) | Industrials | Equity | 0.22% |
+| [Schloss Bangalore Ltd.](/stocks/schloss-bangalore-ltd) | Consumer Discretionary | Equity | 0.22% |
+| [JSW Cement Ltd.](/stocks/jsw-cement-ltd) | Materials | Equity | 0.22% |
+| [Sanofi India Ltd](/stocks/sanofi-india-ltd) | Healthcare | Equity | 0.21% |
+| [Fujiyama Power Systems Ltd.](/stocks/fujiyama-power-systems-ltd) | Energy & Utilities | Equity | 0.21% |
+| [Bharat Electronics Ltd](/stocks/bharat-electronics-ltd) | Industrials | Equity | 0.19% |
+| [Lemon Tree Hotels Ltd](/stocks/lemon-tree-hotels-ltd) | Consumer Discretionary | Equity | 0.19% |
+| [Sumitomo Chemical India Ltd](/stocks/sumitomo-chemical-india-ltd) | Materials | Equity | 0.19% |
+| [Computer Age Management Services Ltd](/stocks/computer-age-management-services-ltd) | Financial | Equity | 0.19% |
+| [DOMS Industries Ltd.](/stocks/doms-industries-ltd) | Industrials | Equity | 0.19% |
+| [Can Fin Homes Ltd](/stocks/can-fin-homes-ltd) | Financial | Equity | 0.18% |
+| [LG Balakrishnan & Brothers Ltd](/stocks/lg-balakrishnan-brothers-ltd) | Industrials | Equity | 0.18% |
+| [UTI Asset Management Company Ltd](/stocks/uti-asset-management-company-ltd) | Financial | Equity | 0.18% |
+| [Kaynes Technology India Ltd](/stocks/kaynes-technology-india-ltd) | Industrials | Equity | 0.18% |
+| [Automotive Axles Ltd](/stocks/automotive-axles-ltd) | Consumer Discretionary | Equity | 0.17% |
+| [Coal India Ltd](/stocks/coal-india-ltd) | Materials | Equity | 0.17% |
+| [DEWAN HOUSING FINANCE CORP. LTD. EQ](/stocks/dewan-housing-finance-corporation-ltd) | Financial | Equity | 0.17% |
+| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 0.17% |
+| [Lakshmi Machine Works Ltd](/stocks/lakshmi-machine-works-ltd) | Industrials | Equity | 0.17% |
+| [Seamec Ltd](/stocks/seamec-ltd) | Industrials | Equity | 0.17% |
+| [Vesuvius India Ltd](/stocks/vesuvius-india-ltd) | Industrials | Equity | 0.17% |
+| [Landmark Cars Ltd](/stocks/landmark-cars-ltd) | Consumer Discretionary | Equity | 0.17% |
+| [Brigade Enterprises Ltd](/stocks/brigade-enterprises-ltd) | Real Estate | Equity | 0.16% |
+| [Texmaco Rail & Engineering Ltd](/stocks/texmaco-rail-engineering-ltd) | Industrials | Equity | 0.16% |
+| [Triveni Turbine Ltd](/stocks/triveni-turbine-ltd) | Industrials | Equity | 0.16% |
+| [Sharda Motor Industries Ltd](/stocks/sharda-motor-industries-ltd) | Consumer Discretionary | Equity | 0.16% |
+| [HG Infra Engineering Ltd](/stocks/hg-infra-engineering-ltd) | Industrials | Equity | 0.16% |
+| [Sanofi Consumer Healthcare India Ltd](/stocks/sanofi-consumer-healthcare-india-ltd) | Healthcare | Equity | 0.16% |
+| [Canara Robeco Asset Management Company Ltd.](/stocks/canara-robeco-asset-management-co-ltd) | Financial | Equity | 0.16% |
+| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 0.16% |
+| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 0.15% |
+| [CreditAccess Grameen Ltd](/stocks/creditaccess-grameen-ltd) | Financial | Equity | 0.15% |
+| [Greenlam Industries Ltd](/stocks/greenlam-industries-ltd) | Materials | Equity | 0.15% |
+| [Inox Wind Ltd](/stocks/inox-wind-ltd) | Industrials | Equity | 0.15% |
+| [Divgi TorqTransfer Systems Ltd.](/stocks/divgi-torqtransfer-systems-ltd) | Consumer Discretionary | Equity | 0.15% |
+| [Bajel Projects Ltd](/stocks/bajel-projects-ltd) | Industrials | Equity | 0.15% |
+| [NIIT Ltd](/stocks/niit-ltd) | Technology | Equity | 0.14% |
+| [Zensar Technologies Ltd](/stocks/zensar-technologies-ltd) | Technology | Equity | 0.14% |
+| [G R Infraprojects Ltd](/stocks/gr-infraprojects-ltd) | Industrials | Equity | 0.14% |
+| [Mishra Dhatu Nigam Ltd](/stocks/mishra-dhatu-nigam-ltd) | Materials | Equity | 0.14% |
+| [Rainbow Childrens Medicare Ltd](/stocks/rainbow-childrens-medicare-ltd) | Healthcare | Equity | 0.14% |
+| [Max Estates Ltd](/stocks/max-estates-ltd) | Real Estate | Equity | 0.14% |
+| [Bajaj Electricals Ltd](/stocks/bajaj-electricals-ltd) | Consumer Discretionary | Equity | 0.13% |
+| [Equitas Small Finance Bank Ltd](/stocks/equitas-small-finance-bank-ltd) | Financial | Equity | 0.13% |
+| [Venus Pipes & Tubes Ltd](/stocks/venus-pipes-tubes-ltd) | Industrials | Equity | 0.13% |
+| [Saatvik Green Energy Ltd.](/stocks/saatvik-green-energy-ltd) | Energy & Utilities | Equity | 0.13% |
+| [KEC International Ltd](/stocks/kec-international-ltd) | Diversified | Equity | 0.12% |
+| [ICICI Prudential Life Insurance Company Ltd](/stocks/icici-prudential-life-insurance-company-ltd) | Financial | Equity | 0.12% |
+| [Campus Activewear Ltd](/stocks/campus-activewear-ltd) | Consumer Discretionary | Equity | 0.12% |
+| [Birlasoft Ltd](/stocks/kpit-technologies-ltd) | Technology | Equity | 0.11% |
+| [Sonata Software Ltd](/stocks/sonata-software-ltd) | Technology | Equity | 0.11% |
+| [Just Dial Ltd](/stocks/just-dial-ltd) | Technology | Equity | 0.11% |
+| [Subros Ltd](/stocks/subros-ltd) | Consumer Discretionary | Equity | 0.10% |
+| [PNC Infratech Ltd](/stocks/pnc-infratech-ltd) | Industrials | Equity | 0.10% |
+| [Rishabh Instruments Ltd.](/stocks/rishabh-instruments-ltd) | Industrials | Equity | 0.10% |
+| [Kirloskar Ferrous Industries Ltd](/stocks/kirloskar-ferrous-industries-ltd) | Materials | Equity | 0.09% |
+| [Pokarna Ltd](/stocks/pokarna-ltd) | Materials | Equity | 0.09% |
+| [Raymond Ltd](/stocks/raymond-ltd) | Consumer Discretionary | Equity | 0.09% |
+| [RHI Magnesita India Ltd](/stocks/orient-refractories-ltd) | Materials | Equity | 0.09% |
+| [Archean Chemical Industries Ltd](/stocks/archean-chemical-industries-ltd) | Materials | Equity | 0.09% |
+| [Raymond Lifestyle Ltd](/stocks/raymond-lifestyle-ltd) | Consumer Discretionary | Equity | 0.09% |
+| [Hatsun Agro Products Ltd](/stocks/hatsun-agro-products-ltd) | Consumer Staples | Equity | 0.08% |
+| [Indoco Remedies Ltd](/stocks/indoco-remedies-ltd) | Healthcare | Equity | 0.08% |
+| [JK Lakshmi Cement Ltd](/stocks/jk-lakshmi-cement-ltd) | Materials | Equity | 0.08% |
+| [Polyplex Corporation Ltd](/stocks/polyplex-corporation-ltd) | Materials | Equity | 0.08% |
+| [India Shelter Finance Corporation Ltd.](/stocks/india-shelter-finance-corporation-ltd) | Financial | Equity | 0.08% |
+| [KPIT Technologies Ltd](/stocks/kpit-engineering-ltd) | Technology | Equity | 0.08% |
+| [Go Fashion (India) Ltd](/stocks/go-fashion-india-ltd) | Consumer Discretionary | Equity | 0.08% |
+| [Vedant Fashions Ltd](/stocks/vedant-fashions-ltd) | Consumer Discretionary | Equity | 0.08% |
+| [Urban Company Ltd.](/stocks/urban-company-ltd) | Consumer Staples | Equity | 0.08% |
+| [Fineotex Chemical Ltd](/stocks/fineotex-chemical-ltd) | Materials | Equity | 0.07% |
+| [Cyient DLM Ltd.](/stocks/cyient-dlm-ltd) | Industrials | Equity | 0.07% |
+| [Protean eGov Technologies Ltd.](/stocks/protean-egov-technologies-ltd) | Technology | Equity | 0.07% |
+| [Sanathan Textiles Ltd.](/stocks/sanathan-textiles-ltd) | Consumer Discretionary | Equity | 0.07% |
+| [Astec Lifesciences Ltd](/stocks/astec-lifesciences-ltd) | Materials | Equity | 0.05% |
+| [Stanley Lifestyles Ltd.](/stocks/stanley-lifestyles-ltd) | Consumer Discretionary | Equity | 0.05% |
+| [PTC India Ltd](/stocks/ptc-india-ltd) | Energy & Utilities | Equity | 0.04% |
+| [SEDEMAC Mechatronics Ltd.](/stocks/sedemac-mechatronics-ltd) | Industrials | Equity | 0.04% |
+| [Vedanta Power Ltd](/stocks/talwandi-sabo-power-ltd) | Industrials | Equity | 0.04% |
+| [CMR Green Technologies Ltd.](/stocks/cmr-green-technologies-ltd) | Materials | Equity | 0.04% |
+| [Vedanta Oil and Gas Ltd](/stocks/malco-energy-ltd) | Energy & Utilities | Equity | 0.03% |
+| [Studds Accessories Ltd.](/stocks/studds-accessories-ltd) | Consumer Discretionary | Equity | 0.03% |
+| [Vedanta Iron And Steel Ltd](/stocks/vedanta-iron-and-steel-ltd) | Materials | Equity | 0.03% |
+| Others Mrgn Money | Unspecified | Margin Money | 0.02% |
+| [Aequs Ltd.](/stocks/aequs-ltd) | Technology | Equity | 0.02% |
+| [Genus Prime Infrastructures Ltd](/stocks/genus-prime-infrastructures-ltd) | Real Estate | Equity | 0.01% |
+| [R K Swamy Ltd.](/stocks/rk-swamy-ltd) | Industrials | Equity | 0.01% |
+| [Bata India Ltd](/stocks/bata-india-ltd) | Consumer Discretionary | Equity | 0.00% |
+| [Vinati Organics Ltd](/stocks/vinati-organics-ltd) | Materials | Equity | 0.00% |
+| Net Payables | Unspecified | Net Payables | -0.06% |
+
+See All
+
+### Minimum investments
+
+Min. for 1st investment
+
+Not Supported
+
+Min. for 2nd investment
+
+Not Supported
+
+Min. for SIP
+
+₹100
+
+## Understand terms
+
+##### Annualised returns
+
+Average of the yearly returns of a mutual fund over a given period.
+
+##### Absolute returns
+
+The total return of a mutual fund over a given period.
+
+### Returns and rankings
+
+Annualised returns
+
+Absolute returns
+
+| Name | 3Y | 5Y | 10Y | All |
+| --- | --- | --- | --- | --- |
+| Fund returns | +18.0% | +21.1% | +21.8% | +24.1% |
+| Category average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | -- |
+| Rank (Equity Small Cap) | 18 | 4 | 1 | -- |
+
+## Understand terms
+
+##### Expense ratio
+
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+##### Tax
+
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+##### Exit load
+
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+##### Stamp duty
+
+A form of tax payable for the purchase or sale of an asset or security.
+
+### Exit Load
+
+22 Mar 2024
+
+Exit load of 1% if redeemed within 1 year.
+
+05 Feb 2021
+
+Exit load of 1% if redeemed within one month.
+
+17 Mar 2020
+
+For units more than 10% of the investments, an exit load of 1% if redeemed within 12 months.
+
+20 Apr 2015
+
+Exit load of 1% if redeemed within 1 year
+
+01 Jan 2013
+
+Exit load of 2% if redeemed within 12 months and 1% if redeemed after 12 months but within 24 months.
+
+### Exit load, stamp duty and tax
+
+#### Exit load
+
+Exit load of 1% if redeemed within 1 year.
+
+#### Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+from July 1st 2020
+
+#### Tax implication
+
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+Check past data
+
+### Compare similar funds
+
+| | Name | 1Y | 3Y | Fund Size(Cr) |
+| --- | --- | --- | --- | --- |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +12.37% | +27.07% | 31,103.03 |
+| | [Invesco India Smallcap Fund Direct Growth](/mutual-funds/invesco-india-smallcap-fund-direct-growth) | +15.87% | +25.11% | 14,474.79 |
+| | [Union Small Cap Fund Direct Growth](/mutual-funds/union-small-and-midcap-fund-direct-growth) | +23.33% | +20.02% | 2,401.95 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +18.33% | +19.70% | 3,922.31 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +10.63% | +17.97% | 78,956.77 |
+| | | | | |
+| --- | --- | --- | --- | --- |
+| [Compare](/mutual-funds/compare/nippon-india-small-cap-fund-direct-growth) | | | | |
+
+### Fund management
+
+### SR Samir Rachh Dec 2016 - Present View details
+
+Education
+
+Mr. Racch is a B.Com (H) from V.G.Vaze College, Mumbai.
+
+Experience
+
+Prior to joining Nippon India Mutual Fund he has worked in Hinduja Finance, Emkay Research and Anvicon Research.
+
+Also manages these schemes
+
+[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
+
+### AS Amber Singhania Mar 2026 - Present View details
+
+Education
+
+MMS Finance (Mumbai University)
+
+Experience
+
+Prior to joining the Nippon India AMC, he was associated with Asian Markets Securities Pvt. Ltd.
+
+Also manages these schemes
+
+[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
+
+[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
+
+[Nippon India Aggressive Hybrid Fund Direct Growth](/mutual-funds/nippon-india-aggressive-hybrid-fund-direct-growth)
+
+[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
+
+[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
+
+[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
+
+[Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Defined Maturity Date Growth](/mutual-funds/nippon-india-gilt-fund-direct-defined-maturity-date-growth)
+
+[Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth)
+
+[Nippon India Quarterly Interval Fund Series II Retail Plan Direct Growth](/mutual-funds/nippon-india-quarterly-interval-fund-series-ii-retail-plan-direct-growth)
+
+[Nippon India Focused Fund Direct Growth](/mutual-funds/nippon-india-focused-fund-direct-growth)
+
+[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
+
+[Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth)
+
+[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
+
+[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
+
+[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
+
+[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
+
+[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
+
+[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
+
+[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
+
+[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
+
+[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
+
+[Nippon India Medium to Long Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-to-long-duration-fund-direct-growth)
+
+[Nippon India Arbitrage Fund Direct Growth](/mutual-funds/nippon-india-arbitrage-fund-direct-growth)
+
+[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
+
+[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
+
+[Nippon India Liquid Fund Direct Growth](/mutual-funds/nippon-india-liquid-fund-direct-growth)
+
+[Nippon India Money Market Fund Direct Growth](/mutual-funds/nippon-india-money-market-fund-direct-growth)
+
+[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
+
+[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
+
+[Nippon India Retirement Fund Wealth Creation Scheme Direct Growth](/mutual-funds/nippon-india-retirement-fund-wealth-creation-scheme-direct-growth)
+
+[Nippon IndiaRetirement Fund Income Generation Scheme Direct Growth](/mutual-funds/nippon-indiaretirement-fund-i-come-generation-scheme-direct-growth)
+
+[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
+
+[Nippon India Japan Equity Fund Direct Growth](/mutual-funds/nippon-india-japan-equity-fund-direct-growth)
+
+[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
+
+[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
+
+[Nippon India Multi Asset Allocation Fund Direct Growth](/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth)
+
+[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
+
+[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
+
+[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
+
+[Nippon India Innovation Fund Direct Growth](/mutual-funds/nippon-india-innovation-fund-direct-growth)
+
+[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
+
+[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
+
+### KD Kinjal Desai Mar 2026 - Present View details
+
+Education
+
+Ms. Desai has done B.A (Economics), MSc. (Economics) and has cleared CFA Level 1
+
+Experience
+
+She has been working with Nippon India Mutual Fund since year, 2012
+
+Also manages these schemes
+
+[Nippon India Dynamic Bond Fund Direct Growth](/mutual-funds/nippon-india-dynamic-bond-fund-direct-growth)
+
+[Nippon India Credit Risk Fund Direct Growth](/mutual-funds/nippon-india-credit-risk-fund-direct-growth)
+
+[Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth)
+
+[Nippon India Corporate Bond Fund Direct Growth](/mutual-funds/nippon-india-corporate-bond-fund-direct-growth)
+
+[Nippon India Floater Fund Direct Growth](/mutual-funds/nippon-india-floater-fund-direct-growth)
+
+[Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Defined Maturity Date Growth](/mutual-funds/nippon-india-gilt-fund-direct-defined-maturity-date-growth)
+
+[Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth)
+
+[Nippon India Quarterly Interval Fund Series II Retail Plan Direct Growth](/mutual-funds/nippon-india-quarterly-interval-fund-series-ii-retail-plan-direct-growth)
+
+[Nippon India Focused Fund Direct Growth](/mutual-funds/nippon-india-focused-fund-direct-growth)
+
+[Nippon India Consumption Fund Direct Growth](/mutual-funds/nippon-india-consumption-fund-direct-growth)
+
+[Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth)
+
+[Nippon India Pharma Fund Direct Growth](/mutual-funds/nippon-india-pharma-fund-direct-growth)
+
+[Nippon India Power & Infra Fund Direct Growth](/mutual-funds/nippon-india-power-infra-fund-direct-growth)
+
+[Nippon India Quant Fund Retail Direct Growth](/mutual-funds/nippon-india-quant-fund-retail-direct-growth)
+
+[Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
+
+[Nippon India Value Fund Direct Growth](/mutual-funds/nippon-india-value-fund-direct-growth)
+
+[Nippon India ELSS Tax Saver Fund Direct Growth](/mutual-funds/nippon-india-elss-tax-saver-fund-direct-growth)
+
+[Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth)
+
+[Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth)
+
+[Nippon India Banking & Financial Services Fund Direct Growth](/mutual-funds/nippon-india-banking-financial-services-fund-direct-growth)
+
+[Nippon India Gilt Fund Direct Growth](/mutual-funds/nippon-india-gilt-fund-direct-growth)
+
+[Nippon India Medium to Long Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-to-long-duration-fund-direct-growth)
+
+[Nippon India Ultra Short Duration Fund Direct Growth](/mutual-funds/nippon-india-ultra-short-duration-fund-direct-growth)
+
+[Nippon India Conservative Hybrid Fund Direct Growth](/mutual-funds/nippon-india-conservative-hybrid-fund-direct-growth)
+
+[Nippon India Liquid Fund Direct Growth](/mutual-funds/nippon-india-liquid-fund-direct-growth)
+
+[Nippon India Money Market Fund Direct Growth](/mutual-funds/nippon-india-money-market-fund-direct-growth)
+
+[Nippon India Low Duration Fund Direct Growth](/mutual-funds/nippon-india-low-duration-fund-direct-growth)
+
+[Nippon India US Equity Opportunities Fund Direct Growth](/mutual-funds/nippon-india-us-equity-opportunities-fund-direct-growth)
+
+[Nippon India Retirement Fund Wealth Creation Scheme Direct Growth](/mutual-funds/nippon-india-retirement-fund-wealth-creation-scheme-direct-growth)
+
+[Nippon IndiaRetirement Fund Income Generation Scheme Direct Growth](/mutual-funds/nippon-indiaretirement-fund-i-come-generation-scheme-direct-growth)
+
+[Nippon India Medium Duration Fund Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-direct-growth)
+
+[Nippon India Japan Equity Fund Direct Growth](/mutual-funds/nippon-india-japan-equity-fund-direct-growth)
+
+[Nippon India Banking and PSU Fund Direct Growth](/mutual-funds/nippon-india-banking-and-psu-fund-direct-growth)
+
+[Nippon India Equity Savings Fund Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-direct-growth)
+
+[Nippon India Medium Duration Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-2-direct-growth)
+
+[Nippon India Equity Savings Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-1-direct-growth)
+
+[Nippon India Medium Duration Fund Segregated Portfolio 1 Direct Growth](/mutual-funds/nippon-india-medium-duration-fund-segregated-portfolio-1-direct-growth)
+
+[Nippon India Equity Savings Fund Segregated Portfolio 2 Direct Growth](/mutual-funds/nippon-india-equity-savings-fund-segregated-portfolio-2-direct-growth)
+
+[Nippon India Multi Asset Allocation Fund Direct Growth](/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth)
+
+[Nippon India Nivesh Lakshya Long Duration Fund Direct Growth](/mutual-funds/nippon-india-nivesh-lakshya-long-duration-fund-direct-growth)
+
+[Nippon India Flexi Cap Fund Direct Growth](/mutual-funds/nippon-india-flexi-cap-fund-direct-growth)
+
+[Nippon India Taiwan Equity Fund Direct Growth](/mutual-funds/nippon-india-taiwan-equity-fund-direct-growth)
+
+[Nippon India Innovation Fund Direct Growth](/mutual-funds/nippon-india-innovation-fund-direct-growth)
+
+[Nippon India Active Momentum Fund Direct Growth](/mutual-funds/nippon-india-active-momentum-fund-direct-growth)
+
+[Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
+
+### About Nippon India Small Cap Fund Direct Growth
+
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under
+
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,78,923 Cr and the Latest NAV as of 20 Aug 2026 is ₹210.37.
+The Nippon India Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1% if redeemed within 1 year.
+
+...Read more
+
+#### Investment Objective
+
+The scheme seeks to generate long term capital appreciation by investing predominantly in equity and equity related instruments of small cap companies.
+
+Fund benchmarkNIFTY Smallcap 250 Total Return Index
+
+[Scheme Information Document(SID)](https://mf.nipponindiaim.com/)
+
+### Fund house
+
+[Nippon India Mutual Fund](/mutual-funds/amc/reliance-mutual-funds)
+
+Rank (total assets)#4 in India
+
+Total AUM₹7,78,923.15 Cr
+
+Date of Incorporation29 Jun 1995
+
+Phone+91 022 6808 7000
+
+E-mail--
+
+Website<https://mf.nipponindiaim.com/>
+
+Launch Date29 Jun 1995
+
+Address30th Floor, One Lodha PlaceSenapati Bapat Marg, Lower ParelMumbai Mumbai 400013
+
+CustodianDeutsche Bank
+
+Registrar & Transfer AgentKFin Tech
+
+Email[mfshyderabad@kfintech.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mfshyderabad@kfintech.com&su=Hello&shva=1)
+
+Website[www.karvymfs.com](https://www.karvymfs.com)
+
+AddressKarvy House, No. 46, 8-2-609/K, Avenue 4, Street No.1 Banjara Hills,
+
+### Other plans in the same fund
+
+| Name |
+| --- |
+| [Nippon India Small Cap Fund Direct IDCW](/mutual-funds/nippon-india-small-cap-fund-direct-idcw) |
+
+## FAQs
+
+### How to Invest in Nippon India Small Cap Fund Direct Growth?
+
+You can easily invest in Nippon India Small Cap Fund Direct Growth in a hassle-free manner on Groww. The
+process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+
+* Log on to your Groww account
+* Search for Nippon India Small Cap Fund Direct Growth from the search box
+* In order to invest, you will have to complete all the KYC formalities which are completely online and paperless
+ and take a few minutes to complete
+* Once you are done with that, you can start investing in Nippon India Small Cap Fund Direct Growth as SIP or lumpsum as per your
+ investment objective and risk tolerance
+
+### What kind of returns does Nippon India Small Cap Fund Direct Growth provide?
+
+The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 24.14% since its inception.
+
+### How much expense ratio is charged by Nippon India Small Cap Fund Direct Growth?
+
+The term
+ [Expense Ratio](https://groww.in/p/expense-ratio/) used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
+charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
+ 
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 21 Aug 2026...
+
+### What is the AUM of Nippon India Small Cap Fund Direct Growth?
+
+The AUM, short for
+ [Assets Under Management](https://groww.in/p/asset-under-management/) 
+of Nippon India Small Cap Fund Direct Growth is ₹78,956.77Cr as of 21 Aug 2026.
+
+### How to Redeem Nippon India Small Cap Fund Direct Growth?
+
+If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
+web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
+desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+
+### Can I invest in SIP and Lump Sum of Nippon India Small Cap Fund Direct Growth?
+
+You can select either
+ [SIP](https://groww.in/p/sip-systematic-investment-plan/) or
+ [Lumpsum](https://groww.in/p/lump-sum/) investment of Nippon India Small Cap Fund Direct Growth based on
+your investment objective and risk tolerance.
+
+### What is the NAV of Nippon India Small Cap Fund Direct Growth?
+
+The NAV of Nippon India Small Cap Fund Direct Growth is ₹210.37 as of 20 Aug 2026.
+
+### What is the PE and PB ratio of Nippon India Small Cap Fund Direct Growth?
+
+The
+ [PE ratio](https://groww.in/p/pe-ratio) ratio of Nippon India Small Cap Fund Direct Growth is determined by dividing the market price by
+its earnings per share and the
+ [PB ratio](https://groww.in/p/price-to-book-ratio/) of the same is evaluated by dividing the stock price per share by its book value
+per share (BVPS).

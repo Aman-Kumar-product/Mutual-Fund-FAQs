@@ -1,8 +1,8 @@
-+1012345678930123456789.3012345678970123456789%
++1012345678930123456789.3012345678980123456789%
 
 3Y annualised
 
--0.30% 1D
++0.29% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 18 Aug '26
+NAV: 20 Aug '26
 
-₹572.38
+₹572.87
 
 Min. for SIP
 
@@ -30,7 +30,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.76%
+0.77%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,217 | | +1.42% |
-| 3 years | ₹3,600 | ₹3,949 | | +9.69% |
-| 5 years | ₹6,000 | ₹8,178 | | +36.30% |
-| 10 years | ₹12,000 | ₹26,121 | | +117.67% |
+| 1 year | ₹1,200 | ₹1,218 | | +1.50% |
+| 3 years | ₹3,600 | ₹3,950 | | +9.72% |
+| 5 years | ₹6,000 | ₹8,179 | | +36.32% |
+| 10 years | ₹12,000 | ₹26,124 | | +117.70% |
 
 ## Holdings (331)
 
@@ -419,9 +419,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +13.4% | +15.7% | +14.0% | +14.6% |
+| Fund returns | +13.4% | +16.1% | +14.0% | +14.6% |
 | Category average (Hybrid Dynamic Asset Allocation) | +11.9% | +10.7% | +9.6% | -- |
-| Rank (Hybrid Dynamic Asset Allocation) | 4 | 1 | -- | -- |
+| Rank (Hybrid Dynamic Asset Allocation) | 5 | 1 | -- | -- |
 
 ## Understand terms
 
@@ -479,11 +479,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | +2.77% | +13.37% | 1,07,765.65 |
-| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +8.90% | +13.04% | 9,804.08 |
-| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +8.21% | +12.85% | 74,555.42 |
-| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +6.20% | +12.17% | 9,898.19 |
-| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +6.17% | +11.70% | 3,780.28 |
+| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | +2.41% | +13.38% | 1,07,765.65 |
+| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +8.48% | +13.15% | 9,804.08 |
+| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +7.75% | +12.92% | 74,555.42 |
+| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +5.68% | +12.23% | 9,898.19 |
+| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +6.12% | +11.77% | 3,780.28 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-balanced-advantage-fund-direct-growth) | | | | |
@@ -842,7 +842,7 @@ Also manages these schemes
 
 HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Manag
 
-HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 18 Aug 2026 is ₹572.38.
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 20 Aug 2026 is ₹572.87.
 The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
 
 ...Read more
@@ -915,13 +915,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Balanced Advantage Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.76% as of 19 Aug 2026...
+The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.77% as of 21 Aug 2026...
 
 ### What is the AUM of HDFC Balanced Advantage Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,765.65Cr as of 19 Aug 2026.
+of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,765.65Cr as of 21 Aug 2026.
 
 ### How to Redeem HDFC Balanced Advantage Fund Direct Growth?
 
@@ -938,7 +938,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Balanced Advantage Fund Direct Growth?
 
-The NAV of HDFC Balanced Advantage Fund Direct Growth is ₹572.38 as of 18 Aug 2026.
+The NAV of HDFC Balanced Advantage Fund Direct Growth is ₹572.87 as of 20 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Balanced Advantage Fund Direct Growth?
 

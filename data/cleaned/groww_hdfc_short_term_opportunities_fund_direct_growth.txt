@@ -1,8 +1,8 @@
-+70123456789.6012345678940123456789%
++70123456789.6012345678900123456789%
 
 3Y annualised
 
--0.16% 1D
+-0.09% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 20 Aug '26
+NAV: 21 Aug '26
 
-₹35.36
+₹35.32
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,233 | | +2.75% |
-| 3 years | ₹3,600 | ₹3,992 | | +10.89% |
-| 5 years | ₹6,000 | ₹7,164 | | +19.40% |
-| 10 years | ₹12,000 | ₹17,341 | | +44.51% |
+| 1 year | ₹1,200 | ₹1,232 | | +2.67% |
+| 3 years | ₹3,600 | ₹3,988 | | +10.78% |
+| 5 years | ₹6,000 | ₹7,157 | | +19.28% |
+| 10 years | ₹12,000 | ₹17,322 | | +44.35% |
 
 ## Holdings (150)
 
@@ -238,7 +238,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.6% | +6.7% | +7.4% | +8.0% |
+| Fund returns | +7.6% | +6.6% | +7.4% | +7.9% |
 | Category average (Debt Short Duration) | +7.1% | +5.9% | +6.6% | -- |
 | Rank (Debt Short Duration) | 8 | 9 | 4 | -- |
 
@@ -294,11 +294,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +6.55% | +7.97% | 19,259.89 |
-| | [Axis Short Duration Fund Direct Growth](/mutual-funds/axis-short-duration-fund-direct-growth) | +6.17% | +7.89% | 8,010.24 |
-| | [Bandhan Short Duration Fund Direct Growth](/mutual-funds/bandhan-short-duration-fund-direct-growth) | +6.37% | +7.82% | 9,287.26 |
-| | [Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth) | +5.99% | +7.82% | 7,189.44 |
-| | [HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth) | +5.90% | +7.64% | 15,080.98 |
+| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +6.51% | +7.94% | 19,259.89 |
+| | [Axis Short Duration Fund Direct Growth](/mutual-funds/axis-short-duration-fund-direct-growth) | +6.09% | +7.86% | 8,010.24 |
+| | [Bandhan Short Duration Fund Direct Growth](/mutual-funds/bandhan-short-duration-fund-direct-growth) | +6.35% | +7.79% | 9,287.26 |
+| | [Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth) | +5.88% | +7.77% | 7,189.44 |
+| | [HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth) | +5.79% | +7.60% | 15,080.98 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-short-term-opportunities-fund-direct-growth) | | | | |
@@ -453,7 +453,7 @@ Also manages these schemes
 
 HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Man
 
-HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 20 Aug 2026 is ₹35.36.
+HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 21 Aug 2026 is ₹35.32.
 The HDFC Short Term Debt Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -518,7 +518,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Short Term Debt Fund Direct Plan Growth provide?
 
-The HDFC Short Term Debt Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 7.95% since its inception.
+The HDFC Short Term Debt Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 7.94% since its inception.
 
 ### How much expense ratio is charged by HDFC Short Term Debt Fund Direct Plan Growth?
 
@@ -526,13 +526,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Debt Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Debt Fund Direct Plan Growth is 0.40% as of 21 Aug 2026...
+The Expense Ratio of HDFC Short Term Debt Fund Direct Plan Growth is 0.40% as of 23 Aug 2026...
 
 ### What is the AUM of HDFC Short Term Debt Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Debt Fund Direct Plan Growth is ₹15,080.98Cr as of 21 Aug 2026.
+of HDFC Short Term Debt Fund Direct Plan Growth is ₹15,080.98Cr as of 23 Aug 2026.
 
 ### How to Redeem HDFC Short Term Debt Fund Direct Plan Growth?
 
@@ -549,7 +549,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Short Term Debt Fund Direct Plan Growth?
 
-The NAV of HDFC Short Term Debt Fund Direct Plan Growth is ₹35.36 as of 20 Aug 2026.
+The NAV of HDFC Short Term Debt Fund Direct Plan Growth is ₹35.32 as of 21 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Short Term Debt Fund Direct Plan Growth?
 

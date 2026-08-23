@@ -1,8 +1,8 @@
-+70123456789.0012345678930123456789%
++60123456789.8012345678980123456789%
 
 3Y annualised
 
-+0.82% 1D
+0.00% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 20 Aug '26
+NAV: 21 Aug '26
 
-₹742.36
+₹742.39
 
 Min. for SIP
 
@@ -46,8 +46,8 @@ Monthly investment
 | --- | --- | --- | --- | --- |
 | 1 year | ₹1,200 | ₹1,177 | | -1.92% |
 | 3 years | ₹3,600 | ₹3,687 | | +2.42% |
-| 5 years | ₹6,000 | ₹6,941 | | +15.68% |
-| 10 years | ₹12,000 | ₹20,790 | | +73.25% |
+| 5 years | ₹6,000 | ₹6,940 | | +15.67% |
+| 10 years | ₹12,000 | ₹20,785 | | +73.21% |
 
 ## Holdings (32)
 
@@ -120,9 +120,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.0% | +8.0% | +11.7% | +11.7% |
+| Fund returns | +6.9% | +8.0% | +11.7% | +11.7% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 77 | 59 | 31 | -- |
+| Rank (Equity Large Cap) | 77 | 60 | 31 | -- |
 
 ## Understand terms
 
@@ -172,11 +172,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +6.85% | +16.18% | 1,931.40 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.52% | +14.89% | 2,144.56 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -1.01% | +13.23% | 54,224.57 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -1.32% | +13.16% | 80,960.34 |
-| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +1.90% | +12.20% | 1,443.24 |
+| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +6.90% | +15.92% | 1,931.40 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.48% | +14.70% | 2,144.56 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -1.11% | +13.05% | 54,224.57 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -1.47% | +13.05% | 80,960.34 |
+| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +1.85% | +12.05% | 1,443.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-bse-sensex-index-fund-direct-growth) | | | | |
@@ -339,7 +339,7 @@ Also manages these schemes
 
 HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Managemen
 
-HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 20 Aug 2026 is ₹742.36.
+HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 21 Aug 2026 is ₹742.39.
 The HDFC BSE Sensex Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.25% if redeemed within 3 days
 
 ...Read more
@@ -406,13 +406,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC BSE Sensex Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.22% as of 21 Aug 2026...
+The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.22% as of 23 Aug 2026...
 
 ### What is the AUM of HDFC BSE Sensex Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC BSE Sensex Index Fund Direct Growth is ₹8,657.46Cr as of 21 Aug 2026.
+of HDFC BSE Sensex Index Fund Direct Growth is ₹8,657.46Cr as of 23 Aug 2026.
 
 ### How to Redeem HDFC BSE Sensex Index Fund Direct Growth?
 
@@ -429,7 +429,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC BSE Sensex Index Fund Direct Growth?
 
-The NAV of HDFC BSE Sensex Index Fund Direct Growth is ₹742.36 as of 20 Aug 2026.
+The NAV of HDFC BSE Sensex Index Fund Direct Growth is ₹742.39 as of 21 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC BSE Sensex Index Fund Direct Growth?
 

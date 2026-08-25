@@ -1,8 +1,8 @@
-+10123456789.3012345678990123456789%
++30123456789.9012345678970123456789%
 
 1M return
 
--0.19% 1D
++0.17% 1D
 
 1M
 
@@ -12,9 +12,9 @@
 
 All
 
-NAV: 21 Aug '26
+NAV: 24 Aug '26
 
-₹22.06
+₹22.10
 
 Min. for SIP
 
@@ -26,7 +26,7 @@ Fund size (AUM)
 
 Expense ratio
 
-1.09%
+1.08%
 
 Rating
 
@@ -120,9 +120,9 @@ Absolute returns
 
 | Name | 3M | 6M | 1Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.4% | +25.3% | +25.0% | +121.6% |
+| Fund returns | +9.6% | +23.5% | +24.1% | +120.6% |
 | Category average (Equity Sectoral) | -- | -- | -2.1% | -- |
-| Rank (Equity Sectoral) | 8 | 5 | 1 | -- |
+| Rank (Equity Sectoral) | 6 | 3 | 1 | -- |
 
 ## Understand terms
 
@@ -294,7 +294,7 @@ Also manages these schemes
 
 HDFC Pharma And Healthcare Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Pharma And Healthcare Fund Direct Growth fund. The fund currently has an Asset Unde
 
-HDFC Pharma And Healthcare Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Pharma And Healthcare Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 21 Aug 2026 is ₹22.06.
+HDFC Pharma And Healthcare Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Pharma And Healthcare Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹22.10.
 The HDFC Pharma And Healthcare Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 30 days.
 
 ...Read more
@@ -359,7 +359,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Pharma And Healthcare Fund Direct Growth provide?
 
-The HDFC Pharma And Healthcare Fund Direct Growth has been there from 04 Oct 2023 and the average annual returns provided by this fund is 31.58% since its inception.
+The HDFC Pharma And Healthcare Fund Direct Growth has been there from 04 Oct 2023 and the average annual returns provided by this fund is 31.56% since its inception.
 
 ### How much expense ratio is charged by HDFC Pharma And Healthcare Fund Direct Growth?
 
@@ -367,13 +367,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Pharma And Healthcare Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Pharma And Healthcare Fund Direct Growth is 1.09% as of 23 Aug 2026...
+The Expense Ratio of HDFC Pharma And Healthcare Fund Direct Growth is 1.08% as of 25 Aug 2026...
 
 ### What is the AUM of HDFC Pharma And Healthcare Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Pharma And Healthcare Fund Direct Growth is ₹2,939.98Cr as of 23 Aug 2026.
+of HDFC Pharma And Healthcare Fund Direct Growth is ₹2,939.98Cr as of 25 Aug 2026.
 
 ### How to Redeem HDFC Pharma And Healthcare Fund Direct Growth?
 
@@ -390,7 +390,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Pharma And Healthcare Fund Direct Growth?
 
-The NAV of HDFC Pharma And Healthcare Fund Direct Growth is ₹22.06 as of 21 Aug 2026.
+The NAV of HDFC Pharma And Healthcare Fund Direct Growth is ₹22.10 as of 24 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Pharma And Healthcare Fund Direct Growth?
 

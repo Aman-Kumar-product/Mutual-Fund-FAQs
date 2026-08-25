@@ -2,7 +2,7 @@
 
 3Y annualised
 
-+0.01% 1D
++0.02% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 23 Aug '26
+NAV: 24 Aug '26
 
-₹5,558.31
+₹5,559.34
 
 Min. for SIP
 
@@ -292,7 +292,7 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.52% | +7.02% | 68,800.00 |
+| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.53% | +7.02% | 68,800.00 |
 | | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.52% | +7.02% | 56,437.80 |
 | | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.49% | +7.02% | 13,795.87 |
 | | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.48% | +7.00% | 786.72 |
@@ -443,7 +443,7 @@ Also manages these schemes
 
 HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 C
 
-HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 23 Aug 2026 is ₹5,558.31.
+HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹5,559.34.
 The HDFC Liquid Direct Plan Growth is rated Low to Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.
 
 ...Read more
@@ -510,13 +510,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Liquid Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.20% as of 23 Aug 2026...
+The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.20% as of 25 Aug 2026...
 
 ### What is the AUM of HDFC Liquid Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Liquid Direct Plan Growth is ₹65,870.42Cr as of 23 Aug 2026.
+of HDFC Liquid Direct Plan Growth is ₹65,870.42Cr as of 25 Aug 2026.
 
 ### How to Redeem HDFC Liquid Direct Plan Growth?
 
@@ -533,7 +533,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Liquid Direct Plan Growth?
 
-The NAV of HDFC Liquid Direct Plan Growth is ₹5,558.31 as of 23 Aug 2026.
+The NAV of HDFC Liquid Direct Plan Growth is ₹5,559.34 as of 24 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Liquid Direct Plan Growth?
 

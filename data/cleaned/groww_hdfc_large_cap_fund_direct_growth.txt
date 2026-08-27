@@ -1,8 +1,8 @@
-+1012345678910123456789.0012345678980123456789%
++1012345678910123456789.4012345678930123456789%
 
 3Y annualised
 
--0.12% 1D
+-0.22% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 24 Aug '26
+NAV: 26 Aug '26
 
-₹1,243.69
+₹1,247.08
 
 Min. for SIP
 
@@ -44,62 +44,63 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,217 | | +1.42% |
-| 3 years | ₹3,600 | ₹3,871 | | +7.53% |
-| 5 years | ₹6,000 | ₹7,732 | | +28.87% |
-| 10 years | ₹12,000 | ₹23,503 | | +95.86% |
+| 1 year | ₹1,200 | ₹1,220 | | +1.67% |
+| 3 years | ₹3,600 | ₹3,880 | | +7.78% |
+| 5 years | ₹6,000 | ₹7,749 | | +29.15% |
+| 10 years | ₹12,000 | ₹23,551 | | +96.26% |
 
-## Holdings (47)
+## Holdings (48)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.73% |
-| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 7.92% |
-| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 5.66% |
-| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.46% |
-| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 4.96% |
-| [Titan Company Ltd](/stocks/titan-company-ltd) | Consumer Discretionary | Equity | 4.65% |
-| [Torrent Pharmaceuticals Ltd](/stocks/torrent-pharmaceuticals-ltd) | Healthcare | Equity | 3.77% |
-| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 3.69% |
-| [Bajaj Finserv Ltd](/stocks/bajaj-finserv-ltd) | Financial | Equity | 3.00% |
-| [Lupin Ltd](/stocks/lupin-ltd) | Healthcare | Equity | 2.86% |
-| [Bajaj Auto Ltd](/stocks/bajaj-auto-ltd) | Consumer Discretionary | Equity | 2.80% |
-| Repo | Unspecified | Repo | 2.64% |
-| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 2.49% |
-| [Ambuja Cements Ltd](/stocks/ambuja-cements-ltd) | Materials | Equity | 2.41% |
-| [Cholamandalam Investment & Finance Company Ltd](/stocks/cholamandalam-investment-finance-company-ltd) | Financial | Equity | 2.40% |
-| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 2.29% |
-| [Larsen & Toubro Ltd](/stocks/larsen-toubro-ltd) | Industrials | Equity | 2.09% |
-| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 2.06% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 2.05% |
-| [NTPC Ltd](/stocks/ntpc-ltd) | Energy & Utilities | Equity | 2.04% |
-| [Max Healthcare Institute Ltd](/stocks/max-healthcare-institute-ltd) | Healthcare | Equity | 1.91% |
+| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.86% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 7.21% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 5.85% |
+| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.28% |
+| [Titan Company Ltd](/stocks/titan-company-ltd) | Consumer Discretionary | Equity | 5.00% |
+| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 4.86% |
+| [Torrent Pharmaceuticals Ltd](/stocks/torrent-pharmaceuticals-ltd) | Healthcare | Equity | 4.05% |
+| [Bajaj Finserv Ltd](/stocks/bajaj-finserv-ltd) | Financial | Equity | 3.32% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 3.28% |
+| Repo | Unspecified | Repo | 3.08% |
+| [Lupin Ltd](/stocks/lupin-ltd) | Healthcare | Equity | 2.77% |
+| [Bajaj Auto Ltd](/stocks/bajaj-auto-ltd) | Consumer Discretionary | Equity | 2.76% |
+| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 2.73% |
+| [Cholamandalam Investment & Finance Company Ltd](/stocks/cholamandalam-investment-finance-company-ltd) | Financial | Equity | 2.41% |
+| [Ambuja Cements Ltd](/stocks/ambuja-cements-ltd) | Materials | Equity | 2.40% |
+| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 2.28% |
+| [Larsen & Toubro Ltd](/stocks/larsen-toubro-ltd) | Industrials | Equity | 1.93% |
+| [NTPC Ltd](/stocks/ntpc-ltd) | Energy & Utilities | Equity | 1.93% |
+| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 1.93% |
 | [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 1.86% |
-| [Mankind Pharma Ltd.](/stocks/mankind-pharma-ltd) | Healthcare | Equity | 1.79% |
-| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 1.65% |
-| [Vishal Mega Mart Ltd.](/stocks/vishal-mega-mart-ltd) | Consumer Staples | Equity | 1.49% |
-| [Indusind Bank Ltd](/stocks/indusind-bank-ltd) | Financial | Equity | 1.46% |
-| [Tata Consumer Products Ltd](/stocks/tata-global-beverages-ltd) | Consumer Staples | Equity | 1.39% |
-| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 1.29% |
-| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 1.17% |
-| [Swiggy Ltd.](/stocks/swiggy-ltd) | Technology | Equity | 1.13% |
-| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.07% |
-| [Adani Ports and Special Economic Zone Ltd](/stocks/adani-ports-and-special-economic-zone-ltd) | Industrials | Equity | 1.01% |
-| [SRF Ltd](/stocks/srf-ltd) | Materials | Equity | 0.97% |
-| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 0.94% |
-| [TATA CAPITAL LIMITED EQ](/stocks/tata-capital-ltd) | Financial | Equity | 0.77% |
-| [Dabur India Ltd](/stocks/dabur-india-ltd) | Consumer Staples | Equity | 0.74% |
-| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 0.66% |
-| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 0.66% |
-| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 0.62% |
-| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.50% |
-| [Tata Motors Ltd](/stocks/tata-motors-ltd) | Consumer Discretionary | Equity | 0.48% |
-| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 0.34% |
-| [Cummins India Ltd](/stocks/cummins-india-ltd) | Industrials | Equity | 0.33% |
-| [Billionbrains Garage Ventures Ltd.](/stocks/billionbrains-garage-ventures-ltd) | Financial | Equity | 0.30% |
+| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 1.82% |
+| [Max Healthcare Institute Ltd](/stocks/max-healthcare-institute-ltd) | Healthcare | Equity | 1.81% |
+| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 1.80% |
+| [Mankind Pharma Ltd.](/stocks/mankind-pharma-ltd) | Healthcare | Equity | 1.68% |
+| [Indusind Bank Ltd](/stocks/indusind-bank-ltd) | Financial | Equity | 1.56% |
+| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 1.36% |
+| [Tata Consumer Products Ltd](/stocks/tata-global-beverages-ltd) | Consumer Staples | Equity | 1.36% |
+| [Vishal Mega Mart Ltd.](/stocks/vishal-mega-mart-ltd) | Consumer Staples | Equity | 1.31% |
+| [Swiggy Ltd.](/stocks/swiggy-ltd) | Technology | Equity | 1.31% |
+| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.19% |
+| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 1.06% |
+| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 1.01% |
+| [Adani Ports and Special Economic Zone Ltd](/stocks/adani-ports-and-special-economic-zone-ltd) | Industrials | Equity | 0.92% |
+| [SRF Ltd](/stocks/srf-ltd) | Materials | Equity | 0.91% |
+| [TATA CAPITAL LIMITED EQ](/stocks/tata-capital-ltd) | Financial | Equity | 0.74% |
+| [Dabur India Ltd](/stocks/dabur-india-ltd) | Consumer Staples | Equity | 0.72% |
+| [SBI Funds Management Ltd](/stocks/sbi-funds-management-ltd) | Financial | Equity | 0.68% |
+| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 0.67% |
+| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 0.58% |
+| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.48% |
+| [Tata Motors Ltd](/stocks/tata-motors-ltd) | Consumer Discretionary | Equity | 0.45% |
+| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 0.35% |
+| [Cummins India Ltd](/stocks/cummins-india-ltd) | Industrials | Equity | 0.32% |
+| [Billionbrains Garage Ventures Ltd.](/stocks/billionbrains-garage-ventures-ltd) | Financial | Equity | 0.28% |
+| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 0.25% |
 | [Hindalco Industries Ltd](/stocks/hindalco-industries-ltd) | Materials | Equity | 0.22% |
-| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 0.18% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.10% |
+| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 0.19% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.18% |
 
 See All
 
@@ -135,9 +136,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.1% | +12.9% | +12.8% | +13.2% |
+| Fund returns | +11.4% | +13.0% | +13.0% | +13.2% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 43 | 17 | 13 | -- |
+| Rank (Equity Large Cap) | 43 | 17 | 12 | -- |
 
 ## Understand terms
 
@@ -191,11 +192,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +7.25% | +15.69% | 1,931.40 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.79% | +14.46% | 2,144.56 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -0.82% | +12.93% | 80,960.34 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.45% | +12.75% | 54,224.57 |
-| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +2.37% | +11.83% | 1,443.24 |
+| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +8.14% | +16.04% | 1,931.40 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +5.00% | +14.78% | 2,144.56 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -0.13% | +13.15% | 80,960.34 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | +0.33% | +13.10% | 54,224.57 |
+| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +3.38% | +12.13% | 1,443.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-large-cap-fund-direct-growth) | | | | |
@@ -236,25 +237,25 @@ Also manages these schemes
 
 [HDFC Value Fund Direct Plan Growth](/mutual-funds/hdfc-value-fund-direct-plan-growth)
 
-[HDFC Low Duration Fund Direct Growth](/mutual-funds/hdfc-low-duration-fund-direct-growth)
+[HDFC Ultra Short to Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-to-short-term-fund-direct-growth)
 
 [HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
 
-[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
+[HDFC Floating Interest Rates Fund Direct Plan Growth](/mutual-funds/hdfc-floating-interest-rates-fund-direct-plan-growth)
 
 [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+[HDFC Dynamic Term Fund Direct Plan Growth](/mutual-funds/hdfc-dynamic-term-fund-direct-plan-growth)
 
-[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
+[HDFC Medium Term Fund Direct Growth](/mutual-funds/hdfc-medium-term-fund-direct-growth)
 
-[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
+[HDFC Medium to Long Term Fund Direct Growth](/mutual-funds/hdfc-medium-to-long-term-fund-direct-growth)
 
 [HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
 
 [HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
 
-[HDFC Hybrid Debt Fund Direct Growth](/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth)
+[HDFC Conservative Hybrid Fund Direct Growth](/mutual-funds/hdfc-conservative-hybrid-fund-direct-growth)
 
 [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
 
@@ -262,21 +263,21 @@ Also manages these schemes
 
 [HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
-[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
+[HDFC Aggressive Hybrid Fund Direct Plan Growth](/mutual-funds/hdfc-aggressive-hybrid-fund-direct-plan-growth)
 
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+[HDFC Short Term Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-fund-direct-plan-growth)
 
 [HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
 
 [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
 
-[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
+[HDFC Credit Risk Fund Direct Growth](/mutual-funds/hdfc-credit-risk-fund-direct-growth)
 
 [HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
-[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
+[HDFC Large & Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-mid-cap-fund-direct-growth)
 
 [HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
 
@@ -288,11 +289,11 @@ Also manages these schemes
 
 [HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+[HDFC Retirement Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-debt-plan-direct-growth)
 
 [HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
 
@@ -302,7 +303,7 @@ Also manages these schemes
 
 [HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
 
-[HDFC Long Duration Debt Fund Direct Growth](/mutual-funds/hdfc-long-duration-debt-fund-direct-growth)
+[HDFC Long Term Fund Direct Growth](/mutual-funds/hdfc-long-term-fund-direct-growth)
 
 [HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
 
@@ -328,7 +329,7 @@ Also manages these schemes
 
 HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,6
 
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹1,243.69.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹1,247.08.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -393,7 +394,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Large Cap Fund Direct Growth provide?
 
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.20% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.21% since its inception.
 
 ### How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
 
@@ -401,13 +402,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 25 Aug 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 27 Aug 2026...
 
 ### What is the AUM of HDFC Large Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 25 Aug 2026.
+of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 27 Aug 2026.
 
 ### How to Redeem HDFC Large Cap Fund Direct Growth?
 
@@ -424,7 +425,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Large Cap Fund Direct Growth?
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,243.69 as of 24 Aug 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,247.08 as of 26 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 

@@ -1,8 +1,8 @@
-+70123456789.5012345678980123456789%
++70123456789.5012345678990123456789%
 
 3Y annualised
 
-+0.05% 1D
++0.04% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 24 Aug '26
+NAV: 25 Aug '26
 
-₹35.34
+₹35.36
 
 Min. for SIP
 
@@ -45,148 +45,151 @@ Monthly investment
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
 | 1 year | ₹1,200 | ₹1,232 | | +2.67% |
-| 3 years | ₹3,600 | ₹3,987 | | +10.75% |
-| 5 years | ₹6,000 | ₹7,156 | | +19.27% |
-| 10 years | ₹12,000 | ₹17,320 | | +44.33% |
+| 3 years | ₹3,600 | ₹3,988 | | +10.78% |
+| 5 years | ₹6,000 | ₹7,157 | | +19.28% |
+| 10 years | ₹12,000 | ₹17,324 | | +44.37% |
 
-## Holdings (150)
+## Holdings (153)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC | Energy & Utilities | Bonds/NCDs | 2.91% |
-| JUBILANT BEVERAGES LIMITED NCD 31MY28 FVRS1LAC | Consumer Staples | Debenture | 2.84% |
-| Net Current Assets | Unspecified | Net Current Assets | 2.83% |
-| JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC | Materials | Debenture | 2.57% |
-| [JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC](/stocks/jamnagar-utilities-power-pvt-ltd-juppl-144) | Industrials | Debenture | 2.36% |
-| SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 2.29% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC](/stocks/nabard-bonds-feb) | Financial | Bonds | 2.12% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC | Financial | Debenture | 2.01% |
-| PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC | Industrials | Debenture | 1.66% |
-| POWER FINANCE CORPORATION LIMITED SR 251A 6.27 BD 15JL27 FVRS1LAC | Financial | Bonds | 1.65% |
-| TATA COMMUNICATIONS LIMITED 6.77 NCD 07AG28 FVRS1LAC | Technology | Non Convertible Debenture | 1.65% |
+| [JUBILANT BEVERAGES LIMITED NCD 31MY28 FVRS1LAC](/stocks/INE1D4O08012) | Consumer Staples | Debenture | 2.84% |
+| [JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC](/stocks/INE02PE08036) | Materials | Debenture | 2.57% |
+| Net Current Assets | Unspecified | Net Current Assets | 2.53% |
+| [JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC](/stocks/jamnagar-utilities-power-pvt-ltd-juppl-144) | Industrials | Debenture | 2.34% |
+| SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 2.28% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC](/stocks/nabard-bonds-feb) | Financial | Bonds | 2.10% |
+| [ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC](/stocks/INE01QP08016) | Energy & Utilities | Bonds/NCDs | 2.06% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC](/stocks/INE261F08EI9) | Financial | Debenture | 1.99% |
+| Repo | Unspecified | Repo | 1.83% |
+| [PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC](/stocks/INE01XX07034) | Industrials | Debenture | 1.64% |
+| [TATA COMMUNICATIONS LIMITED 6.77 NCD 07AG28 FVRS1LAC](/stocks/INE151A08356) | Technology | Non Convertible Debenture | 1.64% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC](/stocks/INE377Y07649) | Financial | Non Convertible Debenture | 1.50% |
 | SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 1.48% |
-| TVS CREDIT SERVICES LIMITED 9.30 NCD 27JU29 FVRS1CR | Financial | Non Convertible Debenture | 1.37% |
-| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC](/stocks/cholamandalam-investment-and-finance-company-limited-27-jun-2031-001) | Financial | Non Convertible Debenture | 1.36% |
-| BAJAJ HOUSING FINANCE LIMITED 8.10 NCD 08JL27 FVRS1LAC | Financial | Debenture | 1.34% |
-| BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC | Financial | Non Convertible Debenture | 1.34% |
-| STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 1.33% |
-| ASCENDAS IT PARK (PUNE) PRIVATE LIMITED 7.25 NCD 02JN29 FVRS1LAC | Others | Debenture | 1.32% |
-| [REC LIMITED SR 216A 7.55 BD 31MR28 FVRS10LAC](/stocks/rec-ltd-recl-451) | Financial | Debenture | 1.31% |
-| CANARA BANK CD 08DEC26 | Financial | Certificate of Deposit | 1.29% |
-| CENTRAL GOVERNMENT LOAN 30814 GOI FRB 04OT28 FV RS 100 | Entities | GOI Securities | 1.21% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC | Financial | Debenture | 1.17% |
-| HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC | Financial | Non Convertible Debenture | 1.16% |
-| CENTRAL GOVERNMENT LOAN 20388 GOI 07DC31 FLT FV RS 100 | Entities | GOI Securities | 1.03% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nabard-354) | Financial | Debenture | 1.01% |
-| HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC | Financial | Debenture | 1.01% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC | Financial | Bonds | 1.00% |
-| REC LIMITED SR 245A 7.44 BD 29FB28 FVRS1LAC | Financial | Bonds | 1.00% |
-| POONAWALLA FINCORP LIMITED SR A1 7.65 NCD 21AP27 FVRS1LAC | Financial | Non Convertible Debenture | 1.00% |
-| MOTILAL OSWAL FINANCIAL SERVICES LIMITED SR I 8.50 NCD 06AG27 FVRS1LAC | Financial | Non Convertible Debenture | 1.00% |
-| POONAWALLA FINCORP LIMITED SR G1 TR 1 7.55 NCD 25MR27 FVRS1LAC | Financial | Debenture | 1.00% |
-| SUNDARAM HOME FINANCE LIMITED SR 343 7.9 NCD 24SP27 FVRS1LAC | Financial | Debenture | 0.97% |
-| [REC LIMITED SR GOI - VIII 8.30 BD 25MR29 FVRS10LAC](/stocks/rec-ltd-recl-294898) | Financial | Non Convertible Debenture | 0.89% |
-| PIPELINE INFRASTRUCTURE LIMITED SR 1 7.96 NCD 11MR27 FVRS1LAC | Industrials | Debenture | 0.86% |
-| [HDFC BANK LIMITED SR AB002 7.97 NCD 17FB33 FVRS1LAC](/stocks/housing-development-finance-corpltd-hdfcl-556) | Financial | Debenture | 0.85% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 0.84% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.68 BD 10AG27 FVRS1LAC | Financial | Debenture | 0.84% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC | Financial | Bonds | 0.84% |
-| POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC | Financial | Bonds | 0.84% |
-| GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.83% |
-| POWER FINANCE CORPORATION LIMITED SR 250B 6.64 BD 15JL30 FVRS1LAC | Financial | Debenture | 0.82% |
+| TVS CREDIT SERVICES LIMITED 9.30 NCD 27JU29 FVRS1CR | Financial | Non Convertible Debenture | 1.36% |
+| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC](/stocks/cholamandalam-investment-and-finance-company-limited-27-jun-2031-001) | Financial | Non Convertible Debenture | 1.34% |
+| STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 1.32% |
+| [ASCENDAS IT PARK (PUNE) PRIVATE LIMITED 7.25 NCD 02JN29 FVRS1LAC](/stocks/INE0OJ808028) | Others | Debenture | 1.31% |
+| [REC LIMITED SR 216A 7.55 BD 31MR28 FVRS10LAC](/stocks/rec-ltd-recl-451) | Financial | Debenture | 1.30% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 1.17% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC](/stocks/INE556F08KM1) | Financial | Debenture | 1.16% |
+| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC](/stocks/INE031A08996) | Financial | Non Convertible Debenture | 1.15% |
+| CENTRAL GOVERNMENT LOAN 20388 GOI 07DC31 FLT FV RS 100 | Entities | GOI Securities | 1.02% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nabard-354) | Financial | Debenture | 1.00% |
+| HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC | Financial | Debenture | 1.00% |
+| [REC LIMITED SR 232 A 7.59 BD 31MY27 FVRS1LAC](/stocks/INE020B08FA2) | Financial | Debenture | 1.00% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC](/stocks/INE261F08EM1) | Financial | Bonds | 1.00% |
+| [REC LIMITED SR 245A 7.44 BD 29FB28 FVRS1LAC](/stocks/INE020B08FR6) | Financial | Bonds | 1.00% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC](/stocks/INE556F08KW0) | Financial | Bonds/NCDs | 0.99% |
+| [POONAWALLA FINCORP LIMITED SR A1 7.65 NCD 21AP27 FVRS1LAC](/stocks/INE511C07854) | Financial | Non Convertible Debenture | 0.99% |
+| [POONAWALLA FINCORP LIMITED SR G1 TR 1 7.55 NCD 25MR27 FVRS1LAC](/stocks/INE511C07946) | Financial | Debenture | 0.99% |
+| [POWER FINANCE CORPORATION LIMITED SR 251A 6.27 BD 15JL27 FVRS1LAC](/stocks/INE134E08NT9) | Financial | Bonds | 0.98% |
+| CANARA BANK CD 08DEC26 | Financial | Certificate of Deposit | 0.97% |
+| SUNDARAM HOME FINANCE LIMITED SR 343 7.9 NCD 24SP27 FVRS1LAC | Financial | Debenture | 0.96% |
+| [REC LIMITED SR GOI - VIII 8.30 BD 25MR29 FVRS10LAC](/stocks/rec-ltd-recl-294898) | Financial | Non Convertible Debenture | 0.88% |
+| LIC HOUSING FINANCE LIMITED SR TR 376 8.80 LOA 25JN29 FVRS10LAC | Financial | Debenture | 0.85% |
+| [PIPELINE INFRASTRUCTURE LIMITED SR 1 7.96 NCD 11MR27 FVRS1LAC](/stocks/INE01XX07059) | Industrials | Debenture | 0.85% |
+| [HDFC BANK LIMITED SR AB002 7.97 NCD 17FB33 FVRS1LAC](/stocks/housing-development-finance-corpltd-hdfcl-556) | Financial | Debenture | 0.84% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.68 BD 10AG27 FVRS1LAC](/stocks/INE556F08KP4) | Financial | Debenture | 0.83% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC](/stocks/INE261F08EL3) | Financial | Bonds | 0.83% |
+| [POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC](/stocks/INE134E08NM4) | Financial | Bonds | 0.83% |
+| [MOTILAL OSWAL FINANCIAL SERVICES LIMITED SR I 8.50 NCD 06AG27 FVRS1LAC](/stocks/INE338I07180) | Financial | Non Convertible Debenture | 0.83% |
 | [REC LIMITED SR GOI-VI 8.80 BD 22JN29 FVRS10LAC](/stocks/rec-ltd-rec-294183) | Financial | Debenture | 0.69% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 133 8.35 LOA 13MR29 FVRS10LAC](/stocks/indian-railway-finance-corporation-irfc-294901) | Financial | Debenture | 0.69% |
-| 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.69% |
 | LIC Housing Finance Ltd Debenture 8.75 08/12/2028 | Financial | Debenture | 0.68% |
-| LIC HOUSING FINANCE LIMITED SR TRANCHE 386 7.99 LOA 12JL29 FVRS10LAC | Financial | Non Convertible Debenture | 0.68% |
-| [POWER FINANCE CORPORATION LTD. SR 223 7.64 BD 22FB33 FVRS1LAC](/stocks/power-finance-corporation-ltd-pfc-625) | Financial | Debenture | 0.68% |
-| INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 174 7.67 BD 15DC33 FVRS1LAC | Financial | Bonds | 0.68% |
-| REC LIMITED SR 234-B 7.58 BD 31MY29 FVRS1LAC | Financial | Debenture | 0.68% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 133 8.35 LOA 13MR29 FVRS10LAC](/stocks/indian-railway-finance-corporation-irfc-294901) | Financial | Debenture | 0.68% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 174 7.67 BD 15DC33 FVRS1LAC](/stocks/INE053F08346) | Financial | Bonds | 0.68% |
 | [TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S52 7.6950 NCD 13JU28 FVRS1LAC](/stocks/toyota-financial-services-india-ltd-tfsil-976) | Financial | Non Convertible Debenture | 0.68% |
 | [Indian Railway Finance Corporation Ltd SR-118 Bonds 7.83 21/03/2027](/stocks/indian-railway-finance-corporation-irfc-285382) | Financial | Bonds | 0.67% |
-| SUNDARAM FINANCE LIMITED SR X2 7.75 NCD 08AG28 FVRS1LAC | Financial | Bonds | 0.67% |
+| LIC HOUSING FINANCE LIMITED SR TRANCHE 386 7.99 LOA 12JL29 FVRS10LAC | Financial | Non Convertible Debenture | 0.67% |
+| [POWER FINANCE CORPORATION LTD. SR 223 7.64 BD 22FB33 FVRS1LAC](/stocks/power-finance-corporation-ltd-pfc-625) | Financial | Debenture | 0.67% |
 | [CHOLAMANDALAM INVESTMENT AND FIN. CO. LTD SR V TR IV 8.60 NCD 31JN29 FVRS1000](/stocks/cholamandalam-investment-and-finance-company-limited-31-jan-2029-002) | Financial | Non Convertible Debenture | 0.67% |
-| BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC | Financial | Non Convertible Debenture | 0.67% |
-| REC LIMITED SR 236-B 7.56 BD 31AG27 FVRS1LAC | Financial | Debenture | 0.67% |
-| SMFG INDIA CREDIT COMPANY LIMITED SR 109 OP I 8.30 NCD 30JU27 FVRS1LAC | Financial | Non Convertible Debenture | 0.67% |
+| [BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC](/stocks/INE377Y07474) | Financial | Non Convertible Debenture | 0.67% |
+| [REC LIMITED SR 234-B 7.58 BD 31MY29 FVRS1LAC](/stocks/INE020B08FD6) | Financial | Debenture | 0.67% |
+| [SMFG INDIA CREDIT COMPANY LIMITED SR 109 OP I 8.30 NCD 30JU27 FVRS1LAC](/stocks/INE535H07CJ6) | Financial | Non Convertible Debenture | 0.67% |
 | LIC HOUSING FINANCE LTD TR 444 7.75 NCD 23AG29 FVRS1LAC | Financial | Debenture | 0.67% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.51 BD 12JU28 FVRS1LAC | Financial | Bonds | 0.67% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.39 BD 21MR30 FVRS1LAC | Financial | Bonds | 0.67% |
-| [TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC](/stocks/tata-capital-ltd-taca-948) | Financial | Non Convertible Debenture | 0.67% |
-| CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC | Financial | Debenture | 0.67% |
-| PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC | Financial | Bonds | 0.66% |
+| SUNDARAM FINANCE LIMITED SR X2 7.75 NCD 08AG28 FVRS1LAC | Financial | Bonds | 0.66% |
+| [REC LIMITED SR 236-B 7.56 BD 31AG27 FVRS1LAC](/stocks/INE020B08FF1) | Financial | Debenture | 0.66% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.51 BD 12JU28 FVRS1LAC](/stocks/INE556F08KU4) | Financial | Bonds | 0.66% |
+| [PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC](/stocks/INE160A08324) | Financial | Bonds | 0.66% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.39 BD 21MR30 FVRS1LAC](/stocks/INE556F08KY6) | Financial | Bonds | 0.66% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC](/stocks/INE261F08EU4) | Financial | Bonds | 0.66% |
 | [SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC](/stocks/sundaram-finance-ltd-sfl-29) | Financial | Debenture | 0.66% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.64% |
-| INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.62% |
-| India Universal Trust AL1 Sec. Debt 8.20 20/09/2030 | Unspecified | Securitised Debt | 0.61% |
-| NTPC GREEN ENERGY LIMITED 7.01 SR 1 NCD 12NV35 FVRS1LAC | Energy & Utilities | Non Convertible Debenture | 0.59% |
+| [TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC](/stocks/tata-capital-ltd-taca-948) | Financial | Non Convertible Debenture | 0.66% |
+| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC](/stocks/INE121A07SU3) | Financial | Debenture | 0.66% |
+| [POWER FINANCE CORPORATION LIMITED SR 250B 6.64 BD 15JL30 FVRS1LAC](/stocks/INE134E08NR3) | Financial | Debenture | 0.65% |
+| GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.65% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR II 6.74 BD 10JN29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-sidbi-360) | Financial | Debenture | 0.65% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.63% |
+| INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.61% |
+| India Universal Trust AL1 Sec. Debt 8.20 20/09/2030 | Unspecified | Securitised Debt | 0.60% |
+| [NTPC GREEN ENERGY LIMITED 7.01 SR 1 NCD 12NV35 FVRS1LAC](/stocks/INE0ONG08016) | Energy & Utilities | Non Convertible Debenture | 0.59% |
 | STATE DEVELOPMENT LOAN 36822 GOA 17DC35 7.34 FV RS 100 | Unspecified | State Development Loan | 0.59% |
 | [Power Finance Corporation Ltd SR-164 Bonds 7.75 22/03/2027](/stocks/power-finance-corporation-ltd-pfc-285331) | Financial | Bonds | 0.57% |
-| [MUTHOOT FINANCE LIMITED 8.78 NCD 20MY27 FVRS1LAC](/stocks/muthoot-finance-limited-20-may-2027-001) | Financial | Debenture | 0.57% |
-| INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC | Financial | Non Convertible Debenture | 0.57% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR PC1POB1 7.43 LOA 31JN30 FVRS10LAC | Financial | Debenture | 0.54% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC](/stocks/INE053F08387) | Financial | Non Convertible Debenture | 0.57% |
 | STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100 | Industrials | State Development Loan | 0.54% |
-| PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC | Industrials | Debenture | 0.54% |
-| INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC | Financial | Bonds | 0.54% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC](/stocks/rural-electrification-corporation-ltd-recl-293033) | Financial | Zero Coupon Bonds | 0.52% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES GOI-V 8.54 BD 15NV28 FVRS10LAC](/stocks/rec-ltd-recl-293479) | Financial | Debenture | 0.52% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR F24 7.68 BD 30AP29 FVRS1LAC | Financial | Debenture | 0.51% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC | Financial | Bonds | 0.51% |
-| GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 | Entities | GOI Securities | 0.51% |
-| KOTAK MAHINDRA INVESTMENTS LIMITED 8.3774 NCD 21JU27 FVRS1LAC | Financial | Debenture | 0.50% |
-| MUTHOOT FINANCE LIMITED 9.02 NCD 14JL27 FVRS1LAC | Financial | Debenture | 0.50% |
-| REC LIMITED SR 232 A 7.59 BD 31MY27 FVRS1LAC | Financial | Debenture | 0.50% |
-| MUTHOOT FINANCE LIMITED 8.60 NCD 02MR28 FVRS1LAC | Financial | Non Convertible Debenture | 0.50% |
-| POONAWALLA FINCORP LIMITED SR K2 7.8788 NCD 12JU28 FVRS1LAC | Financial | Non Convertible Debenture | 0.50% |
-| MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC | Financial | Debenture | 0.50% |
-| BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC | Financial | Non Convertible Debenture | 0.49% |
-| RJ CORP LIMITED 7.25 NCD 08DC28 FVRS1LAC | Consumer Staples | Debenture | 0.49% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC](/stocks/INE053F08536) | Financial | Bonds | 0.54% |
+| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR PC1POB1 7.43 LOA 31JN30 FVRS10LAC | Financial | Debenture | 0.53% |
+| [PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC](/stocks/INE01XX07042) | Industrials | Debenture | 0.53% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC](/stocks/rural-electrification-corporation-ltd-recl-293033) | Financial | Zero Coupon Bonds | 0.51% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES GOI-V 8.54 BD 15NV28 FVRS10LAC](/stocks/rec-ltd-recl-293479) | Financial | Debenture | 0.51% |
+| 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.51% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR F24 7.68 BD 30AP29 FVRS1LAC](/stocks/INE261F08EG3) | Financial | Debenture | 0.50% |
+| [KOTAK MAHINDRA INVESTMENTS LIMITED 8.3774 NCD 21JU27 FVRS1LAC](/stocks/INE975F07IR8) | Financial | Debenture | 0.50% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC](/stocks/INE261F08EJ7) | Financial | Bonds | 0.50% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-bonds-feb) | Financial | Bonds | 0.50% |
+| [MUTHOOT FINANCE LIMITED 8.60 NCD 02MR28 FVRS1LAC](/stocks/INE414G07JM5) | Financial | Non Convertible Debenture | 0.50% |
+| [POONAWALLA FINCORP LIMITED SR K2 7.8788 NCD 12JU28 FVRS1LAC](/stocks/INE511C07995) | Financial | Non Convertible Debenture | 0.50% |
+| GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 | Entities | GOI Securities | 0.50% |
+| [MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC](/stocks/INE414G07JZ7) | Financial | Debenture | 0.50% |
+| [BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC](/stocks/INE377Y07540) | Financial | Non Convertible Debenture | 0.49% |
+| [RJ CORP LIMITED 7.25 NCD 08DC28 FVRS1LAC](/stocks/INE460K08053) | Consumer Staples | Debenture | 0.49% |
+| BANK OF BARODA CD 08MAR27 | Financial | Certificate of Deposit | 0.48% |
 | STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100 | Unspecified | State Development Loan | 0.46% |
-| India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.42% |
-| BAJAJ HOUSING FINANCE LIMITED 7.10 NCD 16OT28 FVRS1LAC | Financial | Debenture | 0.39% |
-| [GOI Sec 7.18 14/08/2033](/stocks/goi-loan--949) | Entities | GOI Securities | 0.38% |
+| India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.40% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.10 NCD 16OT28 FVRS1LAC](/stocks/INE377Y07607) | Financial | Debenture | 0.38% |
+| [GOI Sec 7.18 14/08/2033](/stocks/goi-loan--949) | Entities | GOI Securities | 0.37% |
 | STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100 | Industrials | State Development Loan | 0.37% |
-| [RELIANCE INDUSTRIES LIMITED PPD SR 1B 8.65 NCD 11DC28 FVRS10LAC](/stocks/reliance-industries-ltd-ril-293790) | Energy & Utilities | Non Convertible Debenture | 0.35% |
+| UCO BANK CD 15JUN27 | Financial | Certificate of Deposit | 0.37% |
 | Others Class A2 AIF | Unspecified | Alternative Investment Fund | 0.35% |
+| [RELIANCE INDUSTRIES LIMITED PPD SR 1B 8.65 NCD 11DC28 FVRS10LAC](/stocks/reliance-industries-ltd-ril-293790) | Energy & Utilities | Non Convertible Debenture | 0.34% |
 | LIC HOUSING FINANCE LIMITED TRANCHE 382 8.7 LOA 23MR29 FVRS10LAC | Financial | Debenture | 0.34% |
-| REC LIMITED SR 227-B 7.71 BD 31OT33 FVRS1LAC | Financial | Debenture | 0.34% |
-| POWER FINANCE CORPORATION LIMITED SR 237A 7.60 BD 13AP29 FVRS1LAC | Financial | Non Convertible Debenture | 0.34% |
-| STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.34% |
-| [JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD 6 6.40 LOA 29SP26 FVRS10LAC](/stocks/jamnagar-utilities-power-pvt-ltd-juppl-264) | Industrials | Non Convertible Debenture | 0.33% |
-| REC LIMITED SR 231A 7.64 BD 30AP27 FVRS1LAC | Financial | Non Convertible Debenture | 0.33% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC | Financial | Bonds/NCDs | 0.33% |
-| ULTRATECH CEMENT LIMITED SR I 7.34 NCD 03MR28 FVRS1LAC | Materials | Non Convertible Debenture | 0.33% |
-| HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 7.12 NCD 26DC34 FVRS1LAC | Financial | Debenture | 0.33% |
-| BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC | Financial | Non Convertible Debenture | 0.33% |
-| POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC | Financial | Non Convertible Debenture | 0.33% |
+| [REC LIMITED SR 227-B 7.71 BD 31OT33 FVRS1LAC](/stocks/INE020B08EQ1) | Financial | Debenture | 0.34% |
+| [POWER FINANCE CORPORATION LIMITED SR 237A 7.60 BD 13AP29 FVRS1LAC](/stocks/INE134E08MX3) | Financial | Non Convertible Debenture | 0.33% |
+| [REC LIMITED SR 231A 7.64 BD 30AP27 FVRS1LAC](/stocks/INE020B08EX7) | Financial | Non Convertible Debenture | 0.33% |
+| [ULTRATECH CEMENT LIMITED SR I 7.34 NCD 03MR28 FVRS1LAC](/stocks/INE481G08123) | Materials | Non Convertible Debenture | 0.33% |
+| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 7.12 NCD 26DC34 FVRS1LAC](/stocks/INE031A08921) | Financial | Debenture | 0.33% |
+| [BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC](/stocks/INE296A07TI6) | Financial | Non Convertible Debenture | 0.33% |
+| [POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC](/stocks/INE511C07847) | Financial | Non Convertible Debenture | 0.33% |
 | [MUTHOOT FINANCE LIMITED 8.05 NCD 25NV27 FVRS1LAC](/stocks/muthoot-finance-ltd-mfl-532) | Financial | Debenture | 0.33% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC | Financial | Non Convertible Debenture | 0.33% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC](/stocks/INE556F08KZ3) | Financial | Non Convertible Debenture | 0.33% |
 | [SMFG INDIA CREDIT COMPANY LIMITED SR 114 7.30 NCD 10JL28 FVRS1LAC](/stocks/smfg-india-credit-company-ltd-sicca) | Financial | Debenture | 0.33% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC | Financial | Debenture | 0.33% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC](/stocks/INE556F08LC0) | Financial | Debenture | 0.33% |
+| STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.33% |
+| STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100 | Unspecified | State Development Loan | 0.33% |
+| CANARA BANK CD 26FEB27 | Financial | Certificate of Deposit | 0.32% |
 | STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100 | Industrials | State Development Loan | 0.30% |
 | STATE DEVELOPMENT LOAN 36739 GUJ 26NV33 7.07 FV RS 100 | Industrials | State Development Loan | 0.30% |
 | [MAHANAGAR TELEPHONE NIGAM LIMITED. SR V/2020 7.05 LOA 110T30 FVRS10LAC](/stocks/mahanagar-telephone-nigam-ltd-mtnl-324) | Technology | Debenture | 0.29% |
 | STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100 | Unspecified | State Development Loan | 0.29% |
 | TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC | Financial | Debenture | 0.27% |
-| NOMURA CAPITAL (INDIA) PVT. LTD. SR 04A/2024 8.45 NCD 01SP27 FVRS1LAC | Financial | Floating Rate Bond | 0.27% |
-| JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC | Consumer Staples | Debenture | 0.26% |
+| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04A/2024 8.45 NCD 01SP27 FVRS1LAC](/stocks/INE357L07507) | Financial | Floating Rate Bond | 0.27% |
+| [JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC](/stocks/INE1D4P08019) | Consumer Staples | Debenture | 0.26% |
 | STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100 | Industrials | State Development Loan | 0.24% |
 | STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100 | Industrials | State Development Loan | 0.24% |
-| Repo | Unspecified | Repo | 0.21% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES 169 8.37 BD 07DC28 FVRS10LAC](/stocks/rec-ltd-recl-958419) | Financial | Debenture | 0.21% |
-| LIC HOUSING FINANCE LIMITED SR TR 376 8.80 LOA 25JN29 FVRS10LAC | Financial | Debenture | 0.17% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES 169 8.37 BD 07DC28 FVRS10LAC](/stocks/rec-ltd-recl-958419) | Financial | Debenture | 0.20% |
 | [POWER FINANCE CORPORATION LTD. SERIES 187(B) 8.85 BD 25MY29 FVRS10LAC](/stocks/power-finance-corporation-ltd-pfcl-295422) | Financial | Bonds/NCDs | 0.17% |
 | [REC LIMITED SR GOI-IX 7.14 BD 02MR30 FVRS10LAC](/stocks/rec-ltd-recl-555) | Financial | Debenture | 0.17% |
 | HDFC BANK LIMITED SR V004 8.55 NCD 27MR29 FVRS10LAC | Financial | Debenture | 0.17% |
 | [POWER FINANCE CORPORATION LTD. SR BS233C 7.60 BD 25AG33 FVRS1LAC](/stocks/power-finance-corporation-ltd-pfcl-709) | Financial | Fixed Deposits | 0.17% |
-| 7.70%PFC SERIES 234 UNSECURED BONDS (MATURITY - 30.11.2033) | Financial | Debenture | 0.17% |
-| BAJAJ FINANCE LIMITED 7.92 NCD 20FB34 FVRS1LAC | Financial | Non Convertible Debenture | 0.17% |
+| [7.70%PFC SERIES 234 UNSECURED BONDS (MATURITY - 30.11.2033)](/stocks/INE134E08MU9) | Financial | Debenture | 0.17% |
+| [BAJAJ FINANCE LIMITED 7.92 NCD 20FB34 FVRS1LAC](/stocks/INE296A07SW9) | Financial | Non Convertible Debenture | 0.17% |
 | STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100 | Financial | State Development Loan | 0.17% |
 | RELIANCE INDUSTRIES LIMITED SR IA 8.70 NCD 11DC28 FVRS10LAC | Energy & Utilities | Non Convertible Debenture | 0.17% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26B 6.85 BD 19JN29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nbrd-360) | Financial | Bonds | 0.17% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC | Financial | Bonds | 0.17% |
-| BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC | Financial | Bonds/NCDs | 0.16% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC](/stocks/INE556F08LD8) | Financial | Bonds | 0.17% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.53 NCD 28SP29 FVRS1LAC](/stocks/INE377Y07672) | Financial | Non Convertible Debenture | 0.17% |
+| [BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC](/stocks/INE296A07TH8) | Financial | Bonds/NCDs | 0.16% |
 | STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100 | Unspecified | State Development Loan | 0.16% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26B 6.85 BD 19JN29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nbrd-360) | Financial | Bonds | 0.16% |
 | STATE DEVELOPMENT LOAN 36583 AP 08OT33 7.14 FV RS 100 | Financial | State Development Loan | 0.16% |
 | [POWER FINANCE CORPORATION LTD. TRI SRIV CATIII&IV 7 NCD 22JN31 FVRS1000](/stocks/power-finance-corporation-ltd-pfcl-21) | Financial | Debenture | 0.15% |
 | [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES V 8.41 LOA 15MR29 FVRS10LAC](/stocks/housing-urban-development-corporation-ltd-hudco-294781) | Financial | Debenture | 0.14% |
@@ -196,13 +199,13 @@ Monthly investment
 | STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100 | Unspecified | State Development Loan | 0.13% |
 | STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100 | Financial | State Development Loan | 0.11% |
 | 7.72% Maharashtra State Dev. Loan (MD 25/05/2034) | Unspecified | State Development Loan | 0.10% |
-| NOMURA CAPITAL (INDIA) PVT. LTD. SR 04B/2024 8.45 NCD 01MR27 FVRS1LAC | Financial | Non Convertible Debenture | 0.10% |
+| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04B/2024 8.45 NCD 01MR27 FVRS1LAC](/stocks/INE357L07499) | Financial | Non Convertible Debenture | 0.10% |
 | STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100 | Financial | State Development Loan | 0.10% |
-| SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.09% |
+| SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.07% |
 | STATE DEVELOPMENT LOAN 36584 AP 08OT36 7.27 FV RS 100 | Financial | State Development Loan | 0.07% |
 | TATA MOTORS FINANCE LIMITED SR A NCD 28AG26 FVRS10LAC | Financial | Zero Coupon Bonds | 0.05% |
-| INDIA UNIVERSAL TRUST AL2 SERIES A1 PTC 27NOV24 | Unspecified | Securitised Debt | 0.05% |
 | STATE DEVELOPMENT LOAN 36527 GUJ 24SP32 7.07 FV RS 100 | Industrials | State Development Loan | 0.05% |
+| INDIA UNIVERSAL TRUST AL2 SERIES A1 PTC 27NOV24 | Unspecified | Securitised Debt | 0.02% |
 
 See All
 
@@ -240,7 +243,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +7.6% | +6.6% | +7.4% | +7.9% |
 | Category average (Debt Short Duration) | +7.1% | +5.9% | +6.6% | -- |
-| Rank (Debt Short Duration) | 8 | 9 | 4 | -- |
+| Rank (Debt Short Duration) | 9 | 9 | 4 | -- |
 
 ## Understand terms
 
@@ -294,14 +297,14 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +6.53% | +7.91% | 19,259.89 |
-| | [Axis Short Duration Fund Direct Growth](/mutual-funds/axis-short-duration-fund-direct-growth) | +6.12% | +7.83% | 8,010.24 |
-| | [Bandhan Short Duration Fund Direct Growth](/mutual-funds/bandhan-short-duration-fund-direct-growth) | +6.37% | +7.76% | 9,287.26 |
-| | [Nippon India Short Duration Fund Direct Growth](/mutual-funds/nippon-india-short-duration-fund-direct-growth) | +5.93% | +7.75% | 7,189.44 |
-| | [HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth) | +5.81% | +7.58% | 15,080.98 |
+| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +6.62% | +7.93% | 19,259.89 |
+| | [Axis Short Term Fund Direct Growth](/mutual-funds/axis-short-term-fund-direct-growth) | +6.19% | +7.84% | 8,010.24 |
+| | [Bandhan Short Duration Fund Direct Growth](/mutual-funds/bandhan-short-duration-fund-direct-growth) | +6.52% | +7.78% | 9,287.26 |
+| | [Nippon India Short Term Fund Direct Growth](/mutual-funds/nippon-india-short-term-fund-direct-growth) | +6.00% | +7.75% | 7,189.44 |
+| | [HDFC Short Term Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-fund-direct-plan-growth) | +5.88% | +7.59% | 15,080.98 |
 | | | | | |
 | --- | --- | --- | --- | --- |
-| [Compare](/mutual-funds/compare/hdfc-short-term-opportunities-fund-direct-growth) | | | | |
+| [Compare](/mutual-funds/compare/hdfc-short-term-fund-direct-plan-growth) | | | | |
 
 ### Fund management
 
@@ -317,21 +320,21 @@ Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.
 
 Also manages these schemes
 
-[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
+[HDFC Floating Interest Rates Fund Direct Plan Growth](/mutual-funds/hdfc-floating-interest-rates-fund-direct-plan-growth)
 
 [HDFC Gilt Fund Direct Growth](/mutual-funds/hdfc-gilt-fund-direct-growth)
 
 [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+[HDFC Dynamic Term Fund Direct Plan Growth](/mutual-funds/hdfc-dynamic-term-fund-direct-plan-growth)
 
-[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
+[HDFC Medium Term Fund Direct Growth](/mutual-funds/hdfc-medium-term-fund-direct-growth)
 
 [HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
 
 [HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+[HDFC Short Term Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-fund-direct-plan-growth)
 
 [HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
 
@@ -361,25 +364,25 @@ Also manages these schemes
 
 [HDFC Value Fund Direct Plan Growth](/mutual-funds/hdfc-value-fund-direct-plan-growth)
 
-[HDFC Low Duration Fund Direct Growth](/mutual-funds/hdfc-low-duration-fund-direct-growth)
+[HDFC Ultra Short to Short Term Fund Direct Growth](/mutual-funds/hdfc-ultra-short-to-short-term-fund-direct-growth)
 
 [HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth)
 
-[HDFC Floating Rate Debt Fund Direct Plan Growth](/mutual-funds/hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth)
+[HDFC Floating Interest Rates Fund Direct Plan Growth](/mutual-funds/hdfc-floating-interest-rates-fund-direct-plan-growth)
 
 [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
 
-[HDFC Dynamic Debt Fund Direct Plan Growth](/mutual-funds/hdfc-high-interest-fund-dynamic-plan-direct-growth)
+[HDFC Dynamic Term Fund Direct Plan Growth](/mutual-funds/hdfc-dynamic-term-fund-direct-plan-growth)
 
-[HDFC Medium Term Debt Fund Direct Growth](/mutual-funds/hdfc-medium-term-debt-fund-direct-growth)
+[HDFC Medium Term Fund Direct Growth](/mutual-funds/hdfc-medium-term-fund-direct-growth)
 
-[HDFC Income Fund Direct Growth](/mutual-funds/hdfc-i-come-fund-direct-growth)
+[HDFC Medium to Long Term Fund Direct Growth](/mutual-funds/hdfc-medium-to-long-term-fund-direct-growth)
 
 [HDFC Infrastructure Fund Direct Growth](/mutual-funds/hdfc-infrastructure-fund-direct-growth)
 
 [HDFC Corporate Bond Fund Direct Plan Growth](/mutual-funds/hdfc-medium-term-opportunities-fund-direct-growth)
 
-[HDFC Hybrid Debt Fund Direct Growth](/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth)
+[HDFC Conservative Hybrid Fund Direct Growth](/mutual-funds/hdfc-conservative-hybrid-fund-direct-growth)
 
 [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth)
 
@@ -387,21 +390,21 @@ Also manages these schemes
 
 [HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
 
-[HDFC Hybrid Equity Fund Direct Plan Growth](/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth)
+[HDFC Aggressive Hybrid Fund Direct Plan Growth](/mutual-funds/hdfc-aggressive-hybrid-fund-direct-plan-growth)
 
-[HDFC Short Term Debt Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth)
+[HDFC Short Term Fund Direct Plan Growth](/mutual-funds/hdfc-short-term-fund-direct-plan-growth)
 
 [HDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth)
 
 [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth)
 
-[HDFC Credit Risk Debt Fund Direct Growth](/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth)
+[HDFC Credit Risk Fund Direct Growth](/mutual-funds/hdfc-credit-risk-fund-direct-growth)
 
 [HDFC Banking and PSU Debt Fund Direct Growth](/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth)
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
-[HDFC Large and Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth)
+[HDFC Large & Mid Cap Fund Direct Growth](/mutual-funds/hdfc-large-mid-cap-fund-direct-growth)
 
 [HDFC Small Cap Fund Direct Growth](/mutual-funds/hdfc-small-cap-fund-direct-growth)
 
@@ -413,11 +416,11 @@ Also manages these schemes
 
 [HDFC Money Market Fund Direct Growth](/mutual-funds/hdfc-money-market-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+[HDFC Retirement Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-debt-plan-direct-growth)
 
 [HDFC Housing Opportunities Fund Direct Growth](/mutual-funds/hdfc-housing-opportunities-fund-direct-growth)
 
@@ -427,7 +430,7 @@ Also manages these schemes
 
 [HDFC Business Cycle Fund Direct Growth](/mutual-funds/hdfc-business-cycle-fund-direct-growth)
 
-[HDFC Long Duration Debt Fund Direct Growth](/mutual-funds/hdfc-long-duration-debt-fund-direct-growth)
+[HDFC Long Term Fund Direct Growth](/mutual-funds/hdfc-long-term-fund-direct-growth)
 
 [HDFC MNC Fund Direct Growth](/mutual-funds/hdfc-mnc-fund-direct-growth)
 
@@ -449,12 +452,12 @@ Also manages these schemes
 
 [HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
 
-### About HDFC Short Term Debt Fund Direct Plan Growth
+### About HDFC Short Term Fund Direct Plan Growth
 
-HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Man
+HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AU
 
-HDFC Short Term Debt Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Debt Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹35.34.
-The HDFC Short Term Debt Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
+HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 25 Aug 2026 is ₹35.36.
+The HDFC Short Term Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
 
@@ -500,61 +503,61 @@ Address7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
 
 | Name |
 | --- |
-| [HDFC Short Term Debt Fund Direct Plan IDCW](/mutual-funds/hdfc-short-term-opportunities-fund-direct-dividend) |
+| [HDFC Short Term Fund Direct Plan IDCW](/mutual-funds/hdfc-short-term-fund-direct-plan-idcw) |
 
 ## FAQs
 
-### How to Invest in HDFC Short Term Debt Fund Direct Plan Growth?
+### How to Invest in HDFC Short Term Fund Direct Plan Growth?
 
-You can easily invest in HDFC Short Term Debt Fund Direct Plan Growth in a hassle-free manner on Groww. The
+You can easily invest in HDFC Short Term Fund Direct Plan Growth in a hassle-free manner on Groww. The
 process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
 
 * Log on to your Groww account
-* Search for HDFC Short Term Debt Fund Direct Plan Growth from the search box
+* Search for HDFC Short Term Fund Direct Plan Growth from the search box
 * In order to invest, you will have to complete all the KYC formalities which are completely online and paperless
  and take a few minutes to complete
-* Once you are done with that, you can start investing in HDFC Short Term Debt Fund Direct Plan Growth as SIP or lumpsum as per your
+* Once you are done with that, you can start investing in HDFC Short Term Fund Direct Plan Growth as SIP or lumpsum as per your
  investment objective and risk tolerance
 
-### What kind of returns does HDFC Short Term Debt Fund Direct Plan Growth provide?
+### What kind of returns does HDFC Short Term Fund Direct Plan Growth provide?
 
-The HDFC Short Term Debt Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 7.94% since its inception.
+The HDFC Short Term Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 7.94% since its inception.
 
-### How much expense ratio is charged by HDFC Short Term Debt Fund Direct Plan Growth?
+### How much expense ratio is charged by HDFC Short Term Fund Direct Plan Growth?
 
 The term
- [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Debt Fund Direct Plan Growth or any other mutual fund is the annual
+ [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Debt Fund Direct Plan Growth is 0.40% as of 25 Aug 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 27 Aug 2026...
 
-### What is the AUM of HDFC Short Term Debt Fund Direct Plan Growth?
+### What is the AUM of HDFC Short Term Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Debt Fund Direct Plan Growth is ₹15,080.98Cr as of 25 Aug 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹15,080.98Cr as of 27 Aug 2026.
 
-### How to Redeem HDFC Short Term Debt Fund Direct Plan Growth?
+### How to Redeem HDFC Short Term Fund Direct Plan Growth?
 
-If you want to sell your HDFC Short Term Debt Fund Direct Plan Growth holdings, go to your holding on the app or
+If you want to sell your HDFC Short Term Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
 desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-### Can I invest in SIP and Lump Sum of HDFC Short Term Debt Fund Direct Plan Growth?
+### Can I invest in SIP and Lump Sum of HDFC Short Term Fund Direct Plan Growth?
 
 You can select either
  [SIP](https://groww.in/p/sip-systematic-investment-plan/) or
- [Lumpsum](https://groww.in/p/lump-sum/) investment of HDFC Short Term Debt Fund Direct Plan Growth based on
+ [Lumpsum](https://groww.in/p/lump-sum/) investment of HDFC Short Term Fund Direct Plan Growth based on
 your investment objective and risk tolerance.
 
-### What is the NAV of HDFC Short Term Debt Fund Direct Plan Growth?
+### What is the NAV of HDFC Short Term Fund Direct Plan Growth?
 
-The NAV of HDFC Short Term Debt Fund Direct Plan Growth is ₹35.34 as of 24 Aug 2026.
+The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.36 as of 25 Aug 2026.
 
-### What is the PE and PB ratio of HDFC Short Term Debt Fund Direct Plan Growth?
+### What is the PE and PB ratio of HDFC Short Term Fund Direct Plan Growth?
 
 The
- [PE ratio](https://groww.in/p/pe-ratio) ratio of HDFC Short Term Debt Fund Direct Plan Growth is determined by dividing the market price by
+ [PE ratio](https://groww.in/p/pe-ratio) ratio of HDFC Short Term Fund Direct Plan Growth is determined by dividing the market price by
 its earnings per share and the
  [PB ratio](https://groww.in/p/price-to-book-ratio/) of the same is evaluated by dividing the stock price per share by its book value
 per share (BVPS).

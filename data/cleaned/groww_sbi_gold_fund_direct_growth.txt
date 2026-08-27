@@ -1,8 +1,8 @@
-+3012345678980123456789.6012345678910123456789%
++3012345678980123456789.3012345678930123456789%
 
 3Y annualised
 
-+1.24% 1D
+-0.36% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 24 Aug '26
+NAV: 26 Aug '26
 
-₹49.16
+₹48.86
 
 Min. for SIP
 
@@ -44,18 +44,18 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,980 | | +16.33% |
-| 3 years | ₹18,000 | ₹32,227 | | +79.04% |
-| 5 years | ₹30,000 | ₹67,376 | | +124.59% |
-| 10 years | ₹60,000 | ₹1,95,708 | | +226.18% |
+| 1 year | ₹6,000 | ₹6,931 | | +15.52% |
+| 3 years | ₹18,000 | ₹31,970 | | +77.61% |
+| 5 years | ₹30,000 | ₹66,858 | | +122.86% |
+| 10 years | ₹60,000 | ₹1,94,278 | | +223.80% |
 
 ## Holdings (3)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [SBI ETF Gold](/stocks/sbi-mutual-fund-sbi-gold-exchange-traded-scheme-growth-option) | Unspecified | Mutual Fund | 100.09% |
-| Repo | Unspecified | Repo | 0.30% |
-| Net Payables | Unspecified | Net Payables | -0.39% |
+| [SBI ETF Gold](/stocks/sbi-mutual-fund-sbi-gold-exchange-traded-scheme-growth-option) | Unspecified | Mutual Fund | 100.07% |
+| Repo | Unspecified | Repo | 0.12% |
+| Net Payables | Unspecified | Net Payables | -0.19% |
 
 ### Minimum investments
 
@@ -89,9 +89,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +38.6% | +26.6% | +16.8% | +11.8% |
+| Fund returns | +38.3% | +26.6% | +16.8% | +11.7% |
 | Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 3 | 1 | 2 | -- |
+| Rank (Commodities Gold) | 3 | 2 | 2 | -- |
 
 ## Understand terms
 
@@ -199,13 +199,13 @@ Also manages these schemes
 
 [SBI Children's Fund Savings Plan Direct Growth](/mutual-funds/sbi-children's-fund-savings-plan-direct-growth)
 
-[SBI Arbitrage Opportunities Fund Direct Growth](/mutual-funds/sbi-arbitrage-opportunities-fund-direct-growth)
+[SBI Arbitrage Fund Direct Growth](/mutual-funds/sbi-arbitrage-fund-direct-growth)
 
 [SBI Large Cap Direct Plan Growth](/mutual-funds/sbi-large-cap-direct-plan-growth)
 
 [SBI Contra Direct Plan Growth](/mutual-funds/sbi-contra-fund-direct-growth)
 
-[SBI Dynamic Bond Direct Plan Growth](/mutual-funds/sbi-dynamic-bond-fund-direct-growth)
+[SBI Dynamic Term Fund Direct Growth](/mutual-funds/sbi-dynamic-term-fund-direct-growth)
 
 [SBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth)
 
@@ -217,7 +217,7 @@ Also manages these schemes
 
 [SBI Technology Opportunities Fund Direct Growth](/mutual-funds/sbi-it-fund-direct-growth)
 
-[SBI Equity Hybrid Fund Direct Plan Growth](/mutual-funds/sbi-magnum-balanced-fund-direct-growth)
+[SBI Aggressive Hybrid Fund Direct Plan Growth](/mutual-funds/sbi-aggressive-hybrid-fund-direct-plan-growth)
 
 [SBI Comma Fund Direct Growth](/mutual-funds/sbi-comma-fund-direct-growth)
 
@@ -225,17 +225,17 @@ Also manages these schemes
 
 [SBI MNC Direct Plan Growth](/mutual-funds/sbi-mnc-direct-plan-growth)
 
-[SBI Medium to Long Duration Fund Direct Growth](/mutual-funds/sbi-medium-to-long-duration-fund-direct-growth)
+[SBI Medium to Long Term Fund Direct Growth](/mutual-funds/sbi-medium-to-long-term-fund-direct-growth)
 
 [SBI Credit Risk Fund Direct Growth](/mutual-funds/sbi-corporate-credit-risk-bond-fund-direct-growth)
 
-[SBI Savings Fund Direct Growth](/mutual-funds/sbi-savings-fund-direct-growth)
+[SBI Money Market Fund Direct Growth](/mutual-funds/sbi-money-market-fund-direct-growth)
 
 [SBI Small Cap Fund Direct Growth](/mutual-funds/sbi-small-midcap-fund-direct-growth)
 
 [SBI Nifty Index Direct Plan Growth](/mutual-funds/sbi-nifty-index-fund-direct-growth)
 
-[SBI Ultra Short Duration Fund Direct Growth](/mutual-funds/sbi-ultra-short-duration-fund-direct-growth)
+[SBI Ultra Short Term Fund Direct Growth](/mutual-funds/sbi-ultra-short-term-fund-direct-growth)
 
 [SBI Mid Cap Direct Plan Growth](/mutual-funds/sbi-mid-cap-direct-plan-growth)
 
@@ -247,19 +247,19 @@ Also manages these schemes
 
 [SBI Healthcare Opportunities Fund Direct Plan Growth](/mutual-funds/sbi-pharma-fund-direct-growth)
 
-[SBI Banking and PSU Fund Direct Growth](/mutual-funds/sbi-treasury-advantage-fund-direct-growth)
+[SBI Banking and PSU Debt Fund Direct Growth](/mutual-funds/sbi-banking-and-psu-debt-fund-direct-growth)
 
-[SBI Medium Duration Fund Direct Growth](/mutual-funds/sbi-medium-duration-fund-direct-growth)
+[SBI Medium Term Fund Direct Growth](/mutual-funds/sbi-medium-term-fund-direct-growth)
 
-[SBI Short Term Debt Fund Direct Growth](/mutual-funds/sbi-short-term-debt-fund-direct-growth)
+[SBI Short Term Fund Direct Growth](/mutual-funds/sbi-short-term-fund-direct-growth)
 
-[SBI Low Duration Fund Direct Growth](/mutual-funds/sbi-low-duration-fund-direct-growth)
+[SBI Ultra Short to Short Term Fund Direct Growth](/mutual-funds/sbi-ultra-short-to-short-term-fund-direct-growth)
 
 [SBI Dividend Yield Fund Direct Growth](/mutual-funds/sbi-dividend-yield-fund-direct-growth)
 
 [SBI Banking & Financial Services Fund Direct Growth](/mutual-funds/sbi-banking-financial-services-fund-direct-growth)
 
-[SBI Long Duration Fund Direct Growth](/mutual-funds/sbi-long-duration-fund-direct-growth)
+[SBI Long Term Fund Direct Growth](/mutual-funds/sbi-long-term-fund-direct-growth)
 
 [SBI Multicap Fund Direct Growth](/mutual-funds/sbi-multicap-fund-direct-growth)
 
@@ -269,7 +269,7 @@ Also manages these schemes
 
 [SBI Children's Fund Investment Plan Direct Growth](/mutual-funds/sbi-children's-fund-investment-plan-direct-growth)
 
-[SBI Floating Rate Debt Fund Direct Growth](/mutual-funds/sbi-floating-rate-debt-fund-direct-growth)
+[SBI Floating Interest Rates Fund Direct Growth](/mutual-funds/sbi-floating-interest-rates-fund-direct-growth)
 
 [SBI Retirement Benefit Fund Aggressive Plan Direct Growth](/mutual-funds/sbi-retirement-benefit-fund-aggressive-plan-direct-growth)
 
@@ -293,7 +293,7 @@ Also manages these schemes
 
 SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819
 
-SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819 Cr and the Latest NAV as of 24 Aug 2026 is ₹49.16.
+SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹13,11,819 Cr and the Latest NAV as of 26 Aug 2026 is ₹48.86.
 The SBI Gold Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days.
 
 ...Read more
@@ -352,7 +352,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does SBI Gold Direct Plan Growth provide?
 
-The SBI Gold Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.78% since its inception.
+The SBI Gold Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.73% since its inception.
 
 ### How much expense ratio is charged by SBI Gold Direct Plan Growth?
 
@@ -360,13 +360,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for SBI Gold Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of SBI Gold Direct Plan Growth is 0.24% as of 25 Aug 2026...
+The Expense Ratio of SBI Gold Direct Plan Growth is 0.24% as of 27 Aug 2026...
 
 ### What is the AUM of SBI Gold Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of SBI Gold Direct Plan Growth is ₹15,811.87Cr as of 25 Aug 2026.
+of SBI Gold Direct Plan Growth is ₹15,811.87Cr as of 27 Aug 2026.
 
 ### How to Redeem SBI Gold Direct Plan Growth?
 
@@ -383,7 +383,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of SBI Gold Direct Plan Growth?
 
-The NAV of SBI Gold Direct Plan Growth is ₹49.16 as of 24 Aug 2026.
+The NAV of SBI Gold Direct Plan Growth is ₹48.86 as of 26 Aug 2026.
 
 ### What is the PE and PB ratio of SBI Gold Direct Plan Growth?
 

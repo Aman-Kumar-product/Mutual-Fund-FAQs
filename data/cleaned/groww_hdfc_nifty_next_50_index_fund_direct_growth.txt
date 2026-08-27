@@ -1,8 +1,8 @@
-+1012345678980123456789.7012345678980123456789%
++1012345678990123456789.3012345678980123456789%
 
 3Y annualised
 
-+0.04% 1D
+-0.01% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 24 Aug '26
+NAV: 26 Aug '26
 
-₹17.52
+₹17.64
 
 Min. for SIP
 
@@ -51,58 +51,58 @@ Monthly investment
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [Adani Power Ltd](/stocks/adani-power-ltd) | Energy & Utilities | Equity | 3.79% |
-| [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 3.61% |
-| [Divi's Laboratories Ltd](/stocks/divis-laboratories-ltd) | Healthcare | Equity | 3.41% |
-| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 3.39% |
-| [TVS Motor Company Ltd](/stocks/tvs-motor-company-ltd) | Consumer Discretionary | Equity | 3.32% |
-| [Cholamandalam Investment & Finance Company Ltd](/stocks/cholamandalam-investment-finance-company-ltd) | Financial | Equity | 3.16% |
-| [Cummins India Ltd](/stocks/cummins-india-ltd) | Industrials | Equity | 3.12% |
-| [Avenue Supermarts Ltd](/stocks/avenue-supermarts-ltd) | Consumer Staples | Equity | 2.88% |
-| [Varun Beverages Ltd](/stocks/varun-beverages-ltd) | Consumer Staples | Equity | 2.83% |
-| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 2.67% |
-| [Samvardhana Motherson International Ltd](/stocks/motherson-sumi-systems-ltd) | Consumer Discretionary | Equity | 2.67% |
-| [Tata Power Company Ltd](/stocks/tata-power-company-ltd) | Energy & Utilities | Equity | 2.63% |
-| [The Indian Hotels Company Ltd](/stocks/the-indian-hotels-company-ltd) | Consumer Discretionary | Equity | 2.56% |
-| [Power Finance Corporation Ltd](/stocks/power-finance-corporation-ltd) | Financial | Equity | 2.52% |
-| [Bharat Petroleum Corporation Ltd](/stocks/bharat-petroleum-corporation-ltd) | Energy & Utilities | Equity | 2.51% |
-| [Britannia Industries Ltd](/stocks/britannia-industries-ltd) | Consumer Staples | Equity | 2.48% |
-| [HDFC Asset Management Company Ltd](/stocks/hdfc-asset-management-company-ltd) | Financial | Equity | 2.21% |
-| [Indian Oil Corporation Ltd](/stocks/indian-oil-corporation-ltd) | Energy & Utilities | Equity | 2.13% |
-| [Bank Of Baroda](/stocks/bank-of-baroda) | Financial | Equity | 2.06% |
-| [Adani Green Energy Ltd](/stocks/adani-green-energy-ltd) | Energy & Utilities | Equity | 2.04% |
-| [Pidilite Industries Ltd](/stocks/pidilite-industries-ltd) | Materials | Equity | 2.02% |
-| [Adani Transmission Ltd](/stocks/adani-transmission-ltd) | Energy & Utilities | Equity | 2.00% |
-| [Torrent Pharmaceuticals Ltd](/stocks/torrent-pharmaceuticals-ltd) | Healthcare | Equity | 1.98% |
-| [Vedanta Ltd](/stocks/vedanta-ltd) | Materials | Equity | 1.94% |
-| [GAIL (India) Ltd](/stocks/gail-india-ltd) | Energy & Utilities | Equity | 1.91% |
-| [Bajaj Holdings & Investment Ltd](/stocks/bajaj-holdings-investment-ltd) | Financial | Equity | 1.87% |
-| [REC Ltd](/stocks/rec-ltd) | Financial | Equity | 1.86% |
-| [Solar Industries India Ltd](/stocks/solar-industries-india-ltd) | Materials | Equity | 1.86% |
-| [Canara Bank](/stocks/canara-bank) | Financial | Equity | 1.72% |
-| [Godrej Consumer Products Ltd](/stocks/godrej-consumer-products-ltd) | Consumer Staples | Equity | 1.66% |
-| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 1.63% |
-| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 1.62% |
-| [Jindal Steel & Power Ltd](/stocks/jindal-steel-power-ltd) | Materials | Equity | 1.60% |
+| [Divi's Laboratories Ltd](/stocks/divis-laboratories-ltd) | Healthcare | Equity | 4.03% |
+| [TVS Motor Company Ltd](/stocks/tvs-motor-company-ltd) | Consumer Discretionary | Equity | 3.99% |
+| [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 3.59% |
+| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 3.47% |
+| [Adani Power Ltd](/stocks/adani-power-ltd) | Energy & Utilities | Equity | 3.45% |
+| [Cholamandalam Investment & Finance Company Ltd](/stocks/cholamandalam-investment-finance-company-ltd) | Financial | Equity | 3.15% |
+| [Torrent Pharmaceuticals Ltd](/stocks/torrent-pharmaceuticals-ltd) | Healthcare | Equity | 2.96% |
+| [Cummins India Ltd](/stocks/cummins-india-ltd) | Industrials | Equity | 2.94% |
+| [Samvardhana Motherson International Ltd](/stocks/motherson-sumi-systems-ltd) | Consumer Discretionary | Equity | 2.62% |
+| [Bharat Petroleum Corporation Ltd](/stocks/bharat-petroleum-corporation-ltd) | Energy & Utilities | Equity | 2.55% |
+| [The Indian Hotels Company Ltd](/stocks/the-indian-hotels-company-ltd) | Consumer Discretionary | Equity | 2.55% |
+| [Britannia Industries Ltd](/stocks/britannia-industries-ltd) | Consumer Staples | Equity | 2.51% |
+| [Tata Power Company Ltd](/stocks/tata-power-company-ltd) | Energy & Utilities | Equity | 2.50% |
+| [Avenue Supermarts Ltd](/stocks/avenue-supermarts-ltd) | Consumer Staples | Equity | 2.49% |
+| [Power Finance Corporation Ltd](/stocks/power-finance-corporation-ltd) | Financial | Equity | 2.43% |
+| [Varun Beverages Ltd](/stocks/varun-beverages-ltd) | Consumer Staples | Equity | 2.38% |
+| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 2.33% |
+| [Adani Transmission Ltd](/stocks/adani-transmission-ltd) | Energy & Utilities | Equity | 2.13% |
+| [HDFC Asset Management Company Ltd](/stocks/hdfc-asset-management-company-ltd) | Financial | Equity | 2.10% |
+| [Indian Oil Corporation Ltd](/stocks/indian-oil-corporation-ltd) | Energy & Utilities | Equity | 2.06% |
+| [Pidilite Industries Ltd](/stocks/pidilite-industries-ltd) | Materials | Equity | 1.97% |
+| [GAIL (India) Ltd](/stocks/gail-india-ltd) | Energy & Utilities | Equity | 1.93% |
+| [Bajaj Holdings & Investment Ltd](/stocks/bajaj-holdings-investment-ltd) | Financial | Equity | 1.93% |
+| [Adani Green Energy Ltd](/stocks/adani-green-energy-ltd) | Energy & Utilities | Equity | 1.83% |
+| [REC Ltd](/stocks/rec-ltd) | Financial | Equity | 1.83% |
+| [Bank Of Baroda](/stocks/bank-of-baroda) | Financial | Equity | 1.77% |
+| [Vedanta Ltd](/stocks/vedanta-ltd) | Materials | Equity | 1.77% |
+| [Solar Industries India Ltd](/stocks/solar-industries-india-ltd) | Materials | Equity | 1.77% |
+| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 1.76% |
+| [Godrej Consumer Products Ltd](/stocks/godrej-consumer-products-ltd) | Consumer Staples | Equity | 1.69% |
+| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 1.67% |
+| [Canara Bank](/stocks/canara-bank) | Financial | Equity | 1.65% |
+| [Jindal Steel & Power Ltd](/stocks/jindal-steel-power-ltd) | Materials | Equity | 1.61% |
+| [LTIMindtree Ltd](/stocks/larsen-toubro-infotech-ltd) | Technology | Equity | 1.60% |
+| [Punjab National Bank](/stocks/punjab-national-bank) | Financial | Equity | 1.53% |
 | [ABB India Ltd](/stocks/abb-india-ltd) | Industrials | Equity | 1.51% |
-| [Punjab National Bank](/stocks/punjab-national-bank) | Financial | Equity | 1.50% |
-| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.41% |
-| [Shree Cement Ltd](/stocks/shree-cement-ltd) | Materials | Equity | 1.38% |
-| [Union Bank of India](/stocks/union-bank-of-india) | Financial | Equity | 1.36% |
-| [LTIMindtree Ltd](/stocks/larsen-toubro-infotech-ltd) | Technology | Equity | 1.34% |
-| [Siemens Energy India Ltd](/stocks/siemens-energy-india-ltd) | Energy & Utilities | Equity | 1.33% |
-| [Muthoot Finance Ltd](/stocks/muthoot-finance-ltd) | Financial | Equity | 1.31% |
-| [Siemens Ltd](/stocks/siemens-ltd) | Diversified | Equity | 1.30% |
-| [Zydus Lifesciences Ltd](/stocks/cadila-healthcare-ltd) | Healthcare | Equity | 1.14% |
-| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.11% |
-| [Macrotech Developers Ltd](/stocks/lodha-developers-ltd) | Real Estate | Equity | 1.08% |
-| [Ambuja Cements Ltd](/stocks/ambuja-cements-ltd) | Materials | Equity | 1.07% |
-| [Hindustan Zinc Ltd](/stocks/hindustan-zinc-ltd) | Materials | Equity | 1.05% |
-| [Mazagon Dock Shipbuilders Ltd](/stocks/mazagon-dock-shipbuilders-ltd) | Industrials | Equity | 0.77% |
-| [TATA CAPITAL LIMITED EQ](/stocks/tata-capital-ltd) | Financial | Equity | 0.75% |
-| [Indian Railway Finance Corporation Ltd](/stocks/indian-railway-finance-corporation-ltd) | Financial | Equity | 0.74% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.12% |
-| Repo | Unspecified | Repo | 0.07% |
+| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.40% |
+| [Shree Cement Ltd](/stocks/shree-cement-ltd) | Materials | Equity | 1.37% |
+| [Macrotech Developers Ltd](/stocks/lodha-developers-ltd) | Real Estate | Equity | 1.36% |
+| [Muthoot Finance Ltd](/stocks/muthoot-finance-ltd) | Financial | Equity | 1.32% |
+| [Siemens Ltd](/stocks/siemens-ltd) | Diversified | Equity | 1.31% |
+| [Union Bank of India](/stocks/union-bank-of-india) | Financial | Equity | 1.30% |
+| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.22% |
+| [Siemens Energy India Ltd](/stocks/siemens-energy-india-ltd) | Energy & Utilities | Equity | 1.13% |
+| [Zydus Lifesciences Ltd](/stocks/cadila-healthcare-ltd) | Healthcare | Equity | 1.11% |
+| [Ambuja Cements Ltd](/stocks/ambuja-cements-ltd) | Materials | Equity | 1.06% |
+| [Hindustan Zinc Ltd](/stocks/hindustan-zinc-ltd) | Materials | Equity | 1.02% |
+| [TATA CAPITAL LIMITED EQ](/stocks/tata-capital-ltd) | Financial | Equity | 0.72% |
+| [Indian Railway Finance Corporation Ltd](/stocks/indian-railway-finance-corporation-ltd) | Financial | Equity | 0.71% |
+| [Mazagon Dock Shipbuilders Ltd](/stocks/mazagon-dock-shipbuilders-ltd) | Industrials | Equity | 0.71% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.16% |
+| Repo | Unspecified | Repo | 0.05% |
 
 See All
 
@@ -138,7 +138,7 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +6.5% | +10.1% | +18.8% | +12.4% |
+| Fund returns | +5.9% | +12.0% | +19.4% | +12.5% |
 | Category average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | -- |
 | Rank (Equity Large Cap) | -- | 15 | 13 | -- |
 
@@ -186,11 +186,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +7.25% | +15.69% | 1,931.40 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.79% | +14.46% | 2,144.56 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -0.82% | +12.93% | 80,960.34 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.45% | +12.75% | 54,224.57 |
-| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +2.37% | +11.83% | 1,443.24 |
+| | [Invesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +8.14% | +16.04% | 1,931.40 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +5.00% | +14.78% | 2,144.56 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -0.13% | +13.15% | 80,960.34 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | +0.33% | +13.10% | 54,224.57 |
+| | [Edelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +3.38% | +12.13% | 1,443.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-next-50-index-fund-direct-growth) | | | | |
@@ -223,11 +223,11 @@ Also manages these schemes
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+[HDFC Retirement Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-debt-plan-direct-growth)
 
 [HDFC NIFTY 50 ETF IDCW](/mutual-funds/hdfc-nifty-etf)
 
@@ -301,11 +301,11 @@ Also manages these schemes
 
 [HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
 
-[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+[HDFC Retirement Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-equity-plan-direct-growth)
 
-[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+[HDFC Retirement Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-fund-hybrid-debt-plan-direct-growth)
 
 [HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
 
@@ -355,7 +355,7 @@ Also manages these schemes
 
 HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Man
 
-HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹17.52.
+HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹17.64.
 The HDFC NIFTY Next 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -414,7 +414,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC NIFTY Next 50 Index Fund Direct Growth provide?
 
-The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 12.38% since its inception.
+The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 12.51% since its inception.
 
 ### How much expense ratio is charged by HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -422,13 +422,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY Next 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.36% as of 25 Aug 2026...
+The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.36% as of 27 Aug 2026...
 
 ### What is the AUM of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,659.43Cr as of 25 Aug 2026.
+of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,659.43Cr as of 27 Aug 2026.
 
 ### How to Redeem HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -445,7 +445,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
-The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.52 as of 24 Aug 2026.
+The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.64 as of 26 Aug 2026.
 
 ### What is the PE and PB ratio of HDFC NIFTY Next 50 Index Fund Direct Growth?
 

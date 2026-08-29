@@ -1,8 +1,8 @@
-+2012345678910123456789.9012345678930123456789%
++2012345678920123456789.1012345678920123456789%
 
 3Y annualised
 
--0.54% 1D
++0.05% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 26 Aug '26
+NAV: 28 Aug '26
 
-₹122.60
+₹122.78
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,597 | | +9.95% |
-| 3 years | ₹18,000 | ₹21,598 | | +19.99% |
-| 5 years | ₹30,000 | ₹48,865 | | +62.88% |
-| 10 years | ₹60,000 | ₹1,83,546 | | +205.91% |
+| 1 year | ₹6,000 | ₹6,599 | | +9.98% |
+| 3 years | ₹18,000 | ₹21,613 | | +20.07% |
+| 5 years | ₹30,000 | ₹48,886 | | +62.95% |
+| 10 years | ₹60,000 | ₹1,83,614 | | +206.02% |
 
 ## Holdings (32)
 
@@ -120,7 +120,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +21.9% | +23.9% | +18.1% | +22.2% |
+| Fund returns | +22.1% | +23.9% | +18.1% | +22.2% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
 | Rank (Equity Mid Cap) | 7 | 1 | 6 | -- |
 
@@ -188,11 +188,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +18.55% | +24.19% | 6,792.14 |
-| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +12.19% | +23.35% | 18,693.49 |
-| | [Sundaram Mid Cap Fund Direct Growth](/mutual-funds/sundaram-select-midcap-direct-growth) | +12.42% | +21.37% | 14,504.36 |
-| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +12.38% | +21.15% | 50,750.81 |
-| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +12.11% | +19.66% | 1,05,142.69 |
+| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +20.02% | +24.14% | 6,792.14 |
+| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +13.52% | +23.01% | 18,693.49 |
+| | [Sundaram Mid Cap Fund Direct Growth](/mutual-funds/sundaram-select-midcap-direct-growth) | +13.09% | +21.04% | 14,504.36 |
+| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +13.22% | +20.78% | 50,750.81 |
+| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +12.83% | +19.42% | 1,05,142.69 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/motilal-oswal-most-focused-midcap-30-fund-direct-growth) | | | | |
@@ -232,6 +232,8 @@ Also manages these schemes
 [Motilal Oswal Special Opportunities Fund Direct Growth](/mutual-funds/motilal-oswal-special-opportunities-fund-direct-growth)
 
 [Motilal Oswal Contra Fund Direct Growth](/mutual-funds/motilal-oswal-contra-fund-direct-growth)
+
+[Motilal Oswal Quality Fund Direct Growth](/mutual-funds/motilal-oswal-quality-fund-direct-growth)
 
 ### SPM Swapnil P Mayekar Nov 2025 - Present View details
 
@@ -341,6 +343,8 @@ Also manages these schemes
 
 [Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund Direct Growth](/mutual-funds/motilal-oswal-bse-midcap-150-momentum-30-index-fund-direct-growth)
 
+[Motilal Oswal Quality Fund Direct Growth](/mutual-funds/motilal-oswal-quality-fund-direct-growth)
+
 ### AK Ajay Khandelwal Sep 2024 - Present View details
 
 Education
@@ -378,6 +382,8 @@ Also manages these schemes
 [Motilal Oswal Special Opportunities Fund Direct Growth](/mutual-funds/motilal-oswal-special-opportunities-fund-direct-growth)
 
 [Motilal Oswal Financial Services Fund Direct Growth](/mutual-funds/motilal-oswal-financial-services-fund-direct-growth)
+
+[Motilal Oswal Quality Fund Direct Growth](/mutual-funds/motilal-oswal-quality-fund-direct-growth)
 
 ### VS Varun Sharma Jan 2026 - Present View details
 
@@ -418,6 +424,8 @@ Also manages these schemes
 [Motilal Oswal Consumption Fund Direct Growth](/mutual-funds/motilal-oswal-consumption-fund-direct-growth)
 
 [Motilal Oswal Contra Fund Direct Growth](/mutual-funds/motilal-oswal-contra-fund-direct-growth)
+
+[Motilal Oswal Quality Fund Direct Growth](/mutual-funds/motilal-oswal-quality-fund-direct-growth)
 
 ### RS Rakesh Shetty Nov 2022 - Present View details
 
@@ -541,11 +549,13 @@ Also manages these schemes
 
 [Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund Direct Growth](/mutual-funds/motilal-oswal-bse-midcap-150-momentum-30-index-fund-direct-growth)
 
+[Motilal Oswal Quality Fund Direct Growth](/mutual-funds/motilal-oswal-quality-fund-direct-growth)
+
 ### About Motilal Oswal Midcap Fund Direct Growth
 
 Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under M
 
-Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,55,306 Cr and the Latest NAV as of 26 Aug 2026 is ₹122.60.
+Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,55,306 Cr and the Latest NAV as of 28 Aug 2026 is ₹122.78.
 The Motilal Oswal Midcap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1%, if redeemed within 365 days.
 
 ...Read more
@@ -610,7 +620,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Motilal Oswal Midcap Fund Direct Growth provide?
 
-The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 22.18% since its inception.
+The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 22.19% since its inception.
 
 ### How much expense ratio is charged by Motilal Oswal Midcap Fund Direct Growth?
 
@@ -618,13 +628,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Motilal Oswal Midcap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.93% as of 27 Aug 2026...
+The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.93% as of 29 Aug 2026...
 
 ### What is the AUM of Motilal Oswal Midcap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Motilal Oswal Midcap Fund Direct Growth is ₹40,036.07Cr as of 27 Aug 2026.
+of Motilal Oswal Midcap Fund Direct Growth is ₹40,036.07Cr as of 29 Aug 2026.
 
 ### How to Redeem Motilal Oswal Midcap Fund Direct Growth?
 
@@ -641,7 +651,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Motilal Oswal Midcap Fund Direct Growth?
 
-The NAV of Motilal Oswal Midcap Fund Direct Growth is ₹122.60 as of 26 Aug 2026.
+The NAV of Motilal Oswal Midcap Fund Direct Growth is ₹122.78 as of 28 Aug 2026.
 
 ### What is the PE and PB ratio of Motilal Oswal Midcap Fund Direct Growth?
 

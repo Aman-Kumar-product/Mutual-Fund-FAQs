@@ -340,7 +340,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +16.6% | +11.8% | +16.7% | +23.3% |
 | Category average (Equity Small Cap) | -4.6% | -6.3% | +19.7% | -- |
-| Rank (Equity Small Cap) | -- | 39 | 23 | -- |
+| Rank (Equity Small Cap) | -- | 37 | 23 | -- |
 
 ## Understand terms
 
@@ -622,13 +622,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Nifty Smallcap 250 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.34% as of 29 Aug 2026...
+The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.34% as of 31 Aug 2026...
 
 ### What is the AUM of HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹728.23Cr as of 29 Aug 2026.
+of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹728.23Cr as of 31 Aug 2026.
 
 ### How to Redeem HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 

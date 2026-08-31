@@ -123,7 +123,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +17.4% | +19.8% | +15.2% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
-| Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
+| Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
 
@@ -389,13 +389,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Focused Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Focused Fund Direct Growth is 0.80% as of 29 Aug 2026...
+The Expense Ratio of HDFC Focused Fund Direct Growth is 0.80% as of 31 Aug 2026...
 
 ### What is the AUM of HDFC Focused Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Focused Fund Direct Growth is ₹27,924.78Cr as of 29 Aug 2026.
+of HDFC Focused Fund Direct Growth is ₹27,924.78Cr as of 31 Aug 2026.
 
 ### How to Redeem HDFC Focused Fund Direct Growth?
 

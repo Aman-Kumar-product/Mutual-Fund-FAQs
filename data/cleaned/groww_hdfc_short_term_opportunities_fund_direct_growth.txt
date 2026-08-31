@@ -243,7 +243,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +7.5% | +6.6% | +7.4% | +7.9% |
 | Category average (Debt Short Duration) | +7.1% | +5.9% | +6.6% | -- |
-| Rank (Debt Short Duration) | 8 | 9 | 4 | -- |
+| Rank (Debt Short Duration) | 9 | 9 | 4 | -- |
 
 ## Understand terms
 
@@ -529,13 +529,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 29 Aug 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 31 Aug 2026...
 
 ### What is the AUM of HDFC Short Term Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Fund Direct Plan Growth is ₹15,080.98Cr as of 29 Aug 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹15,080.98Cr as of 31 Aug 2026.
 
 ### How to Redeem HDFC Short Term Fund Direct Plan Growth?
 

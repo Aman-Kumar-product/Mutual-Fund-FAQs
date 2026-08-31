@@ -122,7 +122,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +6.9% | +7.6% | +11.8% | +11.7% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 77 | 60 | 29 | -- |
+| Rank (Equity Large Cap) | 78 | 60 | 31 | -- |
 
 ## Understand terms
 
@@ -408,13 +408,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC BSE Sensex Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.22% as of 29 Aug 2026...
+The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.22% as of 31 Aug 2026...
 
 ### What is the AUM of HDFC BSE Sensex Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC BSE Sensex Index Fund Direct Growth is ₹8,657.46Cr as of 29 Aug 2026.
+of HDFC BSE Sensex Index Fund Direct Growth is ₹8,657.46Cr as of 31 Aug 2026.
 
 ### How to Redeem HDFC BSE Sensex Index Fund Direct Growth?
 

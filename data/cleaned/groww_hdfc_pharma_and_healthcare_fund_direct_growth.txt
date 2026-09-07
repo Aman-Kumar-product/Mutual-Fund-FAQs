@@ -122,7 +122,7 @@ Absolute returns
 
 | Name | 3M | 6M | 1Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.5% | +23.1% | +28.8% | +125.1% |
+| Fund returns | +12.0% | +25.6% | +26.9% | +124.1% |
 | Category average (Equity Sectoral) | -- | -- | -2.1% | -- |
 | Rank (Equity Sectoral) | 9 | 4 | 2 | -- |
 
@@ -363,13 +363,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Pharma And Healthcare Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Pharma And Healthcare Fund Direct Growth is 1.08% as of 05 Sep 2026...
+The Expense Ratio of HDFC Pharma And Healthcare Fund Direct Growth is 1.08% as of 07 Sep 2026...
 
 ### What is the AUM of HDFC Pharma And Healthcare Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Pharma And Healthcare Fund Direct Growth is ₹2,939.98Cr as of 05 Sep 2026.
+of HDFC Pharma And Healthcare Fund Direct Growth is ₹2,939.98Cr as of 07 Sep 2026.
 
 ### How to Redeem HDFC Pharma And Healthcare Fund Direct Growth?
 

@@ -49,163 +49,154 @@ Monthly investment
 | 5 years | ₹6,000 | ₹7,157 | | +19.28% |
 | 10 years | ₹12,000 | ₹17,324 | | +44.37% |
 
-## Holdings (153)
+## Holdings (144)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [JUBILANT BEVERAGES LIMITED NCD 31MY28 FVRS1LAC](/stocks/INE1D4O08012) | Consumer Staples | Debenture | 2.84% |
-| [JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC](/stocks/INE02PE08036) | Materials | Debenture | 2.57% |
-| Net Current Assets | Unspecified | Net Current Assets | 2.53% |
-| [JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC](/stocks/jamnagar-utilities-power-pvt-ltd-juppl-144) | Industrials | Debenture | 2.34% |
-| SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 2.28% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC](/stocks/nabard-bonds-feb) | Financial | Bonds | 2.10% |
-| [ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC](/stocks/INE01QP08016) | Energy & Utilities | Bonds/NCDs | 2.06% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC](/stocks/INE261F08EI9) | Financial | Debenture | 1.99% |
-| Repo | Unspecified | Repo | 1.83% |
-| [PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC](/stocks/INE01XX07034) | Industrials | Debenture | 1.64% |
-| [TATA COMMUNICATIONS LIMITED 6.77 NCD 07AG28 FVRS1LAC](/stocks/INE151A08356) | Technology | Non Convertible Debenture | 1.64% |
-| [BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC](/stocks/INE377Y07649) | Financial | Non Convertible Debenture | 1.50% |
-| SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 1.48% |
-| TVS CREDIT SERVICES LIMITED 9.30 NCD 27JU29 FVRS1CR | Financial | Non Convertible Debenture | 1.36% |
-| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC](/stocks/cholamandalam-investment-and-finance-company-limited-27-jun-2031-001) | Financial | Non Convertible Debenture | 1.34% |
-| STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 1.32% |
-| [ASCENDAS IT PARK (PUNE) PRIVATE LIMITED 7.25 NCD 02JN29 FVRS1LAC](/stocks/INE0OJ808028) | Others | Debenture | 1.31% |
-| [REC LIMITED SR 216A 7.55 BD 31MR28 FVRS10LAC](/stocks/rec-ltd-recl-451) | Financial | Debenture | 1.30% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 1.17% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC](/stocks/INE556F08KM1) | Financial | Debenture | 1.16% |
-| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC](/stocks/INE031A08996) | Financial | Non Convertible Debenture | 1.15% |
-| CENTRAL GOVERNMENT LOAN 20388 GOI 07DC31 FLT FV RS 100 | Entities | GOI Securities | 1.02% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nabard-354) | Financial | Debenture | 1.00% |
-| HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC | Financial | Debenture | 1.00% |
-| [REC LIMITED SR 232 A 7.59 BD 31MY27 FVRS1LAC](/stocks/INE020B08FA2) | Financial | Debenture | 1.00% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC](/stocks/INE261F08EM1) | Financial | Bonds | 1.00% |
-| [REC LIMITED SR 245A 7.44 BD 29FB28 FVRS1LAC](/stocks/INE020B08FR6) | Financial | Bonds | 1.00% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC](/stocks/INE556F08KW0) | Financial | Bonds/NCDs | 0.99% |
-| [POONAWALLA FINCORP LIMITED SR A1 7.65 NCD 21AP27 FVRS1LAC](/stocks/INE511C07854) | Financial | Non Convertible Debenture | 0.99% |
-| [POONAWALLA FINCORP LIMITED SR G1 TR 1 7.55 NCD 25MR27 FVRS1LAC](/stocks/INE511C07946) | Financial | Debenture | 0.99% |
-| [POWER FINANCE CORPORATION LIMITED SR 251A 6.27 BD 15JL27 FVRS1LAC](/stocks/INE134E08NT9) | Financial | Bonds | 0.98% |
-| CANARA BANK CD 08DEC26 | Financial | Certificate of Deposit | 0.97% |
-| SUNDARAM HOME FINANCE LIMITED SR 343 7.9 NCD 24SP27 FVRS1LAC | Financial | Debenture | 0.96% |
-| [REC LIMITED SR GOI - VIII 8.30 BD 25MR29 FVRS10LAC](/stocks/rec-ltd-recl-294898) | Financial | Non Convertible Debenture | 0.88% |
-| LIC HOUSING FINANCE LIMITED SR TR 376 8.80 LOA 25JN29 FVRS10LAC | Financial | Debenture | 0.85% |
-| [PIPELINE INFRASTRUCTURE LIMITED SR 1 7.96 NCD 11MR27 FVRS1LAC](/stocks/INE01XX07059) | Industrials | Debenture | 0.85% |
-| [HDFC BANK LIMITED SR AB002 7.97 NCD 17FB33 FVRS1LAC](/stocks/housing-development-finance-corpltd-hdfcl-556) | Financial | Debenture | 0.84% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.68 BD 10AG27 FVRS1LAC](/stocks/INE556F08KP4) | Financial | Debenture | 0.83% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC](/stocks/INE261F08EL3) | Financial | Bonds | 0.83% |
-| [POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC](/stocks/INE134E08NM4) | Financial | Bonds | 0.83% |
-| [MOTILAL OSWAL FINANCIAL SERVICES LIMITED SR I 8.50 NCD 06AG27 FVRS1LAC](/stocks/INE338I07180) | Financial | Non Convertible Debenture | 0.83% |
-| [REC LIMITED SR GOI-VI 8.80 BD 22JN29 FVRS10LAC](/stocks/rec-ltd-rec-294183) | Financial | Debenture | 0.69% |
-| LIC Housing Finance Ltd Debenture 8.75 08/12/2028 | Financial | Debenture | 0.68% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 133 8.35 LOA 13MR29 FVRS10LAC](/stocks/indian-railway-finance-corporation-irfc-294901) | Financial | Debenture | 0.68% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 174 7.67 BD 15DC33 FVRS1LAC](/stocks/INE053F08346) | Financial | Bonds | 0.68% |
-| [TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S52 7.6950 NCD 13JU28 FVRS1LAC](/stocks/toyota-financial-services-india-ltd-tfsil-976) | Financial | Non Convertible Debenture | 0.68% |
-| [Indian Railway Finance Corporation Ltd SR-118 Bonds 7.83 21/03/2027](/stocks/indian-railway-finance-corporation-irfc-285382) | Financial | Bonds | 0.67% |
-| LIC HOUSING FINANCE LIMITED SR TRANCHE 386 7.99 LOA 12JL29 FVRS10LAC | Financial | Non Convertible Debenture | 0.67% |
-| [POWER FINANCE CORPORATION LTD. SR 223 7.64 BD 22FB33 FVRS1LAC](/stocks/power-finance-corporation-ltd-pfc-625) | Financial | Debenture | 0.67% |
-| [CHOLAMANDALAM INVESTMENT AND FIN. CO. LTD SR V TR IV 8.60 NCD 31JN29 FVRS1000](/stocks/cholamandalam-investment-and-finance-company-limited-31-jan-2029-002) | Financial | Non Convertible Debenture | 0.67% |
-| [BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC](/stocks/INE377Y07474) | Financial | Non Convertible Debenture | 0.67% |
-| [REC LIMITED SR 234-B 7.58 BD 31MY29 FVRS1LAC](/stocks/INE020B08FD6) | Financial | Debenture | 0.67% |
-| [SMFG INDIA CREDIT COMPANY LIMITED SR 109 OP I 8.30 NCD 30JU27 FVRS1LAC](/stocks/INE535H07CJ6) | Financial | Non Convertible Debenture | 0.67% |
-| LIC HOUSING FINANCE LTD TR 444 7.75 NCD 23AG29 FVRS1LAC | Financial | Debenture | 0.67% |
-| SUNDARAM FINANCE LIMITED SR X2 7.75 NCD 08AG28 FVRS1LAC | Financial | Bonds | 0.66% |
-| [REC LIMITED SR 236-B 7.56 BD 31AG27 FVRS1LAC](/stocks/INE020B08FF1) | Financial | Debenture | 0.66% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.51 BD 12JU28 FVRS1LAC](/stocks/INE556F08KU4) | Financial | Bonds | 0.66% |
-| [PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC](/stocks/INE160A08324) | Financial | Bonds | 0.66% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.39 BD 21MR30 FVRS1LAC](/stocks/INE556F08KY6) | Financial | Bonds | 0.66% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC](/stocks/INE261F08EU4) | Financial | Bonds | 0.66% |
-| [SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC](/stocks/sundaram-finance-ltd-sfl-29) | Financial | Debenture | 0.66% |
-| [TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC](/stocks/tata-capital-ltd-taca-948) | Financial | Non Convertible Debenture | 0.66% |
-| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC](/stocks/INE121A07SU3) | Financial | Debenture | 0.66% |
-| [POWER FINANCE CORPORATION LIMITED SR 250B 6.64 BD 15JL30 FVRS1LAC](/stocks/INE134E08NR3) | Financial | Debenture | 0.65% |
-| GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.65% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR II 6.74 BD 10JN29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-sidbi-360) | Financial | Debenture | 0.65% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.63% |
-| INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.61% |
-| India Universal Trust AL1 Sec. Debt 8.20 20/09/2030 | Unspecified | Securitised Debt | 0.60% |
-| [NTPC GREEN ENERGY LIMITED 7.01 SR 1 NCD 12NV35 FVRS1LAC](/stocks/INE0ONG08016) | Energy & Utilities | Non Convertible Debenture | 0.59% |
-| STATE DEVELOPMENT LOAN 36822 GOA 17DC35 7.34 FV RS 100 | Unspecified | State Development Loan | 0.59% |
-| [Power Finance Corporation Ltd SR-164 Bonds 7.75 22/03/2027](/stocks/power-finance-corporation-ltd-pfc-285331) | Financial | Bonds | 0.57% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC](/stocks/INE053F08387) | Financial | Non Convertible Debenture | 0.57% |
-| STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100 | Industrials | State Development Loan | 0.54% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC](/stocks/INE053F08536) | Financial | Bonds | 0.54% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR PC1POB1 7.43 LOA 31JN30 FVRS10LAC | Financial | Debenture | 0.53% |
-| [PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC](/stocks/INE01XX07042) | Industrials | Debenture | 0.53% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC](/stocks/rural-electrification-corporation-ltd-recl-293033) | Financial | Zero Coupon Bonds | 0.51% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES GOI-V 8.54 BD 15NV28 FVRS10LAC](/stocks/rec-ltd-recl-293479) | Financial | Debenture | 0.51% |
-| 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.51% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR F24 7.68 BD 30AP29 FVRS1LAC](/stocks/INE261F08EG3) | Financial | Debenture | 0.50% |
-| [KOTAK MAHINDRA INVESTMENTS LIMITED 8.3774 NCD 21JU27 FVRS1LAC](/stocks/INE975F07IR8) | Financial | Debenture | 0.50% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC](/stocks/INE261F08EJ7) | Financial | Bonds | 0.50% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-bonds-feb) | Financial | Bonds | 0.50% |
-| [MUTHOOT FINANCE LIMITED 8.60 NCD 02MR28 FVRS1LAC](/stocks/INE414G07JM5) | Financial | Non Convertible Debenture | 0.50% |
-| [POONAWALLA FINCORP LIMITED SR K2 7.8788 NCD 12JU28 FVRS1LAC](/stocks/INE511C07995) | Financial | Non Convertible Debenture | 0.50% |
-| GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 | Entities | GOI Securities | 0.50% |
-| [MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC](/stocks/INE414G07JZ7) | Financial | Debenture | 0.50% |
-| [BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC](/stocks/INE377Y07540) | Financial | Non Convertible Debenture | 0.49% |
-| [RJ CORP LIMITED 7.25 NCD 08DC28 FVRS1LAC](/stocks/INE460K08053) | Consumer Staples | Debenture | 0.49% |
-| BANK OF BARODA CD 08MAR27 | Financial | Certificate of Deposit | 0.48% |
-| STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100 | Unspecified | State Development Loan | 0.46% |
-| India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.40% |
-| [BAJAJ HOUSING FINANCE LIMITED 7.10 NCD 16OT28 FVRS1LAC](/stocks/INE377Y07607) | Financial | Debenture | 0.38% |
-| [GOI Sec 7.18 14/08/2033](/stocks/goi-loan--949) | Entities | GOI Securities | 0.37% |
-| STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100 | Industrials | State Development Loan | 0.37% |
-| UCO BANK CD 15JUN27 | Financial | Certificate of Deposit | 0.37% |
-| Others Class A2 AIF | Unspecified | Alternative Investment Fund | 0.35% |
-| [RELIANCE INDUSTRIES LIMITED PPD SR 1B 8.65 NCD 11DC28 FVRS10LAC](/stocks/reliance-industries-ltd-ril-293790) | Energy & Utilities | Non Convertible Debenture | 0.34% |
-| LIC HOUSING FINANCE LIMITED TRANCHE 382 8.7 LOA 23MR29 FVRS10LAC | Financial | Debenture | 0.34% |
-| [REC LIMITED SR 227-B 7.71 BD 31OT33 FVRS1LAC](/stocks/INE020B08EQ1) | Financial | Debenture | 0.34% |
-| [POWER FINANCE CORPORATION LIMITED SR 237A 7.60 BD 13AP29 FVRS1LAC](/stocks/INE134E08MX3) | Financial | Non Convertible Debenture | 0.33% |
-| [REC LIMITED SR 231A 7.64 BD 30AP27 FVRS1LAC](/stocks/INE020B08EX7) | Financial | Non Convertible Debenture | 0.33% |
-| [ULTRATECH CEMENT LIMITED SR I 7.34 NCD 03MR28 FVRS1LAC](/stocks/INE481G08123) | Materials | Non Convertible Debenture | 0.33% |
-| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 7.12 NCD 26DC34 FVRS1LAC](/stocks/INE031A08921) | Financial | Debenture | 0.33% |
-| [BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC](/stocks/INE296A07TI6) | Financial | Non Convertible Debenture | 0.33% |
-| [POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC](/stocks/INE511C07847) | Financial | Non Convertible Debenture | 0.33% |
-| [MUTHOOT FINANCE LIMITED 8.05 NCD 25NV27 FVRS1LAC](/stocks/muthoot-finance-ltd-mfl-532) | Financial | Debenture | 0.33% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC](/stocks/INE556F08KZ3) | Financial | Non Convertible Debenture | 0.33% |
-| [SMFG INDIA CREDIT COMPANY LIMITED SR 114 7.30 NCD 10JL28 FVRS1LAC](/stocks/smfg-india-credit-company-ltd-sicca) | Financial | Debenture | 0.33% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC](/stocks/INE556F08LC0) | Financial | Debenture | 0.33% |
-| STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.33% |
-| STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100 | Unspecified | State Development Loan | 0.33% |
-| CANARA BANK CD 26FEB27 | Financial | Certificate of Deposit | 0.32% |
-| STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100 | Industrials | State Development Loan | 0.30% |
+| Net Current Assets | Unspecified | Net Current Assets | 3.22% |
+| [JUBILANT BEVERAGES LIMITED NCD 31MY28 FVRS1LAC](/stocks/jubilant-beverages-limited-may-28-976763) | Consumer Staples | Debenture | 2.96% |
+| [JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC](/stocks/jtpm-metal-traders-limited-apr-30-977171) | Materials | Debenture | 2.68% |
+| [JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC](/stocks/jamnagar-utilities-power-private-limited-aug-28-975021) | Industrials | Debenture | 2.42% |
+| SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 2.38% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-feb-28-212008) | Financial | Bonds | 2.18% |
+| [ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC](/stocks/aditya-birla-renewables-limited-sep-27-976038) | Energy & Utilities | Bonds/NCDs | 2.14% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-sep-27-211590) | Financial | Debenture | 2.07% |
+| [PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC](/stocks/pipeline-infrastructure-limited-mar-29-975484) | Industrials | Debenture | 1.70% |
+| [TATA COMMUNICATIONS LIMITED 6.77 NCD 07AG28 FVRS1LAC](/stocks/tata-communications-limited-aug-28-213640) | Technology | Non Convertible Debenture | 1.70% |
+| [ULTRATECH CEMENT LIMITED SR I 7.22 NCD 02FB29 FVRS1LAC](/stocks/ultratech-cement-limited-feb-29-216492) | Materials | Non Convertible Debenture | 1.65% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC](/stocks/bajaj-housing-finance-limited-may-29-977798) | Financial | Non Convertible Debenture | 1.55% |
+| SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25 | Unspecified | Securitised Debt | 1.54% |
+| TVS CREDIT SERVICES LIMITED 9.30 NCD 27JU29 FVRS1CR | Financial | Non Convertible Debenture | 1.41% |
+| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC](/stocks/cholamandalam-investment-and-finance-company-limited-jun-31-211825) | Financial | Non Convertible Debenture | 1.39% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 1.38% |
+| [MUTHOOT FINANCE LIMITED RR NCD 04SP29 FVRS1LAC](/stocks/muthoot-finance-limited-sep-29-216484) | Financial | Non Convertible Debenture | 1.37% |
+| STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 1.36% |
+| [REC LIMITED SR 216A 7.55 BD 31MR28 FVRS10LAC](/stocks/rec-limited-mar-28-974402) | Financial | Debenture | 1.35% |
+| [ASCENDAS IT PARK (PUNE) PRIVATE LIMITED 7.25 NCD 02JN29 FVRS1LAC](/stocks/ascendas-it-park-pune-private-limited-jan-29-977433) | Others | Debenture | 1.35% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC](/stocks/small-industries-development-bank-of-india-may-27-210950) | Financial | Debenture | 1.21% |
+| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC](/stocks/housing-and-urban-development-corporation-limited-jul-28-976917) | Financial | Non Convertible Debenture | 1.19% |
+| Repo | Unspecified | Repo | 1.18% |
+| CENTRAL GOVERNMENT LOAN 20388 GOI 07DC31 FLT FV RS 100 | Entities | GOI Securities | 1.07% |
+| [REC LIMITED SR 232 A 7.59 BD 31MY27 FVRS1LAC](/stocks/rec-limited-may-27-975589) | Financial | Debenture | 1.04% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-jan-28-974534) | Financial | Debenture | 1.03% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-mar-28-976321) | Financial | Bonds | 1.03% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-mar-29-212500) | Financial | Bonds/NCDs | 1.03% |
+| [REC LIMITED SR 245A 7.44 BD 29FB28 FVRS1LAC](/stocks/rec-limited-feb-28-976504) | Financial | Bonds | 1.03% |
+| [POONAWALLA FINCORP LIMITED SR A1 7.65 NCD 21AP27 FVRS1LAC](/stocks/poonawalla-fincorp-limited-apr-27-976626) | Financial | Non Convertible Debenture | 1.03% |
+| [POONAWALLA FINCORP LIMITED SR G1 TR 1 7.55 NCD 25MR27 FVRS1LAC](/stocks/poonawalla-fincorp-limited-mar-27-977224) | Financial | Debenture | 1.03% |
+| [POWER FINANCE CORPORATION LIMITED SR 251A 6.27 BD 15JL27 FVRS1LAC](/stocks/power-finance-corporation-limited-jul-27-976772) | Financial | Bonds | 1.02% |
+| [SUNDARAM HOME FINANCE LIMITED SR 343 7.9 NCD 24SP27 FVRS1LAC](/stocks/sundaram-home-finance-limited-sep-27-212048) | Financial | Debenture | 1.00% |
+| [REC LIMITED SR GOI - VIII 8.30 BD 25MR29 FVRS10LAC](/stocks/rec-limited-mar-29-958661) | Financial | Non Convertible Debenture | 0.91% |
+| LIC HOUSING FINANCE LIMITED SR TR 376 8.80 LOA 25JN29 FVRS10LAC | Financial | Debenture | 0.88% |
+| [MOTILAL OSWAL FINANCIAL SERVICES LIMITED SR I 8.50 NCD 06AG27 FVRS1LAC](/stocks/motilal-oswal-financial-services-limited-aug-27-977003) | Financial | Non Convertible Debenture | 0.86% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-apr-30-976232) | Financial | Bonds | 0.85% |
+| [POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC](/stocks/power-finance-corporation-limited-jan-32-976425) | Financial | Bonds | 0.85% |
+| [REC LIMITED SR GOI-VI 8.80 BD 22JN29 FVRS10LAC](/stocks/rec-limited-jan-29-958540) | Financial | Debenture | 0.71% |
+| LIC Housing Finance Ltd Debenture 8.75 08/12/2028 | Financial | Debenture | 0.70% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 133 8.35 LOA 13MR29 FVRS10LAC](/stocks/indian-railway-finance-corporation-limited-mar-29-958659) | Financial | Debenture | 0.70% |
+| [TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S52 7.6950 NCD 13JU28 FVRS1LAC](/stocks/toyota-financial-services-india-limited-jun-28-213228) | Financial | Non Convertible Debenture | 0.70% |
+| LIC HOUSING FINANCE LIMITED SR TRANCHE 386 7.99 LOA 12JL29 FVRS10LAC | Financial | Non Convertible Debenture | 0.69% |
+| [HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC](/stocks/hdfc-bank-limited-may-33-974814) | Financial | Debenture | 0.69% |
+| SUNDARAM FINANCE LIMITED SR X2 7.75 NCD 08AG28 FVRS1LAC | Financial | Bonds | 0.69% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 174 7.67 BD 15DC33 FVRS1LAC](/stocks/indian-railway-finance-corporation-limited-dec-33-975248) | Financial | Bonds | 0.69% |
+| [BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC](/stocks/bajaj-housing-finance-limited-may-29-975646) | Financial | Non Convertible Debenture | 0.69% |
+| [REC LIMITED SR 236-B 7.56 BD 31AG27 FVRS1LAC](/stocks/rec-limited-aug-27-975835) | Financial | Debenture | 0.69% |
+| [SMFG INDIA CREDIT COMPANY LIMITED SR 109 OP I 8.30 NCD 30JU27 FVRS1LAC](/stocks/smfg-india-credit-company-limited-jun-27-211836) | Financial | Non Convertible Debenture | 0.69% |
+| [LIC HOUSING FINANCE LTD TR 444 7.75 NCD 23AG29 FVRS1LAC](/stocks/lic-housing-finance-ltd-aug-29-211903) | Financial | Debenture | 0.69% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.51 BD 12JU28 FVRS1LAC](/stocks/small-industries-development-bank-of-india-jun-28-212222) | Financial | Bonds | 0.69% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-jul-29-215980) | Financial | Bonds | 0.69% |
+| [TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC](/stocks/tata-capital-limited-feb-29-216280) | Financial | Non Convertible Debenture | 0.69% |
+| [CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC](/stocks/cholamandalam-investment-and-finance-company-limited-feb-29-216294) | Financial | Debenture | 0.69% |
+| [REC LIMITED SR 253 7.38 BD 28FB29 FVRS1LAC](/stocks/rec-limited-feb-29-977856) | Financial | Bonds | 0.69% |
+| [PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC](/stocks/punjab-national-bank-feb-35-976413) | Financial | Bonds | 0.68% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.39 BD 21MR30 FVRS1LAC](/stocks/small-industries-development-bank-of-india-mar-30-212710) | Financial | Bonds | 0.68% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR II 6.74 BD 10JN29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-jan-29-215374) | Financial | Debenture | 0.68% |
+| [SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC](/stocks/sundaram-finance-limited-mar-29-215921) | Financial | Debenture | 0.68% |
+| CANARA BANK CD 08DEC26 | Financial | Certificate of Deposit | 0.68% |
+| [POWER FINANCE CORPORATION LIMITED SR 250B 6.64 BD 15JL30 FVRS1LAC](/stocks/power-finance-corporation-limited-jul-30-976710) | Financial | Debenture | 0.67% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.66% |
+| GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.66% |
+| INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.63% |
+| India Universal Trust AL1 Sec. Debt 8.20 20/09/2030 | Unspecified | Securitised Debt | 0.61% |
+| STATE DEVELOPMENT LOAN 36822 GOA 17DC35 7.34 FV RS 100 | Unspecified | State Development Loan | 0.61% |
+| [NTPC GREEN ENERGY LIMITED 7.01 SR 1 NCD 12NV35 FVRS1LAC](/stocks/ntpc-green-energy-limited-nov-35-215293) | Energy & Utilities | Non Convertible Debenture | 0.60% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC](/stocks/indian-railway-finance-corporation-limited-jun-29-975509) | Financial | Non Convertible Debenture | 0.59% |
+| STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100 | Industrials | State Development Loan | 0.56% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR PC1POB1 7.43 LOA 31JN30 FVRS10LAC](/stocks/national-bank-for-agriculture-and-rural-development-jan-30-959228) | Financial | Debenture | 0.55% |
+| [PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC](/stocks/pipeline-infrastructure-limited-mar-28-975483) | Industrials | Debenture | 0.55% |
+| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC](/stocks/indian-railway-finance-corporation-limited-dec-35-977334) | Financial | Bonds | 0.55% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC](/stocks/rural-electrification-corporation-limited-sep-28-958278) | Financial | Zero Coupon Bonds | 0.53% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES GOI-V 8.54 BD 15NV28 FVRS10LAC](/stocks/rural-electrification-corporation-limited-nov-28-958364) | Financial | Debenture | 0.53% |
+| [HDFC BANK LIMITED SR AB002 7.97 NCD 17FB33 FVRS1LAC](/stocks/hdfc-bank-limited-feb-33-974595) | Financial | Debenture | 0.52% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR F24 7.68 BD 30AP29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-apr-29-975358) | Financial | Debenture | 0.52% |
+| [KOTAK MAHINDRA INVESTMENTS LIMITED 8.3774 NCD 21JU27 FVRS1LAC](/stocks/kotak-mahindra-investments-limited-jun-27-975530) | Financial | Debenture | 0.52% |
+| [REC LIMITED SR 234-B 7.58 BD 31MY29 FVRS1LAC](/stocks/rec-limited-may-29-975692) | Financial | Debenture | 0.52% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-dec-29-975742) | Financial | Bonds | 0.52% |
+| GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 | Entities | GOI Securities | 0.52% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-feb-29-212047) | Financial | Bonds | 0.51% |
+| [RJ CORP LIMITED 7.25 NCD 08DC28 FVRS1LAC](/stocks/rj-corp-limited-dec-28-977359) | Consumer Staples | Debenture | 0.51% |
+| [POONAWALLA FINCORP LIMITED SR K2 7.8788 NCD 12JU28 FVRS1LAC](/stocks/poonawalla-fincorp-limited-jun-28-977563) | Financial | Non Convertible Debenture | 0.51% |
+| [MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC](/stocks/muthoot-finance-limited-jul-29-216295) | Financial | Debenture | 0.51% |
+| [BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC](/stocks/bajaj-housing-finance-limited-apr-35-976610) | Financial | Non Convertible Debenture | 0.50% |
+| BANK OF BARODA CD 08MAR27 | Financial | Certificate of Deposit | 0.50% |
+| STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100 | Unspecified | State Development Loan | 0.47% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.10 NCD 16OT28 FVRS1LAC](/stocks/bajaj-housing-finance-limited-oct-28-977122) | Financial | Debenture | 0.40% |
+| India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.39% |
+| UCO BANK CD 15JUN27 | Financial | Certificate of Deposit | 0.39% |
+| STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100 | Industrials | State Development Loan | 0.38% |
+| Others Class A2 AIF | Unspecified | Alternative Investment Fund | 0.36% |
+| [RELIANCE INDUSTRIES LIMITED PPD SR 1B 8.65 NCD 11DC28 FVRS10LAC](/stocks/reliance-industries-limited-dec-28-958438) | Energy & Utilities | Non Convertible Debenture | 0.35% |
+| LIC HOUSING FINANCE LIMITED TRANCHE 382 8.7 LOA 23MR29 FVRS10LAC | Financial | Debenture | 0.35% |
+| [REC LIMITED SR 227-B 7.71 BD 31OT33 FVRS1LAC](/stocks/rec-limited-oct-33-975191) | Financial | Debenture | 0.35% |
+| 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.35% |
+| [POWER FINANCE CORPORATION LTD. SR 223 7.64 BD 22FB33 FVRS1LAC](/stocks/power-finance-corporation-limited-feb-33-974611) | Financial | Debenture | 0.34% |
+| [POWER FINANCE CORPORATION LIMITED SR 237A 7.60 BD 13AP29 FVRS1LAC](/stocks/power-finance-corporation-limited-apr-29-975406) | Financial | Non Convertible Debenture | 0.34% |
+| [POWER FINANCE CORPORATION LIMITED SR 245A 7.24 BD 15JN35 FVRS1LAC](/stocks/power-finance-corporation-limited-jan-35-976387) | Financial | Bonds | 0.34% |
+| [ULTRATECH CEMENT LIMITED SR I 7.34 NCD 03MR28 FVRS1LAC](/stocks/ultratech-cement-limited-mar-28-212614) | Materials | Non Convertible Debenture | 0.34% |
+| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 7.12 NCD 26DC34 FVRS1LAC](/stocks/housing-and-urban-development-corporation-limited-dec-34-976273) | Financial | Debenture | 0.34% |
+| [POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC](/stocks/poonawalla-fincorp-limited-apr-28-976627) | Financial | Non Convertible Debenture | 0.34% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC](/stocks/small-industries-development-bank-of-india-oct-28-213575) | Financial | Non Convertible Debenture | 0.34% |
+| [SMFG INDIA CREDIT COMPANY LIMITED SR 114 7.30 NCD 10JL28 FVRS1LAC](/stocks/smfg-india-credit-company-limited-jul-28-213529) | Financial | Debenture | 0.34% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-apr-29-215759) | Financial | Debenture | 0.34% |
+| STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.34% |
+| STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100 | Unspecified | State Development Loan | 0.34% |
+| CANARA BANK CD 26FEB27 | Financial | Certificate of Deposit | 0.33% |
+| STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100 | Industrials | State Development Loan | 0.31% |
+| [MAHANAGAR TELEPHONE NIGAM LIMITED. SR V/2020 7.05 LOA 110T30 FVRS10LAC](/stocks/mahanagar-telephone-nigam-limited-oct-30-960121) | Technology | Debenture | 0.30% |
+| STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100 | Unspecified | State Development Loan | 0.30% |
 | STATE DEVELOPMENT LOAN 36739 GUJ 26NV33 7.07 FV RS 100 | Industrials | State Development Loan | 0.30% |
-| [MAHANAGAR TELEPHONE NIGAM LIMITED. SR V/2020 7.05 LOA 110T30 FVRS10LAC](/stocks/mahanagar-telephone-nigam-ltd-mtnl-324) | Technology | Debenture | 0.29% |
-| STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100 | Unspecified | State Development Loan | 0.29% |
-| TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC | Financial | Debenture | 0.27% |
-| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04A/2024 8.45 NCD 01SP27 FVRS1LAC](/stocks/INE357L07507) | Financial | Floating Rate Bond | 0.27% |
-| [JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC](/stocks/INE1D4P08019) | Consumer Staples | Debenture | 0.26% |
+| TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC | Financial | Debenture | 0.28% |
+| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04A/2024 8.45 NCD 01SP27 FVRS1LAC](/stocks/nomura-capital-india-pvt-ltd-sep-27-211901) | Financial | Floating Rate Bond | 0.28% |
+| [JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC](/stocks/jubilant-bevco-limited-may-28-976762) | Consumer Staples | Debenture | 0.27% |
+| STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100 | Industrials | State Development Loan | 0.25% |
 | STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100 | Industrials | State Development Loan | 0.24% |
-| STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100 | Industrials | State Development Loan | 0.24% |
-| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES 169 8.37 BD 07DC28 FVRS10LAC](/stocks/rec-ltd-recl-958419) | Financial | Debenture | 0.20% |
-| [POWER FINANCE CORPORATION LTD. SERIES 187(B) 8.85 BD 25MY29 FVRS10LAC](/stocks/power-finance-corporation-ltd-pfcl-295422) | Financial | Bonds/NCDs | 0.17% |
-| [REC LIMITED SR GOI-IX 7.14 BD 02MR30 FVRS10LAC](/stocks/rec-ltd-recl-555) | Financial | Debenture | 0.17% |
-| HDFC BANK LIMITED SR V004 8.55 NCD 27MR29 FVRS10LAC | Financial | Debenture | 0.17% |
-| [POWER FINANCE CORPORATION LTD. SR BS233C 7.60 BD 25AG33 FVRS1LAC](/stocks/power-finance-corporation-ltd-pfcl-709) | Financial | Fixed Deposits | 0.17% |
-| [7.70%PFC SERIES 234 UNSECURED BONDS (MATURITY - 30.11.2033)](/stocks/INE134E08MU9) | Financial | Debenture | 0.17% |
-| [BAJAJ FINANCE LIMITED 7.92 NCD 20FB34 FVRS1LAC](/stocks/INE296A07SW9) | Financial | Non Convertible Debenture | 0.17% |
+| [RURAL ELECTRIFICATION CORPORATION LIMITED SERIES 169 8.37 BD 07DC28 FVRS10LAC](/stocks/rural-electrification-corporation-limited-dec-28-958419) | Financial | Debenture | 0.21% |
+| [POWER FINANCE CORPORATION LTD. SERIES 187(B) 8.85 BD 25MY29 FVRS10LAC](/stocks/power-finance-corporation-limited-may-29-958795) | Financial | Bonds/NCDs | 0.18% |
+| [HDFC BANK LIMITED SR V004 8.55 NCD 27MR29 FVRS10LAC](/stocks/hdfc-bank-limited-mar-29-958674) | Financial | Debenture | 0.18% |
+| [RELIANCE INDUSTRIES LIMITED SR IA 8.70 NCD 11DC28 FVRS10LAC](/stocks/reliance-industries-limited-dec-28-958437) | Energy & Utilities | Non Convertible Debenture | 0.18% |
+| [REC LIMITED SR GOI-IX 7.14 BD 02MR30 FVRS10LAC](/stocks/rec-limited-mar-30-959313) | Financial | Debenture | 0.17% |
+| [POWER FINANCE CORPORATION LTD. SR BS233C 7.60 BD 25AG33 FVRS1LAC](/stocks/power-finance-corporation-limited-aug-33-975048) | Financial | Fixed Deposits | 0.17% |
+| [7.70%PFC SERIES 234 UNSECURED BONDS (MATURITY - 30.11.2033)](/stocks/power-finance-corporation-limited-nov-33-975226) | Financial | Debenture | 0.17% |
+| [REC LIMITED SR 231A 7.64 BD 30AP27 FVRS1LAC](/stocks/rec-limited-apr-27-975422) | Financial | Non Convertible Debenture | 0.17% |
+| [BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC](/stocks/bajaj-finance-limited-apr-35-976598) | Financial | Bonds/NCDs | 0.17% |
+| [BAJAJ FINANCE LIMITED 7.92 NCD 20FB34 FVRS1LAC](/stocks/bajaj-finance-limited-feb-34-975396) | Financial | Non Convertible Debenture | 0.17% |
 | STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100 | Financial | State Development Loan | 0.17% |
-| RELIANCE INDUSTRIES LIMITED SR IA 8.70 NCD 11DC28 FVRS10LAC | Energy & Utilities | Non Convertible Debenture | 0.17% |
-| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC](/stocks/INE556F08LD8) | Financial | Bonds | 0.17% |
-| [BAJAJ HOUSING FINANCE LIMITED 7.53 NCD 28SP29 FVRS1LAC](/stocks/INE377Y07672) | Financial | Non Convertible Debenture | 0.17% |
-| [BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC](/stocks/INE296A07TH8) | Financial | Bonds/NCDs | 0.16% |
-| STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100 | Unspecified | State Development Loan | 0.16% |
-| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26B 6.85 BD 19JN29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-nbrd-360) | Financial | Bonds | 0.16% |
-| STATE DEVELOPMENT LOAN 36583 AP 08OT33 7.14 FV RS 100 | Financial | State Development Loan | 0.16% |
-| [POWER FINANCE CORPORATION LTD. TRI SRIV CATIII&IV 7 NCD 22JN31 FVRS1000](/stocks/power-finance-corporation-ltd-pfcl-21) | Financial | Debenture | 0.15% |
-| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES V 8.41 LOA 15MR29 FVRS10LAC](/stocks/housing-urban-development-corporation-ltd-hudco-294781) | Financial | Debenture | 0.14% |
+| STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100 | Unspecified | State Development Loan | 0.17% |
+| [NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26B 6.85 BD 19JN29 FVRS1LAC](/stocks/national-bank-for-agriculture-and-rural-development-jan-29-213803) | Financial | Bonds | 0.17% |
+| [SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC](/stocks/small-industries-development-bank-of-india-aug-29-216240) | Financial | Bonds | 0.17% |
+| [BAJAJ HOUSING FINANCE LIMITED 7.53 NCD 28SP29 FVRS1LAC](/stocks/bajaj-housing-finance-limited-sep-29-977952) | Financial | Non Convertible Debenture | 0.17% |
+| [POWER FINANCE CORPORATION LTD. TRI SRIV CATIII&IV 7 NCD 22JN31 FVRS1000](/stocks/power-finance-corporation-limited-jan-31-937373) | Financial | Debenture | 0.15% |
+| [HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES V 8.41 LOA 15MR29 FVRS10LAC](/stocks/housing-and-urban-development-corporation-limited-mar-29-958641) | Financial | Debenture | 0.14% |
 | Tata Power Company Ltd SR CGPLAU02 Debenture 9.90 27/08/2028 | Energy & Utilities | Debenture | 0.14% |
-| [GOI Sec 7.18 24/07/2037](/stocks/goi-loan--303) | Entities | GOI Securities | 0.14% |
-| STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100 | Financial | State Development Loan | 0.13% |
-| STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100 | Unspecified | State Development Loan | 0.13% |
-| STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100 | Financial | State Development Loan | 0.11% |
+| STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100 | Financial | State Development Loan | 0.14% |
+| STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100 | Unspecified | State Development Loan | 0.14% |
+| STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100 | Financial | State Development Loan | 0.12% |
 | 7.72% Maharashtra State Dev. Loan (MD 25/05/2034) | Unspecified | State Development Loan | 0.10% |
-| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04B/2024 8.45 NCD 01MR27 FVRS1LAC](/stocks/INE357L07499) | Financial | Non Convertible Debenture | 0.10% |
+| [NOMURA CAPITAL (INDIA) PVT. LTD. SR 04B/2024 8.45 NCD 01MR27 FVRS1LAC](/stocks/nomura-capital-india-pvt-ltd-mar-27-211900) | Financial | Non Convertible Debenture | 0.10% |
 | STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100 | Financial | State Development Loan | 0.10% |
-| SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.07% |
 | STATE DEVELOPMENT LOAN 36584 AP 08OT36 7.27 FV RS 100 | Financial | State Development Loan | 0.07% |
-| TATA MOTORS FINANCE LIMITED SR A NCD 28AG26 FVRS10LAC | Financial | Zero Coupon Bonds | 0.05% |
+| SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.06% |
 | STATE DEVELOPMENT LOAN 36527 GUJ 24SP32 7.07 FV RS 100 | Industrials | State Development Loan | 0.05% |
-| INDIA UNIVERSAL TRUST AL2 SERIES A1 PTC 27NOV24 | Unspecified | Securitised Debt | 0.02% |
 
 See All
 
@@ -510,13 +501,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 05 Sep 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 07 Sep 2026...
 
 ### What is the AUM of HDFC Short Term Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Fund Direct Plan Growth is ₹14,486.07Cr as of 05 Sep 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹14,486.07Cr as of 07 Sep 2026.
 
 ### How to Redeem HDFC Short Term Fund Direct Plan Growth?
 

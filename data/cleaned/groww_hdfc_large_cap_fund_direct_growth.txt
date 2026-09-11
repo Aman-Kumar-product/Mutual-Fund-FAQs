@@ -1,8 +1,8 @@
-+90123456789.2012345678930123456789%
++90123456789.0012345678900123456789%
 
 3Y annualised
 
--0.50% 1D
++0.15% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 08 Sep '26
+NAV: 10 Sep '26
 
-₹1,218.25
+₹1,210.98
 
 Min. for SIP
 
@@ -26,11 +26,11 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹40,197.89 Cr
+₹39,933.37 Cr
 
 Expense ratio
 
-1.02%
+1.03%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,193 | | -0.58% |
-| 3 years | ₹3,600 | ₹3,765 | | +4.58% |
-| 5 years | ₹6,000 | ₹7,531 | | +25.52% |
-| 10 years | ₹12,000 | ₹22,919 | | +90.99% |
+| 1 year | ₹1,200 | ₹1,186 | | -1.17% |
+| 3 years | ₹3,600 | ₹3,742 | | +3.94% |
+| 5 years | ₹6,000 | ₹7,483 | | +24.72% |
+| 10 years | ₹12,000 | ₹22,769 | | +89.74% |
 
 ## Holdings (48)
 
@@ -136,9 +136,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +9.2% | +11.5% | +12.1% | +13.0% |
+| Fund returns | +9.0% | +11.3% | +12.2% | +12.9% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 43 | 14 | 14 | -- |
+| Rank (Equity Large Cap) | 44 | 15 | 13 | -- |
 
 ## Understand terms
 
@@ -192,11 +192,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +5.28% | +14.09% | 2,023.36 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.07% | +13.01% | 2,144.56 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -2.03% | +10.85% | 54,224.57 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -2.81% | +10.83% | 80,960.34 |
-| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -0.64% | +9.23% | 40,197.89 |
+| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +3.59% | +13.79% | 2,023.36 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +1.75% | +12.74% | 2,144.56 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -3.90% | +10.55% | 80,206.20 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -3.66% | +10.45% | 54,133.66 |
+| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -1.59% | +9.00% | 39,933.37 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-large-cap-fund-direct-growth) | | | | |
@@ -323,7 +323,7 @@ Also manages these schemes
 
 HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,6
 
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 08 Sep 2026 is ₹1,218.25.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 10 Sep 2026 is ₹1,210.98.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -388,7 +388,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Large Cap Fund Direct Growth provide?
 
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.98% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.93% since its inception.
 
 ### How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
 
@@ -396,13 +396,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 09 Sep 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 11 Sep 2026...
 
 ### What is the AUM of HDFC Large Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 09 Sep 2026.
+of HDFC Large Cap Fund Direct Growth is ₹39,933.37Cr as of 11 Sep 2026.
 
 ### How to Redeem HDFC Large Cap Fund Direct Growth?
 
@@ -419,7 +419,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Large Cap Fund Direct Growth?
 
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,218.25 as of 08 Sep 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,210.98 as of 10 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 

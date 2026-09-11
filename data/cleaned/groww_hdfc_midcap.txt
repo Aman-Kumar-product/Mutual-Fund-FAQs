@@ -1,8 +1,8 @@
-+1012345678970123456789.3012345678900123456789%
++1012345678960123456789.9012345678910123456789%
 
 3Y annualised
 
-+0.12% 1D
+-0.27% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 08 Sep '26
+NAV: 10 Sep '26
 
-₹233.75
+₹231.64
 
 Min. for SIP
 
@@ -26,11 +26,11 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹1,05,142.69 Cr
+₹1,08,324.55 Cr
 
 Expense ratio
 
-0.74%
+0.75%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,262 | | +5.17% |
-| 3 years | ₹3,600 | ₹4,274 | | +18.72% |
-| 5 years | ₹6,000 | ₹9,522 | | +58.70% |
-| 10 years | ₹12,000 | ₹33,888 | | +182.40% |
+| 1 year | ₹1,200 | ₹1,251 | | +4.25% |
+| 3 years | ₹3,600 | ₹4,233 | | +17.58% |
+| 5 years | ₹6,000 | ₹9,428 | | +57.13% |
+| 10 years | ₹12,000 | ₹33,551 | | +179.59% |
 
 ## Holdings (81)
 
@@ -169,9 +169,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.3% | +19.5% | +17.3% | +20.2% |
+| Fund returns | +16.9% | +19.2% | +17.3% | +20.1% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 14 | 3 | 8 | -- |
+| Rank (Equity Mid Cap) | 14 | 4 | 8 | -- |
 
 ## Understand terms
 
@@ -217,11 +217,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +11.34% | +23.36% | 15,927.14 |
-| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +17.45% | +22.06% | 6,792.14 |
-| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +10.59% | +20.95% | 18,693.49 |
-| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +10.08% | +17.99% | 50,750.81 |
-| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +10.26% | +17.30% | 1,05,142.69 |
+| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +10.88% | +23.38% | 15,927.14 |
+| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +14.92% | +21.73% | 6,792.14 |
+| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +8.71% | +20.65% | 19,891.00 |
+| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +8.44% | +17.73% | 52,270.55 |
+| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +7.73% | +16.91% | 1,08,324.55 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-mid-cap-fund-direct-growth) | | | | |
@@ -354,7 +354,7 @@ Also manages these schemes
 
 HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67
 
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 08 Sep 2026 is ₹233.75.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 10 Sep 2026 is ₹231.64.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 
 ...Read more
@@ -419,7 +419,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Mid Cap Fund Direct Growth provide?
 
-The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.21% since its inception.
+The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.12% since its inception.
 
 ### How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?
 
@@ -427,13 +427,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 09 Sep 2026...
+The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 11 Sep 2026...
 
 ### What is the AUM of HDFC Mid Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Mid Cap Fund Direct Growth is ₹1,05,142.69Cr as of 09 Sep 2026.
+of HDFC Mid Cap Fund Direct Growth is ₹1,08,324.55Cr as of 11 Sep 2026.
 
 ### How to Redeem HDFC Mid Cap Fund Direct Growth?
 
@@ -450,7 +450,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Mid Cap Fund Direct Growth?
 
-The NAV of HDFC Mid Cap Fund Direct Growth is ₹233.75 as of 08 Sep 2026.
+The NAV of HDFC Mid Cap Fund Direct Growth is ₹231.64 as of 10 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Mid Cap Fund Direct Growth?
 

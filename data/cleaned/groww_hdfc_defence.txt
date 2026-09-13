@@ -1,8 +1,8 @@
-+3012345678960123456789.4012345678960123456789%
++3012345678960123456789.1012345678930123456789%
 
 3Y annualised
 
--0.95% 1D
+-0.62% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 10 Sep '26
+NAV: 11 Sep '26
 
-₹31.88
+₹31.68
 
 Min. for SIP
 
@@ -42,41 +42,41 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹308 | | +2.67% |
-| 6 months | ₹600 | ₹666 | | +11.00% |
-| 1 year | ₹1,200 | ₹1,434 | | +19.50% |
-| 3 years | ₹3,600 | ₹5,455 | | +51.53% |
+| 3 months | ₹300 | ₹306 | | +2.00% |
+| 6 months | ₹600 | ₹661 | | +10.17% |
+| 1 year | ₹1,200 | ₹1,424 | | +18.67% |
+| 3 years | ₹3,600 | ₹5,418 | | +50.50% |
 
 ## Holdings (26)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [Bharat Forge Ltd](/stocks/bharat-forge-ltd) | Consumer Discretionary | Equity | 14.82% |
-| [Bharat Electronics Ltd](/stocks/bharat-electronics-ltd) | Industrials | Equity | 14.67% |
-| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 12.37% |
-| [Solar Industries India Ltd](/stocks/solar-industries-india-ltd) | Materials | Equity | 10.95% |
-| [Astra Microwave Products Ltd](/stocks/astra-microwave-products-ltd) | Technology | Equity | 7.16% |
-| [BEML Ltd](/stocks/beml-ltd) | Industrials | Equity | 4.74% |
-| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 4.03% |
-| [MTAR Technologies Ltd](/stocks/mtar-technologies-ltd) | Industrials | Equity | 4.01% |
-| [Bharat Dynamics Ltd](/stocks/bharat-dynamics-ltd) | Industrials | Equity | 3.80% |
-| [Mazagon Dock Shipbuilders Ltd](/stocks/mazagon-dock-shipbuilders-ltd) | Industrials | Equity | 3.34% |
-| [Cyient DLM Ltd.](/stocks/cyient-dlm-ltd) | Industrials | Equity | 3.23% |
-| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 3.06% |
-| [Premier Explosives Ltd](/stocks/premier-explosives-ltd) | Materials | Equity | 2.89% |
-| [Centum Electronics Ltd](/stocks/centum-electronics-ltd) | Industrials | Equity | 2.34% |
-| [Data Patterns (India) Ltd](/stocks/data-patterns-india-ltd) | Industrials | Equity | 2.12% |
-| Repo | Unspecified | Repo | 1.87% |
-| [SEDEMAC Mechatronics Ltd.](/stocks/sedemac-mechatronics-ltd) | Industrials | Equity | 1.00% |
-| [ideaForge Technology Ltd.](/stocks/ideaforge-technology-ltd) | Industrials | Equity | 0.99% |
-| [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 0.86% |
-| [Power Mech Projects Ltd](/stocks/power-mech-projects-ltd) | Industrials | Equity | 0.72% |
-| [Cochin Shipyard Ltd](/stocks/cochin-shipyard-ltd) | Industrials | Equity | 0.40% |
-| [INDO-MIM Ltd.](/stocks/indomim-ltd) | Industrials | Equity | 0.24% |
-| [JNK India Ltd.](/stocks/jnk-india-ltd) | Industrials | Equity | 0.23% |
-| [Diffusion Engineers Ltd.](/stocks/diffusion-engineers-ltd) | Industrials | Equity | 0.20% |
+| [Bharat Electronics Ltd](/stocks/bharat-electronics-ltd) | Industrials | Equity | 15.17% |
+| [Bharat Forge Ltd](/stocks/bharat-forge-ltd) | Consumer Discretionary | Equity | 13.40% |
+| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 12.57% |
+| [Solar Industries India Ltd](/stocks/solar-industries-india-ltd) | Materials | Equity | 10.77% |
+| [Astra Microwave Products Ltd](/stocks/astra-microwave-products-ltd) | Technology | Equity | 6.55% |
+| [BEML Ltd](/stocks/beml-ltd) | Industrials | Equity | 4.89% |
+| [MTAR Technologies Ltd](/stocks/mtar-technologies-ltd) | Industrials | Equity | 4.60% |
+| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 4.16% |
+| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 4.01% |
+| [Mazagon Dock Shipbuilders Ltd](/stocks/mazagon-dock-shipbuilders-ltd) | Industrials | Equity | 3.62% |
+| [Bharat Dynamics Ltd](/stocks/bharat-dynamics-ltd) | Industrials | Equity | 3.61% |
+| [Cyient DLM Ltd.](/stocks/cyient-dlm-ltd) | Industrials | Equity | 2.94% |
+| [Premier Explosives Ltd](/stocks/premier-explosives-ltd) | Materials | Equity | 2.69% |
+| [Centum Electronics Ltd](/stocks/centum-electronics-ltd) | Industrials | Equity | 2.12% |
+| [Data Patterns (India) Ltd](/stocks/data-patterns-india-ltd) | Industrials | Equity | 2.09% |
+| Repo | Unspecified | Repo | 1.93% |
+| [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 1.15% |
+| [SEDEMAC Mechatronics Ltd.](/stocks/sedemac-mechatronics-ltd) | Industrials | Equity | 1.07% |
+| [ideaForge Technology Ltd.](/stocks/ideaforge-technology-ltd) | Industrials | Equity | 0.84% |
+| [Power Mech Projects Ltd](/stocks/power-mech-projects-ltd) | Industrials | Equity | 0.66% |
+| [Cochin Shipyard Ltd](/stocks/cochin-shipyard-ltd) | Industrials | Equity | 0.39% |
+| [INDO-MIM Ltd.](/stocks/indomim-ltd) | Industrials | Equity | 0.25% |
+| [Diffusion Engineers Ltd.](/stocks/diffusion-engineers-ltd) | Industrials | Equity | 0.24% |
+| [JNK India Ltd.](/stocks/jnk-india-ltd) | Industrials | Equity | 0.21% |
 | [Aequs Ltd.](/stocks/aequs-ltd) | Technology | Equity | 0.11% |
-| Net Payables | Unspecified | Net Payables | -0.15% |
+| Net Payables | Unspecified | Net Payables | -0.04% |
 
 See All
 
@@ -112,7 +112,7 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +23.4% | +32.1% | +36.5% | +42.4% |
+| Fund returns | +24.4% | +31.5% | +36.1% | +42.1% |
 | Category average (Equity Thematic) | -1.9% | +1.7% | +16.0% | -- |
 | Rank (Equity Thematic) | -- | 1 | 1 | -- |
 
@@ -296,9 +296,9 @@ Also manages these schemes
 
 ### About HDFC Defence Fund Direct Growth
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,91
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,23
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 10 Sep 2026 is ₹31.88.
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 11 Sep 2026 is ₹31.68.
 The HDFC Defence Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1%, if redeemed within 1 year.
 
 ...Read more
@@ -317,7 +317,7 @@ Fund benchmarkNifty India Defence Total Return Index
 
 Rank (total assets)#2 in India
 
-Total AUM₹9,67,910.31 Cr
+Total AUM₹9,86,236.84 Cr
 
 Date of Incorporation09 Dec 1999
 
@@ -363,7 +363,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Defence Fund Direct Growth provide?
 
-The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 42.45% since its inception.
+The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 42.14% since its inception.
 
 ### How much expense ratio is charged by HDFC Defence Fund Direct Growth?
 
@@ -371,13 +371,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Defence Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Defence Fund Direct Growth is 0.89% as of 11 Sep 2026...
+The Expense Ratio of HDFC Defence Fund Direct Growth is 0.89% as of 13 Sep 2026...
 
 ### What is the AUM of HDFC Defence Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 11 Sep 2026.
+of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 13 Sep 2026.
 
 ### How to Redeem HDFC Defence Fund Direct Growth?
 
@@ -394,7 +394,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Defence Fund Direct Growth?
 
-The NAV of HDFC Defence Fund Direct Growth is ₹31.88 as of 10 Sep 2026.
+The NAV of HDFC Defence Fund Direct Growth is ₹31.68 as of 11 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Defence Fund Direct Growth?
 

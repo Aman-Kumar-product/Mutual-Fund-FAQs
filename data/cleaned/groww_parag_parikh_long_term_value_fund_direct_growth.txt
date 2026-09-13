@@ -1,4 +1,4 @@
-+1012345678920123456789.3012345678920123456789%
++1012345678910123456789.9012345678980123456789%
 
 3Y annualised
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 10 Sep '26
+NAV: 11 Sep '26
 
-₹89.48
+₹89.57
 
 Min. for SIP
 
@@ -26,7 +26,7 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹1,48,429.00 Cr
+₹1,47,404.51 Cr
 
 Expense ratio
 
@@ -44,99 +44,94 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹12,000 | ₹11,690 | | -2.58% |
-| 3 years | ₹36,000 | ₹38,313 | | +6.42% |
-| 5 years | ₹60,000 | ₹78,616 | | +31.03% |
-| 10 years | ₹1,20,000 | ₹2,85,671 | | +138.06% |
+| 1 year | ₹12,000 | ₹11,715 | | -2.38% |
+| 3 years | ₹36,000 | ₹38,379 | | +6.61% |
+| 5 years | ₹60,000 | ₹78,724 | | +31.21% |
+| 10 years | ₹1,20,000 | ₹2,85,990 | | +138.33% |
 
-## Holdings (152)
+## Holdings (150)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 7.55% |
-| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 5.98% |
-| [ITC Ltd](/stocks/itc-ltd) | Consumer Staples | Equity | 5.74% |
-| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 5.56% |
-| [Coal India Ltd](/stocks/coal-india-ltd) | Materials | Equity | 4.91% |
-| [Bajaj Holdings & Investment Ltd](/stocks/bajaj-holdings-investment-ltd) | Financial | Equity | 4.85% |
-| Net Receivables | Unspecified | Net Receivables | 4.60% |
-| Alphabet Inc Forgn. Eq (GOOGL) | Technology | Foreign - Equity | 4.33% |
-| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 4.23% |
-| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 4.07% |
-| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 3.80% |
-| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 3.25% |
-| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 3.03% |
-| [Tata Consultancy Services Ltd](/stocks/tata-consultancy-services-ltd) | Technology | Equity | 2.82% |
-| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 2.79% |
-| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 2.79% |
-| [Embassy Office Parks REIT](/stocks/embassy-office-parks-reit) | Real Estate | Real Estate Investment Trusts | 2.46% |
-| Amazon. com Inc. (USA) Forgn. Eq (AMZN) | Consumer Discretionary | Foreign - Equity | 2.43% |
-| Microsoft Corportion (US) Forgn. Eq (MSFT) | Technology | Foreign - Equity | 2.19% |
-| Facebook Co Forgn. Eq (FB) | Technology | Foreign - Equity | 2.12% |
-| Cash Margin | Unspecified | Cash Margin | 2.10% |
-| [Brookfield India Real Estate Trust REIT](/stocks/brookfield-india-real-estate-trust-reit) | Real Estate | Real Estate Investment Trusts | 1.59% |
-| [Zydus Lifesciences Ltd](/stocks/cadila-healthcare-ltd) | Healthcare | Equity | 1.46% |
-| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 1.42% |
-| [Dr. Reddy's Laboratories Ltd](/stocks/dr-reddys-laboratories-ltd) | Healthcare | Equity | 1.11% |
-| [Indraprastha Gas Ltd](/stocks/indraprastha-gas-ltd) | Energy & Utilities | Equity | 1.08% |
-| PPFAS Liquid Fund Direct - Growth | Unspecified | Mutual Fund | 0.89% |
-| [Zydus Wellness Ltd](/stocks/zydus-wellness-ltd) | Consumer Staples | Equity | 0.86% |
-| [Indian Energy Exchange Ltd](/stocks/indian-energy-exchange-ltd) | Financial | Equity | 0.75% |
-| [EID-Parry (India) Ltd](/stocks/eid-parry-india-ltd) | Materials | Equity | 0.54% |
-| AXIS BANK LIMITED CD 11AUG26 | Financial | Certificate of Deposit | 0.42% |
-| [Bajaj Finance Ltd](/stocks/bajaj-finance-ltd) | Financial | Equity | 0.41% |
-| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 0.36% |
-| BHARAT PETROLEUM CORPORATION LIMITED 80D CP 24SEP26 | Energy & Utilities | Commercial Paper | 0.33% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 7.63% |
+| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 5.67% |
+| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 5.58% |
+| [ITC Ltd](/stocks/itc-ltd) | Consumer Staples | Equity | 5.26% |
+| [Bajaj Holdings & Investment Ltd](/stocks/bajaj-holdings-investment-ltd) | Financial | Equity | 5.14% |
+| [Coal India Ltd](/stocks/coal-india-ltd) | Materials | Equity | 5.02% |
+| Reverse Repo | Unspecified | Reverse Repo | 4.85% |
+| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 4.40% |
+| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 4.15% |
+| Alphabet Inc Forgn. Eq (GOOGL) | Technology | Foreign - Equity | 4.14% |
+| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 3.97% |
+| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 3.29% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 2.97% |
+| [Tata Consultancy Services Ltd](/stocks/tata-consultancy-services-ltd) | Technology | Equity | 2.88% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 2.80% |
+| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 2.68% |
+| [Embassy Office Parks REIT](/stocks/embassy-office-parks-reit) | Real Estate | Real Estate Investment Trusts | 2.48% |
+| Microsoft Corportion (US) Forgn. Eq (MSFT) | Technology | Foreign - Equity | 2.40% |
+| Amazon. com Inc. (USA) Forgn. Eq (AMZN) | Consumer Discretionary | Foreign - Equity | 2.33% |
+| Facebook Co Forgn. Eq (FB) | Technology | Foreign - Equity | 2.18% |
+| [Knowledge Realty Trust](/stocks/knowledge-realty-trust) | Real Estate | Real Estate Investment Trusts | 2.09% |
+| Net Current Assets | Unspecified | Net Current Assets | 1.89% |
+| [Brookfield India Real Estate Trust REIT](/stocks/brookfield-india-real-estate-trust-reit) | Real Estate | Real Estate Investment Trusts | 1.60% |
+| [Zydus Lifesciences Ltd](/stocks/cadila-healthcare-ltd) | Healthcare | Equity | 1.52% |
+| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 1.37% |
+| [Indraprastha Gas Ltd](/stocks/indraprastha-gas-ltd) | Energy & Utilities | Equity | 1.17% |
+| [Dr. Reddy's Laboratories Ltd](/stocks/dr-reddys-laboratories-ltd) | Healthcare | Equity | 1.12% |
+| [Zydus Wellness Ltd](/stocks/zydus-wellness-ltd) | Consumer Staples | Equity | 0.80% |
+| [Indian Energy Exchange Ltd](/stocks/indian-energy-exchange-ltd) | Financial | Equity | 0.69% |
+| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 0.64% |
+| [EID-Parry (India) Ltd](/stocks/eid-parry-india-ltd) | Materials | Equity | 0.57% |
+| [Petronet LNG Ltd](/stocks/petronet-lng-ltd) | Energy & Utilities | Equity | 0.48% |
+| PPFAS Liquid Fund Direct - Growth | Unspecified | Mutual Fund | 0.38% |
+| [Bajaj Finance Ltd](/stocks/bajaj-finance-ltd) | Financial | Equity | 0.38% |
+| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 0.35% |
+| BHARAT PETROLEUM CORPORATION LIMITED 80D CP 24SEP26 | Energy & Utilities | Commercial Paper | 0.34% |
 | KOTAK MAHINDRA BANK LIMITED CD 18DEC26 | Financial | Certificate of Deposit | 0.33% |
 | Export Import Bank of India (14/12/2026) | Financial | Commercial Paper | 0.30% |
 | CANARA BANK CD 18DEC26 | Financial | Certificate of Deposit | 0.30% |
-| [Petronet LNG Ltd](/stocks/petronet-lng-ltd) | Energy & Utilities | Equity | 0.29% |
-| [Narayana Hrudayalaya Ltd](/stocks/narayana-hrudayalaya-ltd) | Healthcare | Equity | 0.27% |
-| EXPORT IMPORT BANK OF INDIA 91D CP 21AUG26 | Financial | Commercial Paper | 0.27% |
 | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 18SEP26 | Financial | Certificate of Deposit | 0.27% |
-| CANARA BANK CD 11NOV26 | Financial | Certificate of Deposit | 0.26% |
+| [Narayana Hrudayalaya Ltd](/stocks/narayana-hrudayalaya-ltd) | Healthcare | Equity | 0.26% |
 | HDFC BANK LIMITED CD 10SEP26 | Financial | Certificate of Deposit | 0.25% |
-| KOTAK MAHINDRA BANK LIMITED CD 24SEP26 | Financial | Certificate of Deposit | 0.23% |
-| GOVERNMENT OF INDIA 36628 364 DAYS TBILL 15OT26 FV RS 100 | Financial | Treasury Bills | 0.23% |
-| [Central Depository Services (India) Ltd](/stocks/central-depository-services-india-ltd) | Financial | Equity | 0.20% |
-| [The Great Eastern Shipping Company Ltd](/stocks/the-great-eastern-shipping-company-ltd) | Energy & Utilities | Equity | 0.20% |
+| [Mahanagar Gas Ltd](/stocks/mahanagar-gas-ltd) | Energy & Utilities | Equity | 0.25% |
+| KOTAK MAHINDRA BANK LIMITED CD 24SEP26 | Financial | Certificate of Deposit | 0.24% |
+| GOVERNMENT OF INDIA 36628 364 DAYS TBILL 15OT26 FV RS 100 | Financial | Treasury Bills | 0.24% |
+| [Central Depository Services (India) Ltd](/stocks/central-depository-services-india-ltd) | Financial | Equity | 0.22% |
 | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 24SEP26 | Financial | Certificate of Deposit | 0.20% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 13OCT26 | Financial | Certificate of Deposit | 0.20% |
-| INDIAN BANK CD 30OCT26 | Financial | Certificate of Deposit | 0.20% |
+| CANARA BANK CD 11NOV26 | Financial | Certificate of Deposit | 0.20% |
 | INDIAN BANK CD 22JAN27 | Financial | Certificate of Deposit | 0.20% |
-| [CMS Info Systems Ltd](/stocks/cms-info-systems-ltd) | Industrials | Equity | 0.17% |
 | AXIS BANK LIMITED CD 01SEP26 | Financial | Certificate of Deposit | 0.17% |
-| BANK OF BARODA CD 16OCT26 | Financial | Certificate of Deposit | 0.17% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 19JAN27 | Financial | Certificate of Deposit | 0.16% |
+| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 19JAN27 | Financial | Certificate of Deposit | 0.17% |
+| [CMS Info Systems Ltd](/stocks/cms-info-systems-ltd) | Industrials | Equity | 0.16% |
+| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 0.16% |
 | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 14JAN27 | Financial | Certificate of Deposit | 0.15% |
-| [Mahanagar Gas Ltd](/stocks/mahanagar-gas-ltd) | Energy & Utilities | Equity | 0.15% |
-| GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100 | Financial | Treasury Bills | 0.13% |
-| HINDUSTAN PETROLEUM CORPORATION LIMITED 89D CP 15SEP26 | Energy & Utilities | Commercial Paper | 0.13% |
-| REC LIMITED 91D CP 21SEP26 | Financial | Commercial Paper | 0.13% |
+| GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100 | Financial | Treasury Bills | 0.14% |
+| HINDUSTAN PETROLEUM CORPORATION LIMITED 89D CP 15SEP26 | Energy & Utilities | Commercial Paper | 0.14% |
+| REC LIMITED 91D CP 21SEP26 | Financial | Commercial Paper | 0.14% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 13OCT26 | Financial | Certificate of Deposit | 0.13% |
 | BAJAJ FINANCE LIMITED 91D CP 26OCT26 | Financial | Commercial Paper | 0.13% |
 | BANK OF BARODA CD 15DEC26 | Financial | Certificate of Deposit | 0.13% |
 | KOTAK MAHINDRA BANK LIMITED CD 08JAN27 | Financial | Certificate of Deposit | 0.13% |
 | ICICI BANK LIMITED CD 27JAN27 | Financial | Certificate of Deposit | 0.13% |
 | [Sun Pharmaceutical Industries Ltd](/stocks/sun-pharmaceutical-industries-ltd) | Healthcare | Equity | 0.13% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 0.12% |
-| BANK OF BARODA CD 25NOV26 | Financial | Certificate of Deposit | 0.12% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 16DEC26 | Financial | Certificate of Deposit | 0.11% |
-| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 0.11% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 16DEC26 | Financial | Certificate of Deposit | 0.12% |
+| [The Great Eastern Shipping Company Ltd](/stocks/the-great-eastern-shipping-company-ltd) | Energy & Utilities | Equity | 0.11% |
 | [Titan Company Ltd](/stocks/titan-company-ltd) | Consumer Discretionary | Equity | 0.11% |
-| BANK OF BARODA CD 12AUG26 | Financial | Certificate of Deposit | 0.10% |
+| [Hindustan Aeronautics Ltd](/stocks/hindustan-aeronautics-ltd) | Industrials | Equity | 0.10% |
+| [Maharashtra Scooters Ltd](/stocks/maharashtra-scooters-ltd) | Consumer Discretionary | Equity | 0.10% |
 | HINDUSTAN PETROLEUM CORPORATION LIMITED 90D CP 17SEP26 | Energy & Utilities | Commercial Paper | 0.10% |
 | EXPORT IMPORT BANK OF INDIA 91D CP 22SEP26 | Financial | Certificate of Deposit | 0.10% |
 | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 22JAN27 | Financial | Certificate of Deposit | 0.10% |
 | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 28JAN27 | Financial | Certificate of Deposit | 0.10% |
-| [ICRA Ltd](/stocks/icra-ltd) | Industrials | Equity | 0.09% |
-| [Canara Bank](/stocks/canara-bank) | Financial | Equity | 0.09% |
-| [Maharashtra Scooters Ltd](/stocks/maharashtra-scooters-ltd) | Consumer Discretionary | Equity | 0.09% |
-| [Ultratech Cement Ltd](/stocks/ultratech-cement-ltd) | Materials | Equity | 0.09% |
+| [ICRA Ltd](/stocks/icra-ltd) | Industrials | Equity | 0.10% |
+| [Canara Bank](/stocks/canara-bank) | Financial | Equity | 0.10% |
 | [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 0.09% |
+| [Divi's Laboratories Ltd](/stocks/divis-laboratories-ltd) | Healthcare | Equity | 0.09% |
+| [Ultratech Cement Ltd](/stocks/ultratech-cement-ltd) | Materials | Equity | 0.09% |
 | NTPC LIMITED 91D CP 23SEP26 | Energy & Utilities | Commercial Paper | 0.08% |
-| [Divi's Laboratories Ltd](/stocks/divis-laboratories-ltd) | Healthcare | Equity | 0.08% |
 | GOVERNMENT OF INDIA 37631 364 DAYS TBILL 01JL27 FV RS 100 | Financial | Treasury Bills | 0.07% |
-| AXIS BANK LIMITED CD 10AUG26 | Financial | Certificate of Deposit | 0.07% |
 | PUNJAB NATIONAL BANK CD 02SEP26 | Financial | Certificate of Deposit | 0.07% |
 | HDFC BANK LIMITED CD 21SEP26 | Financial | Certificate of Deposit | 0.07% |
 | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26 | Financial | Certificate of Deposit | 0.07% |
@@ -144,67 +139,70 @@ Monthly investment
 | HDFC BANK LIMITED CD 22JAN27 | Financial | Certificate of Deposit | 0.07% |
 | BANK OF BARODA CD 04FEB27 | Financial | Certificate of Deposit | 0.07% |
 | BANK OF BARODA CD 05FEB27 | Financial | Certificate of Deposit | 0.07% |
-| [Hindustan Unilever Ltd](/stocks/hindustan-unilever-ltd) | Consumer Staples | Equity | 0.06% |
+| SUNDARAM FINANCE LIMITED 365D CP 17AUG27 | Financial | Commercial Paper | 0.06% |
 | [Hindalco Industries Ltd](/stocks/hindalco-industries-ltd) | Materials | Equity | 0.06% |
 | [Oil & Natural Gas Corporation Ltd](/stocks/oil-natural-gas-corporation-ltd) | Energy & Utilities | Equity | 0.05% |
 | [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 0.05% |
+| [Hindustan Unilever Ltd](/stocks/hindustan-unilever-ltd) | Consumer Staples | Equity | 0.04% |
 | [Bharat Electronics Ltd](/stocks/bharat-electronics-ltd) | Industrials | Equity | 0.04% |
 | [Grasim Industries Ltd](/stocks/grasim-industries-ltd) | Materials | Equity | 0.04% |
-| [DLF Ltd](/stocks/dlf-ltd) | Real Estate | Equity | 0.03% |
 | [Indusind Bank Ltd](/stocks/indusind-bank-ltd) | Financial | Equity | 0.03% |
 | BANK OF BARODA CD 16SEP26 | Financial | Certificate of Deposit | 0.03% |
+| BAJAJ FINANCE LIMITED 365D CP 04NOV26 | Financial | Commercial Paper | 0.03% |
+| POWER FINANCE CORPORATION LIMITED 91D CP 18NOV26 | Financial | Commercial Paper | 0.03% |
 | AXIS BANK LIMITED CD 27NOV26 | Financial | Certificate of Deposit | 0.03% |
 | PUNJAB NATIONAL BANK CD 05FEB27 | Financial | Certificate of Deposit | 0.03% |
 | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 11JUN27 | Financial | Certificate of Deposit | 0.03% |
-| [Mindspace Business Parks Ltd.](/stocks/mindspace-business-parks-ltd) | Real Estate | Real Estate Investment Trusts | 0.03% |
 | [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 0.03% |
 | [TVS Motor Company Ltd](/stocks/tvs-motor-company-ltd) | Consumer Discretionary | Equity | 0.03% |
-| [Bajaj Finserv Ltd](/stocks/bajaj-finserv-ltd) | Financial | Equity | 0.03% |
-| [BSE Ltd](/stocks/bse-ltd) | Financial | Equity | 0.02% |
+| [Bajaj Finserv Ltd](/stocks/bajaj-finserv-ltd) | Financial | Equity | 0.02% |
 | [Indus Towers Ltd](/stocks/bharti-infratel-ltd) | Technology | Equity | 0.02% |
-| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 0.02% |
 | HDFC Bank Limited (16/09/2026) \*\* | Financial | Certificate of Deposit | 0.02% |
 | ICICI SECURITIES LIMITED 126D CP 28SEP26 | Financial | Commercial Paper | 0.02% |
+| BANK OF BARODA CD 25NOV26 | Financial | Certificate of Deposit | 0.02% |
 | BANK OF BARODA CD 07DEC26 | Financial | Certificate of Deposit | 0.02% |
 | [IDFC First Bank Ltd](/stocks/idfc-bank-ltd) | Financial | Equity | 0.02% |
 | [Ashok Leyland Ltd](/stocks/ashok-leyland-ltd) | Industrials | Equity | 0.02% |
-| [Swaraj Engines Ltd](/stocks/swaraj-engines-ltd) | Industrials | Equity | 0.01% |
 | [Nesco Ltd](/stocks/nesco-ltd) | Real Estate | Equity | 0.01% |
+| [Swaraj Engines Ltd](/stocks/swaraj-engines-ltd) | Industrials | Equity | 0.01% |
 | [JSW Steel Ltd](/stocks/jsw-steel-ltd) | Materials | Equity | 0.01% |
 | [Tata Consumer Products Ltd](/stocks/tata-global-beverages-ltd) | Consumer Staples | Equity | 0.00% |
 | [Lupin Ltd](/stocks/lupin-ltd) | Healthcare | Equity | 0.00% |
 | [JSW Energy Ltd](/stocks/jsw-energy-ltd) | Energy & Utilities | Equity | 0.00% |
-| JSW Energy Limited August 2026 Future | Energy & Utilities | Futures | -0.00% |
-| Lupin Limited August 2026 Future | Healthcare | Futures | -0.00% |
-| Tata Consumer Products Limited August 2026 Future | Consumer Staples | Futures | -0.00% |
-| Sun Pharmaceutical Industries Limited August 2026 Future | Healthcare | Futures | -0.01% |
-| JSW Steel Limited August 2026 Future | Materials | Futures | -0.01% |
-| Tata Steel Limited September 2026 Future | Materials | Futures | -0.01% |
-| Ashok Leyland Ltd AUG-2026 | Industrials | Futures | -0.02% |
-| IDFC First Bank Limited August 2026 Future | Financial | Futures | -0.02% |
-| BSE Ltd. | Financial | Futures | -0.02% |
-| Bajaj Finserv Ltd AUG-2026 | Financial | Futures | -0.03% |
-| TVS Motor Company Limited August 2026 Future | Consumer Discretionary | Futures | -0.03% |
-| Eicher Motors Limited August 2026 Future | Consumer Discretionary | Futures | -0.03% |
+| Power Grid Corporation of India Limited 290 Call September 2026 Option | Energy & Utilities | Call Option | -0.00% |
+| Coal India Limited 430 Call September 2026 Option | Materials | Call Option | -0.00% |
+| Dr. Reddy's Laboratories Limited 1240 Call September 2026 Option | Healthcare | Call Option | -0.00% |
+| Cipla Limited 1520 Call September 2026 Option | Healthcare | Call Option | -0.00% |
+| JSW ENERGY LTD.-SEP2026 | Energy & Utilities | Futures | -0.00% |
+| Maruti Suzuki India Limited 14500 Call September 2026 Option | Consumer Discretionary | Call Option | -0.00% |
+| Mahindra & Mahindra Limited 3600 Call September 2026 Option | Consumer Discretionary | Call Option | -0.00% |
+| Lupin Limited September 2026 Future | Healthcare | Futures | -0.00% |
+| Tata Consumer Products Limited September 2026 Future | Consumer Staples | Futures | -0.00% |
+| UltraTech Cement Limited October 2026 Future | Materials | Futures | -0.01% |
+| JSW Steel Limited September 2026 Future | Materials | Futures | -0.01% |
+| IDFC First Bank Limited September 2026 Future | Financial | Futures | -0.02% |
+| Ashok Leyland Limited September 2026 Future | Industrials | Futures | -0.02% |
+| Bajaj Finserv Limited September 2026 Future | Financial | Futures | -0.02% |
+| TVS Motor Company Limited September 2026 Future | Consumer Discretionary | Futures | -0.03% |
+| Eicher Motors Ltd.-SEP2026 | Consumer Discretionary | Futures | -0.03% |
 | IndusInd Bank Limited September 2026 Future | Financial | Futures | -0.03% |
-| DLF Limited August 2026 Future | Real Estate | Futures | -0.03% |
-| Titan Company Limited September 2026 Future | Consumer Discretionary | Futures | -0.03% |
-| Grasim Industries Limited August 2026 Future | Materials | Futures | -0.04% |
-| Tata Steel Limited August 2026 Future | Materials | Futures | -0.04% |
-| Bharat Electronics Limited August 2026 Future | Industrials | Futures | -0.04% |
+| Grasim Industries Ltd.-SEP2026 | Materials | Futures | -0.04% |
+| Titan Company Limited September 2026 Future | Consumer Discretionary | Futures | -0.04% |
+| Bharat Electronics Limited September 2026 Future | Industrials | Futures | -0.04% |
+| Hindustan Unilever Limited September 2026 Future | Consumer Staples | Futures | -0.04% |
+| Tata Steel Limited September 2026 Future | Materials | Futures | -0.05% |
 | Oil & Natural Gas Corporation Limited September 2026 Future | Energy & Utilities | Futures | -0.05% |
-| Hindalco Industries Limited August 2026 Future | Materials | Futures | -0.06% |
-| Hindustan Unilever Limited August 2026 Future | Consumer Staples | Futures | -0.06% |
-| Titan Company Limited August 2026 Future | Consumer Discretionary | Futures | -0.07% |
-| Divi's Laboratories Limited August 2026 Future | Healthcare | Futures | -0.08% |
-| State Bank of India August 2026 Future | Financial | Futures | -0.09% |
-| UltraTech Cement Limited August 2026 Future | Materials | Futures | -0.09% |
-| Canara Bank August 2026 Future | Financial | Futures | -0.09% |
-| Hindustan Aeronautics Limited August 2026 Future | Industrials | Futures | -0.11% |
+| Hindalco Industries Limited September 2026 Future | Materials | Futures | -0.06% |
+| Titan Company Limited October 2026 Future | Consumer Discretionary | Futures | -0.07% |
+| UltraTech Cement Limited September 2026 Future | Materials | Futures | -0.08% |
+| Divi's Laboratories Limited September 2026 Future | Healthcare | Futures | -0.09% |
+| State Bank of India September 2026 Future | Financial | Futures | -0.09% |
+| Canara Bank September 2026 Future | Financial | Futures | -0.10% |
+| Hindustan Aeronautics Limited September 2026 Future | Industrials | Futures | -0.11% |
 | Sun Pharmaceutical Industries Limited September 2026 Future | Healthcare | Futures | -0.12% |
-| Eternal Limited August 2026 Future | Technology | Futures | -0.12% |
-| Reliance Industries Limited August 2026 Future | Energy & Utilities | Futures | -0.36% |
-| Bajaj Finance Limited August 2026 Future | Financial | Futures | -0.41% |
+| Reliance Industries Limited September 2026 Future | Energy & Utilities | Futures | -0.36% |
+| Bajaj Finance Limited September 2026 Future | Financial | Futures | -0.39% |
+| Net Payables | Unspecified | Net Payables | -1.43% |
 
 See All
 
@@ -240,7 +238,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.3% | +11.6% | +16.9% | +17.9% |
+| Fund returns | +12.0% | +11.6% | +16.9% | +17.9% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 22 | 15 | 1 | -- |
 
@@ -296,11 +294,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +13.69% | +19.33% | 2,786.40 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +13.94% | +18.35% | 1,467.30 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +7.41% | +15.86% | 5,717.88 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +2.26% | +15.45% | 1,13,606.47 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -2.10% | +10.77% | 19,384.82 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +13.32% | +18.71% | 2,953.00 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +14.07% | +18.14% | 1,588.13 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +7.37% | +15.42% | 5,999.67 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +1.86% | +15.12% | 1,13,606.47 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -2.50% | +10.44% | 19,384.82 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/parag-parikh-long-term-value-fund-direct-growth) | | | | |
@@ -475,7 +473,7 @@ Also manages these schemes
 
 Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Manage
 
-Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,70,790 Cr and the Latest NAV as of 10 Sep 2026 is ₹89.48.
+Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,69,455 Cr and the Latest NAV as of 11 Sep 2026 is ₹89.57.
 The Parag Parikh Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹1,000. For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% if redeemed after 365 days but on or before 730 days.
 
 ...Read more
@@ -494,7 +492,7 @@ Fund benchmarkNIFTY 500 Total Return Index
 
 Rank (total assets)#23 in India
 
-Total AUM₹1,70,790.06 Cr
+Total AUM₹1,69,454.93 Cr
 
 Date of Incorporation09 Oct 2012
 
@@ -540,7 +538,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Parag Parikh Flexi Cap Fund Direct Growth provide?
 
-The Parag Parikh Flexi Cap Fund Direct Growth has been there from 24 May 2013 and the average annual returns provided by this fund is 17.90% since its inception.
+The Parag Parikh Flexi Cap Fund Direct Growth has been there from 24 May 2013 and the average annual returns provided by this fund is 17.91% since its inception.
 
 ### How much expense ratio is charged by Parag Parikh Flexi Cap Fund Direct Growth?
 
@@ -548,13 +546,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Parag Parikh Flexi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.69% as of 11 Sep 2026...
+The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.69% as of 13 Sep 2026...
 
 ### What is the AUM of Parag Parikh Flexi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,48,429.00Cr as of 11 Sep 2026.
+of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,47,404.51Cr as of 13 Sep 2026.
 
 ### How to Redeem Parag Parikh Flexi Cap Fund Direct Growth?
 
@@ -571,7 +569,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Parag Parikh Flexi Cap Fund Direct Growth?
 
-The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹89.48 as of 10 Sep 2026.
+The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹89.57 as of 11 Sep 2026.
 
 ### What is the PE and PB ratio of Parag Parikh Flexi Cap Fund Direct Growth?
 

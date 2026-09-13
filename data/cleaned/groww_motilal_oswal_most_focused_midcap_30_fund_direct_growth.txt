@@ -1,8 +1,8 @@
-+1012345678980123456789.2012345678970123456789%
++1012345678980123456789.2012345678910123456789%
 
 3Y annualised
 
--0.13% 1D
++0.32% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 10 Sep '26
+NAV: 11 Sep '26
 
-₹120.69
+₹121.08
 
 Min. for SIP
 
@@ -26,7 +26,7 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹40,036.07 Cr
+₹42,851.59 Cr
 
 Expense ratio
 
@@ -44,47 +44,47 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,550 | | +9.17% |
-| 3 years | ₹18,000 | ₹21,032 | | +16.84% |
-| 5 years | ₹30,000 | ₹47,605 | | +58.68% |
-| 10 years | ₹60,000 | ₹1,80,164 | | +200.27% |
+| 1 year | ₹6,000 | ₹6,567 | | +9.45% |
+| 3 years | ₹18,000 | ₹21,093 | | +17.18% |
+| 5 years | ₹30,000 | ₹47,735 | | +59.12% |
+| 10 years | ₹60,000 | ₹1,80,651 | | +201.09% |
 
 ## Holdings (32)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [Kalyan Jewellers India Ltd](/stocks/kalyan-jewellers-india-ltd) | Consumer Discretionary | Equity | 8.87% |
-| [One 97 Communications Ltd](/stocks/one-communications-ltd) | Industrials | Equity | 8.08% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 6.37% |
-| [Coforge Ltd](/stocks/niit-technologies-ltd) | Technology | Equity | 5.58% |
-| [Aditya Birla Capital Ltd](/stocks/aditya-birla-capital-ltd) | Financial | Equity | 5.20% |
-| [Kei Industries Ltd](/stocks/kei-industries-ltd) | Industrials | Equity | 4.81% |
-| [Persistent Systems Ltd](/stocks/persistent-systems-ltd) | Technology | Equity | 4.75% |
-| [Billionbrains Garage Ventures Ltd.](/stocks/billionbrains-garage-ventures-ltd) | Financial | Equity | 4.08% |
-| Repo | Unspecified | Repo | 3.81% |
-| [Shriram Transport Finance Company Ltd](/stocks/shriram-transport-finance-company-ltd) | Financial | Equity | 3.75% |
-| [Dixon Technologies (India) Ltd](/stocks/dixon-technologies-india-ltd) | Consumer Discretionary | Equity | 3.48% |
-| [Multi Commodity Exchange Of India Ltd](/stocks/multi-commodity-exchange-of-india-ltd) | Financial | Equity | 2.90% |
-| [Tube Investments Of India Ltd](/stocks/tube-investments-of-india-ltd) | Consumer Discretionary | Equity | 2.83% |
-| [BSE Ltd](/stocks/bse-ltd) | Financial | Equity | 2.73% |
-| [Sterlite Technologies Ltd](/stocks/sterlite-technologies-ltd) | Technology | Equity | 2.66% |
-| [Prestige Estates Projects Ltd](/stocks/prestige-estate-projects-ltd) | Real Estate | Equity | 2.58% |
-| [L&T Finance Holdings Ltd](/stocks/lt-finance-holdings-ltd) | Financial | Equity | 2.55% |
-| [Bharti Hexacom Ltd.](/stocks/bharti-hexacom-ltd) | Technology | Equity | 2.55% |
-| [Suzlon Energy Ltd](/stocks/suzlon-energy-ltd) | Industrials | Equity | 2.34% |
-| [IDFC First Bank Ltd](/stocks/idfc-bank-ltd) | Financial | Equity | 2.25% |
-| [Max Healthcare Institute Ltd](/stocks/max-healthcare-institute-ltd) | Healthcare | Equity | 2.20% |
-| [PB Fintech Ltd](/stocks/pb-fintech-ltd) | Financial | Equity | 2.16% |
-| [Premier Energies Ltd.](/stocks/premier-energies-ltd) | Energy & Utilities | Equity | 2.15% |
-| [Samvardhana Motherson International Ltd](/stocks/motherson-sumi-systems-ltd) | Consumer Discretionary | Equity | 2.09% |
-| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 1.98% |
+| [One 97 Communications Ltd](/stocks/one-communications-ltd) | Industrials | Equity | 9.07% |
+| [Kalyan Jewellers India Ltd](/stocks/kalyan-jewellers-india-ltd) | Consumer Discretionary | Equity | 8.13% |
+| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 6.46% |
+| [Coforge Ltd](/stocks/niit-technologies-ltd) | Technology | Equity | 5.79% |
+| [Kei Industries Ltd](/stocks/kei-industries-ltd) | Industrials | Equity | 5.16% |
+| [Aditya Birla Capital Ltd](/stocks/aditya-birla-capital-ltd) | Financial | Equity | 4.87% |
+| [Persistent Systems Ltd](/stocks/persistent-systems-ltd) | Technology | Equity | 4.41% |
+| [Shriram Transport Finance Company Ltd](/stocks/shriram-transport-finance-company-ltd) | Financial | Equity | 3.66% |
+| [Dixon Technologies (India) Ltd](/stocks/dixon-technologies-india-ltd) | Consumer Discretionary | Equity | 3.44% |
+| [Multi Commodity Exchange Of India Ltd](/stocks/multi-commodity-exchange-of-india-ltd) | Financial | Equity | 3.43% |
+| [Billionbrains Garage Ventures Ltd.](/stocks/billionbrains-garage-ventures-ltd) | Financial | Equity | 3.43% |
+| [Sterlite Technologies Ltd](/stocks/sterlite-technologies-ltd) | Technology | Equity | 3.30% |
+| Repo | Unspecified | Repo | 2.99% |
+| [PB Fintech Ltd](/stocks/pb-fintech-ltd) | Financial | Equity | 2.85% |
+| [Tube Investments Of India Ltd](/stocks/tube-investments-of-india-ltd) | Consumer Discretionary | Equity | 2.67% |
+| [L&T Finance Holdings Ltd](/stocks/lt-finance-holdings-ltd) | Financial | Equity | 2.40% |
+| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 2.39% |
+| [Prestige Estates Projects Ltd](/stocks/prestige-estate-projects-ltd) | Real Estate | Equity | 2.37% |
+| [Bharti Hexacom Ltd.](/stocks/bharti-hexacom-ltd) | Technology | Equity | 2.27% |
+| [Lenskart Solutions Ltd.](/stocks/lenskart-solutions-ltd) | Consumer Discretionary | Equity | 2.26% |
+| [Samvardhana Motherson International Ltd](/stocks/motherson-sumi-systems-ltd) | Consumer Discretionary | Equity | 2.21% |
+| [Suzlon Energy Ltd](/stocks/suzlon-energy-ltd) | Industrials | Equity | 2.16% |
+| [IDFC First Bank Ltd](/stocks/idfc-bank-ltd) | Financial | Equity | 2.13% |
+| [Premier Energies Ltd.](/stocks/premier-energies-ltd) | Energy & Utilities | Equity | 2.03% |
 | [Bharat Electronics Ltd](/stocks/bharat-electronics-ltd) | Industrials | Equity | 1.90% |
-| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 1.83% |
-| [Waaree Energies Ltd.](/stocks/waaree-energies-ltd) | Energy & Utilities | Equity | 1.63% |
-| [Adani Enterprises Ltd](/stocks/adani-enterprises-ltd) | Materials | Equity | 0.91% |
-| [Physicswallah Ltd.](/stocks/physicswallah-ltd) | Consumer Staples | Equity | 0.60% |
-| Net Receivables | Unspecified | Net Receivables | 0.32% |
-| [AU Small Finance Bank Ltd](/stocks/au-small-finance-bank-ltd) | Financial | Equity | 0.06% |
+| [BSE Ltd](/stocks/bse-ltd) | Financial | Equity | 1.76% |
+| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 1.73% |
+| [Waaree Energies Ltd.](/stocks/waaree-energies-ltd) | Energy & Utilities | Equity | 1.48% |
+| [Max Healthcare Institute Ltd](/stocks/max-healthcare-institute-ltd) | Healthcare | Equity | 1.29% |
+| [Adani Enterprises Ltd](/stocks/adani-enterprises-ltd) | Materials | Equity | 0.81% |
+| Net Receivables | Unspecified | Net Receivables | 0.63% |
+| [Physicswallah Ltd.](/stocks/physicswallah-ltd) | Consumer Staples | Equity | 0.52% |
 
 See All
 
@@ -120,9 +120,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +18.3% | +21.9% | +17.6% | +22.0% |
+| Fund returns | +18.2% | +22.0% | +17.6% | +22.0% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 8 | 1 | 7 | -- |
+| Rank (Equity Mid Cap) | 7 | 1 | 7 | -- |
 
 ## Understand terms
 
@@ -188,11 +188,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +10.88% | +23.38% | 15,927.14 |
-| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +14.92% | +21.73% | 6,792.14 |
-| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +8.71% | +20.65% | 19,891.00 |
-| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +8.44% | +17.73% | 52,270.55 |
-| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +7.73% | +16.91% | 1,08,324.55 |
+| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +10.41% | +22.92% | 15,905.31 |
+| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +14.80% | +21.40% | 7,485.37 |
+| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +8.50% | +20.29% | 19,891.00 |
+| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +8.15% | +17.37% | 52,270.55 |
+| | [HDFC Mid Cap Fund Direct Growth](/mutual-funds/hdfc-mid-cap-fund-direct-growth) | +7.03% | +16.42% | 1,08,324.55 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/motilal-oswal-most-focused-midcap-30-fund-direct-growth) | | | | |
@@ -555,7 +555,7 @@ Also manages these schemes
 
 Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under M
 
-Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,55,306 Cr and the Latest NAV as of 10 Sep 2026 is ₹120.69.
+Motilal Oswal Midcap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Motilal Oswal Mutual Fund. This scheme was made available to investors on 28 Dec 2009. Ankit Agarwal is the Current Fund Manager of Motilal Oswal Midcap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,64,210 Cr and the Latest NAV as of 11 Sep 2026 is ₹121.08.
 The Motilal Oswal Midcap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. Exit load of 1%, if redeemed within 365 days.
 
 ...Read more
@@ -574,7 +574,7 @@ Fund benchmarkNIFTY Midcap 150 Total Return Index
 
 Rank (total assets)#19 in India
 
-Total AUM₹1,55,305.63 Cr
+Total AUM₹1,64,209.61 Cr
 
 Date of Incorporation28 Dec 2009
 
@@ -620,7 +620,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Motilal Oswal Midcap Fund Direct Growth provide?
 
-The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 21.95% since its inception.
+The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 21.98% since its inception.
 
 ### How much expense ratio is charged by Motilal Oswal Midcap Fund Direct Growth?
 
@@ -628,13 +628,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Motilal Oswal Midcap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.92% as of 11 Sep 2026...
+The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.92% as of 13 Sep 2026...
 
 ### What is the AUM of Motilal Oswal Midcap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Motilal Oswal Midcap Fund Direct Growth is ₹40,036.07Cr as of 11 Sep 2026.
+of Motilal Oswal Midcap Fund Direct Growth is ₹42,851.59Cr as of 13 Sep 2026.
 
 ### How to Redeem Motilal Oswal Midcap Fund Direct Growth?
 
@@ -651,7 +651,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Motilal Oswal Midcap Fund Direct Growth?
 
-The NAV of Motilal Oswal Midcap Fund Direct Growth is ₹120.69 as of 10 Sep 2026.
+The NAV of Motilal Oswal Midcap Fund Direct Growth is ₹121.08 as of 11 Sep 2026.
 
 ### What is the PE and PB ratio of Motilal Oswal Midcap Fund Direct Growth?
 

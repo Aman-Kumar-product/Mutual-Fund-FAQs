@@ -176,7 +176,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +15.1% | +17.5% | +15.6% | +15.9% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 11 | 2 | 3 | -- |
+| Rank (Equity Flexi Cap) | 12 | 3 | 3 | -- |
 
 ## Understand terms
 
@@ -418,13 +418,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.77% as of 13 Sep 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.77% as of 15 Sep 2026...
 
 ### What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Flexi Cap Direct Plan Growth is ₹1,13,606.47Cr as of 13 Sep 2026.
+of HDFC Flexi Cap Direct Plan Growth is ₹1,13,606.47Cr as of 15 Sep 2026.
 
 ### How to Redeem HDFC Flexi Cap Direct Plan Growth?
 

@@ -334,7 +334,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +12.2% | +14.8% | +14.4% | +13.2% |
 | Category average (Equity Large & MidCap) | +17.5% | +18.0% | +14.7% | -- |
-| Rank (Equity Large & MidCap) | 17 | 7 | 10 | -- |
+| Rank (Equity Large & MidCap) | 18 | 7 | 10 | -- |
 
 ## Understand terms
 
@@ -594,13 +594,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Large & Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.90% as of 13 Sep 2026...
+The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.90% as of 15 Sep 2026...
 
 ### What is the AUM of HDFC Large & Mid Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Large & Mid Cap Fund Direct Growth is ₹30,294.02Cr as of 13 Sep 2026.
+of HDFC Large & Mid Cap Fund Direct Growth is ₹30,294.02Cr as of 15 Sep 2026.
 
 ### How to Redeem HDFC Large & Mid Cap Fund Direct Growth?
 

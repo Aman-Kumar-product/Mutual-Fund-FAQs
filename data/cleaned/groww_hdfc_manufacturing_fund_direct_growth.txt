@@ -1,8 +1,8 @@
--10123456789.9012345678900123456789%
+-30123456789.6012345678920123456789%
 
 1M return
 
--0.56% 1D
++0.19% 1D
 
 1M
 
@@ -12,9 +12,9 @@
 
 All
 
-NAV: 11 Sep '26
+NAV: 16 Sep '26
 
-₹12.17
+₹11.90
 
 Min. for SIP
 
@@ -26,7 +26,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.93%
+0.94%
 
 Rating
 
@@ -179,7 +179,7 @@ Absolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +8.7% | +12.0% | +8.0% | +21.7% |
 | Category average (Equity Thematic) | -- | -- | +3.0% | -- |
-| Rank (Equity Thematic) | 6 | 10 | 11 | -- |
+| Rank (Equity Thematic) | 6 | 9 | 11 | -- |
 
 ## Understand terms
 
@@ -319,8 +319,6 @@ Also manages these schemes
 
 [HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
 
-[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
-
 ### RS Rakesh Sethia Apr 2024 - Present View details
 
 Education
@@ -339,7 +337,7 @@ Also manages these schemes
 
 HDFC Manufacturing Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Manufacturing Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM
 
-HDFC Manufacturing Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Manufacturing Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 11 Sep 2026 is ₹12.17.
+HDFC Manufacturing Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Manufacturing Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 16 Sep 2026 is ₹11.90.
 The HDFC Manufacturing Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 1 month.
 
 ...Read more
@@ -404,7 +402,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Manufacturing Fund Direct Growth provide?
 
-The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 8.81% since its inception.
+The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 7.74% since its inception.
 
 ### How much expense ratio is charged by HDFC Manufacturing Fund Direct Growth?
 
@@ -412,13 +410,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Manufacturing Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.93% as of 15 Sep 2026...
+The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.94% as of 17 Sep 2026...
 
 ### What is the AUM of HDFC Manufacturing Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Manufacturing Fund Direct Growth is ₹10,751.82Cr as of 15 Sep 2026.
+of HDFC Manufacturing Fund Direct Growth is ₹10,751.82Cr as of 17 Sep 2026.
 
 ### How to Redeem HDFC Manufacturing Fund Direct Growth?
 
@@ -435,7 +433,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Manufacturing Fund Direct Growth?
 
-The NAV of HDFC Manufacturing Fund Direct Growth is ₹12.17 as of 11 Sep 2026.
+The NAV of HDFC Manufacturing Fund Direct Growth is ₹11.90 as of 16 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Manufacturing Fund Direct Growth?
 

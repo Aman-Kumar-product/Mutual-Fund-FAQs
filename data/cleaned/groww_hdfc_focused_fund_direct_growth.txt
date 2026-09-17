@@ -1,8 +1,8 @@
-+1012345678940123456789.8012345678930123456789%
++1012345678940123456789.1012345678940123456789%
 
 3Y annualised
 
--0.31% 1D
++0.60% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 11 Sep '26
+NAV: 16 Sep '26
 
-₹263.31
+₹260.69
 
 Min. for SIP
 
@@ -30,7 +30,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.81%
+0.82%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,198 | | -0.17% |
-| 3 years | ₹3,600 | ₹4,011 | | +11.42% |
-| 5 years | ₹6,000 | ₹8,595 | | +43.25% |
-| 10 years | ₹12,000 | ₹28,535 | | +137.79% |
+| 1 year | ₹1,200 | ₹1,187 | | -1.08% |
+| 3 years | ₹3,600 | ₹3,969 | | +10.25% |
+| 5 years | ₹6,000 | ₹8,494 | | +41.57% |
+| 10 years | ₹12,000 | ₹28,193 | | +134.94% |
 
 ## Holdings (33)
 
@@ -121,9 +121,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.8% | +18.3% | +14.5% | +14.7% |
+| Fund returns | +14.1% | +17.5% | +14.5% | +14.6% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
-| Rank (Equity Flexi Cap) | 6 | 1 | 4 | -- |
+| Rank (Equity Flexi Cap) | 5 | 1 | 3 | -- |
 
 ## Understand terms
 
@@ -181,11 +181,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +13.32% | +18.71% | 2,953.00 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +14.07% | +18.14% | 1,588.13 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +7.37% | +15.42% | 5,999.67 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +1.86% | +15.12% | 1,13,606.47 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -2.50% | +10.44% | 19,384.82 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +9.75% | +18.20% | 2,953.00 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +9.54% | +17.61% | 1,588.13 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +3.66% | +14.48% | 5,999.67 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -0.58% | +14.46% | 1,13,606.47 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -5.05% | +9.89% | 19,384.82 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
@@ -288,8 +288,6 @@ Also manages these schemes
 
 [HDFC Innovation Fund Direct Growth](/mutual-funds/hdfc-innovation-fund-direct-growth)
 
-[HDFC Diversified Equity All Cap Active FoF Direct Growth](/mutual-funds/hdfc-diversified-equity-all-cap-active-fof-direct-growth)
-
 ### AG Amit Ganatra Jan 2026 - Present View details
 
 Education
@@ -310,7 +308,7 @@ Also manages these schemes
 
 HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,2
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 11 Sep 2026 is ₹263.31.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 16 Sep 2026 is ₹260.69.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -375,7 +373,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Focused Fund Direct Growth provide?
 
-The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.68% since its inception.
+The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.58% since its inception.
 
 ### How much expense ratio is charged by HDFC Focused Fund Direct Growth?
 
@@ -383,13 +381,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Focused Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Focused Fund Direct Growth is 0.81% as of 15 Sep 2026...
+The Expense Ratio of HDFC Focused Fund Direct Growth is 0.82% as of 17 Sep 2026...
 
 ### What is the AUM of HDFC Focused Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Focused Fund Direct Growth is ₹28,200.67Cr as of 15 Sep 2026.
+of HDFC Focused Fund Direct Growth is ₹28,200.67Cr as of 17 Sep 2026.
 
 ### How to Redeem HDFC Focused Fund Direct Growth?
 
@@ -406,7 +404,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Focused Fund Direct Growth?
 
-The NAV of HDFC Focused Fund Direct Growth is ₹263.31 as of 11 Sep 2026.
+The NAV of HDFC Focused Fund Direct Growth is ₹260.69 as of 16 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Focused Fund Direct Growth?
 

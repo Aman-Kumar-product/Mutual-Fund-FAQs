@@ -2,7 +2,7 @@
 
 3Y annualised
 
-+0.05% 1D
++0.07% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 16 Sep '26
+NAV: 18 Sep '26
 
-₹35.38
+₹35.41
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,229 | | +2.42% |
+| 1 year | ₹1,200 | ₹1,230 | | +2.50% |
 | 3 years | ₹3,600 | ₹3,974 | | +10.39% |
 | 5 years | ₹6,000 | ₹7,137 | | +18.95% |
-| 10 years | ₹12,000 | ₹17,263 | | +43.86% |
+| 10 years | ₹12,000 | ₹17,265 | | +43.88% |
 
 ## Holdings (144)
 
@@ -233,7 +233,7 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +7.4% | +6.5% | +7.4% | +7.9% |
-| Category average (Debt Short Duration) | +7.1% | +5.9% | +6.6% | -- |
+| Category average (Debt Short Duration) | +7.3% | +6.7% | +6.8% | +7.5% |
 | Rank (Debt Short Duration) | 11 | 9 | 4 | -- |
 
 ## Understand terms
@@ -426,7 +426,7 @@ Also manages these schemes
 
 HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AU
 
-HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 16 Sep 2026 is ₹35.38.
+HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 18 Sep 2026 is ₹35.41.
 The HDFC Short Term Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -499,13 +499,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 17 Sep 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.40% as of 19 Sep 2026...
 
 ### What is the AUM of HDFC Short Term Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Fund Direct Plan Growth is ₹14,486.07Cr as of 17 Sep 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹14,486.07Cr as of 19 Sep 2026.
 
 ### How to Redeem HDFC Short Term Fund Direct Plan Growth?
 
@@ -522,7 +522,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Short Term Fund Direct Plan Growth?
 
-The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.38 as of 16 Sep 2026.
+The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.41 as of 18 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Short Term Fund Direct Plan Growth?
 

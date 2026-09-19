@@ -1,8 +1,8 @@
-+3012345678950123456789.9012345678960123456789%
++3012345678960123456789.4012345678990123456789%
 
 3Y annualised
 
-+0.31% 1D
++1.08% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 16 Sep '26
+NAV: 18 Sep '26
 
-₹30.17
+₹30.88
 
 Min. for SIP
 
@@ -42,10 +42,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹295 | | -1.67% |
-| 6 months | ₹600 | ₹631 | | +5.17% |
-| 1 year | ₹1,200 | ₹1,355 | | +12.92% |
-| 3 years | ₹3,600 | ₹5,147 | | +42.97% |
+| 3 months | ₹300 | ₹298 | | -0.67% |
+| 6 months | ₹600 | ₹638 | | +6.33% |
+| 1 year | ₹1,200 | ₹1,370 | | +14.17% |
+| 3 years | ₹3,600 | ₹5,207 | | +44.64% |
 
 ## Holdings (26)
 
@@ -112,8 +112,8 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +24.5% | +19.3% | +36.0% | +39.8% |
-| Category average (Equity Thematic) | -1.9% | +1.7% | +16.0% | -- |
+| Fund returns | +24.1% | +18.9% | +36.5% | +40.3% |
+| Category average (Equity Thematic) | +10.7% | +1.5% | +13.9% | +15.1% |
 | Rank (Equity Thematic) | -- | 1 | 1 | -- |
 
 ## Understand terms
@@ -296,7 +296,7 @@ Also manages these schemes
 
 HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,23
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 16 Sep 2026 is ₹30.17.
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 18 Sep 2026 is ₹30.88.
 The HDFC Defence Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1%, if redeemed within 1 year.
 
 ...Read more
@@ -361,7 +361,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Defence Fund Direct Growth provide?
 
-The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 39.84% since its inception.
+The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 40.33% since its inception.
 
 ### How much expense ratio is charged by HDFC Defence Fund Direct Growth?
 
@@ -369,13 +369,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Defence Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Defence Fund Direct Growth is 0.91% as of 17 Sep 2026...
+The Expense Ratio of HDFC Defence Fund Direct Growth is 0.91% as of 19 Sep 2026...
 
 ### What is the AUM of HDFC Defence Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 17 Sep 2026.
+of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 19 Sep 2026.
 
 ### How to Redeem HDFC Defence Fund Direct Growth?
 
@@ -392,7 +392,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Defence Fund Direct Growth?
 
-The NAV of HDFC Defence Fund Direct Growth is ₹30.17 as of 16 Sep 2026.
+The NAV of HDFC Defence Fund Direct Growth is ₹30.88 as of 18 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Defence Fund Direct Growth?
 

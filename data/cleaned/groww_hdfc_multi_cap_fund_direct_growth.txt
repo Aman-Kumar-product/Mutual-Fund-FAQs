@@ -1,4 +1,4 @@
-+1012345678900123456789.8012345678970123456789%
++1012345678910123456789.4012345678900123456789%
 
 3Y annualised
 
@@ -42,10 +42,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹294 | | -2.00% |
-| 6 months | ₹600 | ₹604 | | +0.67% |
-| 1 year | ₹1,200 | ₹1,194 | | -0.50% |
-| 3 years | ₹3,600 | ₹3,802 | | +5.61% |
+| 3 months | ₹300 | ₹296 | | -1.33% |
+| 6 months | ₹600 | ₹609 | | +1.50% |
+| 1 year | ₹1,200 | ₹1,205 | | +0.42% |
+| 3 years | ₹3,600 | ₹3,838 | | +6.61% |
 
 ## Holdings (127)
 
@@ -213,8 +213,8 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +6.0% | -3.8% | +10.9% | +14.9% |
-| Category average (Equity Multi Cap) | +13.5% | +3.5% | +14.4% | +19.2% |
+| Fund returns | +6.0% | -3.0% | +11.4% | +15.2% |
+| Category average (Equity Multi Cap) | +13.3% | +4.6% | +15.1% | +19.5% |
 | Rank (Equity Multi Cap) | -- | 35 | 19 | -- |
 
 ## Understand terms
@@ -453,7 +453,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Multi Cap Fund Direct Growth provide?
 
-The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 14.92% since its inception.
+The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 15.15% since its inception.
 
 ### How much expense ratio is charged by HDFC Multi Cap Fund Direct Growth?
 
@@ -461,13 +461,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Multi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.93% as of 19 Sep 2026...
+The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.93% as of 21 Sep 2026...
 
 ### What is the AUM of HDFC Multi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Multi Cap Fund Direct Growth is ₹20,649.14Cr as of 19 Sep 2026.
+of HDFC Multi Cap Fund Direct Growth is ₹20,649.14Cr as of 21 Sep 2026.
 
 ### How to Redeem HDFC Multi Cap Fund Direct Growth?
 

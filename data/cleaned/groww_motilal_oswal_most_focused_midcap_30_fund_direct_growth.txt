@@ -46,8 +46,8 @@ Monthly investment
 | --- | --- | --- | --- | --- |
 | 1 year | ₹6,000 | ₹6,493 | | +8.22% |
 | 3 years | ₹18,000 | ₹20,876 | | +15.98% |
-| 5 years | ₹30,000 | ₹47,174 | | +57.25% |
-| 10 years | ₹60,000 | ₹1,78,452 | | +197.42% |
+| 5 years | ₹30,000 | ₹47,170 | | +57.23% |
+| 10 years | ₹60,000 | ₹1,78,470 | | +197.45% |
 
 ## Holdings (32)
 
@@ -121,8 +121,8 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +18.8% | +21.2% | +17.6% | +21.9% |
-| Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 9 | 1 | 7 | -- |
+| Category average (Equity Mid Cap) | +16.3% | +15.8% | +16.6% | +18.7% |
+| Rank (Equity Mid Cap) | 8 | 1 | 7 | -- |
 
 ## Understand terms
 
@@ -628,13 +628,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Motilal Oswal Midcap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.92% as of 19 Sep 2026...
+The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.92% as of 21 Sep 2026...
 
 ### What is the AUM of Motilal Oswal Midcap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Motilal Oswal Midcap Fund Direct Growth is ₹42,851.59Cr as of 19 Sep 2026.
+of Motilal Oswal Midcap Fund Direct Growth is ₹42,851.59Cr as of 21 Sep 2026.
 
 ### How to Redeem Motilal Oswal Midcap Fund Direct Growth?
 

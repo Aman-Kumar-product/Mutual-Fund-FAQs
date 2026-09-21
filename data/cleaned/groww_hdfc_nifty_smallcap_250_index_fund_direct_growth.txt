@@ -42,10 +42,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹304 | | +1.33% |
-| 6 months | ₹600 | ₹645 | | +7.50% |
-| 1 year | ₹1,200 | ₹1,318 | | +9.83% |
-| 3 years | ₹3,600 | ₹4,140 | | +15.00% |
+| 3 months | ₹300 | ₹302 | | +0.67% |
+| 6 months | ₹600 | ₹636 | | +6.00% |
+| 1 year | ₹1,200 | ₹1,303 | | +8.58% |
+| 3 years | ₹3,600 | ₹4,100 | | +13.89% |
 
 ## Holdings (252)
 
@@ -339,8 +339,8 @@ Absolute returns
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +20.9% | +4.7% | +14.3% | +22.4% |
-| Category average (Equity Small Cap) | -4.6% | -6.3% | +19.7% | -- |
-| Rank (Equity Small Cap) | -- | 41 | 24 | -- |
+| Category average (Equity Small Cap) | +23.9% | +9.9% | +16.6% | +20.5% |
+| Rank (Equity Small Cap) | -- | 40 | 24 | -- |
 
 ## Understand terms
 
@@ -626,13 +626,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Nifty Smallcap 250 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.33% as of 19 Sep 2026...
+The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.33% as of 21 Sep 2026...
 
 ### What is the AUM of HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹774.79Cr as of 19 Sep 2026.
+of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹774.79Cr as of 21 Sep 2026.
 
 ### How to Redeem HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 

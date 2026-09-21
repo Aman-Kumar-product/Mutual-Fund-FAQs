@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹12,000 | ₹11,742 | | -2.15% |
-| 3 years | ₹36,000 | ₹38,413 | | +6.70% |
-| 5 years | ₹60,000 | ₹78,716 | | +31.19% |
-| 10 years | ₹1,20,000 | ₹2,85,727 | | +138.11% |
+| 1 year | ₹12,000 | ₹11,759 | | -2.01% |
+| 3 years | ₹36,000 | ₹38,464 | | +6.84% |
+| 5 years | ₹60,000 | ₹78,809 | | +31.35% |
+| 10 years | ₹1,20,000 | ₹2,86,007 | | +138.34% |
 
 ## Holdings (150)
 
@@ -239,8 +239,8 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +12.0% | +11.3% | +17.0% | +17.9% |
-| Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 22 | 15 | 1 | -- |
+| Category average (Equity Flexi Cap) | +11.8% | +11.0% | +13.6% | +14.3% |
+| Rank (Equity Flexi Cap) | 22 | 17 | 1 | -- |
 
 ## Understand terms
 
@@ -546,13 +546,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Parag Parikh Flexi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.69% as of 19 Sep 2026...
+The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.69% as of 21 Sep 2026...
 
 ### What is the AUM of Parag Parikh Flexi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,47,404.51Cr as of 19 Sep 2026.
+of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,47,404.51Cr as of 21 Sep 2026.
 
 ### How to Redeem Parag Parikh Flexi Cap Fund Direct Growth?
 

@@ -1,4 +1,4 @@
-+3012345678960123456789.4012345678990123456789%
++3012345678970123456789.0012345678940123456789%
 
 3Y annualised
 
@@ -42,10 +42,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹298 | | -0.67% |
-| 6 months | ₹600 | ₹638 | | +6.33% |
-| 1 year | ₹1,200 | ₹1,370 | | +14.17% |
-| 3 years | ₹3,600 | ₹5,207 | | +44.64% |
+| 3 months | ₹300 | ₹300 | | +0.00% |
+| 6 months | ₹600 | ₹643 | | +7.17% |
+| 1 year | ₹1,200 | ₹1,382 | | +15.17% |
+| 3 years | ₹3,600 | ₹5,259 | | +46.08% |
 
 ## Holdings (26)
 
@@ -112,8 +112,8 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +24.1% | +18.9% | +36.5% | +40.3% |
-| Category average (Equity Thematic) | +10.7% | +1.5% | +13.9% | +15.1% |
+| Fund returns | +24.1% | +21.1% | +37.0% | +40.8% |
+| Category average (Equity Thematic) | +10.3% | +2.3% | +14.4% | +15.1% |
 | Rank (Equity Thematic) | -- | 1 | 1 | -- |
 
 ## Understand terms
@@ -361,7 +361,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Defence Fund Direct Growth provide?
 
-The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 40.33% since its inception.
+The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 40.75% since its inception.
 
 ### How much expense ratio is charged by HDFC Defence Fund Direct Growth?
 
@@ -369,13 +369,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Defence Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Defence Fund Direct Growth is 0.91% as of 19 Sep 2026...
+The Expense Ratio of HDFC Defence Fund Direct Growth is 0.91% as of 21 Sep 2026...
 
 ### What is the AUM of HDFC Defence Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 19 Sep 2026.
+of HDFC Defence Fund Direct Growth is ₹11,477.59Cr as of 21 Sep 2026.
 
 ### How to Redeem HDFC Defence Fund Direct Growth?
 

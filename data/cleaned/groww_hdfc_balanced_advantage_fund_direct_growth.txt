@@ -47,7 +47,7 @@ Monthly investment
 | 1 year | ₹1,200 | ₹1,192 | | -0.67% |
 | 3 years | ₹3,600 | ₹3,831 | | +6.42% |
 | 5 years | ₹6,000 | ₹7,917 | | +31.95% |
-| 10 years | ₹12,000 | ₹25,327 | | +111.06% |
+| 10 years | ₹12,000 | ₹25,332 | | +111.10% |
 
 ## Holdings (326)
 
@@ -414,9 +414,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.0% | +14.2% | +13.6% | +14.4% |
-| Category average (Hybrid Dynamic Asset Allocation) | +11.9% | +10.7% | +9.6% | -- |
-| Rank (Hybrid Dynamic Asset Allocation) | 6 | 1 | -- | -- |
+| Fund returns | +11.0% | +14.2% | +13.6% | +14.3% |
+| Category average (Hybrid Dynamic Asset Allocation) | +9.2% | +9.2% | +10.3% | +11.0% |
+| Rank (Hybrid Dynamic Asset Allocation) | 7 | 1 | -- | -- |
 
 ## Understand terms
 
@@ -902,13 +902,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Balanced Advantage Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.78% as of 19 Sep 2026...
+The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.78% as of 21 Sep 2026...
 
 ### What is the AUM of HDFC Balanced Advantage Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,295.79Cr as of 19 Sep 2026.
+of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,295.79Cr as of 21 Sep 2026.
 
 ### How to Redeem HDFC Balanced Advantage Fund Direct Growth?
 

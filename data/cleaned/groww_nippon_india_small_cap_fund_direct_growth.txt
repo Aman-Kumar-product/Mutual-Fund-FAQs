@@ -30,7 +30,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.69%
+0.68%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,311 | | +9.25% |
-| 3 years | ₹3,600 | ₹4,220 | | +17.22% |
-| 5 years | ₹6,000 | ₹9,298 | | +54.97% |
-| 10 years | ₹12,000 | ₹38,688 | | +222.40% |
+| 1 year | ₹1,200 | ₹1,310 | | +9.17% |
+| 3 years | ₹3,600 | ₹4,211 | | +16.97% |
+| 5 years | ₹6,000 | ₹9,230 | | +53.83% |
+| 10 years | ₹12,000 | ₹38,362 | | +219.68% |
 
 ## Holdings (257)
 
@@ -346,7 +346,7 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +15.4% | +18.9% | +21.1% | +23.9% |
-| Category average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | -- |
+| Category average (Equity Small Cap) | +16.6% | +16.7% | +18.1% | +20.5% |
 | Rank (Equity Small Cap) | 19 | 6 | 1 | -- |
 
 ## Understand terms
@@ -717,13 +717,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.69% as of 19 Sep 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.68% as of 21 Sep 2026...
 
 ### What is the AUM of Nippon India Small Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Nippon India Small Cap Fund Direct Growth is ₹82,580.31Cr as of 19 Sep 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹82,580.31Cr as of 21 Sep 2026.
 
 ### How to Redeem Nippon India Small Cap Fund Direct Growth?
 

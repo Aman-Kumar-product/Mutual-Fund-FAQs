@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,331 | | +10.92% |
-| 3 years | ₹3,600 | ₹6,121 | | +70.03% |
-| 5 years | ₹6,000 | ₹12,742 | | +112.37% |
-| 10 years | ₹12,000 | ₹36,811 | | +206.76% |
+| 1 year | ₹1,200 | ₹1,299 | | +8.25% |
+| 3 years | ₹3,600 | ₹6,012 | | +67.00% |
+| 5 years | ₹6,000 | ₹12,622 | | +110.37% |
+| 10 years | ₹12,000 | ₹36,738 | | +206.15% |
 
 ## Holdings (3)
 
@@ -90,8 +90,8 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +35.7% | +25.7% | +16.2% | +11.2% |
-| Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 7 | 6 | 3 | -- |
+| Category average (Commodities Gold) | +37.5% | +26.8% | +17.2% | +13.1% |
+| Rank (Commodities Gold) | 8 | 5 | 3 | -- |
 
 ## Understand terms
 
@@ -376,13 +376,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 19 Sep 2026...
+The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 21 Sep 2026...
 
 ### What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,359.16Cr as of 19 Sep 2026.
+of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,359.16Cr as of 21 Sep 2026.
 
 ### How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?
 

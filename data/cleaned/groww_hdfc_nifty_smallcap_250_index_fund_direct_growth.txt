@@ -1,8 +1,8 @@
-+1012345678940123456789.2012345678990123456789%
++1012345678940123456789.9012345678910123456789%
 
 3Y annualised
 
-+1.55% 1D
+-0.10% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 18 Sep '26
+NAV: 22 Sep '26
 
-₹19.95
+₹19.92
 
 Min. for SIP
 
@@ -43,9 +43,9 @@ Monthly investment
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
 | 3 months | ₹300 | ₹302 | | +0.67% |
-| 6 months | ₹600 | ₹636 | | +6.00% |
-| 1 year | ₹1,200 | ₹1,303 | | +8.58% |
-| 3 years | ₹3,600 | ₹4,100 | | +13.89% |
+| 6 months | ₹600 | ₹635 | | +5.83% |
+| 1 year | ₹1,200 | ₹1,300 | | +8.33% |
+| 3 years | ₹3,600 | ₹4,096 | | +13.78% |
 
 ## Holdings (252)
 
@@ -338,9 +338,9 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +20.9% | +4.7% | +14.3% | +22.4% |
+| Fund returns | +23.6% | +4.5% | +14.9% | +22.4% |
 | Category average (Equity Small Cap) | +23.9% | +9.9% | +16.6% | +20.5% |
-| Rank (Equity Small Cap) | -- | 40 | 24 | -- |
+| Rank (Equity Small Cap) | -- | 38 | 22 | -- |
 
 ## Understand terms
 
@@ -386,11 +386,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +20.39% | +25.16% | 3,602.85 |
-| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +9.73% | +24.78% | 34,176.02 |
-| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +14.23% | +23.20% | 15,744.40 |
-| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +14.68% | +17.32% | 4,155.35 |
-| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +8.26% | +15.41% | 82,580.31 |
+| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +20.35% | +25.63% | 3,602.85 |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +10.43% | +25.30% | 34,176.02 |
+| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +15.35% | +23.77% | 15,744.40 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +14.39% | +17.67% | 4,155.35 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +8.68% | +16.01% | 82,580.31 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-smallcap-250-index-fund-direct-growth) | | | | |
@@ -559,7 +559,7 @@ Also manages these schemes
 
 HDFC Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset
 
-HDFC Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 18 Sep 2026 is ₹19.95.
+HDFC Nifty Smallcap 250 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Nifty Smallcap 250 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹19.92.
 The HDFC Nifty Smallcap 250 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -618,7 +618,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Nifty Smallcap 250 Index Fund Direct Growth provide?
 
-The HDFC Nifty Smallcap 250 Index Fund Direct Growth has been there from 21 Apr 2023 and the average annual returns provided by this fund is 22.42% since its inception.
+The HDFC Nifty Smallcap 250 Index Fund Direct Growth has been there from 21 Apr 2023 and the average annual returns provided by this fund is 22.35% since its inception.
 
 ### How much expense ratio is charged by HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
@@ -626,13 +626,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Nifty Smallcap 250 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.33% as of 21 Sep 2026...
+The Expense Ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth is 0.33% as of 23 Sep 2026...
 
 ### What is the AUM of HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹774.79Cr as of 21 Sep 2026.
+of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹774.79Cr as of 23 Sep 2026.
 
 ### How to Redeem HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
@@ -649,7 +649,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 
-The NAV of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹19.95 as of 18 Sep 2026.
+The NAV of HDFC Nifty Smallcap 250 Index Fund Direct Growth is ₹19.92 as of 22 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Nifty Smallcap 250 Index Fund Direct Growth?
 

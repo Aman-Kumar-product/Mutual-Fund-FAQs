@@ -1,8 +1,8 @@
-+1012345678920123456789.4012345678970123456789%
++1012345678930123456789.0012345678970123456789%
 
 3Y annualised
 
-+0.83% 1D
+-0.32% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 18 Sep '26
+NAV: 22 Sep '26
 
-₹363.98
+₹363.32
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,216 | | +1.33% |
-| 3 years | ₹3,600 | ₹3,939 | | +9.42% |
-| 5 years | ₹6,000 | ₹8,255 | | +37.58% |
-| 10 years | ₹12,000 | ₹27,763 | | +131.36% |
+| 1 year | ₹1,200 | ₹1,217 | | +1.42% |
+| 3 years | ₹3,600 | ₹3,943 | | +9.53% |
+| 5 years | ₹6,000 | ₹8,257 | | +37.62% |
+| 10 years | ₹12,000 | ₹27,778 | | +131.48% |
 
 ## Holdings (244)
 
@@ -332,9 +332,9 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.5% | +14.4% | +14.5% | +13.1% |
+| Fund returns | +13.1% | +14.7% | +14.6% | +13.1% |
 | Category average (Equity Large & MidCap) | +12.5% | +12.1% | +14.4% | +15.8% |
-| Rank (Equity Large & MidCap) | 18 | 7 | 10 | -- |
+| Rank (Equity Large & MidCap) | 17 | 7 | 10 | -- |
 
 ## Understand terms
 
@@ -384,11 +384,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large & Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-large-mid-cap-fund-direct-growth) | +6.46% | +22.41% | 12,387.43 |
-| | [Motilal Oswal Large and Midcap Fund Direct Growth](/mutual-funds/motilal-oswal-large-and-midcap-fund-direct-growth) | +7.44% | +22.21% | 20,159.10 |
-| | [Bandhan Large & Mid Cap Fund Direct Growth](/mutual-funds/bandhan-large-mid-cap-fund-direct-growth) | +3.44% | +17.59% | 21,020.50 |
-| | [ICICI Prudential Large & Mid Cap Fund Direct Plan Growth](/mutual-funds/icici-prudential-top-100-fund-direct-growth) | +0.34% | +14.91% | 33,591.78 |
-| | [Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth) | -1.38% | +14.10% | 7,903.50 |
+| | [Invesco India Large & Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-large-mid-cap-fund-direct-growth) | +7.92% | +23.55% | 12,387.43 |
+| | [Motilal Oswal Large and Midcap Fund Direct Growth](/mutual-funds/motilal-oswal-large-and-midcap-fund-direct-growth) | +7.49% | +22.70% | 20,159.10 |
+| | [Bandhan Large & Mid Cap Fund Direct Growth](/mutual-funds/bandhan-large-mid-cap-fund-direct-growth) | +3.88% | +18.23% | 21,020.50 |
+| | [ICICI Prudential Large & Mid Cap Fund Direct Plan Growth](/mutual-funds/icici-prudential-top-100-fund-direct-growth) | +0.82% | +15.50% | 33,591.78 |
+| | [Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth) | -1.20% | +14.79% | 7,903.50 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-large-mid-cap-fund-direct-growth) | | | | |
@@ -519,7 +519,7 @@ Also manages these schemes
 
 HDFC Large & Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Large & Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management
 
-HDFC Large & Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Large & Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 18 Sep 2026 is ₹363.98.
+HDFC Large & Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Large & Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹363.32.
 The HDFC Large & Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -592,13 +592,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Large & Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.91% as of 21 Sep 2026...
+The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.91% as of 23 Sep 2026...
 
 ### What is the AUM of HDFC Large & Mid Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Large & Mid Cap Fund Direct Growth is ₹30,294.02Cr as of 21 Sep 2026.
+of HDFC Large & Mid Cap Fund Direct Growth is ₹30,294.02Cr as of 23 Sep 2026.
 
 ### How to Redeem HDFC Large & Mid Cap Fund Direct Growth?
 
@@ -615,7 +615,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Large & Mid Cap Fund Direct Growth?
 
-The NAV of HDFC Large & Mid Cap Fund Direct Growth is ₹363.98 as of 18 Sep 2026.
+The NAV of HDFC Large & Mid Cap Fund Direct Growth is ₹363.32 as of 22 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Large & Mid Cap Fund Direct Growth?
 

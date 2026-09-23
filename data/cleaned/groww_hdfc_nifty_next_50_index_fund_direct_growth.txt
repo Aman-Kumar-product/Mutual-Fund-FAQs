@@ -1,8 +1,8 @@
-+1012345678960123456789.4012345678900123456789%
++1012345678970123456789.1012345678920123456789%
 
 3Y annualised
 
-+1.24% 1D
+-0.39% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 18 Sep '26
+NAV: 22 Sep '26
 
-₹17.05
+₹17.00
 
 Min. for SIP
 
@@ -45,7 +45,7 @@ Monthly investment
 | 3 months | ₹300 | ₹297 | | -1.00% |
 | 6 months | ₹600 | ₹615 | | +2.50% |
 | 1 year | ₹1,200 | ₹1,245 | | +3.75% |
-| 3 years | ₹3,600 | ₹4,036 | | +12.11% |
+| 3 years | ₹3,600 | ₹4,037 | | +12.14% |
 
 ## Holdings (52)
 
@@ -138,7 +138,7 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +10.1% | +4.4% | +16.4% | +11.6% |
+| Fund returns | +12.9% | +3.9% | +17.1% | +11.6% |
 | Category average (Equity Large Cap) | +2.5% | -3.5% | +9.8% | +12.8% |
 | Rank (Equity Large Cap) | -- | 18 | 13 | -- |
 
@@ -186,11 +186,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +1.30% | +13.44% | 2,020.76 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -1.24% | +12.12% | 2,179.99 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -5.83% | +10.24% | 54,133.66 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -6.04% | +9.93% | 80,206.20 |
-| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -3.95% | +8.37% | 39,933.37 |
+| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +1.93% | +14.26% | 2,020.76 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -0.53% | +12.85% | 2,179.99 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -4.90% | +11.08% | 54,133.66 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -5.56% | +10.62% | 80,206.20 |
+| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -3.45% | +9.12% | 39,933.37 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-next-50-index-fund-direct-growth) | | | | |
@@ -359,7 +359,7 @@ Also manages these schemes
 
 HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Man
 
-HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 18 Sep 2026 is ₹17.05.
+HDFC NIFTY Next 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC NIFTY Next 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹17.00.
 The HDFC NIFTY Next 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -426,13 +426,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY Next 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.35% as of 21 Sep 2026...
+The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.35% as of 23 Sep 2026...
 
 ### What is the AUM of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,708.94Cr as of 21 Sep 2026.
+of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,708.94Cr as of 23 Sep 2026.
 
 ### How to Redeem HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -449,7 +449,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
-The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.05 as of 18 Sep 2026.
+The NAV of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹17.00 as of 22 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC NIFTY Next 50 Index Fund Direct Growth?
 

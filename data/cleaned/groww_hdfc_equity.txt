@@ -1,8 +1,8 @@
-+1012345678950123456789.8012345678950123456789%
++1012345678950123456789.2012345678930123456789%
 
 3Y annualised
 
--0.30% 1D
+-1.86% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 22 Sep '26
+NAV: 24 Sep '26
 
-₹2,243.01
+₹2,208.48
 
 Min. for SIP
 
@@ -174,7 +174,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.8% | +17.1% | +15.6% | +15.9% |
+| Fund returns | +15.2% | +16.5% | +15.5% | +15.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 12 | 2 | 2 | -- |
 
@@ -222,11 +222,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +10.66% | +19.75% | 2,953.00 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +11.84% | +19.37% | 1,588.13 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +5.52% | +16.00% | 5,999.67 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +0.35% | +15.85% | 1,13,606.47 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -3.91% | +11.15% | 19,384.82 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +10.77% | +19.35% | 2,953.00 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +12.19% | +19.14% | 1,588.13 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +5.59% | +15.71% | 5,999.67 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -1.04% | +15.23% | 1,13,606.47 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -4.76% | +10.54% | 19,384.82 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
@@ -349,7 +349,7 @@ Also manages these schemes
 
 HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹2,243.01.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 24 Sep 2026 is ₹2,208.48.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -408,7 +408,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Flexi Cap Direct Plan Growth provide?
 
-The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.87% since its inception.
+The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.73% since its inception.
 
 ### How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
 
@@ -416,13 +416,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.77% as of 23 Sep 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.77% as of 25 Sep 2026...
 
 ### What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Flexi Cap Direct Plan Growth is ₹1,13,606.47Cr as of 23 Sep 2026.
+of HDFC Flexi Cap Direct Plan Growth is ₹1,13,606.47Cr as of 25 Sep 2026.
 
 ### How to Redeem HDFC Flexi Cap Direct Plan Growth?
 
@@ -439,7 +439,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Flexi Cap Direct Plan Growth?
 
-The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,243.01 as of 22 Sep 2026.
+The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,208.48 as of 24 Sep 2026.
 
 ### What is the PE and PB ratio of HDFC Flexi Cap Direct Plan Growth?
 

@@ -1,8 +1,8 @@
-+2012345678950123456789.3012345678900123456789%
++2012345678950123456789.2012345678960123456789%
 
 3Y annualised
 
-+0.22% 1D
+-0.93% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 22 Sep '26
+NAV: 24 Sep '26
 
-₹57.56
+₹57.58
 
 Min. for SIP
 
@@ -30,7 +30,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.61%
+0.60%
 
 Rating
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 6 months | ₹600 | ₹640 | | +6.67% |
-| 1 year | ₹1,200 | ₹1,320 | | +10.00% |
-| 3 years | ₹3,600 | ₹4,550 | | +26.39% |
-| 5 years | ₹6,000 | ₹10,526 | | +75.43% |
+| 6 months | ₹600 | ₹639 | | +6.50% |
+| 1 year | ₹1,200 | ₹1,319 | | +9.92% |
+| 3 years | ₹3,600 | ₹4,548 | | +26.33% |
+| 5 years | ₹6,000 | ₹10,516 | | +75.27% |
 
 ## Holdings (264)
 
@@ -352,9 +352,9 @@ Absolute returns
 
 | Name | 1Y | 3Y | 5Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +9.8% | +25.3% | +20.1% | +30.5% |
+| Fund returns | +11.5% | +25.3% | +19.8% | +30.5% |
 | Category average (Equity Small Cap) | +9.9% | +16.6% | +16.7% | +20.5% |
-| Rank (Equity Small Cap) | 19 | 2 | 3 | -- |
+| Rank (Equity Small Cap) | 20 | 2 | 3 | -- |
 
 ## Understand terms
 
@@ -400,11 +400,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +20.35% | +25.63% | 3,602.85 |
-| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +10.43% | +25.30% | 34,176.02 |
-| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +15.35% | +23.77% | 15,744.40 |
-| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +14.39% | +17.67% | 4,155.35 |
-| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +8.68% | +16.01% | 82,580.31 |
+| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +20.94% | +25.31% | 3,602.85 |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +11.51% | +25.26% | 34,176.02 |
+| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +16.07% | +23.54% | 15,744.40 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +13.80% | +17.17% | 4,155.35 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +8.83% | +15.72% | 82,580.31 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/bandhan-small-cap-fund-direct-growth) | | | | |
@@ -579,7 +579,7 @@ Also manages these schemes
 
 Bandhan Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Bandhan Mutual Fund. This scheme was made available to investors on 19 Dec 1999. Manish Gunwani is the Current Fund Manager of Bandhan Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(A
 
-Bandhan Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Bandhan Mutual Fund. This scheme was made available to investors on 19 Dec 1999. Manish Gunwani is the Current Fund Manager of Bandhan Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹2,20,143 Cr and the Latest NAV as of 22 Sep 2026 is ₹57.56.
+Bandhan Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Bandhan Mutual Fund. This scheme was made available to investors on 19 Dec 1999. Manish Gunwani is the Current Fund Manager of Bandhan Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹2,20,143 Cr and the Latest NAV as of 24 Sep 2026 is ₹57.58.
 The Bandhan Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹1,000. Exit load of 1%, if redeemed within 1 year.
 
 ...Read more
@@ -644,7 +644,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Bandhan Small Cap Fund Direct Growth provide?
 
-The Bandhan Small Cap Fund Direct Growth has been there from 25 Feb 2020 and the average annual returns provided by this fund is 30.49% since its inception.
+The Bandhan Small Cap Fund Direct Growth has been there from 25 Feb 2020 and the average annual returns provided by this fund is 30.46% since its inception.
 
 ### How much expense ratio is charged by Bandhan Small Cap Fund Direct Growth?
 
@@ -652,13 +652,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Bandhan Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Bandhan Small Cap Fund Direct Growth is 0.61% as of 23 Sep 2026...
+The Expense Ratio of Bandhan Small Cap Fund Direct Growth is 0.60% as of 25 Sep 2026...
 
 ### What is the AUM of Bandhan Small Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Bandhan Small Cap Fund Direct Growth is ₹34,176.02Cr as of 23 Sep 2026.
+of Bandhan Small Cap Fund Direct Growth is ₹34,176.02Cr as of 25 Sep 2026.
 
 ### How to Redeem Bandhan Small Cap Fund Direct Growth?
 
@@ -675,7 +675,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Bandhan Small Cap Fund Direct Growth?
 
-The NAV of Bandhan Small Cap Fund Direct Growth is ₹57.56 as of 22 Sep 2026.
+The NAV of Bandhan Small Cap Fund Direct Growth is ₹57.58 as of 24 Sep 2026.
 
 ### What is the PE and PB ratio of Bandhan Small Cap Fund Direct Growth?
 

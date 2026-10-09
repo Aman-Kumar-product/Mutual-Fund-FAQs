@@ -1,8 +1,8 @@
-+1012345678900123456789.4012345678970123456789%
++90123456789.7012345678970123456789%
 
 3Y annualised
 
-+0.73% 1D
+-1.43% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 06 Oct '26
+NAV: 08 Oct '26
 
-₹552.06
+₹541.86
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,176 | | -2.00% |
-| 3 years | ₹3,600 | ₹3,743 | | +3.97% |
-| 5 years | ₹6,000 | ₹7,734 | | +28.90% |
-| 10 years | ₹12,000 | ₹24,776 | | +106.47% |
+| 1 year | ₹1,200 | ₹1,155 | | -3.75% |
+| 3 years | ₹3,600 | ₹3,673 | | +2.03% |
+| 5 years | ₹6,000 | ₹7,588 | | +26.47% |
+| 10 years | ₹12,000 | ₹24,297 | | +102.48% |
 
 ## Holdings (326)
 
@@ -414,7 +414,7 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +10.5% | +13.3% | +13.2% | +14.2% |
+| Fund returns | +9.8% | +12.8% | +13.0% | +14.0% |
 | Category average (Hybrid Dynamic Asset Allocation) | +8.6% | +8.6% | +10.0% | +10.8% |
 | Rank (Hybrid Dynamic Asset Allocation) | 9 | 1 | -- | -- |
 
@@ -474,11 +474,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +5.07% | +11.38% | 10,125.44 |
-| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +2.05% | +10.56% | 75,399.17 |
-| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | -2.18% | +10.47% | 1,07,295.79 |
-| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +1.31% | +10.12% | 9,917.50 |
-| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +2.53% | +10.03% | 3,821.11 |
+| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +3.24% | +10.68% | 9,836.35 |
+| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +0.24% | +9.85% | 75,399.17 |
+| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | -3.89% | +9.77% | 1,07,295.79 |
+| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +0.00% | +9.55% | 9,917.50 |
+| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +1.36% | +9.53% | 3,821.11 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-balanced-advantage-fund-direct-growth) | | | | |
@@ -833,7 +833,7 @@ Also manages these schemes
 
 HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Manag
 
-HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 06 Oct 2026 is ₹552.06.
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 08 Oct 2026 is ₹541.86.
 The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
 
 ...Read more
@@ -898,7 +898,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Balanced Advantage Fund Direct Growth provide?
 
-The HDFC Balanced Advantage Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.16% since its inception.
+The HDFC Balanced Advantage Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.00% since its inception.
 
 ### How much expense ratio is charged by HDFC Balanced Advantage Fund Direct Growth?
 
@@ -906,13 +906,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Balanced Advantage Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.78% as of 07 Oct 2026...
+The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.78% as of 09 Oct 2026...
 
 ### What is the AUM of HDFC Balanced Advantage Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,295.79Cr as of 07 Oct 2026.
+of HDFC Balanced Advantage Fund Direct Growth is ₹1,07,295.79Cr as of 09 Oct 2026.
 
 ### How to Redeem HDFC Balanced Advantage Fund Direct Growth?
 
@@ -929,7 +929,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Balanced Advantage Fund Direct Growth?
 
-The NAV of HDFC Balanced Advantage Fund Direct Growth is ₹552.06 as of 06 Oct 2026.
+The NAV of HDFC Balanced Advantage Fund Direct Growth is ₹541.86 as of 08 Oct 2026.
 
 ### What is the PE and PB ratio of HDFC Balanced Advantage Fund Direct Growth?
 

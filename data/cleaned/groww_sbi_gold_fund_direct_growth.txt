@@ -1,8 +1,8 @@
-+3012345678940123456789.1012345678940123456789%
++3012345678940123456789.1012345678930123456789%
 
 3Y annualised
 
--1.03% 1D
++0.28% 1D
 
 1M
 
@@ -16,13 +16,13 @@
 
 All
 
-NAV: 14 Oct '26
+NAV: 16 Oct '26
 
-₹44.22
+₹44.37
 
 Min. for SIP
 
-₹500
+Not Supported
 
 Fund size (AUM)
 
@@ -38,19 +38,6 @@ Rating
 
 4
 
-### Return calculator
-
-Monthly investment
-
-₹500
-
-| Over the past | Total investment | Would've become | Historic returns | Returns |
-| --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,064 | | +1.07% |
-| 3 years | ₹18,000 | ₹27,925 | | +55.14% |
-| 5 years | ₹30,000 | ₹59,213 | | +97.38% |
-| 10 years | ₹60,000 | ₹1,73,864 | | +189.77% |
-
 ## Holdings (3)
 
 | Name | Sector | Instruments | Assets |
@@ -63,15 +50,15 @@ Monthly investment
 
 Min. for 1st investment
 
-₹5,000
+Not Supported
 
 Min. for 2nd investment
 
-₹1,000
+Not Supported
 
 Min. for SIP
 
-₹500
+Not Supported
 
 ## Understand terms
 
@@ -92,7 +79,7 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +34.1% | +23.7% | +16.1% | +10.8% |
-| Category average (Commodities Gold) | +37.4% | +25.8% | +17.1% | +12.8% |
+| Category average (Commodities Gold) | +35.8% | +24.6% | +16.8% | +12.6% |
 | Rank (Commodities Gold) | 5 | 1 | 1 | -- |
 
 ## Understand terms
@@ -297,8 +284,8 @@ Also manages these schemes
 
 SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224
 
-SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224 Cr and the Latest NAV as of 14 Oct 2026 is ₹44.22.
-The SBI Gold Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 15 days.
+SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224 Cr and the Latest NAV as of 16 Oct 2026 is ₹44.37.
+The SBI Gold Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Exit load of 1% if redeemed within 15 days.
 
 ...Read more
 
@@ -364,13 +351,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for SBI Gold Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of SBI Gold Direct Plan Growth is 0.21% as of 15 Oct 2026...
+The Expense Ratio of SBI Gold Direct Plan Growth is 0.21% as of 17 Oct 2026...
 
 ### What is the AUM of SBI Gold Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of SBI Gold Direct Plan Growth is ₹17,422.54Cr as of 15 Oct 2026.
+of SBI Gold Direct Plan Growth is ₹17,422.54Cr as of 17 Oct 2026.
 
 ### How to Redeem SBI Gold Direct Plan Growth?
 
@@ -387,7 +374,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of SBI Gold Direct Plan Growth?
 
-The NAV of SBI Gold Direct Plan Growth is ₹44.22 as of 14 Oct 2026.
+The NAV of SBI Gold Direct Plan Growth is ₹44.37 as of 16 Oct 2026.
 
 ### What is the PE and PB ratio of SBI Gold Direct Plan Growth?
 

@@ -1,4 +1,4 @@
-+1012345678970123456789.3012345678990123456789%
++1012345678970123456789.1012345678910123456789%
 
 3Y annualised
 
@@ -46,10 +46,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹6,286 | | +4.77% |
-| 3 years | ₹18,000 | ₹19,842 | | +10.23% |
-| 5 years | ₹30,000 | ₹44,801 | | +49.34% |
-| 10 years | ₹60,000 | ₹1,70,375 | | +183.96% |
+| 1 year | ₹6,000 | ₹6,252 | | +4.20% |
+| 3 years | ₹18,000 | ₹19,733 | | +9.63% |
+| 5 years | ₹30,000 | ₹44,546 | | +48.49% |
+| 10 years | ₹60,000 | ₹1,69,379 | | +182.30% |
 
 ## Holdings (32)
 
@@ -122,8 +122,8 @@ Absolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.4% | +18.8% | +16.7% | +21.4% |
-| Category average (Equity Mid Cap) | +14.3% | +13.3% | +15.8% | +18.2% |
+| Fund returns | +17.1% | +18.6% | +16.7% | +21.3% |
+| Category average (Equity Mid Cap) | +14.2% | +13.2% | +15.7% | +18.2% |
 | Rank (Equity Mid Cap) | 7 | 1 | 7 | -- |
 
 ## Understand terms
@@ -190,11 +190,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [HSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +11.75% | +21.43% | 16,799.59 |
-| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +1.77% | +21.36% | 15,748.82 |
-| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +7.46% | +20.03% | 8,399.70 |
-| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +2.18% | +18.98% | 19,230.15 |
-| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +2.57% | +16.54% | 50,176.01 |
+| | [HSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +11.67% | +21.30% | 16,799.59 |
+| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +0.95% | +21.20% | 15,748.82 |
+| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +7.16% | +19.83% | 8,399.70 |
+| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +1.50% | +18.92% | 19,230.15 |
+| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +1.76% | +16.36% | 50,176.01 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/motilal-oswal-most-focused-midcap-30-fund-direct-growth) | | | | |
@@ -630,7 +630,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does Motilal Oswal Midcap Fund Direct Growth provide?
 
-The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 21.35% since its inception.
+The Motilal Oswal Midcap Fund Direct Growth has been there from 24 Feb 2014 and the average annual returns provided by this fund is 21.30% since its inception.
 
 ### How much expense ratio is charged by Motilal Oswal Midcap Fund Direct Growth?
 
@@ -638,13 +638,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Motilal Oswal Midcap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.65% as of 17 Oct 2026...
+The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.65% as of 19 Oct 2026...
 
 ### What is the AUM of Motilal Oswal Midcap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Motilal Oswal Midcap Fund Direct Growth is ₹40,207.50Cr as of 17 Oct 2026.
+of Motilal Oswal Midcap Fund Direct Growth is ₹40,207.50Cr as of 19 Oct 2026.
 
 ### How to Redeem Motilal Oswal Midcap Fund Direct Growth?
 

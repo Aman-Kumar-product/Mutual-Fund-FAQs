@@ -1,4 +1,4 @@
-+1012345678910123456789.4012345678980123456789%
++1012345678910123456789.5012345678940123456789%
 
 3Y annualised
 
@@ -46,9 +46,9 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,181 | | -1.58% |
-| 3 years | ₹3,600 | ₹3,775 | | +4.86% |
-| 5 years | ₹6,000 | ₹7,906 | | +31.77% |
+| 1 year | ₹1,200 | ₹1,182 | | -1.50% |
+| 3 years | ₹3,600 | ₹3,778 | | +4.94% |
+| 5 years | ₹6,000 | ₹7,909 | | +31.82% |
 | 10 years | ₹12,000 | ₹26,610 | | +121.75% |
 
 ## Holdings (245)
@@ -336,8 +336,8 @@ Absolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +11.5% | +11.8% | +14.3% | +12.8% |
-| Category average (Equity Large & MidCap) | +11.3% | +10.1% | +13.9% | +15.4% |
-| Rank (Equity Large & MidCap) | 19 | 9 | 8 | -- |
+| Category average (Equity Large & MidCap) | +11.4% | +10.1% | +13.9% | +15.4% |
+| Rank (Equity Large & MidCap) | 20 | 9 | 8 | -- |
 
 ## Understand terms
 
@@ -387,11 +387,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large & Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-large-mid-cap-fund-direct-growth) | +1.46% | +20.56% | 12,177.86 |
-| | [Motilal Oswal Large and Midcap Fund Direct Growth](/mutual-funds/motilal-oswal-large-and-midcap-fund-direct-growth) | +3.43% | +20.22% | 19,832.31 |
-| | [Bandhan Large & Mid Cap Fund Direct Growth](/mutual-funds/bandhan-large-mid-cap-fund-direct-growth) | +0.31% | +16.46% | 20,650.22 |
-| | [Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth) | -3.86% | +13.24% | 7,410.60 |
-| | [ICICI Prudential Large & Mid Cap Fund Direct Plan Growth](/mutual-funds/icici-prudential-top-100-fund-direct-growth) | -5.11% | +13.05% | 31,628.19 |
+| | [Invesco India Large & Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-large-mid-cap-fund-direct-growth) | +0.75% | +20.38% | 12,177.86 |
+| | [Motilal Oswal Large and Midcap Fund Direct Growth](/mutual-funds/motilal-oswal-large-and-midcap-fund-direct-growth) | +2.62% | +20.09% | 19,832.31 |
+| | [Bandhan Large & Mid Cap Fund Direct Growth](/mutual-funds/bandhan-large-mid-cap-fund-direct-growth) | -0.10% | +16.44% | 20,650.22 |
+| | [Nippon India Vision Large & Mid Cap Direct Growth](/mutual-funds/nippon-india-vision-large-mid-cap-direct-growth) | -4.56% | +13.11% | 7,410.60 |
+| | [ICICI Prudential Large & Mid Cap Fund Direct Plan Growth](/mutual-funds/icici-prudential-top-100-fund-direct-growth) | -6.05% | +12.98% | 31,628.19 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-large-mid-cap-fund-direct-growth) | | | | |
@@ -587,7 +587,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Large & Mid Cap Fund Direct Growth provide?
 
-The HDFC Large & Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.78% since its inception.
+The HDFC Large & Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.79% since its inception.
 
 ### How much expense ratio is charged by HDFC Large & Mid Cap Fund Direct Growth?
 
@@ -595,13 +595,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Large & Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.77% as of 17 Oct 2026...
+The Expense Ratio of HDFC Large & Mid Cap Fund Direct Growth is 0.77% as of 19 Oct 2026...
 
 ### What is the AUM of HDFC Large & Mid Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Large & Mid Cap Fund Direct Growth is ₹28,542.69Cr as of 17 Oct 2026.
+of HDFC Large & Mid Cap Fund Direct Growth is ₹28,542.69Cr as of 19 Oct 2026.
 
 ### How to Redeem HDFC Large & Mid Cap Fund Direct Growth?
 

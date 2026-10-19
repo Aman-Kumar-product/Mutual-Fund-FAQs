@@ -1,4 +1,4 @@
-+1012345678950123456789.1012345678980123456789%
++1012345678950123456789.2012345678980123456789%
 
 3Y annualised
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹290 | | -3.33% |
-| 6 months | ₹600 | ₹581 | | -3.17% |
-| 1 year | ₹1,200 | ₹1,190 | | -0.83% |
-| 3 years | ₹3,600 | ₹3,803 | | +5.64% |
+| 3 months | ₹300 | ₹291 | | -3.00% |
+| 6 months | ₹600 | ₹584 | | -2.67% |
+| 1 year | ₹1,200 | ₹1,195 | | -0.42% |
+| 3 years | ₹3,600 | ₹3,820 | | +6.11% |
 
 ## Holdings (52)
 
@@ -140,8 +140,8 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | -0.1% | -0.1% | +15.2% | +10.3% |
-| Category average (Equity Large Cap) | -2.4% | -5.2% | +9.5% | +12.5% |
+| Fund returns | -0.1% | -0.1% | +15.3% | +10.4% |
+| Category average (Equity Large Cap) | -2.1% | -5.5% | +9.7% | +12.6% |
 | Rank (Equity Large Cap) | -- | 21 | 13 | -- |
 
 ## Understand terms
@@ -188,11 +188,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -1.65% | +12.81% | 1,925.14 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -3.36% | +11.87% | 2,097.65 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -6.44% | +9.97% | 51,296.06 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -7.23% | +9.72% | 76,352.23 |
-| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -5.97% | +7.73% | 37,293.95 |
+| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -1.90% | +13.06% | 1,925.14 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -3.52% | +12.13% | 2,097.65 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -6.63% | +10.16% | 51,296.06 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -7.55% | +9.85% | 76,352.23 |
+| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -6.60% | +7.85% | 37,293.95 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-next-50-index-fund-direct-growth) | | | | |
@@ -424,7 +424,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC NIFTY Next 50 Index Fund Direct Growth provide?
 
-The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 10.32% since its inception.
+The HDFC NIFTY Next 50 Index Fund Direct Growth has been there from 03 Nov 2021 and the average annual returns provided by this fund is 10.42% since its inception.
 
 ### How much expense ratio is charged by HDFC NIFTY Next 50 Index Fund Direct Growth?
 
@@ -432,13 +432,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY Next 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.25% as of 17 Oct 2026...
+The Expense Ratio of HDFC NIFTY Next 50 Index Fund Direct Growth is 0.25% as of 19 Oct 2026...
 
 ### What is the AUM of HDFC NIFTY Next 50 Index Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,620.49Cr as of 17 Oct 2026.
+of HDFC NIFTY Next 50 Index Fund Direct Growth is ₹2,620.49Cr as of 19 Oct 2026.
 
 ### How to Redeem HDFC NIFTY Next 50 Index Fund Direct Growth?
 

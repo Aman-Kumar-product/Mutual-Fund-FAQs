@@ -1,8 +1,8 @@
-+1012345678900123456789.0012345678960123456789%
++90123456789.7012345678970123456789%
 
 3Y annualised
 
-+0.01% 1D
+-1.01% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 16 Oct '26
+NAV: 19 Oct '26
 
-₹18.96
+₹18.77
 
 Min. for SIP
 
@@ -24,7 +24,7 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹19,490.00 Cr
+₹19,490.01 Cr
 
 Expense ratio
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹293 | | -2.33% |
-| 6 months | ₹600 | ₹587 | | -2.17% |
-| 1 year | ₹1,200 | ₹1,172 | | -2.33% |
-| 3 years | ₹3,600 | ₹3,680 | | +2.22% |
+| 3 months | ₹300 | ₹291 | | -3.00% |
+| 6 months | ₹600 | ₹583 | | -2.83% |
+| 1 year | ₹1,200 | ₹1,161 | | -3.25% |
+| 3 years | ₹3,600 | ₹3,644 | | +1.22% |
 
 ## Holdings (123)
 
@@ -211,8 +211,8 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | -1.3% | -6.1% | +10.1% | +14.1% |
-| Category average (Equity Multi Cap) | +4.9% | +1.6% | +13.8% | +18.5% |
+| Fund returns | -3.2% | -6.9% | +9.8% | +13.8% |
+| Category average (Equity Multi Cap) | +2.8% | +0.5% | +13.4% | +18.3% |
 | Rank (Equity Multi Cap) | -- | 36 | 20 | -- |
 
 ## Understand terms
@@ -259,11 +259,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Axis Multicap Fund Direct Growth](/mutual-funds/axis-multicap-fund-direct-growth) | +5.36% | +17.80% | 11,972.25 |
-| | [WhiteOak Capital Multi Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-multi-cap-fund-direct-growth) | +2.46% | +17.02% | 4,609.74 |
-| | [HSBC Multi Cap Fund Direct Growth](/mutual-funds/hsbc-multi-cap-fund-direct-growth) | +3.53% | +16.22% | 6,380.17 |
-| | [Mahindra Manulife Multi Cap Fund Direct Growth](/mutual-funds/mahindra-manulife-multi-cap-fund-direct-growth) | +7.57% | +15.93% | 7,457.35 |
-| | [ICICI Prudential Multi Cap Fund Direct Growth](/mutual-funds/icici-prudential-multi-cap-fund-direct-growth) | +1.37% | +13.54% | 18,717.26 |
+| | [Axis Multicap Fund Direct Growth](/mutual-funds/axis-multicap-fund-direct-growth) | +4.45% | +17.65% | 11,972.26 |
+| | [WhiteOak Capital Multi Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-multi-cap-fund-direct-growth) | +1.42% | +16.76% | 4,609.75 |
+| | [HSBC Multi Cap Fund Direct Growth](/mutual-funds/hsbc-multi-cap-fund-direct-growth) | +2.35% | +15.97% | 6,380.17 |
+| | [Mahindra Manulife Multi Cap Fund Direct Growth](/mutual-funds/mahindra-manulife-multi-cap-fund-direct-growth) | +6.48% | +15.56% | 7,457.36 |
+| | [ICICI Prudential Multi Cap Fund Direct Growth](/mutual-funds/icici-prudential-multi-cap-fund-direct-growth) | +0.58% | +13.30% | 18,717.26 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-multi-cap-fund-direct-growth) | | | | |
@@ -386,7 +386,7 @@ Also manages these schemes
 
 HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of
 
-HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 16 Oct 2026 is ₹18.96.
+HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 19 Oct 2026 is ₹18.77.
 The HDFC Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 
 ...Read more
@@ -451,7 +451,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Multi Cap Fund Direct Growth provide?
 
-The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 14.09% since its inception.
+The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 13.83% since its inception.
 
 ### How much expense ratio is charged by HDFC Multi Cap Fund Direct Growth?
 
@@ -459,13 +459,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Multi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.71% as of 19 Oct 2026...
+The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.71% as of 21 Oct 2026...
 
 ### What is the AUM of HDFC Multi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Multi Cap Fund Direct Growth is ₹19,490.00Cr as of 19 Oct 2026.
+of HDFC Multi Cap Fund Direct Growth is ₹19,490.01Cr as of 21 Oct 2026.
 
 ### How to Redeem HDFC Multi Cap Fund Direct Growth?
 
@@ -482,7 +482,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Multi Cap Fund Direct Growth?
 
-The NAV of HDFC Multi Cap Fund Direct Growth is ₹18.96 as of 16 Oct 2026.
+The NAV of HDFC Multi Cap Fund Direct Growth is ₹18.77 as of 19 Oct 2026.
 
 ### What is the PE and PB ratio of HDFC Multi Cap Fund Direct Growth?
 

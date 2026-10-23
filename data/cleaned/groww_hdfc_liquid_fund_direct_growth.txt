@@ -1,8 +1,8 @@
-+60123456789.8012345678990123456789%
++60123456789.8012345678980123456789%
 
 3Y annualised
 
-+0.02% 1D
+-0.01% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 20 Oct '26
+NAV: 22 Oct '26
 
-₹5,611.00
+₹5,610.44
 
 Min. for SIP
 
@@ -46,10 +46,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,236 | | +3.00% |
-| 3 years | ₹3,600 | ₹3,961 | | +10.03% |
-| 5 years | ₹6,000 | ₹7,073 | | +17.88% |
-| 10 years | ₹12,000 | ₹16,306 | | +35.88% |
+| 1 year | ₹1,200 | ₹1,235 | | +2.92% |
+| 3 years | ₹3,600 | ₹3,959 | | +9.97% |
+| 5 years | ₹6,000 | ₹7,070 | | +17.83% |
+| 10 years | ₹12,000 | ₹16,297 | | +35.81% |
 
 ## Holdings (143)
 
@@ -285,11 +285,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.55% | +6.97% | 61,166.55 |
-| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.56% | +6.97% | 53,470.17 |
-| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.53% | +6.97% | 11,740.88 |
-| | [Franklin India Liquid Fund Super Institutional Plan Direct Growth](/mutual-funds/franklin-india-liquid-fund-super-institutional-plan-direct-growth) | +6.53% | +6.96% | 4,810.57 |
-| | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.51% | +6.95% | 1,437.99 |
+| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.52% | +6.96% | 53,470.17 |
+| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.48% | +6.96% | 11,740.88 |
+| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.49% | +6.95% | 61,166.55 |
+| | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.48% | +6.94% | 1,437.99 |
+| | [Franklin India Liquid Fund Super Institutional Plan Direct Growth](/mutual-funds/franklin-india-liquid-fund-super-institutional-plan-direct-growth) | +6.49% | +6.94% | 4,810.57 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-liquid-fund-direct-growth) | | | | |
@@ -428,7 +428,7 @@ Also manages these schemes
 
 HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 C
 
-HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 20 Oct 2026 is ₹5,611.00.
+HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 22 Oct 2026 is ₹5,610.44.
 The HDFC Liquid Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.
 
 ...Read more
@@ -487,7 +487,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Liquid Direct Plan Growth provide?
 
-The HDFC Liquid Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 6.79% since its inception.
+The HDFC Liquid Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 6.78% since its inception.
 
 ### How much expense ratio is charged by HDFC Liquid Direct Plan Growth?
 
@@ -495,13 +495,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Liquid Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 21 Oct 2026...
+The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 23 Oct 2026...
 
 ### What is the AUM of HDFC Liquid Direct Plan Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Liquid Direct Plan Growth is ₹66,295.17Cr as of 21 Oct 2026.
+of HDFC Liquid Direct Plan Growth is ₹66,295.17Cr as of 23 Oct 2026.
 
 ### How to Redeem HDFC Liquid Direct Plan Growth?
 
@@ -518,7 +518,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Liquid Direct Plan Growth?
 
-The NAV of HDFC Liquid Direct Plan Growth is ₹5,611.00 as of 20 Oct 2026.
+The NAV of HDFC Liquid Direct Plan Growth is ₹5,610.44 as of 22 Oct 2026.
 
 ### What is the PE and PB ratio of HDFC Liquid Direct Plan Growth?
 

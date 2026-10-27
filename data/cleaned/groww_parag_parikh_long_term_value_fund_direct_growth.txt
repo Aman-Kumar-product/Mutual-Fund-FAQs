@@ -2,7 +2,7 @@
 
 3Y annualised
 
--0.49% 1D
++0.37% 1D
 
 1M
 
@@ -16,9 +16,9 @@
 
 All
 
-NAV: 23 Oct '26
+NAV: 26 Oct '26
 
-₹88.97
+₹89.30
 
 Min. for SIP
 
@@ -46,10 +46,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹12,000 | ₹11,753 | | -2.06% |
-| 3 years | ₹36,000 | ₹37,864 | | +5.18% |
-| 5 years | ₹60,000 | ₹77,659 | | +29.43% |
-| 10 years | ₹1,20,000 | ₹2,80,592 | | +133.83% |
+| 1 year | ₹12,000 | ₹11,703 | | -2.48% |
+| 3 years | ₹36,000 | ₹37,679 | | +4.66% |
+| 5 years | ₹60,000 | ₹77,267 | | +28.78% |
+| 10 years | ₹1,20,000 | ₹2,79,107 | | +132.59% |
 
 ## Holdings (127)
 
@@ -273,11 +273,11 @@ Check past data
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +0.88% | +17.37% | 3,098.01 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +3.37% | +17.20% | 1,588.28 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -6.76% | +14.38% | 1,08,546.98 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | -4.01% | +13.71% | 5,748.74 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -10.52% | +9.43% | 18,188.24 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +1.92% | +18.45% | 3,098.01 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +5.02% | +18.28% | 1,588.28 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -5.28% | +15.53% | 1,08,546.98 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | -2.58% | +14.80% | 5,748.74 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -9.80% | +10.28% | 18,188.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/parag-parikh-long-term-value-fund-direct-growth) | | | | |
@@ -452,7 +452,7 @@ Also manages these schemes
 
 Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Manage
 
-Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,65,302 Cr and the Latest NAV as of 23 Oct 2026 is ₹88.97.
+Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,65,302 Cr and the Latest NAV as of 26 Oct 2026 is ₹89.30.
 The Parag Parikh Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹1,000. For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% if redeemed after 365 days but on or before 730 days.
 
 ...Read more
@@ -525,13 +525,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Parag Parikh Flexi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.53% as of 25 Oct 2026...
+The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.53% as of 27 Oct 2026...
 
 ### What is the AUM of Parag Parikh Flexi Cap Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,45,070.50Cr as of 25 Oct 2026.
+of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,45,070.50Cr as of 27 Oct 2026.
 
 ### How to Redeem Parag Parikh Flexi Cap Fund Direct Growth?
 
@@ -548,7 +548,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of Parag Parikh Flexi Cap Fund Direct Growth?
 
-The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹88.97 as of 23 Oct 2026.
+The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹89.30 as of 26 Oct 2026.
 
 ### What is the PE and PB ratio of Parag Parikh Flexi Cap Fund Direct Growth?
 

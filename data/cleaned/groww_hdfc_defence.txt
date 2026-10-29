@@ -1,8 +1,8 @@
-+3012345678950123456789.1012345678900123456789%
++3012345678950123456789.0012345678960123456789%
 
 3Y annualised
 
-+0.70% 1D
+-0.28% 1D
 
 1M
 
@@ -14,9 +14,9 @@
 
 All
 
-NAV: 26 Oct '26
+NAV: 28 Oct '26
 
-₹28.59
+₹29.09
 
 Min. for SIP
 
@@ -44,10 +44,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹288 | | -4.00% |
-| 6 months | ₹600 | ₹583 | | -2.83% |
-| 1 year | ₹1,200 | ₹1,266 | | +5.50% |
-| 3 years | ₹3,600 | ₹4,725 | | +31.25% |
+| 3 months | ₹300 | ₹291 | | -3.00% |
+| 6 months | ₹600 | ₹590 | | -1.67% |
+| 1 year | ₹1,200 | ₹1,284 | | +7.00% |
+| 3 years | ₹3,600 | ₹4,798 | | +33.28% |
 
 ## Holdings (26)
 
@@ -114,7 +114,7 @@ Absolute returns
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +5.8% | +11.9% | +35.1% | +36.2% |
+| Fund returns | +6.5% | +14.9% | +35.1% | +36.8% |
 | Category average (Equity Thematic) | -3.5% | -5.5% | +12.8% | +14.4% |
 | Rank (Equity Thematic) | -- | 2 | 1 | -- |
 
@@ -298,7 +298,7 @@ Also manages these schemes
 
 HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,07
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 26 Oct 2026 is ₹28.59.
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹29.09.
 The HDFC Defence Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1%, if redeemed within 1 year.
 
 ...Read more
@@ -363,7 +363,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ### What kind of returns does HDFC Defence Fund Direct Growth provide?
 
-The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 36.17% since its inception.
+The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 36.79% since its inception.
 
 ### How much expense ratio is charged by HDFC Defence Fund Direct Growth?
 
@@ -371,13 +371,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Defence Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Defence Fund Direct Growth is 0.72% as of 27 Oct 2026...
+The Expense Ratio of HDFC Defence Fund Direct Growth is 0.72% as of 29 Oct 2026...
 
 ### What is the AUM of HDFC Defence Fund Direct Growth?
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Defence Fund Direct Growth is ₹11,493.39Cr as of 27 Oct 2026.
+of HDFC Defence Fund Direct Growth is ₹11,493.39Cr as of 29 Oct 2026.
 
 ### How to Redeem HDFC Defence Fund Direct Growth?
 
@@ -394,7 +394,7 @@ your investment objective and risk tolerance.
 
 ### What is the NAV of HDFC Defence Fund Direct Growth?
 
-The NAV of HDFC Defence Fund Direct Growth is ₹28.59 as of 26 Oct 2026.
+The NAV of HDFC Defence Fund Direct Growth is ₹29.09 as of 28 Oct 2026.
 
 ### What is the PE and PB ratio of HDFC Defence Fund Direct Growth?
 

@@ -1,24 +1,77 @@
-+1012345678920123456789.4012345678910123456789%
++1012345678920123456789.7012345678930123456789%
 
 3Y annualised
 
-+0.02% 1D
++0.18% 1D
 
-1M
+NAV by date, 3Y range
 
-6M
+| Date | NAV |
+| --- | --- |
+| 30 Oct 2023 | ₹999.73 |
+| 19 Nov 2023 | ₹1,048.97 |
+| 06 Dec 2023 | ₹1,126.59 |
+| 26 Dec 2023 | ₹1,161.62 |
+| 11 Jan 2024 | ₹1,186.33 |
+| 01 Feb 2024 | ₹1,202.95 |
+| 19 Feb 2024 | ₹1,244.35 |
+| 10 Mar 2024 | ₹1,255.56 |
+| 27 Mar 2024 | ₹1,244.18 |
+| 17 Apr 2024 | ₹1,239.13 |
+| 06 May 2024 | ₹1,270.21 |
+| 26 May 2024 | ₹1,339.17 |
+| 11 Jun 2024 | ₹1,368.91 |
+| 01 Jul 2024 | ₹1,407.37 |
+| 18 Jul 2024 | ₹1,434.96 |
+| 06 Aug 2024 | ₹1,417.80 |
+| 25 Aug 2024 | ₹1,463.39 |
+| 11 Sep 2024 | ₹1,498.33 |
+| 29 Sep 2024 | ₹1,515.85 |
+| 17 Oct 2024 | ₹1,476.80 |
+| 06 Nov 2024 | ₹1,450.11 |
+| 26 Nov 2024 | ₹1,447.90 |
+| 15 Dec 2024 | ₹1,473.94 |
+| 01 Jan 2025 | ₹1,449.01 |
+| 20 Jan 2025 | ₹1,376.00 |
+| 05 Feb 2025 | ₹1,405.07 |
+| 24 Feb 2025 | ₹1,349.93 |
+| 16 Mar 2025 | ₹1,344.98 |
+| 02 Apr 2025 | ₹1,402.64 |
+| 23 Apr 2025 | ₹1,469.48 |
+| 13 May 2025 | ₹1,484.32 |
+| 29 May 2025 | ₹1,493.87 |
+| 17 Jun 2025 | ₹1,504.47 |
+| 03 Jul 2025 | ₹1,536.17 |
+| 22 Jul 2025 | ₹1,532.57 |
+| 07 Aug 2025 | ₹1,489.74 |
+| 28 Aug 2025 | ₹1,510.41 |
+| 15 Sep 2025 | ₹1,556.70 |
+| 05 Oct 2025 | ₹1,548.92 |
+| 23 Oct 2025 | ₹1,576.85 |
+| 12 Nov 2025 | ₹1,574.99 |
+| 01 Dec 2025 | ₹1,579.22 |
+| 17 Dec 2025 | ₹1,560.67 |
+| 06 Jan 2026 | ₹1,589.89 |
+| 26 Jan 2026 | ₹1,533.46 |
+| 12 Feb 2026 | ₹1,558.64 |
+| 03 Mar 2026 | ₹1,498.57 |
+| 22 Mar 2026 | ₹1,370.84 |
+| 09 Apr 2026 | ₹1,468.60 |
+| 29 Apr 2026 | ₹1,448.24 |
+| 18 May 2026 | ₹1,432.78 |
+| 07 Jun 2026 | ₹1,410.52 |
+| 23 Jun 2026 | ₹1,475.46 |
+| 13 Jul 2026 | ₹1,483.57 |
+| 29 Jul 2026 | ₹1,506.55 |
+| 17 Aug 2026 | ₹1,505.93 |
+| 02 Sep 2026 | ₹1,492.90 |
+| 22 Sep 2026 | ₹1,468.54 |
+| 11 Oct 2026 | ₹1,405.46 |
+| 29 Oct 2026 | ₹1,434.92 |
 
-1Y
+NAV: 30 Oct '26
 
-3Y
-
-5Y
-
-All
-
-NAV: 28 Oct '26
-
-₹1,419.89
+₹1,434.92
 
 Min. for SIP
 
@@ -46,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹5,739 | | -4.35% |
-| 3 years | ₹18,000 | ₹18,261 | | +1.45% |
-| 5 years | ₹30,000 | ₹38,244 | | +27.48% |
-| 10 years | ₹60,000 | ₹1,19,261 | | +98.77% |
+| 1 year | ₹6,000 | ₹5,783 | | -3.62% |
+| 3 years | ₹18,000 | ₹18,413 | | +2.29% |
+| 5 years | ₹30,000 | ₹38,559 | | +28.53% |
+| 10 years | ₹60,000 | ₹1,20,208 | | +100.35% |
 
 ## Holdings (64)
 
@@ -120,8 +173,6 @@ Monthly investment
 | [SBI Funds Management Ltd](/stocks/sbi-funds-management-ltd) | Financial | Equity | 0.05% |
 | Net Payables | Unspecified | Net Payables | -0.06% |
 
-See All
-
 ### Minimum investments
 
 Min. for 1st investment
@@ -148,14 +199,10 @@ The total return of a mutual fund over a given period.
 
 ### Returns and rankings
 
-Annualised returns
-
-Absolute returns
-
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.4% | +12.6% | +12.5% | +13.5% |
-| Category average (Equity ELSS) | +10.1% | +8.9% | +12.4% | +16.7% |
+| Fund returns | +12.7% | +12.9% | +12.6% | +13.6% |
+| Category average (Equity ELSS) | +11.2% | +9.7% | +12.8% | +16.8% |
 | Rank (Equity ELSS) | 11 | 4 | 17 | -- |
 
 ## Understand terms
@@ -196,11 +243,9 @@ from July 1st 2020
 
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
 
-Check past data
-
 ### Fund management
 
-### AK Amar Kalkundrikar Dec 2025 - Present View details
+###
 
 Education
 
@@ -216,7 +261,7 @@ Also manages these schemes
 
 [HDFC Multi Cap Fund Direct Growth](/mutual-funds/hdfc-multi-cap-fund-direct-growth)
 
-### DM Dhruv Muchhal Jun 2023 - Present View details
+###
 
 Education
 
@@ -316,7 +361,7 @@ Also manages these schemes
 
 HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Unde
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹1,419.89.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 30 Oct 2026 is ₹1,434.92.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 
 ...Read more
@@ -367,7 +412,7 @@ Address7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
 
 ## FAQs
 
-### How to Invest in HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 You can easily invest in HDFC ELSS Tax Saver Fund Direct Plan Growth in a hassle-free manner on Groww. The
 process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
@@ -379,42 +424,42 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 * Once you are done with that, you can start investing in HDFC ELSS Tax Saver Fund Direct Plan Growth as SIP or lumpsum as per your
  investment objective and risk tolerance
 
-### What kind of returns does HDFC ELSS Tax Saver Fund Direct Plan Growth provide?
+###
 
-The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.50% since its inception.
+The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.57% since its inception.
 
-### How much expense ratio is charged by HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC ELSS Tax Saver Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 0.97% as of 29 Oct 2026...
+The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 0.97% as of 31 Oct 2026...
 
-### What is the AUM of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,948.74Cr as of 29 Oct 2026.
+of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,948.74Cr as of 31 Oct 2026.
 
-### How to Redeem HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 If you want to sell your HDFC ELSS Tax Saver Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
 desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-### Can I invest in SIP and Lump Sum of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 You can select either
  [SIP](https://groww.in/p/sip-systematic-investment-plan/) or
  [Lumpsum](https://groww.in/p/lump-sum/) investment of HDFC ELSS Tax Saver Fund Direct Plan Growth based on
 your investment objective and risk tolerance.
 
-### What is the NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
-The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,419.89 as of 28 Oct 2026.
+The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,434.92 as of 30 Oct 2026.
 
-### What is the PE and PB ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+###
 
 The
  [PE ratio](https://groww.in/p/pe-ratio) ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is determined by dividing the market price by

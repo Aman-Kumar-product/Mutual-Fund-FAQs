@@ -1,24 +1,77 @@
-+1012345678930123456789.4012345678940123456789%
++1012345678930123456789.6012345678980123456789%
 
 3Y annualised
 
-+0.46% 1D
+-1.67% 1D
 
-1M
+NAV by date, 3Y range
 
-6M
+| Date | NAV |
+| --- | --- |
+| 30 Oct 2023 | ₹133.78 |
+| 19 Nov 2023 | ₹141.80 |
+| 06 Dec 2023 | ₹147.99 |
+| 26 Dec 2023 | ₹152.47 |
+| 11 Jan 2024 | ₹156.32 |
+| 01 Feb 2024 | ₹159.19 |
+| 19 Feb 2024 | ₹159.20 |
+| 10 Mar 2024 | ₹155.88 |
+| 27 Mar 2024 | ₹156.69 |
+| 17 Apr 2024 | ₹162.28 |
+| 06 May 2024 | ₹167.34 |
+| 26 May 2024 | ₹176.20 |
+| 11 Jun 2024 | ₹183.58 |
+| 01 Jul 2024 | ₹192.19 |
+| 18 Jul 2024 | ₹190.80 |
+| 06 Aug 2024 | ₹193.92 |
+| 25 Aug 2024 | ₹199.56 |
+| 11 Sep 2024 | ₹201.82 |
+| 29 Sep 2024 | ₹202.86 |
+| 17 Oct 2024 | ₹201.66 |
+| 06 Nov 2024 | ₹198.86 |
+| 26 Nov 2024 | ₹194.89 |
+| 15 Dec 2024 | ₹202.95 |
+| 01 Jan 2025 | ₹197.45 |
+| 20 Jan 2025 | ₹182.33 |
+| 05 Feb 2025 | ₹177.45 |
+| 24 Feb 2025 | ₹161.40 |
+| 16 Mar 2025 | ₹159.01 |
+| 02 Apr 2025 | ₹169.78 |
+| 23 Apr 2025 | ₹177.22 |
+| 13 May 2025 | ₹179.39 |
+| 29 May 2025 | ₹185.63 |
+| 17 Jun 2025 | ₹187.85 |
+| 03 Jul 2025 | ₹194.35 |
+| 22 Jul 2025 | ₹195.26 |
+| 07 Aug 2025 | ₹184.60 |
+| 28 Aug 2025 | ₹184.38 |
+| 15 Sep 2025 | ₹192.49 |
+| 05 Oct 2025 | ₹189.29 |
+| 23 Oct 2025 | ₹191.34 |
+| 12 Nov 2025 | ₹190.87 |
+| 01 Dec 2025 | ₹188.66 |
+| 17 Dec 2025 | ₹183.58 |
+| 06 Jan 2026 | ₹187.80 |
+| 26 Jan 2026 | ₹174.82 |
+| 12 Feb 2026 | ₹183.11 |
+| 03 Mar 2026 | ₹176.31 |
+| 22 Mar 2026 | ₹165.30 |
+| 09 Apr 2026 | ₹181.12 |
+| 29 Apr 2026 | ₹192.08 |
+| 18 May 2026 | ₹193.42 |
+| 07 Jun 2026 | ₹192.54 |
+| 23 Jun 2026 | ₹204.05 |
+| 13 Jul 2026 | ₹203.75 |
+| 29 Jul 2026 | ₹201.84 |
+| 17 Aug 2026 | ₹210.17 |
+| 02 Sep 2026 | ₹209.96 |
+| 22 Sep 2026 | ₹210.38 |
+| 11 Oct 2026 | ₹203.48 |
+| 29 Oct 2026 | ₹192.76 |
 
-1Y
+NAV: 30 Oct '26
 
-3Y
-
-5Y
-
-All
-
-NAV: 28 Oct '26
-
-₹194.72
+₹192.76
 
 Min. for SIP
 
@@ -30,7 +83,7 @@ Fund size (AUM)
 
 Expense ratio
 
-0.52%
+0.53%
 
 Exclusive of GST & statutory charges
 
@@ -46,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,218 | | +1.50% |
-| 3 years | ₹3,600 | ₹3,874 | | +7.61% |
-| 5 years | ₹6,000 | ₹8,445 | | +40.75% |
-| 10 years | ₹12,000 | ₹35,015 | | +191.79% |
+| 1 year | ₹1,200 | ₹1,225 | | +2.08% |
+| 3 years | ₹3,600 | ₹3,899 | | +8.31% |
+| 5 years | ₹6,000 | ₹8,498 | | +41.63% |
+| 10 years | ₹12,000 | ₹35,240 | | +193.67% |
 
 ## Holdings (259)
 
@@ -315,8 +368,6 @@ Monthly investment
 | [Genus Prime Infrastructures Ltd](/stocks/genus-prime-infrastructures-ltd) | Real Estate | Equity | 0.01% |
 | Net Payables | Unspecified | Net Payables | -0.08% |
 
-See All
-
 ### Minimum investments
 
 Min. for 1st investment
@@ -343,15 +394,11 @@ The total return of a mutual fund over a given period.
 
 ### Returns and rankings
 
-Annualised returns
-
-Absolute returns
-
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +13.4% | +17.3% | +19.4% | +23.1% |
-| Category average (Equity Small Cap) | +13.3% | +13.8% | +16.3% | +19.4% |
-| Rank (Equity Small Cap) | 19 | 5 | 1 | -- |
+| Fund returns | +13.7% | +17.5% | +19.4% | +23.1% |
+| Category average (Equity Small Cap) | +14.6% | +14.9% | +16.8% | +19.7% |
+| Rank (Equity Small Cap) | 18 | 6 | 1 | -- |
 
 ## Understand terms
 
@@ -407,24 +454,22 @@ from July 1st 2020
 
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
 
-Check past data
-
 ### Compare similar funds
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +2.58% | +22.34% | 35,855.60 |
-| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +11.47% | +22.09% | 3,666.32 |
-| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +6.37% | +20.32% | 16,130.64 |
-| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +4.79% | +14.59% | 4,106.99 |
-| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +1.33% | +13.44% | 80,905.55 |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +2.47% | +22.53% | 35,855.60 |
+| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +12.66% | +22.52% | 3,666.32 |
+| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +6.93% | +20.65% | 16,130.64 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +5.13% | +14.82% | 4,106.99 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +1.35% | +13.68% | 80,905.55 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/nippon-india-small-cap-fund-direct-growth) | | | | |
 
 ### Fund management
 
-### SR Samir Rachh Dec 2016 - Present View details
+###
 
 Education
 
@@ -438,7 +483,7 @@ Also manages these schemes
 
 [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth)
 
-### AS Amber Singhania Mar 2026 - Present View details
+###
 
 Education
 
@@ -538,7 +583,7 @@ Also manages these schemes
 
 [Nippon India MNC Fund Direct Growth](/mutual-funds/nippon-india-mnc-fund-direct-growth)
 
-### KD Kinjal Desai Mar 2026 - Present View details
+###
 
 Education
 
@@ -648,7 +693,7 @@ Also manages these schemes
 
 Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under
 
-Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,62,869 Cr and the Latest NAV as of 28 Oct 2026 is ₹194.72.
+Nippon India Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Nippon India Mutual Fund. This scheme was made available to investors on 29 Jun 1995. Samir Rachh is the Current Fund Manager of Nippon India Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹7,62,869 Cr and the Latest NAV as of 30 Oct 2026 is ₹192.76.
 The Nippon India Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1% if redeemed within 1 year.
 
 ...Read more
@@ -699,7 +744,7 @@ AddressKarvy House, No. 46, 8-2-609/K, Avenue 4, Street No.1 Banjara Hills,
 
 ## FAQs
 
-### How to Invest in Nippon India Small Cap Fund Direct Growth?
+###
 
 You can easily invest in Nippon India Small Cap Fund Direct Growth in a hassle-free manner on Groww. The
 process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
@@ -711,42 +756,42 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 * Once you are done with that, you can start investing in Nippon India Small Cap Fund Direct Growth as SIP or lumpsum as per your
  investment objective and risk tolerance
 
-### What kind of returns does Nippon India Small Cap Fund Direct Growth provide?
+###
 
-The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 23.09% since its inception.
+The Nippon India Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 23.14% since its inception.
 
-### How much expense ratio is charged by Nippon India Small Cap Fund Direct Growth?
+###
 
 The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Nippon India Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.52% as of 29 Oct 2026...
+The Expense Ratio of Nippon India Small Cap Fund Direct Growth is 0.53% as of 31 Oct 2026...
 
-### What is the AUM of Nippon India Small Cap Fund Direct Growth?
+###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Nippon India Small Cap Fund Direct Growth is ₹80,905.55Cr as of 29 Oct 2026.
+of Nippon India Small Cap Fund Direct Growth is ₹80,905.55Cr as of 31 Oct 2026.
 
-### How to Redeem Nippon India Small Cap Fund Direct Growth?
+###
 
 If you want to sell your Nippon India Small Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
 desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-### Can I invest in SIP and Lump Sum of Nippon India Small Cap Fund Direct Growth?
+###
 
 You can select either
  [SIP](https://groww.in/p/sip-systematic-investment-plan/) or
  [Lumpsum](https://groww.in/p/lump-sum/) investment of Nippon India Small Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 
-### What is the NAV of Nippon India Small Cap Fund Direct Growth?
+###
 
-The NAV of Nippon India Small Cap Fund Direct Growth is ₹194.72 as of 28 Oct 2026.
+The NAV of Nippon India Small Cap Fund Direct Growth is ₹192.76 as of 30 Oct 2026.
 
-### What is the PE and PB ratio of Nippon India Small Cap Fund Direct Growth?
+###
 
 The
  [PE ratio](https://groww.in/p/pe-ratio) ratio of Nippon India Small Cap Fund Direct Growth is determined by dividing the market price by

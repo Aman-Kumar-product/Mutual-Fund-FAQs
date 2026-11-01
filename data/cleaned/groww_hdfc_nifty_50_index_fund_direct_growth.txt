@@ -1,4 +1,4 @@
-+70123456789.3012345678900123456789%
++70123456789.4012345678950123456789%
 
 3Y annualised
 
@@ -8,46 +8,46 @@ NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 30 Oct 2023 | ₹181.92 |
-| 19 Nov 2023 | ₹187.88 |
-| 06 Dec 2023 | ₹199.37 |
-| 26 Dec 2023 | ₹206.54 |
-| 11 Jan 2024 | ₹208.80 |
-| 01 Feb 2024 | ₹208.47 |
-| 19 Feb 2024 | ₹212.00 |
-| 10 Mar 2024 | ₹213.27 |
-| 27 Mar 2024 | ₹213.20 |
-| 17 Apr 2024 | ₹210.00 |
-| 06 May 2024 | ₹212.93 |
-| 26 May 2024 | ₹219.42 |
-| 11 Jun 2024 | ₹223.52 |
-| 01 Jul 2024 | ₹231.35 |
-| 18 Jul 2024 | ₹235.33 |
-| 06 Aug 2024 | ₹233.30 |
-| 25 Aug 2024 | ₹240.43 |
-| 11 Sep 2024 | ₹244.03 |
-| 29 Sep 2024 | ₹248.05 |
-| 17 Oct 2024 | ₹238.85 |
+| 31 Oct 2023 | ₹181.07 |
+| 20 Nov 2023 | ₹188.73 |
+| 07 Dec 2023 | ₹200.02 |
+| 27 Dec 2023 | ₹207.71 |
+| 14 Jan 2024 | ₹210.73 |
+| 04 Feb 2024 | ₹207.69 |
+| 20 Feb 2024 | ₹210.64 |
+| 11 Mar 2024 | ₹213.29 |
+| 30 Mar 2024 | ₹213.20 |
+| 18 Apr 2024 | ₹211.44 |
+| 07 May 2024 | ₹212.93 |
+| 27 May 2024 | ₹219.00 |
+| 12 Jun 2024 | ₹224.24 |
+| 02 Jul 2024 | ₹232.91 |
+| 21 Jul 2024 | ₹235.12 |
+| 07 Aug 2024 | ₹231.57 |
+| 26 Aug 2024 | ₹240.50 |
+| 12 Sep 2024 | ₹243.72 |
+| 30 Sep 2024 | ₹247.91 |
+| 20 Oct 2024 | ₹238.15 |
 | 06 Nov 2024 | ₹232.83 |
-| 26 Nov 2024 | ₹233.58 |
+| 27 Nov 2024 | ₹230.11 |
 | 15 Dec 2024 | ₹237.33 |
-| 01 Jan 2025 | ₹232.69 |
+| 02 Jan 2025 | ₹230.92 |
 | 20 Jan 2025 | ₹221.67 |
-| 05 Feb 2025 | ₹227.32 |
+| 06 Feb 2025 | ₹226.98 |
 | 24 Feb 2025 | ₹217.34 |
-| 16 Mar 2025 | ₹216.95 |
+| 17 Mar 2025 | ₹220.09 |
 | 02 Apr 2025 | ₹224.06 |
-| 23 Apr 2025 | ₹233.62 |
+| 24 Apr 2025 | ₹231.63 |
 | 13 May 2025 | ₹237.70 |
-| 29 May 2025 | ₹238.97 |
+| 01 Jun 2025 | ₹238.63 |
 | 17 Jun 2025 | ₹239.74 |
-| 03 Jul 2025 | ₹246.46 |
+| 06 Jul 2025 | ₹246.47 |
 | 22 Jul 2025 | ₹244.30 |
-| 07 Aug 2025 | ₹236.25 |
+| 10 Aug 2025 | ₹238.40 |
 | 28 Aug 2025 | ₹237.14 |
-| 15 Sep 2025 | ₹245.04 |
+| 16 Sep 2025 | ₹245.92 |
 | 05 Oct 2025 | ₹243.43 |
-| 23 Oct 2025 | ₹250.44 |
+| 26 Oct 2025 | ₹252.27 |
 | 12 Nov 2025 | ₹251.52 |
 | 01 Dec 2025 | ₹252.98 |
 | 17 Dec 2025 | ₹250.85 |
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,143 | | -4.75% |
-| 3 years | ₹3,600 | ₹3,541 | | -1.64% |
-| 5 years | ₹6,000 | ₹6,727 | | +12.12% |
-| 10 years | ₹12,000 | ₹19,955 | | +66.29% |
+| 1 year | ₹1,200 | ₹1,148 | | -4.33% |
+| 3 years | ₹3,600 | ₹3,558 | | -1.17% |
+| 5 years | ₹6,000 | ₹6,758 | | +12.63% |
+| 10 years | ₹12,000 | ₹20,049 | | +67.07% |
 
 ## Holdings (52)
 
@@ -189,9 +189,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.3% | +6.3% | +11.2% | +11.3% |
-| Category average (Equity Large Cap) | +10.6% | +8.5% | +11.9% | +12.4% |
-| Rank (Equity Large Cap) | 71 | 52 | 24 | -- |
+| Fund returns | +7.5% | +6.4% | +11.3% | +11.3% |
+| Category average (Equity Large Cap) | +10.5% | +8.5% | +11.9% | +12.4% |
+| Rank (Equity Large Cap) | 70 | 51 | 23 | -- |
 
 ## Understand terms
 
@@ -243,11 +243,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -3.14% | +13.94% | 1,925.14 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -6.11% | +13.04% | 2,097.65 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -9.48% | +10.97% | 51,296.06 |
-| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -10.42% | +10.38% | 76,352.23 |
-| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -8.76% | +8.64% | 37,293.95 |
+| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -1.69% | +14.15% | 1,925.14 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -4.60% | +13.21% | 2,097.65 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -8.11% | +11.06% | 51,296.06 |
+| | [ICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -9.27% | +10.40% | 76,352.23 |
+| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -7.30% | +8.76% | 37,293.95 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-nifty-50-index-fund-direct-growth) | | | | |
@@ -479,7 +479,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC NIFTY 50 Index Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.25% since its inception.
+The HDFC NIFTY 50 Index Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.29% since its inception.
 
 ###
 
@@ -487,13 +487,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC NIFTY 50 Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC NIFTY 50 Index Fund Direct Growth is 0.22% as of 31 Oct 2026...
+The Expense Ratio of HDFC NIFTY 50 Index Fund Direct Growth is 0.22% as of 01 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC NIFTY 50 Index Fund Direct Growth is ₹22,245.78Cr as of 31 Oct 2026.
+of HDFC NIFTY 50 Index Fund Direct Growth is ₹22,245.78Cr as of 01 Nov 2026.
 
 ###
 

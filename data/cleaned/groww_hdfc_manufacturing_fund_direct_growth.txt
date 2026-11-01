@@ -8,7 +8,6 @@ NAV by date, 1M range
 
 | Date | NAV |
 | --- | --- |
-| 29 Sep 2026 | ₹11.91 |
 | 30 Sep 2026 | ₹11.74 |
 | 04 Oct 2026 | ₹11.78 |
 | 05 Oct 2026 | ₹11.95 |
@@ -60,9 +59,9 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹292 | | -2.67% |
-| 6 months | ₹600 | ₹587 | | -2.17% |
-| 1 year | ₹1,200 | ₹1,203 | | +0.25% |
+| 3 months | ₹300 | ₹290 | | -3.33% |
+| 6 months | ₹600 | ₹582 | | -3.00% |
+| 1 year | ₹1,200 | ₹1,192 | | -0.67% |
 
 ## Holdings (93)
 
@@ -192,7 +191,7 @@ The total return of a mutual fund over a given period.
 | --- | --- | --- | --- | --- |
 | Fund returns | -5.0% | -0.7% | -0.9% | +13.3% |
 | Category average (Equity Thematic) | -4.9% | +0.6% | +2.4% | +54.4% |
-| Rank (Equity Thematic) | 9 | 10 | 11 | -- |
+| Rank (Equity Thematic) | 7 | 9 | 11 | -- |
 
 ## Understand terms
 
@@ -439,7 +438,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 5.68% since its inception.
+The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 5.21% since its inception.
 
 ###
 
@@ -447,13 +446,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Manufacturing Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.74% as of 31 Oct 2026...
+The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.74% as of 01 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Manufacturing Fund Direct Growth is ₹10,280.27Cr as of 31 Oct 2026.
+of HDFC Manufacturing Fund Direct Growth is ₹10,280.27Cr as of 01 Nov 2026.
 
 ###
 

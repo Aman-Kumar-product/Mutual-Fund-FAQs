@@ -1,4 +1,4 @@
-+1012345678950123456789.7012345678920123456789%
++1012345678950123456789.7012345678990123456789%
 
 3Y annualised
 
@@ -8,46 +8,46 @@ NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 30 Oct 2023 | ₹1,409.17 |
-| 19 Nov 2023 | ₹1,473.94 |
-| 06 Dec 2023 | ₹1,572.94 |
-| 26 Dec 2023 | ₹1,624.61 |
-| 11 Jan 2024 | ₹1,656.42 |
-| 01 Feb 2024 | ₹1,679.14 |
-| 19 Feb 2024 | ₹1,732.94 |
-| 10 Mar 2024 | ₹1,751.15 |
-| 27 Mar 2024 | ₹1,740.43 |
-| 17 Apr 2024 | ₹1,736.38 |
-| 06 May 2024 | ₹1,774.72 |
-| 26 May 2024 | ₹1,861.92 |
-| 11 Jun 2024 | ₹1,906.43 |
-| 01 Jul 2024 | ₹1,963.92 |
-| 18 Jul 2024 | ₹2,001.12 |
-| 06 Aug 2024 | ₹1,979.19 |
-| 25 Aug 2024 | ₹2,034.06 |
-| 11 Sep 2024 | ₹2,091.32 |
-| 29 Sep 2024 | ₹2,121.39 |
-| 17 Oct 2024 | ₹2,079.04 |
+| 31 Oct 2023 | ₹1,403.27 |
+| 20 Nov 2023 | ₹1,478.85 |
+| 07 Dec 2023 | ₹1,584.15 |
+| 27 Dec 2023 | ₹1,635.65 |
+| 14 Jan 2024 | ₹1,670.67 |
+| 04 Feb 2024 | ₹1,675.73 |
+| 20 Feb 2024 | ₹1,722.00 |
+| 11 Mar 2024 | ₹1,740.28 |
+| 30 Mar 2024 | ₹1,740.46 |
+| 18 Apr 2024 | ₹1,747.47 |
+| 07 May 2024 | ₹1,779.74 |
+| 27 May 2024 | ₹1,856.93 |
+| 12 Jun 2024 | ₹1,910.20 |
+| 02 Jul 2024 | ₹1,978.96 |
+| 21 Jul 2024 | ₹2,002.13 |
+| 07 Aug 2024 | ₹1,974.68 |
+| 26 Aug 2024 | ₹2,040.49 |
+| 12 Sep 2024 | ₹2,088.33 |
+| 30 Sep 2024 | ₹2,123.99 |
+| 20 Oct 2024 | ₹2,072.91 |
 | 06 Nov 2024 | ₹2,059.25 |
-| 26 Nov 2024 | ₹2,054.98 |
+| 27 Nov 2024 | ₹2,030.78 |
 | 15 Dec 2024 | ₹2,086.55 |
-| 01 Jan 2025 | ₹2,060.71 |
+| 02 Jan 2025 | ₹2,046.53 |
 | 20 Jan 2025 | ₹1,956.59 |
-| 05 Feb 2025 | ₹1,998.87 |
+| 06 Feb 2025 | ₹2,002.23 |
 | 24 Feb 2025 | ₹1,932.86 |
-| 16 Mar 2025 | ₹1,923.86 |
+| 17 Mar 2025 | ₹1,951.20 |
 | 02 Apr 2025 | ₹2,007.05 |
-| 23 Apr 2025 | ₹2,095.69 |
+| 24 Apr 2025 | ₹2,075.43 |
 | 13 May 2025 | ₹2,113.49 |
-| 29 May 2025 | ₹2,125.73 |
+| 01 Jun 2025 | ₹2,124.02 |
 | 17 Jun 2025 | ₹2,134.72 |
-| 03 Jul 2025 | ₹2,177.90 |
+| 06 Jul 2025 | ₹2,177.81 |
 | 22 Jul 2025 | ₹2,179.83 |
-| 07 Aug 2025 | ₹2,126.96 |
+| 10 Aug 2025 | ₹2,143.61 |
 | 28 Aug 2025 | ₹2,155.55 |
-| 15 Sep 2025 | ₹2,229.83 |
+| 16 Sep 2025 | ₹2,235.77 |
 | 05 Oct 2025 | ₹2,228.74 |
-| 23 Oct 2025 | ₹2,263.41 |
+| 26 Oct 2025 | ₹2,278.43 |
 | 12 Nov 2025 | ₹2,264.62 |
 | 01 Dec 2025 | ₹2,273.45 |
 | 17 Dec 2025 | ₹2,245.05 |
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,187 | | -1.08% |
-| 3 years | ₹3,600 | ₹3,907 | | +8.53% |
-| 5 years | ₹6,000 | ₹8,283 | | +38.05% |
-| 10 years | ₹12,000 | ₹28,000 | | +133.33% |
+| 1 year | ₹1,200 | ₹1,190 | | -0.83% |
+| 3 years | ₹3,600 | ₹3,918 | | +8.83% |
+| 5 years | ₹6,000 | ₹8,307 | | +38.45% |
+| 10 years | ₹12,000 | ₹28,074 | | +133.95% |
 
 ## Holdings (86)
 
@@ -223,9 +223,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.7% | +15.4% | +15.3% | +15.5% |
-| Category average (Equity Flexi Cap) | +11.8% | +9.9% | +13.0% | +13.9% |
-| Rank (Equity Flexi Cap) | 10 | 3 | 3 | -- |
+| Fund returns | +15.8% | +15.5% | +15.3% | +15.5% |
+| Category average (Equity Flexi Cap) | +11.6% | +9.8% | +12.9% | +13.9% |
+| Rank (Equity Flexi Cap) | 10 | 3 | 2 | -- |
 
 ## Understand terms
 
@@ -269,11 +269,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +3.07% | +18.63% | 3,098.01 |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +6.52% | +18.52% | 1,588.28 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -4.80% | +15.72% | 1,08,546.98 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | -0.90% | +15.29% | 5,748.74 |
-| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -9.42% | +10.44% | 18,188.24 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +6.93% | +18.29% | 1,588.28 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +2.37% | +18.11% | 3,098.01 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -3.47% | +15.79% | 1,08,546.98 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | -1.06% | +14.85% | 5,748.74 |
+| | [Franklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -8.33% | +10.47% | 18,188.24 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
@@ -455,7 +455,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.51% since its inception.
+The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.53% since its inception.
 
 ###
 
@@ -463,13 +463,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.57% as of 31 Oct 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.57% as of 01 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Flexi Cap Direct Plan Growth is ₹1,08,546.98Cr as of 31 Oct 2026.
+of HDFC Flexi Cap Direct Plan Growth is ₹1,08,546.98Cr as of 01 Nov 2026.
 
 ###
 

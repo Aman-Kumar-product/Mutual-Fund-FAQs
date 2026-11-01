@@ -1,4 +1,4 @@
-+90123456789.4012345678960123456789%
++80123456789.9012345678930123456789%
 
 3Y annualised
 
@@ -8,46 +8,46 @@ NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 30 Oct 2023 | ₹114.99 |
-| 19 Nov 2023 | ₹121.79 |
-| 06 Dec 2023 | ₹126.22 |
-| 26 Dec 2023 | ₹128.43 |
-| 11 Jan 2024 | ₹132.88 |
-| 01 Feb 2024 | ₹137.19 |
-| 19 Feb 2024 | ₹136.78 |
-| 10 Mar 2024 | ₹132.85 |
-| 27 Mar 2024 | ₹132.27 |
-| 17 Apr 2024 | ₹137.76 |
-| 06 May 2024 | ₹137.47 |
-| 26 May 2024 | ₹140.64 |
-| 11 Jun 2024 | ₹146.34 |
-| 01 Jul 2024 | ₹151.50 |
-| 18 Jul 2024 | ₹150.82 |
-| 06 Aug 2024 | ₹152.82 |
-| 25 Aug 2024 | ₹159.11 |
-| 11 Sep 2024 | ₹161.67 |
-| 29 Sep 2024 | ₹160.25 |
-| 17 Oct 2024 | ₹159.11 |
+| 31 Oct 2023 | ₹114.58 |
+| 20 Nov 2023 | ₹122.12 |
+| 07 Dec 2023 | ₹125.28 |
+| 27 Dec 2023 | ₹128.70 |
+| 14 Jan 2024 | ₹132.97 |
+| 04 Feb 2024 | ₹137.08 |
+| 20 Feb 2024 | ₹136.11 |
+| 11 Mar 2024 | ₹130.56 |
+| 30 Mar 2024 | ₹132.27 |
+| 18 Apr 2024 | ₹137.63 |
+| 07 May 2024 | ₹137.32 |
+| 27 May 2024 | ₹139.73 |
+| 12 Jun 2024 | ₹147.56 |
+| 02 Jul 2024 | ₹152.53 |
+| 21 Jul 2024 | ₹152.14 |
+| 07 Aug 2024 | ₹152.35 |
+| 26 Aug 2024 | ₹159.15 |
+| 12 Sep 2024 | ₹162.53 |
+| 30 Sep 2024 | ₹161.10 |
+| 20 Oct 2024 | ₹156.93 |
 | 06 Nov 2024 | ₹161.09 |
-| 26 Nov 2024 | ₹156.69 |
+| 27 Nov 2024 | ₹157.18 |
 | 15 Dec 2024 | ₹163.59 |
-| 01 Jan 2025 | ₹160.06 |
+| 02 Jan 2025 | ₹160.19 |
 | 20 Jan 2025 | ₹148.22 |
-| 05 Feb 2025 | ₹146.43 |
+| 06 Feb 2025 | ₹145.43 |
 | 24 Feb 2025 | ₹133.83 |
-| 16 Mar 2025 | ₹128.32 |
+| 17 Mar 2025 | ₹131.03 |
 | 02 Apr 2025 | ₹138.61 |
-| 23 Apr 2025 | ₹143.54 |
+| 24 Apr 2025 | ₹140.65 |
 | 13 May 2025 | ₹147.01 |
-| 29 May 2025 | ₹153.30 |
+| 01 Jun 2025 | ₹153.69 |
 | 17 Jun 2025 | ₹155.42 |
-| 03 Jul 2025 | ₹161.76 |
+| 06 Jul 2025 | ₹161.16 |
 | 22 Jul 2025 | ₹163.03 |
-| 07 Aug 2025 | ₹157.41 |
+| 10 Aug 2025 | ₹157.74 |
 | 28 Aug 2025 | ₹158.50 |
-| 15 Sep 2025 | ₹164.23 |
+| 16 Sep 2025 | ₹164.94 |
 | 05 Oct 2025 | ₹161.58 |
-| 23 Oct 2025 | ₹162.26 |
+| 26 Oct 2025 | ₹164.14 |
 | 12 Nov 2025 | ₹162.57 |
 | 01 Dec 2025 | ₹160.56 |
 | 17 Dec 2025 | ₹156.15 |
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,175 | | -2.08% |
-| 3 years | ₹3,600 | ₹3,677 | | +2.14% |
-| 5 years | ₹6,000 | ₹7,777 | | +29.62% |
-| 10 years | ₹12,000 | ₹28,586 | | +138.22% |
+| 1 year | ₹1,200 | ₹1,157 | | -3.58% |
+| 3 years | ₹3,600 | ₹3,613 | | +0.36% |
+| 5 years | ₹6,000 | ₹7,638 | | +27.30% |
+| 10 years | ₹12,000 | ₹28,059 | | +133.82% |
 
 ## Holdings (87)
 
@@ -224,8 +224,8 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +9.5% | +13.5% | +16.6% | +17.7% |
-| Category average (Equity Small Cap) | +14.6% | +14.9% | +16.8% | +19.7% |
+| Fund returns | +8.9% | +13.1% | +16.4% | +17.5% |
+| Category average (Equity Small Cap) | +13.9% | +14.5% | +16.6% | +19.6% |
 | Rank (Equity Small Cap) | 33 | 16 | 5 | -- |
 
 ## Understand terms
@@ -282,11 +282,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +2.47% | +22.53% | 35,855.60 |
-| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +12.66% | +22.52% | 3,666.32 |
-| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +6.93% | +20.65% | 16,130.64 |
-| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +5.13% | +14.82% | 4,106.99 |
-| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +1.35% | +13.68% | 80,905.55 |
+| | [ITI Small Cap Fund Direct Growth](/mutual-funds/iti-small-cap-fund-direct-growth) | +11.57% | +21.97% | 3,666.32 |
+| | [Bandhan Small Cap Fund Direct Growth](/mutual-funds/bandhan-small-cap-fund-direct-growth) | +1.22% | +21.58% | 35,855.60 |
+| | [Invesco India Small Cap Fund Direct Growth](/mutual-funds/invesco-india-small-cap-fund-direct-growth) | +7.22% | +20.26% | 16,130.64 |
+| | [Sundaram Small Cap Fund Direct Growth](/mutual-funds/sundaram-smile-fund-direct-growth) | +3.17% | +14.05% | 4,106.99 |
+| | [Nippon India Small Cap Fund Direct Growth](/mutual-funds/nippon-india-small-cap-fund-direct-growth) | +0.28% | +12.95% | 80,905.55 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-small-cap-fund-direct-growth) | | | | |
@@ -482,7 +482,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.69% since its inception.
+The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.53% since its inception.
 
 ###
 
@@ -490,13 +490,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.65% as of 31 Oct 2026...
+The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.65% as of 01 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 31 Oct 2026.
+of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 01 Nov 2026.
 
 ###
 

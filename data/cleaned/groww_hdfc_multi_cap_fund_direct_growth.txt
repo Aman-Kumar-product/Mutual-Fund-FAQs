@@ -1,77 +1,77 @@
-+1012345678900123456789.5012345678970123456789%
++1012345678910123456789.1012345678920123456789%
 
 3Y annualised
 
-+1.42% 1D
++0.95% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 02 Nov 2023 | ₹13.95 |
-| 21 Nov 2023 | ₹14.62 |
-| 11 Dec 2023 | ₹15.42 |
-| 28 Dec 2023 | ₹15.95 |
-| 16 Jan 2024 | ₹16.06 |
-| 05 Feb 2024 | ₹16.67 |
-| 22 Feb 2024 | ₹16.89 |
-| 12 Mar 2024 | ₹15.94 |
-| 01 Apr 2024 | ₹16.93 |
-| 21 Apr 2024 | ₹17.05 |
-| 09 May 2024 | ₹17.07 |
-| 28 May 2024 | ₹17.83 |
-| 17 Jun 2024 | ₹19.11 |
-| 03 Jul 2024 | ₹19.60 |
-| 23 Jul 2024 | ₹19.68 |
-| 08 Aug 2024 | ₹19.60 |
-| 28 Aug 2024 | ₹20.26 |
-| 15 Sep 2024 | ₹20.62 |
-| 03 Oct 2024 | ₹20.16 |
-| 21 Oct 2024 | ₹19.52 |
-| 10 Nov 2024 | ₹19.36 |
-| 28 Nov 2024 | ₹19.41 |
-| 17 Dec 2024 | ₹19.91 |
-| 05 Jan 2025 | ₹19.37 |
-| 22 Jan 2025 | ₹18.47 |
-| 09 Feb 2025 | ₹18.12 |
-| 27 Feb 2025 | ₹16.68 |
-| 18 Mar 2025 | ₹17.53 |
-| 06 Apr 2025 | ₹16.79 |
-| 27 Apr 2025 | ₹18.50 |
-| 15 May 2025 | ₹19.31 |
-| 02 Jun 2025 | ₹19.29 |
-| 19 Jun 2025 | ₹19.58 |
-| 07 Jul 2025 | ₹20.19 |
-| 24 Jul 2025 | ₹19.77 |
-| 11 Aug 2025 | ₹19.27 |
-| 01 Sep 2025 | ₹19.58 |
-| 17 Sep 2025 | ₹20.23 |
-| 07 Oct 2025 | ₹19.82 |
-| 27 Oct 2025 | ₹20.38 |
-| 16 Nov 2025 | ₹20.41 |
-| 02 Dec 2025 | ₹20.17 |
-| 21 Dec 2025 | ₹20.21 |
-| 07 Jan 2026 | ₹19.96 |
-| 28 Jan 2026 | ₹19.22 |
-| 15 Feb 2026 | ₹19.80 |
-| 05 Mar 2026 | ₹18.87 |
-| 23 Mar 2026 | ₹17.82 |
-| 14 Apr 2026 | ₹19.15 |
-| 03 May 2026 | ₹19.25 |
-| 20 May 2026 | ₹19.10 |
-| 08 Jun 2026 | ₹18.84 |
-| 28 Jun 2026 | ₹19.58 |
-| 14 Jul 2026 | ₹19.86 |
-| 02 Aug 2026 | ₹20.28 |
-| 18 Aug 2026 | ₹20.02 |
-| 06 Sep 2026 | ₹19.84 |
-| 23 Sep 2026 | ₹19.34 |
-| 13 Oct 2026 | ₹18.85 |
-| 01 Nov 2026 | ₹18.76 |
+| 05 Nov 2023 | ₹14.09 |
+| 23 Nov 2023 | ₹14.62 |
+| 12 Dec 2023 | ₹15.51 |
+| 01 Jan 2024 | ₹15.95 |
+| 17 Jan 2024 | ₹16.02 |
+| 07 Feb 2024 | ₹16.66 |
+| 25 Feb 2024 | ₹16.87 |
+| 14 Mar 2024 | ₹16.14 |
+| 02 Apr 2024 | ₹17.02 |
+| 23 Apr 2024 | ₹17.26 |
+| 12 May 2024 | ₹17.09 |
+| 30 May 2024 | ₹17.74 |
+| 18 Jun 2024 | ₹19.03 |
+| 07 Jul 2024 | ₹19.66 |
+| 24 Jul 2024 | ₹19.66 |
+| 12 Aug 2024 | ₹19.45 |
+| 29 Aug 2024 | ₹20.40 |
+| 17 Sep 2024 | ₹20.55 |
+| 06 Oct 2024 | ₹19.81 |
+| 23 Oct 2024 | ₹19.57 |
+| 11 Nov 2024 | ₹19.17 |
+| 02 Dec 2024 | ₹19.72 |
+| 18 Dec 2024 | ₹19.81 |
+| 07 Jan 2025 | ₹19.34 |
+| 23 Jan 2025 | ₹18.22 |
+| 11 Feb 2025 | ₹17.59 |
+| 02 Mar 2025 | ₹16.66 |
+| 20 Mar 2025 | ₹17.92 |
+| 07 Apr 2025 | ₹17.10 |
+| 29 Apr 2025 | ₹18.40 |
+| 18 May 2025 | ₹19.34 |
+| 04 Jun 2025 | ₹19.46 |
+| 22 Jun 2025 | ₹19.58 |
+| 09 Jul 2025 | ₹20.15 |
+| 27 Jul 2025 | ₹19.61 |
+| 13 Aug 2025 | ₹19.40 |
+| 02 Sep 2025 | ₹19.72 |
+| 21 Sep 2025 | ₹20.09 |
+| 08 Oct 2025 | ₹19.92 |
+| 29 Oct 2025 | ₹20.46 |
+| 17 Nov 2025 | ₹20.32 |
+| 04 Dec 2025 | ₹20.23 |
+| 22 Dec 2025 | ₹20.24 |
+| 11 Jan 2026 | ₹19.76 |
+| 29 Jan 2026 | ₹19.32 |
+| 17 Feb 2026 | ₹19.92 |
+| 08 Mar 2026 | ₹18.52 |
+| 26 Mar 2026 | ₹17.84 |
+| 15 Apr 2026 | ₹19.21 |
+| 05 May 2026 | ₹19.50 |
+| 21 May 2026 | ₹19.16 |
+| 10 Jun 2026 | ₹18.63 |
+| 29 Jun 2026 | ₹19.61 |
+| 16 Jul 2026 | ₹19.86 |
+| 03 Aug 2026 | ₹20.17 |
+| 20 Aug 2026 | ₹20.13 |
+| 07 Sep 2026 | ₹19.82 |
+| 27 Sep 2026 | ₹19.08 |
+| 14 Oct 2026 | ₹18.96 |
+| 03 Nov 2026 | ₹19.15 |
 
-NAV: 02 Nov '26
+NAV: 04 Nov '26
 
-₹18.76
+₹19.15
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹294 | | -2.00% |
-| 6 months | ₹600 | ₹581 | | -3.17% |
-| 1 year | ₹1,200 | ₹1,166 | | -2.83% |
-| 3 years | ₹3,600 | ₹3,608 | | +0.22% |
+| 3 months | ₹300 | ₹300 | | +0.00% |
+| 6 months | ₹600 | ₹593 | | -1.17% |
+| 1 year | ₹1,200 | ₹1,190 | | -0.83% |
+| 3 years | ₹3,600 | ₹3,683 | | +2.31% |
 
 ## Holdings (123)
 
@@ -260,9 +260,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | -2.0% | -7.7% | +10.6% | +13.7% |
-| Category average (Equity Multi Cap) | +1.4% | -1.8% | +14.1% | +17.9% |
-| Rank (Equity Multi Cap) | -- | 35 | 21 | -- |
+| Fund returns | -0.5% | -6.0% | +11.1% | +14.2% |
+| Category average (Equity Multi Cap) | +2.7% | -0.1% | +14.3% | +18.1% |
+| Rank (Equity Multi Cap) | -- | 36 | 21 | -- |
 
 ## Understand terms
 
@@ -306,11 +306,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Axis Multicap Fund Direct Growth](/mutual-funds/axis-multicap-fund-direct-growth) | +5.42% | +18.64% | 11,972.26 |
-| | [WhiteOak Capital Multi Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-multi-cap-fund-direct-growth) | +0.85% | +17.54% | 4,609.75 |
-| | [HSBC Multi Cap Fund Direct Growth](/mutual-funds/hsbc-multi-cap-fund-direct-growth) | +1.32% | +16.50% | 6,380.17 |
-| | [Kotak Multi Cap Fund Direct Growth](/mutual-funds/kotak-multi-cap-fund-direct-growth) | -2.84% | +15.79% | 30,335.28 |
-| | [Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth) | -6.24% | +12.07% | 53,766.63 |
+| | [Axis Multicap Fund Direct Growth](/mutual-funds/axis-multicap-fund-direct-growth) | +7.51% | +19.19% | 11,972.26 |
+| | [WhiteOak Capital Multi Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-multi-cap-fund-direct-growth) | +2.50% | +18.13% | 4,609.75 |
+| | [HSBC Multi Cap Fund Direct Growth](/mutual-funds/hsbc-multi-cap-fund-direct-growth) | +3.18% | +17.09% | 6,380.17 |
+| | [Kotak Multi Cap Fund Direct Growth](/mutual-funds/kotak-multi-cap-fund-direct-growth) | -0.32% | +16.30% | 30,335.28 |
+| | [Nippon India Multi Cap Fund Direct Growth](/mutual-funds/nippon-india-multi-cap-fund-direct-growth) | -4.43% | +12.66% | 53,766.63 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-multi-cap-fund-direct-growth) | | | | |
@@ -433,7 +433,7 @@ Also manages these schemes
 
 HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of
 
-HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 02 Nov 2026 is ₹18.76.
+HDFC Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 04 Nov 2026 is ₹19.15.
 The HDFC Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 
 ...Read more
@@ -498,7 +498,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 13.71% since its inception.
+The HDFC Multi Cap Fund Direct Growth has been there from 10 Dec 2021 and the average annual returns provided by this fund is 14.17% since its inception.
 
 ###
 
@@ -506,13 +506,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Multi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.71% as of 03 Nov 2026...
+The Expense Ratio of HDFC Multi Cap Fund Direct Growth is 0.71% as of 05 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Multi Cap Fund Direct Growth is ₹19,490.01Cr as of 03 Nov 2026.
+of HDFC Multi Cap Fund Direct Growth is ₹19,490.01Cr as of 05 Nov 2026.
 
 ###
 
@@ -529,7 +529,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Multi Cap Fund Direct Growth is ₹18.76 as of 02 Nov 2026.
+The NAV of HDFC Multi Cap Fund Direct Growth is ₹19.15 as of 04 Nov 2026.
 
 ###
 

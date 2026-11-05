@@ -1,77 +1,77 @@
-+2012345678990123456789.4012345678940123456789%
++3012345678900123456789.8012345678990123456789%
 
 3Y annualised
 
--2.25% 1D
++3.26% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 02 Nov 2023 | ₹19.14 |
-| 22 Nov 2023 | ₹19.20 |
-| 11 Dec 2023 | ₹19.18 |
-| 30 Dec 2023 | ₹19.74 |
-| 15 Jan 2024 | ₹19.58 |
-| 05 Feb 2024 | ₹19.56 |
-| 22 Feb 2024 | ₹19.34 |
-| 13 Mar 2024 | ₹20.53 |
-| 02 Apr 2024 | ₹21.68 |
-| 24 Apr 2024 | ₹22.50 |
-| 13 May 2024 | ₹22.60 |
-| 03 Jun 2024 | ₹22.50 |
-| 20 Jun 2024 | ₹22.75 |
-| 08 Jul 2024 | ₹22.68 |
-| 25 Jul 2024 | ₹22.05 |
-| 13 Aug 2024 | ₹22.03 |
-| 30 Aug 2024 | ₹22.41 |
-| 18 Sep 2024 | ₹22.96 |
-| 07 Oct 2024 | ₹23.43 |
-| 24 Oct 2024 | ₹24.17 |
-| 12 Nov 2024 | ₹23.34 |
-| 02 Dec 2024 | ₹23.66 |
-| 18 Dec 2024 | ₹23.55 |
-| 07 Jan 2025 | ₹24.03 |
-| 23 Jan 2025 | ₹25.00 |
-| 11 Feb 2025 | ₹26.39 |
-| 03 Mar 2025 | ₹26.72 |
-| 23 Mar 2025 | ₹27.07 |
-| 10 Apr 2025 | ₹28.72 |
-| 04 May 2025 | ₹29.54 |
-| 21 May 2025 | ₹29.46 |
-| 08 Jun 2025 | ₹29.70 |
-| 24 Jun 2025 | ₹29.92 |
-| 13 Jul 2025 | ₹30.26 |
-| 29 Jul 2025 | ₹30.45 |
-| 18 Aug 2025 | ₹30.38 |
-| 03 Sep 2025 | ₹32.52 |
-| 23 Sep 2025 | ₹34.96 |
-| 12 Oct 2025 | ₹37.94 |
-| 02 Nov 2025 | ₹36.93 |
-| 19 Nov 2025 | ₹37.50 |
-| 07 Dec 2025 | ₹39.42 |
-| 23 Dec 2025 | ₹41.79 |
-| 12 Jan 2026 | ₹43.00 |
-| 30 Jan 2026 | ₹48.84 |
-| 17 Feb 2026 | ₹45.98 |
-| 08 Mar 2026 | ₹48.56 |
-| 26 Mar 2026 | ₹43.51 |
-| 15 Apr 2026 | ₹46.38 |
-| 05 May 2026 | ₹45.88 |
-| 21 May 2026 | ₹48.21 |
-| 09 Jun 2026 | ₹44.77 |
-| 28 Jun 2026 | ₹43.13 |
-| 15 Jul 2026 | ₹43.04 |
-| 02 Aug 2026 | ₹43.34 |
-| 19 Aug 2026 | ₹47.62 |
-| 06 Sep 2026 | ₹46.38 |
-| 24 Sep 2026 | ₹45.97 |
-| 13 Oct 2026 | ₹44.22 |
-| 01 Nov 2026 | ₹41.54 |
+| 05 Nov 2023 | ₹19.11 |
+| 23 Nov 2023 | ₹19.20 |
+| 12 Dec 2023 | ₹19.15 |
+| 31 Dec 2023 | ₹19.83 |
+| 16 Jan 2024 | ₹19.45 |
+| 06 Feb 2024 | ₹19.61 |
+| 25 Feb 2024 | ₹19.41 |
+| 14 Mar 2024 | ₹20.55 |
+| 03 Apr 2024 | ₹21.83 |
+| 25 Apr 2024 | ₹22.67 |
+| 14 May 2024 | ₹22.82 |
+| 04 Jun 2024 | ₹22.46 |
+| 23 Jun 2024 | ₹22.40 |
+| 09 Jul 2024 | ₹22.76 |
+| 28 Jul 2024 | ₹21.74 |
+| 15 Aug 2024 | ₹21.97 |
+| 01 Sep 2024 | ₹22.29 |
+| 19 Sep 2024 | ₹23.07 |
+| 08 Oct 2024 | ₹23.25 |
+| 27 Oct 2024 | ₹24.28 |
+| 17 Nov 2024 | ₹23.21 |
+| 03 Dec 2024 | ₹23.61 |
+| 22 Dec 2024 | ₹23.62 |
+| 08 Jan 2025 | ₹24.10 |
+| 27 Jan 2025 | ₹24.93 |
+| 12 Feb 2025 | ₹26.49 |
+| 05 Mar 2025 | ₹26.57 |
+| 24 Mar 2025 | ₹27.06 |
+| 15 Apr 2025 | ₹29.18 |
+| 05 May 2025 | ₹30.12 |
+| 25 May 2025 | ₹29.42 |
+| 09 Jun 2025 | ₹29.75 |
+| 26 Jun 2025 | ₹29.46 |
+| 14 Jul 2025 | ₹30.15 |
+| 31 Jul 2025 | ₹30.21 |
+| 19 Aug 2025 | ₹30.30 |
+| 08 Sep 2025 | ₹33.69 |
+| 24 Sep 2025 | ₹34.82 |
+| 14 Oct 2025 | ₹38.89 |
+| 03 Nov 2025 | ₹36.81 |
+| 23 Nov 2025 | ₹37.73 |
+| 09 Dec 2025 | ₹39.21 |
+| 28 Dec 2025 | ₹41.81 |
+| 15 Jan 2026 | ₹43.51 |
+| 02 Feb 2026 | ₹46.17 |
+| 22 Feb 2026 | ₹48.01 |
+| 10 Mar 2026 | ₹49.05 |
+| 30 Mar 2026 | ₹44.83 |
+| 19 Apr 2026 | ₹46.18 |
+| 07 May 2026 | ₹45.93 |
+| 25 May 2026 | ₹47.85 |
+| 11 Jun 2026 | ₹45.04 |
+| 30 Jun 2026 | ₹42.67 |
+| 19 Jul 2026 | ₹43.18 |
+| 04 Aug 2026 | ₹44.16 |
+| 23 Aug 2026 | ₹49.16 |
+| 08 Sep 2026 | ₹46.48 |
+| 28 Sep 2026 | ₹44.54 |
+| 15 Oct 2026 | ₹44.37 |
+| 03 Nov 2026 | ₹42.97 |
 
-NAV: 02 Nov '26
+NAV: 04 Nov '26
 
-₹41.54
+₹42.97
 
 Min. for SIP
 
@@ -127,9 +127,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +29.4% | +22.2% | +15.1% | +10.3% |
-| Category average (Commodities Gold) | +32.1% | +23.6% | +16.3% | +12.3% |
-| Rank (Commodities Gold) | 5 | 2 | 2 | -- |
+| Fund returns | +30.9% | +23.3% | +15.5% | +10.5% |
+| Category average (Commodities Gold) | +31.2% | +23.1% | +16.0% | +12.2% |
+| Rank (Commodities Gold) | 6 | 1 | 1 | -- |
 
 ## Understand terms
 
@@ -331,7 +331,7 @@ Also manages these schemes
 
 SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224
 
-SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224 Cr and the Latest NAV as of 02 Nov 2026 is ₹41.54.
+SBI Gold Direct Plan Growth is a Commodities Mutual Fund Scheme launched by SBI Mutual Fund. This scheme was made available to investors on 28 Jun 1987. Viral Chhadva is the Current Fund Manager of SBI Gold Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹12,53,224 Cr and the Latest NAV as of 04 Nov 2026 is ₹42.97.
 The SBI Gold Direct Plan Growth is rated Very High risk. Exit load of 1% if redeemed within 15 days.
 
 ...Read more
@@ -390,7 +390,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The SBI Gold Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.26% since its inception.
+The SBI Gold Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.53% since its inception.
 
 ###
 
@@ -398,13 +398,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for SBI Gold Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of SBI Gold Direct Plan Growth is 0.21% as of 03 Nov 2026...
+The Expense Ratio of SBI Gold Direct Plan Growth is 0.21% as of 05 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of SBI Gold Direct Plan Growth is ₹17,422.54Cr as of 03 Nov 2026.
+of SBI Gold Direct Plan Growth is ₹17,422.54Cr as of 05 Nov 2026.
 
 ###
 
@@ -421,7 +421,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of SBI Gold Direct Plan Growth is ₹41.54 as of 02 Nov 2026.
+The NAV of SBI Gold Direct Plan Growth is ₹42.97 as of 04 Nov 2026.
 
 ###
 

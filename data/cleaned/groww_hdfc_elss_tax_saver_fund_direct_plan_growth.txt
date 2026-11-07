@@ -1,77 +1,77 @@
-+1012345678930123456789.5012345678910123456789%
++1012345678940123456789.3012345678900123456789%
 
 3Y annualised
 
-+0.68% 1D
++1.61% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 05 Nov 2023 | ₹1,019.08 |
-| 23 Nov 2023 | ₹1,057.19 |
-| 12 Dec 2023 | ₹1,134.57 |
-| 01 Jan 2024 | ₹1,161.88 |
-| 17 Jan 2024 | ₹1,169.88 |
-| 07 Feb 2024 | ₹1,206.94 |
-| 25 Feb 2024 | ₹1,240.22 |
-| 14 Mar 2024 | ₹1,226.13 |
-| 02 Apr 2024 | ₹1,259.74 |
-| 23 Apr 2024 | ₹1,272.22 |
-| 12 May 2024 | ₹1,273.00 |
-| 30 May 2024 | ₹1,318.84 |
-| 18 Jun 2024 | ₹1,386.46 |
-| 07 Jul 2024 | ₹1,425.23 |
-| 24 Jul 2024 | ₹1,429.64 |
-| 12 Aug 2024 | ₹1,421.37 |
-| 29 Aug 2024 | ₹1,481.76 |
-| 17 Sep 2024 | ₹1,498.80 |
-| 06 Oct 2024 | ₹1,462.25 |
-| 23 Oct 2024 | ₹1,448.97 |
-| 11 Nov 2024 | ₹1,431.52 |
-| 02 Dec 2024 | ₹1,459.00 |
-| 18 Dec 2024 | ₹1,443.67 |
-| 07 Jan 2025 | ₹1,419.23 |
-| 23 Jan 2025 | ₹1,367.73 |
-| 11 Feb 2025 | ₹1,375.39 |
-| 02 Mar 2025 | ₹1,321.83 |
-| 20 Mar 2025 | ₹1,400.03 |
-| 07 Apr 2025 | ₹1,363.52 |
-| 29 Apr 2025 | ₹1,470.63 |
-| 18 May 2025 | ₹1,504.38 |
-| 04 Jun 2025 | ₹1,490.16 |
-| 22 Jun 2025 | ₹1,511.37 |
-| 09 Jul 2025 | ₹1,532.04 |
-| 27 Jul 2025 | ₹1,507.38 |
-| 13 Aug 2025 | ₹1,510.57 |
-| 02 Sep 2025 | ₹1,528.56 |
-| 21 Sep 2025 | ₹1,558.93 |
-| 08 Oct 2025 | ₹1,550.68 |
-| 29 Oct 2025 | ₹1,586.40 |
-| 17 Nov 2025 | ₹1,578.97 |
-| 04 Dec 2025 | ₹1,587.06 |
-| 22 Dec 2025 | ₹1,576.02 |
-| 11 Jan 2026 | ₹1,565.80 |
-| 29 Jan 2026 | ₹1,543.16 |
-| 17 Feb 2026 | ₹1,578.74 |
-| 08 Mar 2026 | ₹1,457.99 |
-| 26 Mar 2026 | ₹1,389.73 |
-| 15 Apr 2026 | ₹1,479.11 |
-| 05 May 2026 | ₹1,471.46 |
-| 21 May 2026 | ₹1,438.24 |
-| 10 Jun 2026 | ₹1,420.60 |
-| 29 Jun 2026 | ₹1,466.13 |
-| 16 Jul 2026 | ₹1,497.06 |
-| 03 Aug 2026 | ₹1,524.30 |
-| 20 Aug 2026 | ₹1,512.29 |
-| 07 Sep 2026 | ₹1,478.37 |
-| 27 Sep 2026 | ₹1,426.93 |
-| 14 Oct 2026 | ₹1,436.89 |
-| 03 Nov 2026 | ₹1,480.72 |
+| 06 Nov 2023 | ₹1,024.02 |
+| 27 Nov 2023 | ₹1,063.12 |
+| 13 Dec 2023 | ₹1,145.65 |
+| 02 Jan 2024 | ₹1,164.03 |
+| 18 Jan 2024 | ₹1,181.63 |
+| 08 Feb 2024 | ₹1,207.20 |
+| 26 Feb 2024 | ₹1,243.90 |
+| 17 Mar 2024 | ₹1,228.54 |
+| 03 Apr 2024 | ₹1,261.05 |
+| 24 Apr 2024 | ₹1,284.42 |
+| 13 May 2024 | ₹1,277.49 |
+| 02 Jun 2024 | ₹1,352.80 |
+| 19 Jun 2024 | ₹1,391.65 |
+| 08 Jul 2024 | ₹1,431.86 |
+| 25 Jul 2024 | ₹1,451.92 |
+| 13 Aug 2024 | ₹1,419.71 |
+| 01 Sep 2024 | ₹1,483.10 |
+| 18 Sep 2024 | ₹1,499.90 |
+| 07 Oct 2024 | ₹1,473.67 |
+| 24 Oct 2024 | ₹1,442.63 |
+| 13 Nov 2024 | ₹1,411.00 |
+| 03 Dec 2024 | ₹1,460.81 |
+| 22 Dec 2024 | ₹1,425.72 |
+| 08 Jan 2025 | ₹1,412.77 |
+| 27 Jan 2025 | ₹1,363.94 |
+| 12 Feb 2025 | ₹1,377.37 |
+| 04 Mar 2025 | ₹1,336.19 |
+| 23 Mar 2025 | ₹1,419.41 |
+| 10 Apr 2025 | ₹1,379.08 |
+| 01 May 2025 | ₹1,464.83 |
+| 20 May 2025 | ₹1,495.40 |
+| 05 Jun 2025 | ₹1,505.42 |
+| 24 Jun 2025 | ₹1,527.33 |
+| 10 Jul 2025 | ₹1,525.41 |
+| 29 Jul 2025 | ₹1,515.91 |
+| 17 Aug 2025 | ₹1,534.60 |
+| 04 Sep 2025 | ₹1,526.05 |
+| 22 Sep 2025 | ₹1,560.00 |
+| 12 Oct 2025 | ₹1,560.42 |
+| 30 Oct 2025 | ₹1,577.15 |
+| 19 Nov 2025 | ₹1,589.51 |
+| 08 Dec 2025 | ₹1,567.26 |
+| 25 Dec 2025 | ₹1,569.44 |
+| 13 Jan 2026 | ₹1,562.49 |
+| 02 Feb 2026 | ₹1,561.86 |
+| 19 Feb 2026 | ₹1,563.22 |
+| 10 Mar 2026 | ₹1,455.71 |
+| 30 Mar 2026 | ₹1,358.85 |
+| 19 Apr 2026 | ₹1,489.53 |
+| 07 May 2026 | ₹1,464.28 |
+| 25 May 2026 | ₹1,450.22 |
+| 14 Jun 2026 | ₹1,459.51 |
+| 01 Jul 2026 | ₹1,486.47 |
+| 20 Jul 2026 | ₹1,490.53 |
+| 05 Aug 2026 | ₹1,524.68 |
+| 24 Aug 2026 | ₹1,516.49 |
+| 09 Sep 2026 | ₹1,467.43 |
+| 29 Sep 2026 | ₹1,416.90 |
+| 18 Oct 2026 | ₹1,427.85 |
+| 05 Nov 2026 | ₹1,536.53 |
 
-NAV: 04 Nov '26
+NAV: 06 Nov '26
 
-₹1,480.72
+₹1,536.53
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹6,000 | ₹5,986 | | -0.23% |
-| 3 years | ₹18,000 | ₹18,821 | | +4.56% |
-| 5 years | ₹30,000 | ₹39,700 | | +32.33% |
-| 10 years | ₹60,000 | ₹1,24,208 | | +107.01% |
+| 1 year | ₹6,000 | ₹6,110 | | +1.83% |
+| 3 years | ₹18,000 | ₹19,215 | | +6.75% |
+| 5 years | ₹30,000 | ₹40,529 | | +35.10% |
+| 10 years | ₹60,000 | ₹1,26,794 | | +111.32% |
 
 ## Holdings (64)
 
@@ -201,9 +201,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +13.5% | +13.4% | +13.4% | +13.8% |
-| Category average (Equity ELSS) | +11.3% | +9.6% | +13.1% | +16.9% |
-| Rank (Equity ELSS) | 11 | 4 | 17 | -- |
+| Fund returns | +14.3% | +13.9% | +13.6% | +14.0% |
+| Category average (Equity ELSS) | +12.5% | +10.5% | +13.7% | +17.1% |
+| Rank (Equity ELSS) | 11 | 4 | 16 | -- |
 
 ## Understand terms
 
@@ -361,7 +361,7 @@ Also manages these schemes
 
 HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Unde
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 04 Nov 2026 is ₹1,480.72.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 06 Nov 2026 is ₹1,536.53.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 
 ...Read more
@@ -426,7 +426,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.82% since its inception.
+The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.99% since its inception.
 
 ###
 
@@ -434,13 +434,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC ELSS Tax Saver Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 0.97% as of 05 Nov 2026...
+The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 0.97% as of 07 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,948.74Cr as of 05 Nov 2026.
+of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,948.74Cr as of 07 Nov 2026.
 
 ###
 
@@ -457,7 +457,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,480.72 as of 04 Nov 2026.
+The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,536.53 as of 06 Nov 2026.
 
 ###
 

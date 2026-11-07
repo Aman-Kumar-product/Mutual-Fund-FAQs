@@ -1,77 +1,77 @@
-+60123456789.8012345678970123456789%
++60123456789.8012345678980123456789%
 
 3Y annualised
 
-+0.03% 1D
++0.02% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 04 Nov 2023 | ₹46.07 |
-| 23 Nov 2023 | ₹46.24 |
-| 11 Dec 2023 | ₹46.39 |
-| 30 Dec 2023 | ₹46.57 |
-| 17 Jan 2024 | ₹46.74 |
-| 05 Feb 2024 | ₹46.91 |
-| 23 Feb 2024 | ₹47.08 |
-| 13 Mar 2024 | ₹47.26 |
-| 31 Mar 2024 | ₹47.45 |
-| 19 Apr 2024 | ₹47.65 |
-| 08 May 2024 | ₹47.81 |
-| 26 May 2024 | ₹47.98 |
-| 14 Jun 2024 | ₹48.16 |
-| 02 Jul 2024 | ₹48.33 |
-| 21 Jul 2024 | ₹48.50 |
-| 08 Aug 2024 | ₹48.67 |
-| 27 Aug 2024 | ₹48.84 |
-| 15 Sep 2024 | ₹49.02 |
-| 03 Oct 2024 | ₹49.20 |
-| 22 Oct 2024 | ₹49.37 |
-| 09 Nov 2024 | ₹49.54 |
-| 28 Nov 2024 | ₹49.72 |
-| 16 Dec 2024 | ₹49.88 |
-| 04 Jan 2025 | ₹50.07 |
-| 22 Jan 2025 | ₹50.23 |
-| 10 Feb 2025 | ₹50.43 |
-| 01 Mar 2025 | ₹50.60 |
-| 19 Mar 2025 | ₹50.77 |
-| 07 Apr 2025 | ₹51.05 |
-| 25 Apr 2025 | ₹51.21 |
-| 14 May 2025 | ₹51.37 |
-| 01 Jun 2025 | ₹51.54 |
-| 20 Jun 2025 | ₹51.72 |
-| 08 Jul 2025 | ₹51.88 |
-| 27 Jul 2025 | ₹52.02 |
-| 15 Aug 2025 | ₹52.17 |
-| 02 Sep 2025 | ₹52.31 |
-| 21 Sep 2025 | ₹52.47 |
-| 09 Oct 2025 | ₹52.62 |
-| 28 Oct 2025 | ₹52.77 |
-| 15 Nov 2025 | ₹52.93 |
-| 04 Dec 2025 | ₹53.09 |
-| 22 Dec 2025 | ₹53.23 |
-| 10 Jan 2026 | ₹53.40 |
-| 29 Jan 2026 | ₹53.55 |
-| 16 Feb 2026 | ₹53.74 |
-| 07 Mar 2026 | ₹53.89 |
-| 25 Mar 2026 | ₹54.03 |
-| 13 Apr 2026 | ₹54.35 |
-| 01 May 2026 | ₹54.48 |
-| 20 May 2026 | ₹54.63 |
-| 08 Jun 2026 | ₹54.84 |
-| 26 Jun 2026 | ₹55.03 |
-| 15 Jul 2026 | ₹55.22 |
-| 02 Aug 2026 | ₹55.40 |
-| 21 Aug 2026 | ₹55.57 |
-| 08 Sep 2026 | ₹55.77 |
-| 27 Sep 2026 | ₹55.91 |
-| 15 Oct 2026 | ₹56.07 |
-| 03 Nov 2026 | ₹56.24 |
+| 06 Nov 2023 | ₹46.09 |
+| 25 Nov 2023 | ₹46.25 |
+| 13 Dec 2023 | ₹46.41 |
+| 01 Jan 2024 | ₹46.60 |
+| 19 Jan 2024 | ₹46.76 |
+| 07 Feb 2024 | ₹46.93 |
+| 25 Feb 2024 | ₹47.10 |
+| 15 Mar 2024 | ₹47.28 |
+| 02 Apr 2024 | ₹47.49 |
+| 21 Apr 2024 | ₹47.67 |
+| 10 May 2024 | ₹47.83 |
+| 28 May 2024 | ₹48.00 |
+| 16 Jun 2024 | ₹48.17 |
+| 04 Jul 2024 | ₹48.35 |
+| 23 Jul 2024 | ₹48.52 |
+| 10 Aug 2024 | ₹48.69 |
+| 29 Aug 2024 | ₹48.86 |
+| 17 Sep 2024 | ₹49.03 |
+| 05 Oct 2024 | ₹49.22 |
+| 24 Oct 2024 | ₹49.39 |
+| 11 Nov 2024 | ₹49.56 |
+| 30 Nov 2024 | ₹49.73 |
+| 18 Dec 2024 | ₹49.90 |
+| 06 Jan 2025 | ₹50.09 |
+| 24 Jan 2025 | ₹50.25 |
+| 12 Feb 2025 | ₹50.45 |
+| 03 Mar 2025 | ₹50.62 |
+| 21 Mar 2025 | ₹50.79 |
+| 09 Apr 2025 | ₹51.07 |
+| 27 Apr 2025 | ₹51.23 |
+| 16 May 2025 | ₹51.39 |
+| 03 Jun 2025 | ₹51.56 |
+| 22 Jun 2025 | ₹51.73 |
+| 10 Jul 2025 | ₹51.89 |
+| 29 Jul 2025 | ₹52.04 |
+| 17 Aug 2025 | ₹52.19 |
+| 04 Sep 2025 | ₹52.33 |
+| 23 Sep 2025 | ₹52.48 |
+| 11 Oct 2025 | ₹52.64 |
+| 30 Oct 2025 | ₹52.79 |
+| 17 Nov 2025 | ₹52.95 |
+| 06 Dec 2025 | ₹53.11 |
+| 24 Dec 2025 | ₹53.25 |
+| 12 Jan 2026 | ₹53.41 |
+| 31 Jan 2026 | ₹53.56 |
+| 18 Feb 2026 | ₹53.75 |
+| 09 Mar 2026 | ₹53.91 |
+| 27 Mar 2026 | ₹54.05 |
+| 15 Apr 2026 | ₹54.37 |
+| 03 May 2026 | ₹54.50 |
+| 22 May 2026 | ₹54.65 |
+| 10 Jun 2026 | ₹54.86 |
+| 28 Jun 2026 | ₹55.05 |
+| 17 Jul 2026 | ₹55.24 |
+| 04 Aug 2026 | ₹55.42 |
+| 23 Aug 2026 | ₹55.59 |
+| 10 Sep 2026 | ₹55.78 |
+| 29 Sep 2026 | ₹55.93 |
+| 17 Oct 2026 | ₹56.09 |
+| 05 Nov 2026 | ₹56.27 |
 
-NAV: 04 Nov '26
+NAV: 06 Nov '26
 
-₹5,624.08
+₹5,627.03
 
 Min. for SIP
 
@@ -99,8 +99,8 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,235 | | +2.92% |
-| 3 years | ₹3,600 | ₹3,959 | | +9.97% |
+| 1 year | ₹1,200 | ₹1,236 | | +3.00% |
+| 3 years | ₹3,600 | ₹3,960 | | +10.00% |
 | 5 years | ₹6,000 | ₹7,073 | | +17.88% |
 | 10 years | ₹12,000 | ₹16,306 | | +35.88% |
 
@@ -126,10 +126,10 @@ Monthly investment
 | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA 91D CP 28OCT26 | Financial | Commercial Paper | 1.50% |
 | GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 1.50% |
 | YES BANK LIMITED CD 16NOV26 | Financial | Certificate of Deposit | 1.50% |
-| National Bank For Agriculture & Rural Development CP | Financial | Commercial Paper | 1.49% |
 | Reliance Industries Ltd. (MD 09/12/2026)\*\* | Energy & Utilities | Commercial Paper | 1.49% |
 | Bank of India (04/12/2026) \*\* | Financial | Certificate of Deposit | 1.49% |
 | NTPC Limited 2026 \*\* | Energy & Utilities | Commercial Paper | 1.49% |
+| National Bank For Agriculture & Rural Development CP 30/11/2026 | Financial | Commercial Paper | 1.49% |
 | BANK OF BARODA CD 11NOV26 | Financial | Certificate of Deposit | 1.35% |
 | ADITYA BIRLA CAPITAL LIMITED 90D CP 23NOV26 | Financial | Commercial Paper | 1.34% |
 | TITAN COMPANY LIMITED 90D CP 26NOV26 | Consumer Discretionary | Commercial Paper | 1.23% |
@@ -330,11 +330,11 @@ Returns are taxed as per your Income Tax slab.
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.52% | +6.96% | 11,740.88 |
-| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.54% | +6.95% | 62,316.99 |
-| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.56% | +6.95% | 53,470.17 |
-| | [Franklin India Liquid Fund Super Institutional Plan Direct Growth](/mutual-funds/franklin-india-liquid-fund-super-institutional-plan-direct-growth) | +6.54% | +6.94% | 4,810.57 |
-| | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.53% | +6.93% | 1,772.98 |
+| | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.56% | +6.96% | 62,316.99 |
+| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.58% | +6.96% | 53,784.03 |
+| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.54% | +6.96% | 17,830.71 |
+| | [Franklin India Liquid Fund Super Institutional Plan Direct Growth](/mutual-funds/franklin-india-liquid-fund-super-institutional-plan-direct-growth) | +6.56% | +6.95% | 4,810.57 |
+| | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.54% | +6.94% | 1,772.98 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-liquid-fund-direct-growth) | | | | |
@@ -473,7 +473,7 @@ Also manages these schemes
 
 HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 C
 
-HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 04 Nov 2026 is ₹5,624.08.
+HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 06 Nov 2026 is ₹5,627.03.
 The HDFC Liquid Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.
 
 ...Read more
@@ -540,13 +540,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Liquid Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 05 Nov 2026...
+The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 07 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Liquid Direct Plan Growth is ₹66,295.17Cr as of 05 Nov 2026.
+of HDFC Liquid Direct Plan Growth is ₹66,295.17Cr as of 07 Nov 2026.
 
 ###
 
@@ -563,7 +563,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Liquid Direct Plan Growth is ₹5,624.08 as of 04 Nov 2026.
+The NAV of HDFC Liquid Direct Plan Growth is ₹5,627.03 as of 06 Nov 2026.
 
 ###
 

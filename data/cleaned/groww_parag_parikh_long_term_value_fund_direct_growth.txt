@@ -1,77 +1,77 @@
-+1012345678930123456789.4012345678900123456789%
++1012345678930123456789.6012345678910123456789%
 
 3Y annualised
 
-+1.43% 1D
++1.34% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 06 Nov 2023 | ₹64.29 |
-| 27 Nov 2023 | ₹66.65 |
-| 13 Dec 2023 | ₹69.44 |
-| 02 Jan 2024 | ₹70.23 |
-| 18 Jan 2024 | ₹71.32 |
-| 08 Feb 2024 | ₹74.28 |
-| 26 Feb 2024 | ₹75.03 |
-| 17 Mar 2024 | ₹73.85 |
-| 03 Apr 2024 | ₹75.79 |
-| 24 Apr 2024 | ₹76.99 |
-| 13 May 2024 | ₹77.28 |
-| 02 Jun 2024 | ₹79.36 |
-| 19 Jun 2024 | ₹81.34 |
-| 08 Jul 2024 | ₹84.36 |
-| 25 Jul 2024 | ₹84.01 |
-| 13 Aug 2024 | ₹83.00 |
-| 01 Sep 2024 | ₹86.39 |
-| 18 Sep 2024 | ₹87.53 |
-| 07 Oct 2024 | ₹86.68 |
-| 24 Oct 2024 | ₹86.15 |
-| 12 Nov 2024 | ₹85.59 |
-| 03 Dec 2024 | ₹87.86 |
-| 19 Dec 2024 | ₹86.88 |
-| 08 Jan 2025 | ₹86.99 |
-| 26 Jan 2025 | ₹85.27 |
-| 12 Feb 2025 | ₹86.20 |
-| 03 Mar 2025 | ₹82.68 |
-| 23 Mar 2025 | ₹86.93 |
-| 08 Apr 2025 | ₹83.59 |
-| 01 May 2025 | ₹87.98 |
-| 19 May 2025 | ₹89.68 |
-| 05 Jun 2025 | ₹91.40 |
-| 23 Jun 2025 | ₹91.48 |
-| 10 Jul 2025 | ₹92.10 |
-| 28 Jul 2025 | ₹91.89 |
-| 17 Aug 2025 | ₹92.94 |
-| 03 Sep 2025 | ₹92.48 |
-| 22 Sep 2025 | ₹94.01 |
-| 09 Oct 2025 | ₹93.22 |
-| 30 Oct 2025 | ₹94.41 |
-| 18 Nov 2025 | ₹94.31 |
-| 07 Dec 2025 | ₹94.81 |
-| 23 Dec 2025 | ₹95.34 |
-| 12 Jan 2026 | ₹94.18 |
-| 01 Feb 2026 | ₹93.14 |
-| 18 Feb 2026 | ₹92.51 |
-| 09 Mar 2026 | ₹90.43 |
-| 29 Mar 2026 | ₹85.26 |
-| 16 Apr 2026 | ₹91.99 |
-| 06 May 2026 | ₹91.81 |
-| 24 May 2026 | ₹91.15 |
-| 11 Jun 2026 | ₹89.29 |
-| 30 Jun 2026 | ₹90.30 |
-| 19 Jul 2026 | ₹91.22 |
-| 04 Aug 2026 | ₹92.83 |
-| 23 Aug 2026 | ₹91.00 |
-| 08 Sep 2026 | ₹89.39 |
-| 28 Sep 2026 | ₹88.72 |
-| 15 Oct 2026 | ₹90.88 |
-| 04 Nov 2026 | ₹92.71 |
+| 08 Nov 2023 | ₹64.44 |
+| 28 Nov 2023 | ₹66.95 |
+| 17 Dec 2023 | ₹69.61 |
+| 03 Jan 2024 | ₹70.46 |
+| 23 Jan 2024 | ₹71.39 |
+| 11 Feb 2024 | ₹73.47 |
+| 28 Feb 2024 | ₹74.79 |
+| 18 Mar 2024 | ₹73.45 |
+| 07 Apr 2024 | ₹76.73 |
+| 25 Apr 2024 | ₹77.42 |
+| 15 May 2024 | ₹77.83 |
+| 03 Jun 2024 | ₹76.03 |
+| 23 Jun 2024 | ₹81.50 |
+| 09 Jul 2024 | ₹84.20 |
+| 29 Jul 2024 | ₹84.45 |
+| 15 Aug 2024 | ₹84.38 |
+| 03 Sep 2024 | ₹86.21 |
+| 19 Sep 2024 | ₹88.71 |
+| 09 Oct 2024 | ₹87.43 |
+| 27 Oct 2024 | ₹86.32 |
+| 17 Nov 2024 | ₹85.24 |
+| 04 Dec 2024 | ₹88.38 |
+| 23 Dec 2024 | ₹87.44 |
+| 09 Jan 2025 | ₹86.28 |
+| 28 Jan 2025 | ₹86.32 |
+| 13 Feb 2025 | ₹85.81 |
+| 05 Mar 2025 | ₹83.87 |
+| 24 Mar 2025 | ₹86.94 |
+| 14 Apr 2025 | ₹85.41 |
+| 04 May 2025 | ₹88.06 |
+| 21 May 2025 | ₹89.48 |
+| 08 Jun 2025 | ₹91.86 |
+| 25 Jun 2025 | ₹92.67 |
+| 13 Jul 2025 | ₹92.32 |
+| 30 Jul 2025 | ₹92.16 |
+| 18 Aug 2025 | ₹92.42 |
+| 07 Sep 2025 | ₹92.53 |
+| 23 Sep 2025 | ₹93.80 |
+| 13 Oct 2025 | ₹93.20 |
+| 02 Nov 2025 | ₹94.46 |
+| 20 Nov 2025 | ₹94.41 |
+| 08 Dec 2025 | ₹94.57 |
+| 28 Dec 2025 | ₹94.73 |
+| 13 Jan 2026 | ₹93.85 |
+| 03 Feb 2026 | ₹94.09 |
+| 19 Feb 2026 | ₹92.93 |
+| 11 Mar 2026 | ₹89.27 |
+| 30 Mar 2026 | ₹85.68 |
+| 20 Apr 2026 | ₹92.19 |
+| 07 May 2026 | ₹91.52 |
+| 26 May 2026 | ₹90.99 |
+| 14 Jun 2026 | ₹90.04 |
+| 02 Jul 2026 | ₹91.30 |
+| 20 Jul 2026 | ₹90.97 |
+| 06 Aug 2026 | ₹92.33 |
+| 24 Aug 2026 | ₹91.19 |
+| 10 Sep 2026 | ₹89.57 |
+| 29 Sep 2026 | ₹88.84 |
+| 20 Oct 2026 | ₹89.94 |
+| 05 Nov 2026 | ₹93.95 |
 
-NAV: 05 Nov '26
+NAV: 06 Nov '26
 
-₹92.71
+₹93.95
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹12,000 | ₹12,203 | | +1.69% |
-| 3 years | ₹36,000 | ₹38,866 | | +7.96% |
-| 5 years | ₹60,000 | ₹80,187 | | +33.65% |
-| 10 years | ₹1,20,000 | ₹2,89,062 | | +140.88% |
+| 1 year | ₹12,000 | ₹12,360 | | +3.00% |
+| 3 years | ₹36,000 | ₹39,376 | | +9.38% |
+| 5 years | ₹60,000 | ₹81,234 | | +35.39% |
+| 10 years | ₹1,20,000 | ₹2,92,772 | | +143.98% |
 
 ## Holdings (127)
 
@@ -264,9 +264,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +13.4% | +11.6% | +17.4% | +18.0% |
-| Category average (Equity Flexi Cap) | +13.2% | +10.7% | +13.9% | +14.2% |
-| Rank (Equity Flexi Cap) | 23 | 14 | 1 | -- |
+| Fund returns | +13.6% | +11.9% | +17.5% | +18.1% |
+| Category average (Equity Flexi Cap) | +13.1% | +10.8% | +14.0% | +14.3% |
+| Rank (Equity Flexi Cap) | 21 | 13 | 1 | -- |
 
 ## Understand terms
 
@@ -318,11 +318,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +13.32% | +19.94% | 1,588.28 |
-| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +8.01% | +19.30% | 3,098.01 |
-| | [360 ONE Flexicap Fund Direct Growth](/mutual-funds/360-one-flexicap-fund-direct-growth) | +7.39% | +18.21% | 2,245.86 |
-| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +2.04% | +17.31% | 1,08,546.98 |
-| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +4.96% | +16.67% | 5,748.74 |
+| | [ITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +14.79% | +19.76% | 1,588.28 |
+| | [Bank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +9.43% | +19.02% | 3,098.01 |
+| | [360 ONE Flexicap Fund Direct Growth](/mutual-funds/360-one-flexicap-fund-direct-growth) | +8.64% | +17.97% | 2,245.86 |
+| | [HDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +4.04% | +17.63% | 1,08,546.98 |
+| | [HSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +6.31% | +16.45% | 5,748.74 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/parag-parikh-long-term-value-fund-direct-growth) | | | | |
@@ -497,7 +497,7 @@ Also manages these schemes
 
 Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Manage
 
-Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,65,302 Cr and the Latest NAV as of 05 Nov 2026 is ₹92.71.
+Parag Parikh Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by PPFAS Mutual Fund. This scheme was made available to investors on 09 Oct 2012. Mansi Kariya is the Current Fund Manager of Parag Parikh Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,65,302 Cr and the Latest NAV as of 06 Nov 2026 is ₹93.95.
 The Parag Parikh Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹1,000. For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% if redeemed after 365 days but on or before 730 days.
 
 ...Read more
@@ -562,7 +562,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The Parag Parikh Flexi Cap Fund Direct Growth has been there from 24 May 2013 and the average annual returns provided by this fund is 17.99% since its inception.
+The Parag Parikh Flexi Cap Fund Direct Growth has been there from 24 May 2013 and the average annual returns provided by this fund is 18.10% since its inception.
 
 ###
 
@@ -570,13 +570,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Parag Parikh Flexi Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.52% as of 07 Nov 2026...
+The Expense Ratio of Parag Parikh Flexi Cap Fund Direct Growth is 0.52% as of 09 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,45,070.50Cr as of 07 Nov 2026.
+of Parag Parikh Flexi Cap Fund Direct Growth is ₹1,45,070.50Cr as of 09 Nov 2026.
 
 ###
 
@@ -593,7 +593,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹92.71 as of 05 Nov 2026.
+The NAV of Parag Parikh Flexi Cap Fund Direct Growth is ₹93.95 as of 06 Nov 2026.
 
 ###
 

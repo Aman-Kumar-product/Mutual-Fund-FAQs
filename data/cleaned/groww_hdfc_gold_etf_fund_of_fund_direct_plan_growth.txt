@@ -1,77 +1,77 @@
-+3012345678900123456789.8012345678930123456789%
++3012345678910123456789.7012345678910123456789%
 
 3Y annualised
 
--1.63% 1D
++0.61% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 08 Nov 2023 | ₹19.27 |
-| 28 Nov 2023 | ₹20.01 |
-| 17 Dec 2023 | ₹19.84 |
-| 03 Jan 2024 | ₹20.13 |
-| 23 Jan 2024 | ₹19.95 |
-| 11 Feb 2024 | ₹19.90 |
-| 28 Feb 2024 | ₹19.87 |
-| 18 Mar 2024 | ₹20.91 |
-| 07 Apr 2024 | ₹22.74 |
-| 25 Apr 2024 | ₹23.20 |
-| 15 May 2024 | ₹23.45 |
-| 03 Jun 2024 | ₹22.90 |
-| 23 Jun 2024 | ₹22.93 |
-| 09 Jul 2024 | ₹23.31 |
-| 29 Jul 2024 | ₹21.94 |
-| 15 Aug 2024 | ₹22.45 |
-| 03 Sep 2024 | ₹22.58 |
-| 19 Sep 2024 | ₹23.55 |
-| 09 Oct 2024 | ₹23.77 |
-| 27 Oct 2024 | ₹24.79 |
-| 17 Nov 2024 | ₹23.69 |
-| 04 Dec 2024 | ₹24.21 |
-| 23 Dec 2024 | ₹24.03 |
-| 09 Jan 2025 | ₹24.81 |
-| 28 Jan 2025 | ₹25.61 |
-| 13 Feb 2025 | ₹27.29 |
-| 05 Mar 2025 | ₹27.17 |
-| 24 Mar 2025 | ₹27.70 |
-| 14 Apr 2025 | ₹29.37 |
-| 04 May 2025 | ₹30.32 |
-| 21 May 2025 | ₹30.15 |
-| 08 Jun 2025 | ₹30.37 |
-| 25 Jun 2025 | ₹30.63 |
-| 13 Jul 2025 | ₹30.95 |
-| 30 Jul 2025 | ₹31.01 |
-| 18 Aug 2025 | ₹31.08 |
-| 07 Sep 2025 | ₹33.96 |
-| 23 Sep 2025 | ₹35.72 |
-| 13 Oct 2025 | ₹39.66 |
-| 02 Nov 2025 | ₹37.74 |
-| 20 Nov 2025 | ₹38.50 |
-| 08 Dec 2025 | ₹40.10 |
-| 28 Dec 2025 | ₹42.72 |
-| 13 Jan 2026 | ₹44.66 |
-| 03 Feb 2026 | ₹49.04 |
-| 19 Feb 2026 | ₹48.10 |
-| 11 Mar 2026 | ₹49.99 |
-| 30 Mar 2026 | ₹45.57 |
-| 20 Apr 2026 | ₹47.23 |
-| 07 May 2026 | ₹46.93 |
-| 26 May 2026 | ₹48.69 |
-| 14 Jun 2026 | ₹46.80 |
-| 02 Jul 2026 | ₹45.37 |
-| 20 Jul 2026 | ₹44.43 |
-| 06 Aug 2026 | ₹46.52 |
-| 24 Aug 2026 | ₹50.03 |
-| 10 Sep 2026 | ₹47.21 |
-| 29 Sep 2026 | ₹45.88 |
-| 20 Oct 2026 | ₹44.55 |
-| 05 Nov 2026 | ₹43.81 |
+| 12 Nov 2023 | ₹19.34 |
+| 30 Nov 2023 | ₹20.09 |
+| 19 Dec 2023 | ₹19.95 |
+| 07 Jan 2024 | ₹19.97 |
+| 28 Jan 2024 | ₹19.97 |
+| 13 Feb 2024 | ₹19.69 |
+| 03 Mar 2024 | ₹20.29 |
+| 20 Mar 2024 | ₹21.40 |
+| 09 Apr 2024 | ₹22.90 |
+| 29 Apr 2024 | ₹23.04 |
+| 20 May 2024 | ₹23.68 |
+| 05 Jun 2024 | ₹23.20 |
+| 25 Jun 2024 | ₹22.91 |
+| 11 Jul 2024 | ₹23.37 |
+| 31 Jul 2024 | ₹22.49 |
+| 19 Aug 2024 | ₹22.89 |
+| 05 Sep 2024 | ₹22.93 |
+| 23 Sep 2024 | ₹23.78 |
+| 13 Oct 2024 | ₹24.15 |
+| 29 Oct 2024 | ₹25.26 |
+| 18 Nov 2024 | ₹24.02 |
+| 08 Dec 2024 | ₹24.27 |
+| 25 Dec 2024 | ₹24.11 |
+| 13 Jan 2025 | ₹24.92 |
+| 29 Jan 2025 | ₹25.70 |
+| 17 Feb 2025 | ₹27.19 |
+| 06 Mar 2025 | ₹27.24 |
+| 26 Mar 2025 | ₹27.87 |
+| 15 Apr 2025 | ₹29.86 |
+| 06 May 2025 | ₹30.68 |
+| 22 May 2025 | ₹30.06 |
+| 10 Jun 2025 | ₹30.52 |
+| 26 Jun 2025 | ₹30.13 |
+| 15 Jul 2025 | ₹30.68 |
+| 31 Jul 2025 | ₹30.91 |
+| 20 Aug 2025 | ₹31.17 |
+| 08 Sep 2025 | ₹34.42 |
+| 25 Sep 2025 | ₹35.57 |
+| 14 Oct 2025 | ₹39.79 |
+| 05 Nov 2025 | ₹37.78 |
+| 23 Nov 2025 | ₹38.57 |
+| 09 Dec 2025 | ₹40.10 |
+| 29 Dec 2025 | ₹42.01 |
+| 15 Jan 2026 | ₹44.47 |
+| 04 Feb 2026 | ₹47.44 |
+| 22 Feb 2026 | ₹49.03 |
+| 12 Mar 2026 | ₹49.25 |
+| 31 Mar 2026 | ₹46.51 |
+| 21 Apr 2026 | ₹47.14 |
+| 10 May 2026 | ₹46.49 |
+| 28 May 2026 | ₹48.49 |
+| 15 Jun 2026 | ₹46.83 |
+| 05 Jul 2026 | ₹45.12 |
+| 21 Jul 2026 | ₹44.91 |
+| 09 Aug 2026 | ₹47.00 |
+| 25 Aug 2026 | ₹49.90 |
+| 14 Sep 2026 | ₹46.67 |
+| 30 Sep 2026 | ₹45.82 |
+| 21 Oct 2026 | ₹44.25 |
+| 08 Nov 2026 | ₹44.07 |
 
-NAV: 06 Nov '26
+NAV: 09 Nov '26
 
-₹43.81
+₹44.07
 
 Min. for SIP
 
@@ -127,9 +127,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +30.8% | +23.0% | +15.4% | +10.4% |
-| Category average (Commodities Gold) | +32.6% | +24.1% | +16.3% | +12.4% |
-| Rank (Commodities Gold) | 6 | 7 | 2 | -- |
+| Fund returns | +31.7% | +22.9% | +15.4% | +10.5% |
+| Category average (Commodities Gold) | +33.5% | +23.9% | +16.2% | +12.4% |
+| Rank (Commodities Gold) | 7 | 7 | 3 | -- |
 
 ## Understand terms
 
@@ -349,7 +349,7 @@ Also manages these schemes
 
 HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset
 
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 06 Nov 2026 is ₹43.81.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 09 Nov 2026 is ₹44.07.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Exit load of 1%, if redeemed within 15 days.
 
 ...Read more
@@ -408,7 +408,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.45% since its inception.
+The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.49% since its inception.
 
 ###
 
@@ -416,13 +416,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 09 Nov 2026...
+The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 11 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 09 Nov 2026.
+of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 11 Nov 2026.
 
 ###
 
@@ -439,7 +439,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.81 as of 06 Nov 2026.
+The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.07 as of 09 Nov 2026.
 
 ###
 

@@ -8,7 +8,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_midcap.txt",
-    "ingested_at": "2026-11-11T11:48:44.271753+00:00"
+    "ingested_at": "2026-11-13T12:03:12.052836+00:00"
   },
   {
     "id": "groww_hdfc_silver_etf",
@@ -19,7 +19,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_silver_etf.txt",
-    "ingested_at": "2026-11-11T11:49:19.095976+00:00"
+    "ingested_at": "2026-11-13T12:03:47.128787+00:00"
   },
   {
     "id": "groww_hdfc_defence",
@@ -30,7 +30,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_defence.txt",
-    "ingested_at": "2026-11-11T11:49:54.493496+00:00"
+    "ingested_at": "2026-11-13T12:04:22.043210+00:00"
   },
   {
     "id": "groww_hdfc_equity",
@@ -41,7 +41,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_equity.txt",
-    "ingested_at": "2026-11-11T11:50:29.499150+00:00"
+    "ingested_at": "2026-11-13T12:04:56.973157+00:00"
   },
   {
     "id": "groww_hdfc_small_cap_fund_direct_growth",
@@ -52,7 +52,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_small_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:51:04.500378+00:00"
+    "ingested_at": "2026-11-13T12:05:32.149304+00:00"
   },
   {
     "id": "groww_hdfc_gold_etf_fund_of_fund_direct_plan_growth",
@@ -63,7 +63,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_gold_etf_fund_of_fund_direct_plan_growth.txt",
-    "ingested_at": "2026-11-11T11:51:39.338024+00:00"
+    "ingested_at": "2026-11-13T12:06:07.193100+00:00"
   },
   {
     "id": "groww_hdfc_nifty_50_index_fund_direct_growth",
@@ -74,7 +74,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_nifty_50_index_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:52:14.943838+00:00"
+    "ingested_at": "2026-11-13T12:06:42.273185+00:00"
   },
   {
     "id": "groww_hdfc_pharma_and_healthcare_fund_direct_growth",
@@ -85,7 +85,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_pharma_and_healthcare_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:52:49.865934+00:00"
+    "ingested_at": "2026-11-13T12:07:17.180375+00:00"
   },
   {
     "id": "groww_hdfc_balanced_advantage_fund_direct_growth",
@@ -96,7 +96,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_balanced_advantage_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:53:25.081013+00:00"
+    "ingested_at": "2026-11-13T12:07:52.510304+00:00"
   },
   {
     "id": "groww_hdfc_multi_cap_fund_direct_growth",
@@ -107,7 +107,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_multi_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:54:00.774221+00:00"
+    "ingested_at": "2026-11-13T12:08:28.436905+00:00"
   },
   {
     "id": "groww_hdfc_nifty_next_50_index_fund_direct_growth",
@@ -118,7 +118,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_nifty_next_50_index_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:54:36.043388+00:00"
+    "ingested_at": "2026-11-13T12:09:03.499886+00:00"
   },
   {
     "id": "groww_hdfc_focused_fund_direct_growth",
@@ -129,7 +129,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_focused_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:55:11.029428+00:00"
+    "ingested_at": "2026-11-13T12:09:39.073921+00:00"
   },
   {
     "id": "groww_hdfc_short_term_opportunities_fund_direct_growth",
@@ -140,7 +140,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_short_term_opportunities_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:55:47.241030+00:00"
+    "ingested_at": "2026-11-13T12:10:14.531369+00:00"
   },
   {
     "id": "groww_hdfc_large_and_mid_cap_fund_direct_growth",
@@ -151,7 +151,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_large_and_mid_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:56:22.692524+00:00"
+    "ingested_at": "2026-11-13T12:10:50.716972+00:00"
   },
   {
     "id": "groww_hdfc_bse_sensex_index_fund_direct_growth",
@@ -162,7 +162,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_bse_sensex_index_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:56:58.267473+00:00"
+    "ingested_at": "2026-11-13T12:11:26.298266+00:00"
   },
   {
     "id": "groww_hdfc_manufacturing_fund_direct_growth",
@@ -173,7 +173,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_manufacturing_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:57:33.397859+00:00"
+    "ingested_at": "2026-11-13T12:12:01.423380+00:00"
   },
   {
     "id": "groww_hdfc_large_cap_fund_direct_growth",
@@ -184,7 +184,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_large_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:58:08.307487+00:00"
+    "ingested_at": "2026-11-13T12:12:36.541941+00:00"
   },
   {
     "id": "groww_hdfc_liquid_fund_direct_growth",
@@ -195,7 +195,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_liquid_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:58:43.418521+00:00"
+    "ingested_at": "2026-11-13T12:13:11.550380+00:00"
   },
   {
     "id": "groww_hdfc_elss_tax_saver_fund_direct_plan_growth",
@@ -206,7 +206,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_elss_tax_saver_fund_direct_plan_growth.txt",
-    "ingested_at": "2026-11-11T11:59:18.406203+00:00"
+    "ingested_at": "2026-11-13T12:13:46.780811+00:00"
   },
   {
     "id": "groww_hdfc_nifty_smallcap_250_index_fund_direct_growth",
@@ -217,7 +217,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_hdfc_nifty_smallcap_250_index_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T11:59:54.294538+00:00"
+    "ingested_at": "2026-11-13T12:14:22.033725+00:00"
   },
   {
     "id": "groww_sbi_gold_fund_direct_growth",
@@ -228,7 +228,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_sbi_gold_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T12:00:29.224558+00:00"
+    "ingested_at": "2026-11-13T12:14:56.518719+00:00"
   },
   {
     "id": "groww_bandhan_small_cap_fund_direct_growth",
@@ -239,7 +239,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_bandhan_small_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T12:01:04.506160+00:00"
+    "ingested_at": "2026-11-13T12:15:31.576675+00:00"
   },
   {
     "id": "groww_parag_parikh_long_term_value_fund_direct_growth",
@@ -250,7 +250,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_parag_parikh_long_term_value_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T12:01:39.505929+00:00"
+    "ingested_at": "2026-11-13T12:16:07.080888+00:00"
   },
   {
     "id": "groww_motilal_oswal_most_focused_midcap_30_fund_direct_growth",
@@ -261,7 +261,7 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_motilal_oswal_most_focused_midcap_30_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T12:02:14.408758+00:00"
+    "ingested_at": "2026-11-13T12:16:41.858536+00:00"
   },
   {
     "id": "groww_nippon_india_small_cap_fund_direct_growth",
@@ -272,6 +272,6 @@
     "doc_type": "scheme_page",
     "content_type": "html_dynamic",
     "raw_file": "data/raw/groww_nippon_india_small_cap_fund_direct_growth.txt",
-    "ingested_at": "2026-11-11T12:02:49.760041+00:00"
+    "ingested_at": "2026-11-13T12:17:16.912886+00:00"
   }
 ]

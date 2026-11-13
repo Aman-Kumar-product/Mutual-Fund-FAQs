@@ -1,77 +1,77 @@
-+3012345678940123456789.0012345678980123456789%
++3012345678940123456789.5012345678980123456789%
 
 3Y annualised
 
-+1.15% 1D
++0.76% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
 | 12 Nov 2023 | ₹12.74 |
-| 30 Nov 2023 | ₹13.68 |
+| 03 Dec 2023 | ₹13.94 |
 | 19 Dec 2023 | ₹14.50 |
-| 07 Jan 2024 | ₹15.61 |
+| 08 Jan 2024 | ₹15.70 |
 | 28 Jan 2024 | ₹15.55 |
-| 13 Feb 2024 | ₹15.49 |
+| 14 Feb 2024 | ₹15.69 |
 | 03 Mar 2024 | ₹16.75 |
-| 20 Mar 2024 | ₹15.96 |
+| 21 Mar 2024 | ₹16.19 |
 | 09 Apr 2024 | ₹17.90 |
-| 29 Apr 2024 | ₹19.01 |
+| 01 May 2024 | ₹19.00 |
 | 20 May 2024 | ₹21.21 |
-| 05 Jun 2024 | ₹20.59 |
+| 06 Jun 2024 | ₹21.14 |
 | 25 Jun 2024 | ₹24.02 |
-| 11 Jul 2024 | ₹24.93 |
+| 14 Jul 2024 | ₹24.90 |
 | 31 Jul 2024 | ₹23.50 |
-| 19 Aug 2024 | ₹22.68 |
+| 20 Aug 2024 | ₹22.65 |
 | 05 Sep 2024 | ₹22.30 |
-| 23 Sep 2024 | ₹22.25 |
+| 24 Sep 2024 | ₹22.13 |
 | 13 Oct 2024 | ₹22.20 |
-| 29 Oct 2024 | ₹21.15 |
-| 18 Nov 2024 | ₹20.77 |
-| 08 Dec 2024 | ₹22.92 |
-| 25 Dec 2024 | ₹21.90 |
-| 13 Jan 2025 | ₹19.89 |
-| 29 Jan 2025 | ₹19.45 |
-| 17 Feb 2025 | ₹16.82 |
-| 06 Mar 2025 | ₹18.01 |
-| 26 Mar 2025 | ₹19.98 |
-| 15 Apr 2025 | ₹20.47 |
-| 06 May 2025 | ₹21.33 |
-| 22 May 2025 | ₹24.73 |
-| 10 Jun 2025 | ₹25.98 |
-| 26 Jun 2025 | ₹26.14 |
-| 15 Jul 2025 | ₹25.40 |
-| 31 Jul 2025 | ₹23.16 |
-| 20 Aug 2025 | ₹23.83 |
-| 08 Sep 2025 | ₹23.70 |
-| 25 Sep 2025 | ₹24.46 |
-| 14 Oct 2025 | ₹25.26 |
-| 05 Nov 2025 | ₹24.57 |
-| 23 Nov 2025 | ₹24.37 |
-| 09 Dec 2025 | ₹23.21 |
-| 29 Dec 2025 | ₹23.72 |
-| 15 Jan 2026 | ₹24.14 |
-| 04 Feb 2026 | ₹24.22 |
-| 22 Feb 2026 | ₹25.12 |
-| 12 Mar 2026 | ₹24.44 |
-| 31 Mar 2026 | ₹23.50 |
-| 21 Apr 2026 | ₹27.45 |
-| 10 May 2026 | ₹28.50 |
-| 28 May 2026 | ₹28.78 |
-| 15 Jun 2026 | ₹29.20 |
-| 05 Jul 2026 | ₹30.88 |
-| 21 Jul 2026 | ₹30.43 |
-| 09 Aug 2026 | ₹31.13 |
-| 25 Aug 2026 | ₹31.53 |
-| 14 Sep 2026 | ₹30.08 |
-| 30 Sep 2026 | ₹30.22 |
-| 21 Oct 2026 | ₹29.03 |
-| 08 Nov 2026 | ₹30.02 |
+| 30 Oct 2024 | ₹21.33 |
+| 20 Nov 2024 | ₹20.51 |
+| 09 Dec 2024 | ₹22.88 |
+| 26 Dec 2024 | ₹21.91 |
+| 14 Jan 2025 | ₹19.89 |
+| 30 Jan 2025 | ₹20.21 |
+| 18 Feb 2025 | ₹17.26 |
+| 09 Mar 2025 | ₹17.74 |
+| 27 Mar 2025 | ₹20.16 |
+| 16 Apr 2025 | ₹20.61 |
+| 07 May 2025 | ₹21.05 |
+| 25 May 2025 | ₹25.19 |
+| 11 Jun 2025 | ₹25.58 |
+| 29 Jun 2025 | ₹26.29 |
+| 16 Jul 2025 | ₹25.19 |
+| 03 Aug 2025 | ₹23.72 |
+| 21 Aug 2025 | ₹23.96 |
+| 09 Sep 2025 | ₹24.13 |
+| 28 Sep 2025 | ₹24.28 |
+| 15 Oct 2025 | ₹25.34 |
+| 06 Nov 2025 | ₹24.78 |
+| 24 Nov 2025 | ₹24.45 |
+| 11 Dec 2025 | ₹23.43 |
+| 30 Dec 2025 | ₹24.07 |
+| 19 Jan 2026 | ₹23.38 |
+| 05 Feb 2026 | ₹23.93 |
+| 24 Feb 2026 | ₹25.29 |
+| 15 Mar 2026 | ₹24.24 |
+| 05 Apr 2026 | ₹23.92 |
+| 22 Apr 2026 | ₹27.53 |
+| 12 May 2026 | ₹28.04 |
+| 31 May 2026 | ₹28.23 |
+| 17 Jun 2026 | ₹30.24 |
+| 06 Jul 2026 | ₹30.44 |
+| 23 Jul 2026 | ₹30.21 |
+| 10 Aug 2026 | ₹31.04 |
+| 27 Aug 2026 | ₹31.65 |
+| 15 Sep 2026 | ₹30.17 |
+| 05 Oct 2026 | ₹30.78 |
+| 22 Oct 2026 | ₹28.39 |
+| 11 Nov 2026 | ₹30.58 |
 
-NAV: 09 Nov '26
+NAV: 12 Nov '26
 
-₹30.02
+₹30.58
 
 Min. for SIP
 
@@ -79,7 +79,7 @@ Min. for SIP
 
 Fund size (AUM)
 
-₹11,493.39 Cr
+₹11,130.70 Cr
 
 Expense ratio
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 3 months | ₹300 | ₹298 | | -0.67% |
-| 6 months | ₹600 | ₹600 | | +0.00% |
-| 1 year | ₹1,200 | ₹1,320 | | +10.00% |
-| 3 years | ₹3,600 | ₹4,849 | | +34.69% |
+| 3 months | ₹300 | ₹302 | | +0.67% |
+| 6 months | ₹600 | ₹610 | | +1.67% |
+| 1 year | ₹1,200 | ₹1,341 | | +11.75% |
+| 3 years | ₹3,600 | ₹4,930 | | +36.94% |
 
 ## Holdings (26)
 
@@ -163,7 +163,7 @@ The total return of a mutual fund over a given period.
 
 | Name | 6M | 1Y | 3Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +4.2% | +21.0% | +34.1% | +37.6% |
+| Fund returns | +11.4% | +20.0% | +34.6% | +38.3% |
 | Category average (Equity Thematic) | +2.6% | +3.8% | +15.0% | +15.1% |
 | Rank (Equity Thematic) | -- | 3 | 1 | -- |
 
@@ -343,9 +343,9 @@ Also manages these schemes
 
 ### About HDFC Defence Fund Direct Growth
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,07
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,67
 
-HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 09 Nov 2026 is ₹30.02.
+HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 12 Nov 2026 is ₹30.58.
 The HDFC Defence Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Exit load of 1%, if redeemed within 1 year.
 
 ...Read more
@@ -364,7 +364,7 @@ Fund benchmarkNifty India Defence Total Return Index
 
 Rank (total assets)#2 in India
 
-Total AUM₹9,34,075.66 Cr
+Total AUM₹9,33,671.14 Cr
 
 Date of Incorporation09 Dec 1999
 
@@ -410,7 +410,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 37.64% since its inception.
+The HDFC Defence Fund Direct Growth has been there from 02 Jun 2023 and the average annual returns provided by this fund is 38.27% since its inception.
 
 ###
 
@@ -418,13 +418,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Defence Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Defence Fund Direct Growth is 0.71% as of 11 Nov 2026...
+The Expense Ratio of HDFC Defence Fund Direct Growth is 0.71% as of 13 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Defence Fund Direct Growth is ₹11,493.39Cr as of 11 Nov 2026.
+of HDFC Defence Fund Direct Growth is ₹11,130.70Cr as of 13 Nov 2026.
 
 ###
 
@@ -441,7 +441,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Defence Fund Direct Growth is ₹30.02 as of 09 Nov 2026.
+The NAV of HDFC Defence Fund Direct Growth is ₹30.58 as of 12 Nov 2026.
 
 ###
 

@@ -1,77 +1,77 @@
-+80123456789.9012345678980123456789%
++80123456789.8012345678940123456789%
 
 3Y annualised
 
-+0.06% 1D
+-0.39% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 12 Nov 2023 | ₹605.94 |
-| 03 Dec 2023 | ₹642.70 |
-| 19 Dec 2023 | ₹657.96 |
-| 08 Jan 2024 | ₹666.10 |
-| 28 Jan 2024 | ₹671.38 |
-| 14 Feb 2024 | ₹673.11 |
-| 03 Mar 2024 | ₹690.05 |
-| 21 Mar 2024 | ₹680.26 |
-| 09 Apr 2024 | ₹700.77 |
-| 01 May 2024 | ₹696.69 |
-| 20 May 2024 | ₹692.06 |
-| 06 Jun 2024 | ₹719.12 |
-| 25 Jun 2024 | ₹738.45 |
-| 14 Jul 2024 | ₹757.39 |
-| 31 Jul 2024 | ₹769.04 |
-| 20 Aug 2024 | ₹761.35 |
-| 05 Sep 2024 | ₹763.85 |
-| 24 Sep 2024 | ₹801.27 |
-| 13 Oct 2024 | ₹771.10 |
-| 30 Oct 2024 | ₹747.69 |
-| 20 Nov 2024 | ₹726.87 |
-| 09 Dec 2024 | ₹767.79 |
-| 26 Dec 2024 | ₹741.17 |
-| 14 Jan 2025 | ₹722.48 |
-| 30 Jan 2025 | ₹730.02 |
-| 18 Feb 2025 | ₹715.96 |
-| 09 Mar 2025 | ₹698.68 |
-| 27 Mar 2025 | ₹729.71 |
-| 16 Apr 2025 | ₹740.35 |
-| 07 May 2025 | ₹757.20 |
-| 25 May 2025 | ₹774.97 |
-| 11 Jun 2025 | ₹772.62 |
-| 29 Jun 2025 | ₹792.11 |
-| 16 Jul 2025 | ₹779.82 |
-| 03 Aug 2025 | ₹768.70 |
-| 21 Aug 2025 | ₹772.38 |
-| 09 Sep 2025 | ₹773.55 |
-| 28 Sep 2025 | ₹763.38 |
-| 15 Oct 2025 | ₹792.87 |
-| 06 Nov 2025 | ₹791.45 |
-| 24 Nov 2025 | ₹804.50 |
-| 11 Dec 2025 | ₹810.89 |
-| 30 Dec 2025 | ₹810.33 |
-| 19 Jan 2026 | ₹781.52 |
-| 05 Feb 2026 | ₹794.94 |
-| 24 Feb 2026 | ₹782.57 |
-| 15 Mar 2026 | ₹718.14 |
-| 05 Apr 2026 | ₹704.57 |
-| 22 Apr 2026 | ₹738.30 |
-| 12 May 2026 | ₹709.38 |
-| 31 May 2026 | ₹707.25 |
-| 17 Jun 2026 | ₹737.41 |
-| 06 Jul 2026 | ₹746.91 |
-| 23 Jul 2026 | ₹727.54 |
-| 10 Aug 2026 | ₹748.24 |
-| 27 Aug 2026 | ₹739.71 |
-| 15 Sep 2026 | ₹711.73 |
-| 05 Oct 2026 | ₹699.46 |
-| 22 Oct 2026 | ₹700.20 |
-| 11 Nov 2026 | ₹784.59 |
+| 14 Nov 2023 | ₹612.86 |
+| 04 Dec 2023 | ₹646.72 |
+| 20 Dec 2023 | ₹661.31 |
+| 09 Jan 2024 | ₹668.63 |
+| 29 Jan 2024 | ₹663.90 |
+| 15 Feb 2024 | ₹676.62 |
+| 04 Mar 2024 | ₹688.22 |
+| 25 Mar 2024 | ₹676.86 |
+| 11 Apr 2024 | ₹693.35 |
+| 02 May 2024 | ₹689.84 |
+| 21 May 2024 | ₹694.99 |
+| 09 Jun 2024 | ₹717.21 |
+| 26 Jun 2024 | ₹743.80 |
+| 15 Jul 2024 | ₹757.90 |
+| 01 Aug 2024 | ₹760.88 |
+| 21 Aug 2024 | ₹762.74 |
+| 08 Sep 2024 | ₹767.37 |
+| 25 Sep 2024 | ₹807.53 |
+| 14 Oct 2024 | ₹769.65 |
+| 03 Nov 2024 | ₹741.96 |
+| 21 Nov 2024 | ₹745.33 |
+| 10 Dec 2024 | ₹767.94 |
+| 29 Dec 2024 | ₹736.91 |
+| 15 Jan 2025 | ₹725.48 |
+| 02 Feb 2025 | ₹727.05 |
+| 19 Feb 2025 | ₹714.04 |
+| 10 Mar 2025 | ₹698.56 |
+| 30 Mar 2025 | ₹729.70 |
+| 20 Apr 2025 | ₹748.39 |
+| 08 May 2025 | ₹748.90 |
+| 26 May 2025 | ₹769.08 |
+| 12 Jun 2025 | ₹767.25 |
+| 30 Jun 2025 | ₹792.96 |
+| 17 Jul 2025 | ₹775.55 |
+| 04 Aug 2025 | ₹765.78 |
+| 24 Aug 2025 | ₹775.48 |
+| 10 Sep 2025 | ₹774.72 |
+| 29 Sep 2025 | ₹762.46 |
+| 16 Oct 2025 | ₹797.57 |
+| 09 Nov 2025 | ₹794.64 |
+| 25 Nov 2025 | ₹814.22 |
+| 14 Dec 2025 | ₹810.36 |
+| 31 Dec 2025 | ₹810.02 |
+| 20 Jan 2026 | ₹778.94 |
+| 08 Feb 2026 | ₹799.66 |
+| 25 Feb 2026 | ₹782.31 |
+| 16 Mar 2026 | ₹723.55 |
+| 06 Apr 2026 | ₹709.41 |
+| 23 Apr 2026 | ₹729.00 |
+| 13 May 2026 | ₹716.89 |
+| 01 Jun 2026 | ₹710.88 |
+| 18 Jun 2026 | ₹733.22 |
+| 07 Jul 2026 | ₹730.94 |
+| 26 Jul 2026 | ₹734.92 |
+| 11 Aug 2026 | ₹746.44 |
+| 30 Aug 2026 | ₹736.75 |
+| 16 Sep 2026 | ₹711.52 |
+| 06 Oct 2026 | ₹695.34 |
+| 25 Oct 2026 | ₹704.81 |
+| 12 Nov 2026 | ₹781.54 |
 
-NAV: 12 Nov '26
+NAV: 13 Nov '26
 
-₹784.59
+₹781.54
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,263 | | +5.25% |
-| 3 years | ₹3,600 | ₹3,834 | | +6.50% |
-| 5 years | ₹6,000 | ₹7,231 | | +20.52% |
-| 10 years | ₹12,000 | ₹21,393 | | +78.27% |
+| 1 year | ₹1,200 | ₹1,258 | | +4.83% |
+| 3 years | ₹3,600 | ₹3,819 | | +6.08% |
+| 5 years | ₹6,000 | ₹7,201 | | +20.02% |
+| 10 years | ₹12,000 | ₹21,303 | | +77.53% |
 
 ## Holdings (32)
 
@@ -169,9 +169,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +9.0% | +7.2% | +12.8% | +12.0% |
-| Category average (Equity Large Cap) | +12.5% | +9.6% | +13.1% | +13.1% |
-| Rank (Equity Large Cap) | 77 | 60 | 22 | -- |
+| Fund returns | +8.8% | +7.1% | +12.7% | +11.9% |
+| Category average (Equity Large Cap) | +12.5% | +9.6% | +13.3% | +13.1% |
+| Rank (Equity Large Cap) | 78 | 59 | 21 | -- |
 
 ## Understand terms
 
@@ -219,11 +219,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +7.20% | +16.65% | 1,994.91 |
-| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +4.43% | +15.71% | 2,134.77 |
-| | [DSP Large Cap Fund Direct Growth](/mutual-funds/dsp-large-cap-fund-direct-growth) | +0.18% | +13.45% | 6,792.75 |
-| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.08% | +13.38% | 52,108.86 |
-| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | +0.48% | +11.01% | 37,466.30 |
+| | [Invesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +6.69% | +16.37% | 1,994.91 |
+| | [Bandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.97% | +15.33% | 2,134.77 |
+| | [Nippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.52% | +13.12% | 52,108.86 |
+| | [DSP Large Cap Fund Direct Growth](/mutual-funds/dsp-large-cap-fund-direct-growth) | -0.49% | +13.12% | 6,792.75 |
+| | [HDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -0.34% | +10.56% | 37,466.30 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-bse-sensex-index-fund-direct-growth) | | | | |
@@ -396,7 +396,7 @@ Also manages these schemes
 
 HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Managemen
 
-HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 12 Nov 2026 is ₹784.59.
+HDFC BSE Sensex Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC BSE Sensex Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 13 Nov 2026 is ₹781.54.
 The HDFC BSE Sensex Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.25% if redeemed within 3 days
 
 ...Read more
@@ -455,7 +455,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC BSE Sensex Index Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.96% since its inception.
+The HDFC BSE Sensex Index Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.93% since its inception.
 
 ###
 
@@ -463,13 +463,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC BSE Sensex Index Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.18% as of 13 Nov 2026...
+The Expense Ratio of HDFC BSE Sensex Index Fund Direct Growth is 0.18% as of 15 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC BSE Sensex Index Fund Direct Growth is ₹8,216.90Cr as of 13 Nov 2026.
+of HDFC BSE Sensex Index Fund Direct Growth is ₹8,216.90Cr as of 15 Nov 2026.
 
 ###
 
@@ -486,7 +486,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC BSE Sensex Index Fund Direct Growth is ₹784.59 as of 12 Nov 2026.
+The NAV of HDFC BSE Sensex Index Fund Direct Growth is ₹781.54 as of 13 Nov 2026.
 
 ###
 

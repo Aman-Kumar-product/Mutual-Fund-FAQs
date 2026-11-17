@@ -1,77 +1,77 @@
-+70123456789.3012345678900123456789%
++70123456789.2012345678950123456789%
 
 3Y annualised
 
--0.07% 1D
++0.01% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 14 Nov 2023 | ₹28.79 |
-| 03 Dec 2023 | ₹28.87 |
-| 20 Dec 2023 | ₹29.01 |
-| 08 Jan 2024 | ₹29.12 |
-| 28 Jan 2024 | ₹29.25 |
-| 13 Feb 2024 | ₹29.37 |
-| 04 Mar 2024 | ₹29.52 |
-| 21 Mar 2024 | ₹29.62 |
-| 14 Apr 2024 | ₹29.75 |
-| 05 May 2024 | ₹29.88 |
-| 23 May 2024 | ₹30.03 |
-| 10 Jun 2024 | ₹30.13 |
-| 27 Jun 2024 | ₹30.24 |
-| 17 Jul 2024 | ₹30.40 |
-| 04 Aug 2024 | ₹30.58 |
-| 21 Aug 2024 | ₹30.69 |
-| 09 Sep 2024 | ₹30.81 |
-| 26 Sep 2024 | ₹30.99 |
-| 15 Oct 2024 | ₹31.14 |
-| 03 Nov 2024 | ₹31.21 |
-| 24 Nov 2024 | ₹31.32 |
-| 10 Dec 2024 | ₹31.47 |
-| 29 Dec 2024 | ₹31.53 |
-| 15 Jan 2025 | ₹31.64 |
-| 02 Feb 2025 | ₹31.79 |
-| 19 Feb 2025 | ₹31.89 |
-| 10 Mar 2025 | ₹31.96 |
-| 30 Mar 2025 | ₹32.29 |
-| 21 Apr 2025 | ₹32.69 |
-| 08 May 2025 | ₹32.71 |
-| 28 May 2025 | ₹33.08 |
-| 15 Jun 2025 | ₹33.09 |
-| 01 Jul 2025 | ₹33.21 |
-| 20 Jul 2025 | ₹33.34 |
-| 05 Aug 2025 | ₹33.38 |
-| 24 Aug 2025 | ₹33.39 |
-| 11 Sep 2025 | ₹33.48 |
-| 30 Sep 2025 | ₹33.62 |
-| 19 Oct 2025 | ₹33.81 |
-| 09 Nov 2025 | ₹33.95 |
-| 26 Nov 2025 | ₹34.06 |
-| 14 Dec 2025 | ₹34.03 |
-| 31 Dec 2025 | ₹34.14 |
-| 19 Jan 2026 | ₹34.08 |
-| 08 Feb 2026 | ₹34.22 |
-| 25 Feb 2026 | ₹34.40 |
-| 16 Mar 2026 | ₹34.40 |
-| 08 Apr 2026 | ₹34.48 |
-| 27 Apr 2026 | ₹34.57 |
-| 14 May 2026 | ₹34.54 |
-| 02 Jun 2026 | ₹34.61 |
-| 21 Jun 2026 | ₹35.02 |
-| 08 Jul 2026 | ₹35.21 |
-| 26 Jul 2026 | ₹35.30 |
-| 12 Aug 2026 | ₹35.44 |
-| 31 Aug 2026 | ₹35.34 |
-| 17 Sep 2026 | ₹35.41 |
-| 06 Oct 2026 | ₹35.41 |
-| 26 Oct 2026 | ₹35.27 |
-| 12 Nov 2026 | ₹35.53 |
+| 16 Nov 2023 | ₹28.81 |
+| 05 Dec 2023 | ₹28.89 |
+| 25 Dec 2023 | ₹29.05 |
+| 10 Jan 2024 | ₹29.15 |
+| 30 Jan 2024 | ₹29.27 |
+| 15 Feb 2024 | ₹29.39 |
+| 06 Mar 2024 | ₹29.55 |
+| 26 Mar 2024 | ₹29.65 |
+| 17 Apr 2024 | ₹29.75 |
+| 06 May 2024 | ₹29.89 |
+| 27 May 2024 | ₹30.05 |
+| 12 Jun 2024 | ₹30.15 |
+| 01 Jul 2024 | ₹30.27 |
+| 21 Jul 2024 | ₹30.43 |
+| 06 Aug 2024 | ₹30.59 |
+| 25 Aug 2024 | ₹30.72 |
+| 10 Sep 2024 | ₹30.83 |
+| 30 Sep 2024 | ₹31.03 |
+| 17 Oct 2024 | ₹31.13 |
+| 05 Nov 2024 | ₹31.22 |
+| 25 Nov 2024 | ₹31.33 |
+| 12 Dec 2024 | ₹31.47 |
+| 31 Dec 2024 | ₹31.55 |
+| 16 Jan 2025 | ₹31.64 |
+| 04 Feb 2025 | ₹31.83 |
+| 23 Feb 2025 | ₹31.91 |
+| 12 Mar 2025 | ₹31.98 |
+| 01 Apr 2025 | ₹32.39 |
+| 23 Apr 2025 | ₹32.71 |
+| 13 May 2025 | ₹32.85 |
+| 29 May 2025 | ₹33.08 |
+| 16 Jun 2025 | ₹33.13 |
+| 03 Jul 2025 | ₹33.24 |
+| 21 Jul 2025 | ₹33.35 |
+| 06 Aug 2025 | ₹33.39 |
+| 25 Aug 2025 | ₹33.36 |
+| 15 Sep 2025 | ₹33.49 |
+| 02 Oct 2025 | ₹33.65 |
+| 22 Oct 2025 | ₹33.82 |
+| 11 Nov 2025 | ₹33.96 |
+| 27 Nov 2025 | ₹34.06 |
+| 15 Dec 2025 | ₹34.04 |
+| 01 Jan 2026 | ₹34.14 |
+| 21 Jan 2026 | ₹34.11 |
+| 09 Feb 2026 | ₹34.23 |
+| 26 Feb 2026 | ₹34.41 |
+| 17 Mar 2026 | ₹34.42 |
+| 09 Apr 2026 | ₹34.50 |
+| 28 Apr 2026 | ₹34.54 |
+| 17 May 2026 | ₹34.47 |
+| 04 Jun 2026 | ₹34.75 |
+| 22 Jun 2026 | ₹35.04 |
+| 09 Jul 2026 | ₹35.24 |
+| 27 Jul 2026 | ₹35.30 |
+| 13 Aug 2026 | ₹35.44 |
+| 01 Sep 2026 | ₹35.36 |
+| 20 Sep 2026 | ₹35.43 |
+| 07 Oct 2026 | ₹35.40 |
+| 27 Oct 2026 | ₹35.26 |
+| 15 Nov 2026 | ₹35.54 |
 
-NAV: 13 Nov '26
+NAV: 16 Nov '26
 
-₹35.53
+₹35.54
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,226 | | +2.17% |
-| 3 years | ₹3,600 | ₹3,946 | | +9.61% |
-| 5 years | ₹6,000 | ₹7,097 | | +18.28% |
-| 10 years | ₹12,000 | ₹17,140 | | +42.83% |
+| 1 year | ₹1,200 | ₹1,225 | | +2.08% |
+| 3 years | ₹3,600 | ₹3,944 | | +9.56% |
+| 5 years | ₹6,000 | ₹7,094 | | +18.23% |
+| 10 years | ₹12,000 | ₹17,132 | | +42.77% |
 
 ## Holdings (139)
 
@@ -276,7 +276,7 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.3% | +6.5% | +7.3% | +7.8% |
+| Fund returns | +7.3% | +6.5% | +7.2% | +7.8% |
 | Category average (Debt Short Term) | +7.1% | +6.5% | +6.6% | +7.5% |
 | Rank (Debt Short Term) | 12 | 9 | 4 | -- |
 
@@ -330,11 +330,11 @@ Returns are taxed as per your Income Tax slab.
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Axis Short Term Fund Direct Growth](/mutual-funds/axis-short-term-fund-direct-growth) | +5.19% | +7.65% | 7,394.64 |
-| | [Bandhan Short Term Fund Direct Growth](/mutual-funds/bandhan-short-term-fund-direct-growth) | +5.64% | +7.60% | 8,627.64 |
-| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +5.17% | +7.55% | 18,468.29 |
-| | [Nippon India Short Term Fund Direct Growth](/mutual-funds/nippon-india-short-term-fund-direct-growth) | +4.74% | +7.50% | 6,361.22 |
-| | [Sundaram Short Term Fund Direct Growth](/mutual-funds/sundaram-short-term-fund-direct-growth) | +4.90% | +7.32% | 189.58 |
+| | [Axis Short Term Fund Direct Growth](/mutual-funds/axis-short-term-fund-direct-growth) | +5.17% | +7.60% | 7,394.64 |
+| | [Bandhan Short Term Fund Direct Growth](/mutual-funds/bandhan-short-term-fund-direct-growth) | +5.67% | +7.55% | 8,627.64 |
+| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +5.18% | +7.49% | 18,468.29 |
+| | [Nippon India Short Term Fund Direct Growth](/mutual-funds/nippon-india-short-term-fund-direct-growth) | +4.77% | +7.46% | 6,361.22 |
+| | [Sundaram Short Term Fund Direct Growth](/mutual-funds/sundaram-short-term-fund-direct-growth) | +4.93% | +7.27% | 189.58 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-short-term-fund-direct-plan-growth) | | | | |
@@ -483,7 +483,7 @@ Also manages these schemes
 
 HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AU
 
-HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 13 Nov 2026 is ₹35.53.
+HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 16 Nov 2026 is ₹35.54.
 The HDFC Short Term Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -556,13 +556,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.33% as of 15 Nov 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.33% as of 17 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Fund Direct Plan Growth is ₹13,966.76Cr as of 15 Nov 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹13,966.76Cr as of 17 Nov 2026.
 
 ###
 
@@ -579,7 +579,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.53 as of 13 Nov 2026.
+The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.54 as of 16 Nov 2026.
 
 ###
 

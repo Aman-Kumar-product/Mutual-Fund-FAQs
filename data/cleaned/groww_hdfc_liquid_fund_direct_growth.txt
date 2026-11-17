@@ -1,77 +1,77 @@
-+60123456789.8012345678990123456789%
++60123456789.8012345678980123456789%
 
 3Y annualised
 
-+0.02% 1D
++0.01% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 14 Nov 2023 | ₹46.16 |
-| 03 Dec 2023 | ₹46.32 |
-| 21 Dec 2023 | ₹46.48 |
-| 09 Jan 2024 | ₹46.67 |
-| 27 Jan 2024 | ₹46.83 |
-| 15 Feb 2024 | ₹47.00 |
-| 04 Mar 2024 | ₹47.18 |
-| 23 Mar 2024 | ₹47.35 |
-| 11 Apr 2024 | ₹47.58 |
-| 29 Apr 2024 | ₹47.73 |
-| 18 May 2024 | ₹47.90 |
-| 05 Jun 2024 | ₹48.07 |
-| 24 Jun 2024 | ₹48.24 |
-| 12 Jul 2024 | ₹48.42 |
-| 31 Jul 2024 | ₹48.60 |
-| 19 Aug 2024 | ₹48.77 |
-| 06 Sep 2024 | ₹48.93 |
-| 25 Sep 2024 | ₹49.11 |
-| 13 Oct 2024 | ₹49.29 |
-| 01 Nov 2024 | ₹49.46 |
-| 20 Nov 2024 | ₹49.64 |
-| 08 Dec 2024 | ₹49.81 |
-| 27 Dec 2024 | ₹49.97 |
-| 14 Jan 2025 | ₹50.16 |
-| 02 Feb 2025 | ₹50.34 |
-| 20 Feb 2025 | ₹50.52 |
-| 11 Mar 2025 | ₹50.69 |
-| 30 Mar 2025 | ₹50.93 |
-| 17 Apr 2025 | ₹51.14 |
-| 06 May 2025 | ₹51.30 |
-| 24 May 2025 | ₹51.47 |
-| 12 Jun 2025 | ₹51.65 |
-| 30 Jun 2025 | ₹51.80 |
-| 19 Jul 2025 | ₹51.96 |
-| 07 Aug 2025 | ₹52.11 |
-| 25 Aug 2025 | ₹52.25 |
-| 13 Sep 2025 | ₹52.40 |
-| 01 Oct 2025 | ₹52.56 |
-| 20 Oct 2025 | ₹52.71 |
-| 07 Nov 2025 | ₹52.86 |
-| 26 Nov 2025 | ₹53.02 |
-| 15 Dec 2025 | ₹53.17 |
-| 02 Jan 2026 | ₹53.34 |
-| 21 Jan 2026 | ₹53.48 |
-| 08 Feb 2026 | ₹53.66 |
-| 27 Feb 2026 | ₹53.83 |
-| 18 Mar 2026 | ₹53.98 |
-| 05 Apr 2026 | ₹54.24 |
-| 24 Apr 2026 | ₹54.44 |
-| 12 May 2026 | ₹54.57 |
-| 31 May 2026 | ₹54.74 |
-| 18 Jun 2026 | ₹54.96 |
-| 07 Jul 2026 | ₹55.14 |
-| 26 Jul 2026 | ₹55.32 |
-| 13 Aug 2026 | ₹55.51 |
-| 01 Sep 2026 | ₹55.70 |
-| 19 Sep 2026 | ₹55.85 |
-| 08 Oct 2026 | ₹56.04 |
-| 26 Oct 2026 | ₹56.15 |
-| 14 Nov 2026 | ₹56.37 |
+| 16 Nov 2023 | ₹46.17 |
+| 05 Dec 2023 | ₹46.34 |
+| 23 Dec 2023 | ₹46.50 |
+| 11 Jan 2024 | ₹46.69 |
+| 29 Jan 2024 | ₹46.84 |
+| 17 Feb 2024 | ₹47.02 |
+| 06 Mar 2024 | ₹47.20 |
+| 25 Mar 2024 | ₹47.37 |
+| 12 Apr 2024 | ₹47.59 |
+| 01 May 2024 | ₹47.75 |
+| 20 May 2024 | ₹47.93 |
+| 07 Jun 2024 | ₹48.09 |
+| 26 Jun 2024 | ₹48.26 |
+| 14 Jul 2024 | ₹48.44 |
+| 02 Aug 2024 | ₹48.61 |
+| 20 Aug 2024 | ₹48.78 |
+| 08 Sep 2024 | ₹48.95 |
+| 27 Sep 2024 | ₹49.13 |
+| 15 Oct 2024 | ₹49.31 |
+| 03 Nov 2024 | ₹49.48 |
+| 21 Nov 2024 | ₹49.65 |
+| 10 Dec 2024 | ₹49.83 |
+| 28 Dec 2024 | ₹49.98 |
+| 16 Jan 2025 | ₹50.18 |
+| 03 Feb 2025 | ₹50.35 |
+| 22 Feb 2025 | ₹50.54 |
+| 13 Mar 2025 | ₹50.71 |
+| 31 Mar 2025 | ₹50.94 |
+| 19 Apr 2025 | ₹51.16 |
+| 07 May 2025 | ₹51.31 |
+| 26 May 2025 | ₹51.49 |
+| 13 Jun 2025 | ₹51.66 |
+| 02 Jul 2025 | ₹51.83 |
+| 20 Jul 2025 | ₹51.97 |
+| 08 Aug 2025 | ₹52.11 |
+| 27 Aug 2025 | ₹52.27 |
+| 14 Sep 2025 | ₹52.41 |
+| 03 Oct 2025 | ₹52.58 |
+| 21 Oct 2025 | ₹52.72 |
+| 09 Nov 2025 | ₹52.88 |
+| 27 Nov 2025 | ₹53.03 |
+| 16 Dec 2025 | ₹53.18 |
+| 03 Jan 2026 | ₹53.35 |
+| 22 Jan 2026 | ₹53.49 |
+| 10 Feb 2026 | ₹53.68 |
+| 28 Feb 2026 | ₹53.84 |
+| 19 Mar 2026 | ₹53.98 |
+| 06 Apr 2026 | ₹54.25 |
+| 25 Apr 2026 | ₹54.44 |
+| 13 May 2026 | ₹54.58 |
+| 01 Jun 2026 | ₹54.75 |
+| 20 Jun 2026 | ₹54.98 |
+| 08 Jul 2026 | ₹55.16 |
+| 27 Jul 2026 | ₹55.33 |
+| 14 Aug 2026 | ₹55.52 |
+| 02 Sep 2026 | ₹55.72 |
+| 20 Sep 2026 | ₹55.86 |
+| 09 Oct 2026 | ₹56.05 |
+| 27 Oct 2026 | ₹56.16 |
+| 15 Nov 2026 | ₹56.38 |
 
-NAV: 15 Nov '26
+NAV: 16 Nov '26
 
-₹5,637.49
+₹5,638.33
 
 Min. for SIP
 
@@ -104,153 +104,161 @@ Monthly investment
 | 5 years | ₹6,000 | ₹7,075 | | +17.92% |
 | 10 years | ₹12,000 | ₹16,314 | | +35.95% |
 
-## Holdings (143)
+## Holdings (151)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| 91 DTB (17-DEC-2026) | Financial | Treasury Bills | 4.25% |
-| Union Bank of India | Financial | Certificate of Deposit | 3.75% |
-| 91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 3.73% |
-| Union Bank of India^ | Financial | Certificate of Deposit | 2.99% |
-| Reliance Retail Ventures Ltd - 08/12/2026\*\* | Diversified | Commercial Paper | 2.98% |
-| SIDBI CP RED 02-12-2026\*\* | Financial | Commercial Paper | 2.69% |
-| Reserve Bank of India 91-D | Financial | Treasury Bills | 2.41% |
-| UNION BANK OF INDIA CD 16OCT26 | Financial | Certificate of Deposit | 2.26% |
-| The Federal Bank Ltd.^ | Financial | Certificate of Deposit | 2.25% |
-| Export-Import Bank Of India (10-Dec-2026) \*\* | Financial | Commercial Paper | 2.24% |
-| 91 DTB (24-DEC-2026) | Financial | Treasury Bills | 2.23% |
-| BANK OF INDIA CD 11-12-26#\*\* | Financial | Certificate of Deposit | 2.23% |
-| BANK OF BARODA CD 06NOV26 | Financial | Certificate of Deposit | 2.22% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 90D CP 23NOV26 | Financial | Commercial Paper | 1.87% |
-| Small Industries Dev Bank of India (17/12/2026) \*\* | Financial | Commercial Paper | 1.64% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA 91D CP 28OCT26 | Financial | Commercial Paper | 1.50% |
-| GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 1.50% |
-| YES BANK LIMITED CD 16NOV26 | Financial | Certificate of Deposit | 1.50% |
-| Reliance Industries Ltd. (MD 09/12/2026)\*\* | Energy & Utilities | Commercial Paper | 1.49% |
-| Bank of India (04/12/2026) \*\* | Financial | Certificate of Deposit | 1.49% |
-| NTPC Limited 2026 \*\* | Energy & Utilities | Commercial Paper | 1.49% |
-| National Bank For Agriculture & Rural Development CP 30/11/2026 | Financial | Commercial Paper | 1.49% |
-| BANK OF BARODA CD 11NOV26 | Financial | Certificate of Deposit | 1.35% |
-| ADITYA BIRLA CAPITAL LIMITED 90D CP 23NOV26 | Financial | Commercial Paper | 1.34% |
-| TITAN COMPANY LIMITED 90D CP 26NOV26 | Consumer Discretionary | Commercial Paper | 1.23% |
-| GODREJ CONSUMER PRODUCTS LIMITED 90D CP 05NOV26 | Consumer Staples | Commercial Paper | 1.20% |
-| ICICI Securities Ltd. (07/12/2026) \*\* | Financial | Commercial Paper | 1.19% |
-| ICICI SECURITIES LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 1.16% |
-| L&T FINANCE LIMITED 91D CP 28OCT26 | Financial | Commercial Paper | 1.13% |
-| L&T FINANCE LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 1.12% |
-| ICICI SECURITIES LIMITED 91D CP 11NOV26 | Financial | Commercial Paper | 1.12% |
-| Yes Bank Ltd.^ | Financial | Certificate of Deposit | 1.12% |
-| GOVERNMENT OF INDIA 37449 182 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 1.08% |
-| GOVERNMENT OF INDIA 37392 182 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 1.06% |
-| [REC LIMITED SR 237 7.55 BD 31OT26 FVRS1LAC](/stocks/rec-limited-975893) | Financial | Debenture | 1.03% |
-| REC LIMITED 91D CP 22OCT26 | Financial | Commercial Paper | 0.98% |
-| 182 Days Tbill (MD 17/12/2026) | Financial | Treasury Bills | 0.95% |
-| KOTAK SECURITIES LTD 91D CP 11NOV26 | Financial | Commercial Paper | 0.90% |
-| Kotak Securities Limited (03/12/2026) \*\* | Financial | Commercial Paper | 0.89% |
-| L&T FINANCE LIMITED 91D CP 28OCT26 | Financial | Commercial Paper | 0.83% |
-| TITAN COMPANY LIMITED 90D CP 12NOV26 | Consumer Discretionary | Commercial Paper | 0.82% |
-| BANK OF BARODA CD 05NOV26 | Financial | Certificate of Deposit | 0.75% |
-| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 10NOV26 | Financial | Certificate of Deposit | 0.75% |
-| KOTAK SECURITIES LTD 91D CP 12NOV26 | Financial | Commercial Paper | 0.75% |
-| POONAWALLA FINCORP LIMITED 88D CP 06NOV26 | Financial | Commercial Paper | 0.75% |
-| Reliance Retail Ventures Limited (27/11/2026) \*\* | Diversified | Commercial Paper | 0.75% |
-| TITAN COMPANY LTD. CP 03-12-26\*\* | Consumer Discretionary | Commercial Paper | 0.75% |
-| Reliance Retail Ventures Limited (06/11/2026) \*\* | Diversified | Commercial Paper | 0.75% |
-| Canara Bank\*\* | Financial | Certificate of Deposit | 0.75% |
-| RELIANCE RETAIL VENTURES CP RED 11-12-26\*\* | Diversified | Commercial Paper | 0.74% |
-| Kotak Securities Ltd.^ | Financial | Commercial Paper | 0.74% |
-| KOTAK SECURITIES LTD CP RED 15-12-2026 \*\* | Financial | Commercial Paper | 0.74% |
-| Bajaj Auto Credit Limited^ | Financial | Commercial Paper | 0.74% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 16DEC26 | Financial | Certificate of Deposit | 0.67% |
-| Power Finance Corporation Ltd (09-Dec-2026) \*\* | Financial | Commercial Paper | 0.67% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 171 7.23 BD 15OT26 FVRS1LAC](/stocks/indian-railway-finance-corporation-limited-974862) | Financial | Debenture | 0.63% |
-| IDFC FIRST BANK LIMITED CD 22OCT26 | Financial | Certificate of Deposit | 0.60% |
-| ICICI HOME FINANCE COMPANY LIMITED 91D CP 12NOV26 | Financial | Commercial Paper | 0.60% |
-| SHAREKHAN LIMITED 91D CP 23NOV26 | Financial | Commercial Paper | 0.60% |
-| ADITYA BIRLA CAPITAL LIMITED 88D CP 13NOV26 | Financial | Commercial Paper | 0.60% |
-| Bajaj Financial Securities Limited^ | Financial | Commercial Paper | 0.60% |
-| Bank of India 15-DEC-2026\*\*# | Financial | Certificate of Deposit | 0.60% |
-| BAJAJ FINANCIAL SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.60% |
-| Birla Group Holdings Private Ltd\*\* | Financial | Commercial Paper | 0.56% |
-| INDUSIND BANK LTD. CD 07DEC26 | Financial | Certificate of Deposit | 0.52% |
-| Tata Capital Housing Finance Limited\*\* | Financial | Commercial Paper | 0.52% |
-| Godrej Consumer Products Limited\*\* | Consumer Staples | Commercial Paper | 0.52% |
-| Tata Communications Limited^ | Technology | Commercial Paper | 0.52% |
-| GOVERNMENT OF INDIA 36848 364 DAYS TBILL 25DC26 FV RS 100 | Financial | Treasury Bills | 0.51% |
-| National Bank For Agriculture and Rural Development (02/12/2026) \*\* | Financial | Commercial Paper | 0.48% |
-| AVENUE SUPERMARTS LIMITED 90D CP 09NOV26 | Consumer Staples | Commercial Paper | 0.45% |
-| Export Import Bank of India (04/12/2026) \*\* | Financial | Commercial Paper | 0.45% |
-| SBICAP SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.45% |
-| Punjab & Sind Bank 06-NOV-2026\*\*# | Financial | Certificate of Deposit | 0.45% |
-| BANK OF BARODA CD 04DEC26 | Financial | Certificate of Deposit | 0.41% |
-| LIC HOUSING FINANCE LTD 91D CP 26NOV26 | Financial | Commercial Paper | 0.41% |
-| 91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.40% |
-| CANARA BANK CD 18DEC26 | Financial | Certificate of Deposit | 0.39% |
-| NTPC LIMITED 88D CP 09OCT26 | Energy & Utilities | Commercial Paper | 0.38% |
-| ADITYA BIRLA CAPITAL LIMITED 153D CP 15OCT26 | Financial | Commercial Paper | 0.38% |
-| JULIUS BAER CAPITAL (INDIA) PRIVATE LIMITED 91D CP 23OCT26 | Financial | Commercial Paper | 0.38% |
-| HINDUSTAN PETROLEUM CORPORATION LIMITED 91D CP 13NOV26 | Energy & Utilities | Commercial Paper | 0.37% |
-| BAJAJ FINANCE LIMITED 91D CP 18NOV26 | Financial | Commercial Paper | 0.37% |
-| JULIUS BAER CAPITAL (INDIA) PRIVATE LIMITED 91D CP 16NOV26 | Financial | Commercial Paper | 0.37% |
-| National Bank For Agriculture & Rural Development (11-Dec-2026) \*\* | Financial | Commercial Paper | 0.37% |
-| Bharat Petroleum Corporation Limited\*\* | Energy & Utilities | Commercial Paper | 0.37% |
-| DSP FINANCE PRIVATE LIMITED\*\* | Financial | Commercial Paper | 0.37% |
-| Punjab & Sind Bank (17-Dec-2026) \*\* | Financial | Certificate of Deposit | 0.37% |
-| Aarti Industries Ltd.^ | Materials | Commercial Paper | 0.33% |
-| [INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 172A 7.41 BD 15OT26 FVRS1LAC](/stocks/indian-railway-finance-corporation-limited-974939) | Financial | Debenture | 0.30% |
-| Others Class A2 AIF | Unspecified | Alternative Investment Fund | 0.30% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26 | Financial | Certificate of Deposit | 0.30% |
-| GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.30% |
-| GOVERNMENT OF INDIA 37705 091 DAYS TBILL 29OT26 FV RS 100 | Financial | Treasury Bills | 0.30% |
-| DSP FINANCE PRIVATE LIMITED 91D CP 13NOV26 | Financial | Commercial Paper | 0.30% |
-| Kotak Securities Ltd.^ | Financial | Commercial Paper | 0.30% |
-| Sharekhan Limited (04/12/2026) \*\* | Financial | Commercial Paper | 0.30% |
-| Sikka Ports and Terminals Limited (04/12/2026) \*\* | Energy & Utilities | Commercial Paper | 0.30% |
-| Nirma Ltd.^ | Consumer Staples | Commercial Paper | 0.30% |
-| ICICI Securities Ltd^ | Financial | Commercial Paper | 0.30% |
-| SBICAP SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.30% |
-| Julius Baer Capital (India) Pvt. Ltd.^ | Financial | Commercial Paper | 0.30% |
-| BAJAJ FINANCE LIMITED 91D CP 11NOV26 | Financial | Commercial Paper | 0.28% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA 209D CP 03DEC26 | Financial | Commercial Paper | 0.26% |
-| [MINDSPACE BUSINESS PARKS REIT SR NCD7 8.03 NCD 10DC26 FVRS1LAC](/stocks/mindspace-business-parks-reit-975068) | Real Estate | Debenture | 0.24% |
-| Bajaj Financial Securities Ltd 13-OCT-2026\*\* | Financial | Commercial Paper | 0.23% |
-| AXIS Securities Limited^ | Unspecified | Commercial Paper | 0.23% |
-| Godrej Properties Ltd.^ | Real Estate | Commercial Paper | 0.23% |
-| GOVERNMENT OF INDIA 36814 364 DAYS TBILL 10DC26 FV RS 100 | Financial | Treasury Bills | 0.22% |
-| ADITYA BIRLA MONEY LIMITED 91D CP 13NOV26 | Financial | Commercial Paper | 0.22% |
-| GODREJ PROPERTIES LIMITED 91D CP 16NOV26 | Real Estate | Commercial Paper | 0.22% |
-| GODREJ PROPERTIES LIMITED 91D CP 17NOV26 | Real Estate | Commercial Paper | 0.22% |
-| GODREJ PROPERTIES LIMITED 91D CP 18NOV26 | Real Estate | Commercial Paper | 0.22% |
-| GODREJ PROPERTIES LIMITED 90D CP 23NOV26 | Real Estate | Commercial Paper | 0.22% |
-| Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.22% |
-| GOVERNMENT OF INDIA 37816 091 DAYS TBILL 05NV26 FV RS 100 | Financial | Treasury Bills | 0.20% |
-| GODREJ PROPERTIES LIMITED 91D CP 26NOV26 | Real Estate | Commercial Paper | 0.19% |
-| Godrej Properties Ltd.^ | Real Estate | Commercial Paper | 0.19% |
-| GOVERNMENT OF INDIA 36790 364 DAYS TBILL 03DC26 FV RS 100 | Financial | Treasury Bills | 0.18% |
-| Reverse Repo | Unspecified | Reverse Repo | 0.16% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 13OCT26 | Financial | Certificate of Deposit | 0.15% |
-| CANARA BANK CD 11NOV26 | Financial | Certificate of Deposit | 0.15% |
-| SIKKA PORTS & TERMINALS LIMITED 87D CP 16OCT26 | Energy & Utilities | Commercial Paper | 0.15% |
-| JIO CREDIT LIMITED 90D CP 09NOV26 | Financial | Commercial Paper | 0.15% |
-| SBICAP SECURITIES LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 0.15% |
-| ICICI SECURITIES LIMITED 88D CP 06NOV26 | Financial | Commercial Paper | 0.15% |
-| Network 18 Media & Investments Ltd\*\* | Consumer Discretionary | Commercial Paper | 0.15% |
-| BAJAJ FINANCIAL SECURITIES LIMITED 51D CP 09OCT26 | Financial | Commercial Paper | 0.15% |
-| Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.15% |
-| Repo | Unspecified | Repo | 0.12% |
+| 91 DTB (17-DEC-2026) | Financial | Treasury Bills | 3.99% |
+| Repo | Unspecified | Repo | 3.55% |
+| 91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 3.49% |
+| Union Bank of India^ | Financial | Certificate of Deposit | 2.81% |
+| Reliance Retail Ventures Ltd - 08/12/2026\*\* | Diversified | Commercial Paper | 2.79% |
+| SIDBI CP RED 02-12-2026\*\* | Financial | Commercial Paper | 2.52% |
+| Export-Import Bank Of India (10-Dec-2026) \*\* | Financial | Commercial Paper | 2.09% |
+| BANK OF INDIA CD 11-12-26#\*\* | Financial | Certificate of Deposit | 2.09% |
+| 91 DAY T-BILL 07.01.27 | Financial | Treasury Bills | 2.09% |
+| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 90D CP 23NOV26 | Financial | Commercial Paper | 1.75% |
+| Reliance Industries Ltd.^ | Energy & Utilities | Commercial Paper | 1.75% |
+| Reliance Industries Limited (05/01/2027) \*\* | Energy & Utilities | Commercial Paper | 1.74% |
+| 91 DTB (24-DEC-2026) | Financial | Treasury Bills | 1.65% |
+| Small Industries Dev Bank of India (17/12/2026) \*\* | Financial | Commercial Paper | 1.53% |
+| YES BANK LIMITED CD 16NOV26 | Financial | Certificate of Deposit | 1.40% |
+| Reliance Industries Ltd. (MD 09/12/2026)\*\* | Energy & Utilities | Commercial Paper | 1.40% |
+| Bank of India (04/12/2026) \*\* | Financial | Certificate of Deposit | 1.40% |
+| NTPC Limited 2026 \*\* | Energy & Utilities | Commercial Paper | 1.40% |
+| NTPC Limited (23/11/2026) \*\* | Energy & Utilities | Commercial Paper | 1.40% |
+| National Bank For Agriculture & Rural Development CP 30/11/2026 | Financial | Commercial Paper | 1.40% |
+| BANK OF BARODA CD 11NOV26 | Financial | Certificate of Deposit | 1.26% |
+| ADITYA BIRLA CAPITAL LIMITED 90D CP 23NOV26 | Financial | Commercial Paper | 1.26% |
+| [CENTRAL GOVERNMENT LOAN 30950 GOI 15NV26 5.74 FV RS 100](/stocks/gs) | Entities | GOI Securities | 1.21% |
+| The Federal Bank Ltd.^ | Financial | Certificate of Deposit | 1.19% |
+| TITAN COMPANY LIMITED 90D CP 26NOV26 | Consumer Discretionary | Commercial Paper | 1.15% |
+| GODREJ CONSUMER PRODUCTS LIMITED 90D CP 05NOV26 | Consumer Staples | Commercial Paper | 1.12% |
+| ICICI Securities Ltd. (07/12/2026) \*\* | Financial | Commercial Paper | 1.12% |
+| TITAN COMPANY LTD CP 07-12-26\*\* | Consumer Discretionary | Commercial Paper | 1.12% |
+| Union Bank of India (07-Dec-2026) \*\* | Financial | Certificate of Deposit | 1.12% |
+| ICICI SECURITIES LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 1.09% |
+| ICICI SECURITIES LIMITED 91D CP 11NOV26 | Financial | Commercial Paper | 1.05% |
+| Yes Bank Ltd.^ | Financial | Certificate of Deposit | 1.05% |
+| GOVERNMENT OF INDIA 37449 182 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 1.01% |
+| 182 Days Tbill (MD 17/12/2026) | Financial | Treasury Bills | 0.91% |
+| KOTAK SECURITIES LTD 91D CP 11NOV26 | Financial | Commercial Paper | 0.84% |
+| Kotak Securities Limited (03/12/2026) \*\* | Financial | Commercial Paper | 0.84% |
+| TATA CAPITAL LIMITED SR B STRPP-I 7.905 NCD 03DC26 FVRS1LAC | Financial | Debenture | 0.82% |
+| TITAN COMPANY LIMITED 90D CP 12NOV26 | Consumer Discretionary | Commercial Paper | 0.77% |
+| INDUSIND BANK LTD. CD 22JAN27 | Financial | Certificate of Deposit | 0.70% |
+| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 10NOV26 | Financial | Certificate of Deposit | 0.70% |
+| KOTAK SECURITIES LTD 91D CP 12NOV26 | Financial | Commercial Paper | 0.70% |
+| POONAWALLA FINCORP LIMITED 88D CP 06NOV26 | Financial | Commercial Paper | 0.70% |
+| TITAN COMPANY LTD. CP 03-12-26\*\* | Consumer Discretionary | Commercial Paper | 0.70% |
+| RELIANCE RETAIL VENTURES CP RED 11-12-26\*\* | Diversified | Commercial Paper | 0.70% |
+| KOTAK SECURITIES LTD CP RED 15-12-2026 \*\* | Financial | Commercial Paper | 0.70% |
+| Canara Bank\*\* | Financial | Certificate of Deposit | 0.70% |
+| Bajaj Auto Credit Limited^ | Financial | Commercial Paper | 0.70% |
+| NTPC Limited (27/11/2026) \*\* | Energy & Utilities | Commercial Paper | 0.70% |
+| \*\* - NABARD - CP - 05/01/2027 | Financial | Commercial Paper | 0.69% |
+| Small Industries Dev Bank of India 2027 \*\* | Financial | Commercial Paper | 0.69% |
+| Union Bank of India (20/01/2027) \*\* | Financial | Certificate of Deposit | 0.69% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 16DEC26 | Financial | Certificate of Deposit | 0.63% |
+| Power Finance Corporation Ltd (09-Dec-2026) \*\* | Financial | Commercial Paper | 0.63% |
+| Small Industries Development Bank of India (07/01/2027) | Financial | Commercial Paper | 0.62% |
+| KOTAK MAHINDRA BANK LIMITED CD 21DEC26 | Financial | Certificate of Deposit | 0.59% |
+| Reliance Retail Ventures Limited (27/11/2026) \*\* | Diversified | Commercial Paper | 0.59% |
+| ICICI HOME FINANCE COMPANY LIMITED 91D CP 12NOV26 | Financial | Commercial Paper | 0.56% |
+| SHAREKHAN LIMITED 91D CP 23NOV26 | Financial | Commercial Paper | 0.56% |
+| ADITYA BIRLA CAPITAL LIMITED 88D CP 13NOV26 | Financial | Commercial Paper | 0.56% |
+| Bajaj Financial Securities Limited^ | Financial | Commercial Paper | 0.56% |
+| Bank of India 15-DEC-2026\*\*# | Financial | Certificate of Deposit | 0.56% |
+| BAJAJ FINANCIAL SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.56% |
+| AXIS BANK LIMITED CD 13JAN27 | Financial | Certificate of Deposit | 0.55% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.52% |
+| Birla Group Holdings Private Ltd\*\* | Financial | Commercial Paper | 0.52% |
+| INDUSIND BANK LTD. CD 07DEC26 | Financial | Certificate of Deposit | 0.49% |
+| IndusInd Bank Limited (11/12/2026) \*\* # | Financial | Certificate of Deposit | 0.49% |
+| Godrej Consumer Products Limited\*\* | Consumer Staples | Commercial Paper | 0.49% |
+| Kotak Securities Ltd.^ | Financial | Commercial Paper | 0.49% |
+| Tata Communications Limited^ | Technology | Commercial Paper | 0.49% |
+| GOVERNMENT OF INDIA 36848 364 DAYS TBILL 25DC26 FV RS 100 | Financial | Treasury Bills | 0.47% |
+| Tata Capital Housing Finance Limited\*\* | Financial | Commercial Paper | 0.47% |
+| National Bank For Agriculture and Rural Development (02/12/2026) \*\* | Financial | Commercial Paper | 0.45% |
+| GOVERNMENT OF INDIA 36839 364 DAYS TBILL 17DC26 FV RS 100 | Financial | Treasury Bills | 0.44% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 14JAN27 | Financial | Certificate of Deposit | 0.42% |
+| Export Import Bank of India (04/12/2026) \*\* | Financial | Commercial Paper | 0.42% |
+| Indian Oil Corporation Limited (08/12/2026) \*\* | Energy & Utilities | Commercial Paper | 0.42% |
+| SBICAP SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.42% |
+| Julius Baer Capital (India) Pvt. Ltd.^ | Financial | Commercial Paper | 0.42% |
+| LIC HOUSING FINANCE LTD 91D CP 26NOV26 | Financial | Commercial Paper | 0.38% |
+| Punjab National Bank\*\* | Financial | Certificate of Deposit | 0.38% |
+| 91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.37% |
+| CANARA BANK CD 18DEC26 | Financial | Certificate of Deposit | 0.36% |
+| BANK OF BARODA CD 05NOV26 | Financial | Certificate of Deposit | 0.35% |
+| HINDUSTAN PETROLEUM CORPORATION LIMITED 91D CP 13NOV26 | Energy & Utilities | Commercial Paper | 0.35% |
+| BAJAJ FINANCE LIMITED 91D CP 18NOV26 | Financial | Commercial Paper | 0.35% |
+| JULIUS BAER CAPITAL (INDIA) PRIVATE LIMITED 91D CP 16NOV26 | Financial | Commercial Paper | 0.35% |
+| National Bank For Agriculture & Rural Development (11-Dec-2026) \*\* | Financial | Commercial Paper | 0.35% |
+| Bharat Petroleum Corporation Limited\*\* | Energy & Utilities | Commercial Paper | 0.35% |
+| Punjab & Sind Bank (17-Dec-2026) \*\* | Financial | Certificate of Deposit | 0.35% |
+| IDBI Bank Ltd. (15/12/2026) \*\*# | Financial | Certificate of Deposit | 0.35% |
+| Union Bank of India (25/01/2027) # | Financial | Certificate of Deposit | 0.35% |
+| Aarti Industries Ltd.^ | Materials | Commercial Paper | 0.31% |
+| Others Class A2 AIF | Unspecified | Alternative Investment Fund | 0.28% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26 | Financial | Certificate of Deposit | 0.28% |
+| EXPORT IMPORT BANK OF INDIA CD 11NOV26 | Financial | Certificate of Deposit | 0.28% |
+| PUNJAB NATIONAL BANK CD 15DEC26 | Financial | Certificate of Deposit | 0.28% |
+| MUTHOOT FINANCE LIMITED 358D CP 20JAN27 | Financial | Commercial Paper | 0.28% |
+| Kotak Securities Ltd.^ | Financial | Commercial Paper | 0.28% |
+| Sharekhan Limited (04/12/2026) \*\* | Financial | Commercial Paper | 0.28% |
+| Sikka Ports and Terminals Limited (04/12/2026) \*\* | Energy & Utilities | Commercial Paper | 0.28% |
+| DSP FINANCE PRIVATE LIMITED\*\* | Financial | Commercial Paper | 0.28% |
+| Nirma Ltd.^ | Consumer Staples | Commercial Paper | 0.28% |
+| ICICI Securities Ltd^ | Financial | Commercial Paper | 0.28% |
+| SBICAP SECURITIES LIMITED\*\* | Financial | Commercial Paper | 0.28% |
+| Julius Baer Capital (India) Pvt. Ltd.^ | Financial | Commercial Paper | 0.28% |
+| Sikka Ports and Terminals Limited (15/01/2027) | Energy & Utilities | Commercial Paper | 0.28% |
+| Tata Projects Ltd.^ | Industrials | Commercial Paper | 0.28% |
+| BAJAJ FINANCE LIMITED 91D CP 11NOV26 | Financial | Commercial Paper | 0.26% |
+| DSP FINANCE PRIVATE LIMITED 91D CP 13NOV26 | Financial | Commercial Paper | 0.25% |
+| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA 209D CP 03DEC26 | Financial | Commercial Paper | 0.24% |
+| AXIS BANK LIMITED CD 07DEC26 | Financial | Certificate of Deposit | 0.24% |
+| [MINDSPACE BUSINESS PARKS REIT SR NCD7 8.03 NCD 10DC26 FVRS1LAC](/stocks/mindspace-business-parks-reit-975068) | Real Estate | Debenture | 0.23% |
+| STATE DEVELOPMENT LOAN 33797 GUJ 03JN27 7.43 FV RS 100 | Industrials | State Development Loan | 0.22% |
+| L&T FINANCE LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 0.22% |
+| GOVERNMENT OF INDIA 36814 364 DAYS TBILL 10DC26 FV RS 100 | Financial | Treasury Bills | 0.21% |
+| ADITYA BIRLA MONEY LIMITED 91D CP 13NOV26 | Financial | Commercial Paper | 0.21% |
+| BAJAJ FINANCIAL SECURITIES LIMITED 113D CP 10DEC26 | Financial | Commercial Paper | 0.21% |
+| GODREJ PROPERTIES LIMITED 91D CP 16NOV26 | Real Estate | Commercial Paper | 0.21% |
+| GODREJ PROPERTIES LIMITED 91D CP 17NOV26 | Real Estate | Commercial Paper | 0.21% |
+| GODREJ PROPERTIES LIMITED 91D CP 18NOV26 | Real Estate | Commercial Paper | 0.21% |
+| GODREJ PROPERTIES LIMITED 90D CP 23NOV26 | Real Estate | Commercial Paper | 0.21% |
+| Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.21% |
+| GOVERNMENT OF INDIA 37816 091 DAYS TBILL 05NV26 FV RS 100 | Financial | Treasury Bills | 0.19% |
+| BANK OF BARODA CD 06NOV26 | Financial | Certificate of Deposit | 0.18% |
+| GOVERNMENT OF INDIA 36790 364 DAYS TBILL 03DC26 FV RS 100 | Financial | Treasury Bills | 0.17% |
+| GODREJ PROPERTIES LIMITED 91D CP 26NOV26 | Real Estate | Commercial Paper | 0.17% |
+| Uttar Pradesh State SDL 6.85 23/11/2026 | Unspecified | State Development Loan | 0.14% |
+| CANARA BANK CD 11NOV26 | Financial | Certificate of Deposit | 0.14% |
+| AXIS BANK LIMITED CD 14JAN27 | Financial | Certificate of Deposit | 0.14% |
+| JIO CREDIT LIMITED 90D CP 09NOV26 | Financial | Commercial Paper | 0.14% |
+| SBICAP SECURITIES LIMITED 91D CP 05NOV26 | Financial | Commercial Paper | 0.14% |
+| TATA REALTY AND INFRASTRUCTURE LIMITED 90D CP 23NOV26 | Industrials | Commercial Paper | 0.14% |
+| Network 18 Media & Investments Ltd\*\* | Consumer Discretionary | Commercial Paper | 0.14% |
+| Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.14% |
+| Tamilnadu SGL 7.39 09/11/2026 | Unspecified | State Development Loan | 0.11% |
 | LIC HOUSING FINANCE LIMITED TR 417 OPT I 6.40 LOA 30NV26 FVRS10LAC | Financial | Debenture | 0.11% |
 | CANARA BANK CD 18NOV26 | Financial | Certificate of Deposit | 0.11% |
-| Aarti Industries Ltd.^ | Materials | Commercial Paper | 0.11% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 27OCT26 | Financial | Certificate of Deposit | 0.08% |
+| ICICI SECURITIES LIMITED 88D CP 06NOV26 | Financial | Commercial Paper | 0.10% |
+| Aarti Industries Ltd.^ | Materials | Commercial Paper | 0.10% |
 | AXIS BANK LIMITED CD 27NOV26 | Financial | Certificate of Deposit | 0.07% |
 | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 04DEC26 | Financial | Certificate of Deposit | 0.07% |
 | INFINA FINANCE PRIVATE LIMITED 364D CP 14DEC26 | Financial | Commercial Paper | 0.07% |
 | Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.07% |
+| Aditya Birla Money Limited^ | Financial | Commercial Paper | 0.07% |
 | [REC Ltd SR-140 Bonds 7.52 07/11/2026](/stocks/rural-electrification-corporation-limited-955229) | Financial | Bonds | 0.04% |
-| SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 28OCT26 | Financial | Certificate of Deposit | 0.04% |
-| INDIAN BANK CD 04DEC26 | Financial | Certificate of Deposit | 0.04% |
-| GOVERNMENT OF INDIA 36665 364 DAYS TBILL 29OT26 FV RS 100 | Financial | Treasury Bills | 0.01% |
-| Net Payables | Unspecified | Net Payables | -7.05% |
+| NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 91D CP 13NOV26 | Financial | Commercial Paper | 0.04% |
+| CANARA BANK CD 08JAN27 | Financial | Certificate of Deposit | 0.03% |
+| INDIAN BANK CD 04DEC26 | Financial | Certificate of Deposit | 0.03% |
+| Reverse Repo | Unspecified | Reverse Repo | 0.02% |
+| [BAJAJ HOUSING FINANCE LIMITED 8.04 NCD 18JN27 FVRS1LAC](/stocks/bajaj-housing-finance-limited-975334) | Financial | Debenture | 0.01% |
 
 ### Minimum investments
 
@@ -331,8 +339,8 @@ Returns are taxed as per your Income Tax slab.
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
 | | [Aditya Birla Sun Life Liquid Fund Direct Growth](/mutual-funds/birla-sun-life-cash-plus-direct-growth) | +6.61% | +6.97% | 62,316.99 |
-| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.63% | +6.97% | 53,784.03 |
-| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.58% | +6.97% | 17,830.71 |
+| | [Edelweiss Liquid Direct Growth](/mutual-funds/edelweiss-liquid-fund-direct-growth) | +6.59% | +6.97% | 17,830.71 |
+| | [Axis Liquid Direct Fund Growth](/mutual-funds/axis-liquid-direct-fund-growth) | +6.63% | +6.96% | 53,784.03 |
 | | [Franklin India Liquid Fund Super Institutional Plan Direct Growth](/mutual-funds/franklin-india-liquid-fund-super-institutional-plan-direct-growth) | +6.61% | +6.96% | 5,197.01 |
 | | [PGIM India Liquid Fund Direct Plan Growth](/mutual-funds/pgim-india-liquid-fund-direct-plan-growth) | +6.58% | +6.94% | 1,772.98 |
 | | | | | |
@@ -473,7 +481,7 @@ Also manages these schemes
 
 HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 C
 
-HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 15 Nov 2026 is ₹5,637.49.
+HDFC Liquid Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Liquid Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 16 Nov 2026 is ₹5,638.33.
 The HDFC Liquid Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.
 
 ...Read more
@@ -540,13 +548,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Liquid Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 15 Nov 2026...
+The Expense Ratio of HDFC Liquid Direct Plan Growth is 0.17% as of 17 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Liquid Direct Plan Growth is ₹71,083.13Cr as of 15 Nov 2026.
+of HDFC Liquid Direct Plan Growth is ₹71,083.13Cr as of 17 Nov 2026.
 
 ###
 
@@ -563,7 +571,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Liquid Direct Plan Growth is ₹5,637.49 as of 15 Nov 2026.
+The NAV of HDFC Liquid Direct Plan Growth is ₹5,638.33 as of 16 Nov 2026.
 
 ###
 

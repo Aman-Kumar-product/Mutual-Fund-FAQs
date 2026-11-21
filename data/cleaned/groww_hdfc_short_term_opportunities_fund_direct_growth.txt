@@ -1,77 +1,77 @@
-+70123456789.2012345678950123456789%
++70123456789.2012345678930123456789%
 
 3Y annualised
 
-+0.02% 1D
++0.10% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 19 Nov 2023 | ₹28.81 |
-| 06 Dec 2023 | ₹28.90 |
-| 26 Dec 2023 | ₹29.04 |
-| 11 Jan 2024 | ₹29.15 |
-| 31 Jan 2024 | ₹29.32 |
-| 19 Feb 2024 | ₹29.43 |
-| 10 Mar 2024 | ₹29.59 |
-| 27 Mar 2024 | ₹29.68 |
-| 18 Apr 2024 | ₹29.73 |
-| 08 May 2024 | ₹29.89 |
-| 28 May 2024 | ₹30.05 |
-| 13 Jun 2024 | ₹30.16 |
-| 02 Jul 2024 | ₹30.28 |
-| 22 Jul 2024 | ₹30.43 |
-| 07 Aug 2024 | ₹30.59 |
-| 26 Aug 2024 | ₹30.73 |
-| 12 Sep 2024 | ₹30.86 |
-| 02 Oct 2024 | ₹31.03 |
-| 20 Oct 2024 | ₹31.14 |
-| 06 Nov 2024 | ₹31.23 |
-| 27 Nov 2024 | ₹31.33 |
-| 15 Dec 2024 | ₹31.49 |
-| 01 Jan 2025 | ₹31.56 |
-| 20 Jan 2025 | ₹31.68 |
-| 05 Feb 2025 | ₹31.85 |
-| 24 Feb 2025 | ₹31.91 |
-| 16 Mar 2025 | ₹32.01 |
-| 03 Apr 2025 | ₹32.43 |
-| 24 Apr 2025 | ₹32.69 |
-| 14 May 2025 | ₹32.88 |
-| 02 Jun 2025 | ₹33.11 |
-| 18 Jun 2025 | ₹33.12 |
-| 06 Jul 2025 | ₹33.27 |
-| 23 Jul 2025 | ₹33.36 |
-| 10 Aug 2025 | ₹33.38 |
-| 28 Aug 2025 | ₹33.39 |
-| 16 Sep 2025 | ₹33.51 |
-| 06 Oct 2025 | ₹33.71 |
-| 26 Oct 2025 | ₹33.84 |
-| 12 Nov 2025 | ₹33.97 |
-| 01 Dec 2025 | ₹34.06 |
-| 17 Dec 2025 | ₹34.05 |
-| 05 Jan 2026 | ₹34.13 |
-| 22 Jan 2026 | ₹34.11 |
-| 11 Feb 2026 | ₹34.29 |
-| 03 Mar 2026 | ₹34.40 |
-| 22 Mar 2026 | ₹34.34 |
-| 14 Apr 2026 | ₹34.56 |
-| 03 May 2026 | ₹34.56 |
-| 19 May 2026 | ₹34.47 |
-| 07 Jun 2026 | ₹34.81 |
-| 24 Jun 2026 | ₹35.12 |
-| 13 Jul 2026 | ₹35.18 |
-| 29 Jul 2026 | ₹35.29 |
-| 17 Aug 2026 | ₹35.41 |
-| 03 Sep 2026 | ₹35.43 |
-| 22 Sep 2026 | ₹35.45 |
-| 11 Oct 2026 | ₹35.36 |
-| 29 Oct 2026 | ₹35.30 |
-| 17 Nov 2026 | ₹35.56 |
+| 20 Nov 2023 | ₹28.80 |
+| 07 Dec 2023 | ₹28.89 |
+| 27 Dec 2023 | ₹29.05 |
+| 14 Jan 2024 | ₹29.19 |
+| 01 Feb 2024 | ₹29.34 |
+| 21 Feb 2024 | ₹29.45 |
+| 11 Mar 2024 | ₹29.59 |
+| 30 Mar 2024 | ₹29.69 |
+| 21 Apr 2024 | ₹29.76 |
+| 09 May 2024 | ₹29.90 |
+| 29 May 2024 | ₹30.06 |
+| 17 Jun 2024 | ₹30.18 |
+| 04 Jul 2024 | ₹30.29 |
+| 23 Jul 2024 | ₹30.44 |
+| 08 Aug 2024 | ₹30.60 |
+| 28 Aug 2024 | ₹30.74 |
+| 15 Sep 2024 | ₹30.89 |
+| 03 Oct 2024 | ₹31.02 |
+| 21 Oct 2024 | ₹31.13 |
+| 10 Nov 2024 | ₹31.26 |
+| 28 Nov 2024 | ₹31.37 |
+| 16 Dec 2024 | ₹31.49 |
+| 05 Jan 2025 | ₹31.59 |
+| 21 Jan 2025 | ₹31.69 |
+| 06 Feb 2025 | ₹31.83 |
+| 27 Feb 2025 | ₹31.91 |
+| 18 Mar 2025 | ₹32.05 |
+| 06 Apr 2025 | ₹32.44 |
+| 28 Apr 2025 | ₹32.73 |
+| 18 May 2025 | ₹32.95 |
+| 03 Jun 2025 | ₹33.11 |
+| 19 Jun 2025 | ₹33.11 |
+| 08 Jul 2025 | ₹33.26 |
+| 24 Jul 2025 | ₹33.35 |
+| 11 Aug 2025 | ₹33.35 |
+| 01 Sep 2025 | ₹33.39 |
+| 18 Sep 2025 | ₹33.52 |
+| 07 Oct 2025 | ₹33.72 |
+| 28 Oct 2025 | ₹33.85 |
+| 16 Nov 2025 | ₹33.98 |
+| 02 Dec 2025 | ₹34.07 |
+| 21 Dec 2025 | ₹34.06 |
+| 07 Jan 2026 | ₹34.12 |
+| 27 Jan 2026 | ₹34.12 |
+| 12 Feb 2026 | ₹34.33 |
+| 05 Mar 2026 | ₹34.43 |
+| 24 Mar 2026 | ₹34.34 |
+| 15 Apr 2026 | ₹34.57 |
+| 05 May 2026 | ₹34.60 |
+| 21 May 2026 | ₹34.46 |
+| 09 Jun 2026 | ₹34.92 |
+| 29 Jun 2026 | ₹35.20 |
+| 15 Jul 2026 | ₹35.22 |
+| 02 Aug 2026 | ₹35.34 |
+| 18 Aug 2026 | ₹35.41 |
+| 07 Sep 2026 | ₹35.46 |
+| 24 Sep 2026 | ₹35.37 |
+| 13 Oct 2026 | ₹35.34 |
+| 02 Nov 2026 | ₹35.38 |
+| 19 Nov 2026 | ₹35.58 |
 
-NAV: 18 Nov '26
+NAV: 20 Nov '26
 
-₹35.56
+₹35.58
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,226 | | +2.17% |
-| 3 years | ₹3,600 | ₹3,945 | | +9.58% |
-| 5 years | ₹6,000 | ₹7,095 | | +18.25% |
-| 10 years | ₹12,000 | ₹17,140 | | +42.83% |
+| 1 year | ₹1,200 | ₹1,225 | | +2.08% |
+| 3 years | ₹3,600 | ₹3,944 | | +9.56% |
+| 5 years | ₹6,000 | ₹7,092 | | +18.20% |
+| 10 years | ₹12,000 | ₹17,132 | | +42.77% |
 
 ## Holdings (139)
 
@@ -276,8 +276,8 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.3% | +6.5% | +7.2% | +7.8% |
-| Category average (Debt Short Term) | +7.1% | +6.5% | +6.6% | +7.5% |
+| Fund returns | +7.2% | +6.5% | +7.2% | +7.8% |
+| Category average (Debt Short Term) | +7.1% | +6.5% | +6.6% | +7.4% |
 | Rank (Debt Short Term) | 12 | 9 | 4 | -- |
 
 ## Understand terms
@@ -330,11 +330,11 @@ Returns are taxed as per your Income Tax slab.
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Axis Short Term Fund Direct Growth](/mutual-funds/axis-short-term-fund-direct-growth) | +5.22% | +7.61% | 7,394.64 |
-| | [Bandhan Short Term Fund Direct Growth](/mutual-funds/bandhan-short-term-fund-direct-growth) | +5.67% | +7.54% | 8,627.64 |
-| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +5.22% | +7.51% | 18,468.29 |
-| | [Nippon India Short Term Fund Direct Growth](/mutual-funds/nippon-india-short-term-fund-direct-growth) | +4.74% | +7.46% | 6,361.22 |
-| | [Sundaram Short Term Fund Direct Growth](/mutual-funds/sundaram-short-term-fund-direct-growth) | +4.94% | +7.27% | 189.58 |
+| | [Axis Short Term Fund Direct Growth](/mutual-funds/axis-short-term-fund-direct-growth) | +5.13% | +7.59% | 7,394.64 |
+| | [Bandhan Short Term Fund Direct Growth](/mutual-funds/bandhan-short-term-fund-direct-growth) | +5.65% | +7.53% | 8,627.64 |
+| | [ICICI Prudential Short Term Fund Direct Plan Growth](/mutual-funds/icici-prudential-short-term-plan-direct-growth) | +5.16% | +7.49% | 18,468.29 |
+| | [Nippon India Short Term Fund Direct Growth](/mutual-funds/nippon-india-short-term-fund-direct-growth) | +4.67% | +7.44% | 6,361.22 |
+| | [Sundaram Short Term Fund Direct Growth](/mutual-funds/sundaram-short-term-fund-direct-growth) | +4.89% | +7.26% | 189.58 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-short-term-fund-direct-plan-growth) | | | | |
@@ -483,7 +483,7 @@ Also manages these schemes
 
 HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AU
 
-HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 18 Nov 2026 is ₹35.56.
+HDFC Short Term Fund Direct Plan Growth is a Debt Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Short Term Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 20 Nov 2026 is ₹35.58.
 The HDFC Short Term Fund Direct Plan Growth is rated Moderate risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
 
 ...Read more
@@ -556,13 +556,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Short Term Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.33% as of 19 Nov 2026...
+The Expense Ratio of HDFC Short Term Fund Direct Plan Growth is 0.33% as of 21 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Short Term Fund Direct Plan Growth is ₹13,966.76Cr as of 19 Nov 2026.
+of HDFC Short Term Fund Direct Plan Growth is ₹13,966.76Cr as of 21 Nov 2026.
 
 ###
 
@@ -579,7 +579,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.56 as of 18 Nov 2026.
+The NAV of HDFC Short Term Fund Direct Plan Growth is ₹35.58 as of 20 Nov 2026.
 
 ###
 

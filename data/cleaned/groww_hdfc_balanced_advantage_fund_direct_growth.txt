@@ -1,4 +1,4 @@
-+1012345678910123456789.5012345678980123456789%
++1012345678910123456789.8012345678940123456789%
 
 3Y annualised
 
@@ -8,65 +8,65 @@ NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 20 Nov 2023 | ₹423.08 |
-| 10 Dec 2023 | ₹445.29 |
-| 27 Dec 2023 | ₹458.06 |
-| 15 Jan 2024 | ₹466.28 |
-| 04 Feb 2024 | ₹480.68 |
-| 21 Feb 2024 | ₹484.76 |
-| 11 Mar 2024 | ₹484.64 |
-| 31 Mar 2024 | ₹488.00 |
-| 18 Apr 2024 | ₹488.37 |
-| 08 May 2024 | ₹493.33 |
-| 27 May 2024 | ₹515.43 |
-| 13 Jun 2024 | ₹524.65 |
-| 02 Jul 2024 | ₹534.77 |
-| 22 Jul 2024 | ₹538.39 |
-| 07 Aug 2024 | ₹539.86 |
-| 27 Aug 2024 | ₹549.79 |
-| 12 Sep 2024 | ₹549.36 |
-| 02 Oct 2024 | ₹548.27 |
-| 20 Oct 2024 | ₹546.31 |
-| 07 Nov 2024 | ₹539.51 |
-| 28 Nov 2024 | ₹541.36 |
-| 16 Dec 2024 | ₹546.25 |
-| 05 Jan 2025 | ₹534.63 |
-| 21 Jan 2025 | ₹525.06 |
-| 09 Feb 2025 | ₹522.52 |
-| 26 Feb 2025 | ₹509.54 |
-| 18 Mar 2025 | ₹519.24 |
-| 03 Apr 2025 | ₹522.49 |
-| 27 Apr 2025 | ₹542.81 |
-| 14 May 2025 | ₹553.53 |
-| 02 Jun 2025 | ₹554.34 |
-| 18 Jun 2025 | ₹554.18 |
-| 07 Jul 2025 | ₹566.65 |
-| 23 Jul 2025 | ₹562.11 |
-| 11 Aug 2025 | ₹552.82 |
-| 31 Aug 2025 | ₹552.44 |
-| 17 Sep 2025 | ₹566.86 |
-| 06 Oct 2025 | ₹564.79 |
-| 27 Oct 2025 | ₹575.38 |
-| 13 Nov 2025 | ₹578.52 |
-| 02 Dec 2025 | ₹576.61 |
+| 22 Nov 2023 | ₹423.38 |
+| 11 Dec 2023 | ₹443.65 |
+| 31 Dec 2023 | ₹459.40 |
+| 16 Jan 2024 | ₹462.51 |
+| 06 Feb 2024 | ₹483.45 |
+| 22 Feb 2024 | ₹484.77 |
+| 13 Mar 2024 | ₹478.84 |
+| 01 Apr 2024 | ₹489.22 |
+| 22 Apr 2024 | ₹492.28 |
+| 09 May 2024 | ₹495.18 |
+| 29 May 2024 | ₹512.49 |
+| 17 Jun 2024 | ₹526.77 |
+| 04 Jul 2024 | ₹538.30 |
+| 23 Jul 2024 | ₹540.06 |
+| 11 Aug 2024 | ₹542.13 |
+| 28 Aug 2024 | ₹549.81 |
+| 16 Sep 2024 | ₹549.48 |
+| 03 Oct 2024 | ₹546.02 |
+| 22 Oct 2024 | ₹540.03 |
+| 10 Nov 2024 | ₹539.40 |
+| 01 Dec 2024 | ₹542.47 |
+| 17 Dec 2024 | ₹543.91 |
+| 06 Jan 2025 | ₹536.75 |
+| 22 Jan 2025 | ₹525.60 |
+| 10 Feb 2025 | ₹517.05 |
+| 27 Feb 2025 | ₹504.37 |
+| 19 Mar 2025 | ₹522.59 |
+| 06 Apr 2025 | ₹512.40 |
+| 28 Apr 2025 | ₹542.90 |
+| 15 May 2025 | ₹555.12 |
+| 03 Jun 2025 | ₹555.65 |
+| 19 Jun 2025 | ₹558.93 |
+| 08 Jul 2025 | ₹566.38 |
+| 24 Jul 2025 | ₹558.20 |
+| 12 Aug 2025 | ₹554.59 |
+| 01 Sep 2025 | ₹552.81 |
+| 18 Sep 2025 | ₹567.26 |
+| 07 Oct 2025 | ₹563.77 |
+| 28 Oct 2025 | ₹578.30 |
+| 16 Nov 2025 | ₹580.25 |
+| 03 Dec 2025 | ₹577.02 |
 | 21 Dec 2025 | ₹578.74 |
-| 07 Jan 2026 | ₹577.68 |
+| 08 Jan 2026 | ₹574.43 |
 | 28 Jan 2026 | ₹570.94 |
-| 15 Feb 2026 | ₹577.07 |
+| 16 Feb 2026 | ₹578.85 |
 | 05 Mar 2026 | ₹560.35 |
-| 23 Mar 2026 | ₹535.18 |
+| 24 Mar 2026 | ₹541.37 |
 | 14 Apr 2026 | ₹559.72 |
-| 03 May 2026 | ₹560.94 |
+| 04 May 2026 | ₹559.58 |
 | 20 May 2026 | ₹550.74 |
-| 08 Jun 2026 | ₹549.76 |
+| 09 Jun 2026 | ₹548.19 |
 | 28 Jun 2026 | ₹564.32 |
-| 14 Jul 2026 | ₹568.50 |
+| 15 Jul 2026 | ₹568.41 |
 | 02 Aug 2026 | ₹578.52 |
-| 18 Aug 2026 | ₹571.22 |
+| 19 Aug 2026 | ₹572.87 |
 | 06 Sep 2026 | ₹567.48 |
-| 23 Sep 2026 | ₹556.55 |
+| 24 Sep 2026 | ₹557.73 |
 | 13 Oct 2026 | ₹547.62 |
-| 01 Nov 2026 | ₹553.48 |
+| 02 Nov 2026 | ₹558.85 |
 | 19 Nov 2026 | ₹590.81 |
 
 NAV: 20 Nov '26
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,248 | | +4.00% |
-| 3 years | ₹3,600 | ₹3,927 | | +9.08% |
-| 5 years | ₹6,000 | ₹8,092 | | +34.87% |
-| 10 years | ₹12,000 | ₹25,915 | | +115.96% |
+| 1 year | ₹1,200 | ₹1,255 | | +4.58% |
+| 3 years | ₹3,600 | ₹3,954 | | +9.83% |
+| 5 years | ₹6,000 | ₹8,145 | | +35.75% |
+| 10 years | ₹12,000 | ₹26,080 | | +117.33% |
 
 ## Holdings (326)
 
@@ -463,8 +463,8 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.6% | +14.6% | +14.1% | +14.5% |
-| Category average (Hybrid Dynamic Asset Allocation) | +10.2% | +9.6% | +11.0% | +11.1% |
+| Fund returns | +11.8% | +14.7% | +14.2% | +14.6% |
+| Category average (Hybrid Dynamic Asset Allocation) | +10.4% | +9.7% | +11.1% | +11.2% |
 | Rank (Hybrid Dynamic Asset Allocation) | 11 | 1 | -- | -- |
 
 ## Understand terms
@@ -521,11 +521,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +8.04% | +13.07% | 9,847.42 |
-| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +6.85% | +12.17% | 3,678.30 |
-| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +5.98% | +12.01% | 71,892.46 |
-| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | +1.07% | +11.58% | 1,01,431.73 |
-| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +4.42% | +11.53% | 9,445.71 |
+| | [Aditya Birla Sun Life Balanced Advantage Fund Direct Growth](/mutual-funds/birla-sun-life-balanced-advantage-fund-direct-growth) | +8.79% | +13.37% | 9,847.42 |
+| | [DSP Dynamic Asset Allocation Fund Direct Growth](/mutual-funds/dsp-blackrock-dynamic-asset-allocation-fund-direct-growth) | +7.66% | +12.55% | 3,678.30 |
+| | [ICICI Prudential Balanced Advantage Direct Growth](/mutual-funds/icici-prudential-balanced-advantage-fund-direct-growth) | +6.40% | +12.31% | 71,892.46 |
+| | [HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth) | +1.68% | +11.84% | 1,01,431.73 |
+| | [Nippon India Balanced Advantage Fund Direct Growth](/mutual-funds/nippon-india-balanced-advantage-fund-direct-growth) | +4.99% | +11.79% | 9,445.71 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-balanced-advantage-fund-direct-growth) | | | | |
@@ -951,7 +951,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Balanced Advantage Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.53% since its inception.
+The HDFC Balanced Advantage Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 14.59% since its inception.
 
 ###
 
@@ -959,13 +959,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Balanced Advantage Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.63% as of 21 Nov 2026...
+The Expense Ratio of HDFC Balanced Advantage Fund Direct Growth is 0.63% as of 23 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Balanced Advantage Fund Direct Growth is ₹1,01,431.73Cr as of 21 Nov 2026.
+of HDFC Balanced Advantage Fund Direct Growth is ₹1,01,431.73Cr as of 23 Nov 2026.
 
 ###
 

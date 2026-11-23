@@ -1,4 +1,4 @@
-+1012345678970123456789.2012345678980123456789%
++1012345678970123456789.4012345678960123456789%
 
 3Y annualised
 
@@ -8,65 +8,65 @@ NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 20 Nov 2023 | ₹73.96 |
-| 10 Dec 2023 | ₹79.17 |
-| 27 Dec 2023 | ₹80.37 |
-| 15 Jan 2024 | ₹83.74 |
-| 04 Feb 2024 | ₹83.64 |
-| 21 Feb 2024 | ₹86.76 |
-| 11 Mar 2024 | ₹87.08 |
-| 31 Mar 2024 | ₹90.46 |
-| 18 Apr 2024 | ₹91.48 |
-| 08 May 2024 | ₹91.20 |
-| 27 May 2024 | ₹96.15 |
-| 13 Jun 2024 | ₹103.63 |
-| 02 Jul 2024 | ₹109.18 |
-| 22 Jul 2024 | ₹110.18 |
-| 07 Aug 2024 | ₹110.84 |
-| 27 Aug 2024 | ₹115.82 |
-| 12 Sep 2024 | ₹121.25 |
-| 02 Oct 2024 | ₹121.67 |
-| 20 Oct 2024 | ₹119.97 |
-| 07 Nov 2024 | ₹120.10 |
-| 28 Nov 2024 | ₹123.46 |
-| 16 Dec 2024 | ₹130.32 |
-| 05 Jan 2025 | ₹126.04 |
-| 21 Jan 2025 | ₹108.85 |
-| 09 Feb 2025 | ₹108.77 |
-| 26 Feb 2025 | ₹102.23 |
-| 18 Mar 2025 | ₹104.56 |
-| 03 Apr 2025 | ₹101.60 |
-| 27 Apr 2025 | ₹107.41 |
-| 14 May 2025 | ₹113.24 |
-| 02 Jun 2025 | ₹113.76 |
-| 18 Jun 2025 | ₹113.97 |
-| 07 Jul 2025 | ₹118.02 |
-| 23 Jul 2025 | ₹116.93 |
-| 11 Aug 2025 | ₹115.08 |
-| 31 Aug 2025 | ₹119.91 |
-| 17 Sep 2025 | ₹122.51 |
-| 06 Oct 2025 | ₹118.84 |
-| 27 Oct 2025 | ₹119.91 |
-| 13 Nov 2025 | ₹118.41 |
-| 02 Dec 2025 | ₹117.21 |
+| 22 Nov 2023 | ₹74.65 |
+| 11 Dec 2023 | ₹78.35 |
+| 31 Dec 2023 | ₹80.56 |
+| 16 Jan 2024 | ₹82.87 |
+| 06 Feb 2024 | ₹83.70 |
+| 22 Feb 2024 | ₹88.06 |
+| 13 Mar 2024 | ₹85.66 |
+| 01 Apr 2024 | ₹91.13 |
+| 22 Apr 2024 | ₹93.07 |
+| 09 May 2024 | ₹92.68 |
+| 29 May 2024 | ₹94.43 |
+| 17 Jun 2024 | ₹105.32 |
+| 04 Jul 2024 | ₹109.99 |
+| 23 Jul 2024 | ₹111.58 |
+| 11 Aug 2024 | ₹111.72 |
+| 28 Aug 2024 | ₹115.65 |
+| 16 Sep 2024 | ₹121.02 |
+| 03 Oct 2024 | ₹120.33 |
+| 22 Oct 2024 | ₹120.61 |
+| 10 Nov 2024 | ₹119.37 |
+| 01 Dec 2024 | ₹124.58 |
+| 17 Dec 2024 | ₹130.08 |
+| 06 Jan 2025 | ₹126.38 |
+| 22 Jan 2025 | ₹112.59 |
+| 10 Feb 2025 | ₹107.05 |
+| 27 Feb 2025 | ₹101.21 |
+| 19 Mar 2025 | ₹104.17 |
+| 06 Apr 2025 | ₹98.87 |
+| 28 Apr 2025 | ₹108.48 |
+| 15 May 2025 | ₹113.71 |
+| 03 Jun 2025 | ₹114.31 |
+| 19 Jun 2025 | ₹115.72 |
+| 08 Jul 2025 | ₹117.74 |
+| 24 Jul 2025 | ₹115.86 |
+| 12 Aug 2025 | ₹115.98 |
+| 01 Sep 2025 | ₹119.71 |
+| 18 Sep 2025 | ₹121.34 |
+| 07 Oct 2025 | ₹117.99 |
+| 28 Oct 2025 | ₹120.59 |
+| 16 Nov 2025 | ₹119.27 |
+| 03 Dec 2025 | ₹117.51 |
 | 21 Dec 2025 | ₹116.15 |
-| 07 Jan 2026 | ₹113.79 |
+| 08 Jan 2026 | ₹113.24 |
 | 28 Jan 2026 | ₹106.55 |
-| 15 Feb 2026 | ₹107.26 |
+| 16 Feb 2026 | ₹107.26 |
 | 05 Mar 2026 | ₹99.69 |
-| 23 Mar 2026 | ₹95.66 |
+| 24 Mar 2026 | ₹98.00 |
 | 14 Apr 2026 | ₹105.96 |
-| 03 May 2026 | ₹105.39 |
+| 04 May 2026 | ₹105.24 |
 | 20 May 2026 | ₹106.25 |
-| 08 Jun 2026 | ₹104.43 |
+| 09 Jun 2026 | ₹102.77 |
 | 28 Jun 2026 | ₹107.81 |
-| 14 Jul 2026 | ₹115.10 |
+| 15 Jul 2026 | ₹114.28 |
 | 02 Aug 2026 | ₹117.60 |
-| 18 Aug 2026 | ₹120.08 |
+| 19 Aug 2026 | ₹121.62 |
 | 06 Sep 2026 | ₹120.23 |
-| 23 Sep 2026 | ₹117.00 |
+| 24 Sep 2026 | ₹116.70 |
 | 13 Oct 2026 | ₹115.73 |
-| 01 Nov 2026 | ₹113.01 |
+| 02 Nov 2026 | ₹114.54 |
 | 19 Nov 2026 | ₹120.54 |
 
 NAV: 20 Nov '26
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,308 | | +9.00% |
-| 3 years | ₹3,600 | ₹4,062 | | +12.83% |
-| 5 years | ₹6,000 | ₹9,171 | | +52.85% |
-| 10 years | ₹12,000 | ₹35,034 | | +191.95% |
+| 1 year | ₹1,200 | ₹1,309 | | +9.08% |
+| 3 years | ₹3,600 | ₹4,064 | | +12.89% |
+| 5 years | ₹6,000 | ₹9,176 | | +52.93% |
+| 10 years | ₹12,000 | ₹35,052 | | +192.10% |
 
 ## Holdings (33)
 
@@ -170,8 +170,8 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.3% | +19.2% | +18.5% | +21.6% |
-| Category average (Equity Mid Cap) | +14.7% | +14.7% | +17.3% | +18.4% |
+| Fund returns | +17.5% | +19.3% | +18.5% | +21.6% |
+| Category average (Equity Mid Cap) | +14.9% | +14.8% | +17.4% | +18.4% |
 | Rank (Equity Mid Cap) | 7 | 2 | 5 | -- |
 
 ## Understand terms
@@ -236,11 +236,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +10.26% | +23.40% | 15,831.37 |
-| | [HSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +14.70% | +21.18% | 16,771.54 |
-| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +8.46% | +20.00% | 7,785.51 |
-| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +3.78% | +18.44% | 18,724.52 |
-| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +4.72% | +16.31% | 48,905.07 |
+| | [Invesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +11.85% | +23.93% | 15,831.37 |
+| | [HSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +15.40% | +21.50% | 16,771.54 |
+| | [WhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +8.94% | +20.10% | 7,785.51 |
+| | [Edelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +4.37% | +18.69% | 18,724.52 |
+| | [Nippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +5.19% | +16.47% | 48,905.07 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/motilal-oswal-most-focused-midcap-30-fund-direct-growth) | | | | |
@@ -688,13 +688,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for Motilal Oswal Midcap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.65% as of 21 Nov 2026...
+The Expense Ratio of Motilal Oswal Midcap Fund Direct Growth is 0.65% as of 23 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of Motilal Oswal Midcap Fund Direct Growth is ₹39,628.56Cr as of 21 Nov 2026.
+of Motilal Oswal Midcap Fund Direct Growth is ₹39,628.56Cr as of 23 Nov 2026.
 
 ###
 

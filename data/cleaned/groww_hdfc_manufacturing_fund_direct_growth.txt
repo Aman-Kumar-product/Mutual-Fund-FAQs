@@ -8,8 +8,6 @@ NAV by date, 1M range
 
 | Date | NAV |
 | --- | --- |
-| 20 Oct 2026 | ₹11.37 |
-| 21 Oct 2026 | ₹11.29 |
 | 22 Oct 2026 | ₹11.10 |
 | 25 Oct 2026 | ₹11.20 |
 | 26 Oct 2026 | ₹11.38 |
@@ -62,8 +60,8 @@ Monthly investment
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
 | 3 months | ₹300 | ₹307 | | +2.33% |
-| 6 months | ₹600 | ₹620 | | +3.33% |
-| 1 year | ₹1,200 | ₹1,283 | | +6.92% |
+| 6 months | ₹600 | ₹621 | | +3.50% |
+| 1 year | ₹1,200 | ₹1,284 | | +7.00% |
 
 ## Holdings (93)
 
@@ -193,7 +191,7 @@ The total return of a mutual fund over a given period.
 | --- | --- | --- | --- | --- |
 | Fund returns | -0.1% | +8.2% | +8.3% | +23.3% |
 | Category average (Equity Thematic) | -1.6% | +6.8% | +10.0% | +65.4% |
-| Rank (Equity Thematic) | 4 | 5 | 9 | -- |
+| Rank (Equity Thematic) | 3 | 5 | 9 | -- |
 
 ## Understand terms
 
@@ -440,7 +438,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 8.63% since its inception.
+The HDFC Manufacturing Fund Direct Growth has been there from 16 May 2024 and the average annual returns provided by this fund is 8.68% since its inception.
 
 ###
 
@@ -448,13 +446,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Manufacturing Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.73% as of 21 Nov 2026...
+The Expense Ratio of HDFC Manufacturing Fund Direct Growth is 0.73% as of 23 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Manufacturing Fund Direct Growth is ₹9,726.26Cr as of 21 Nov 2026.
+of HDFC Manufacturing Fund Direct Growth is ₹9,726.26Cr as of 23 Nov 2026.
 
 ###
 

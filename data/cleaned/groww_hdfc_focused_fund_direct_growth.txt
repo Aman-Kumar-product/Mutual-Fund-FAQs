@@ -1,77 +1,77 @@
-+1012345678970123456789.9012345678950123456789%
++1012345678970123456789.3012345678930123456789%
 
 3Y annualised
 
-+1.33% 1D
+-1.37% 1D
 
 NAV by date, 3Y range
 
 | Date | NAV |
 | --- | --- |
-| 22 Nov 2023 | ₹176.67 |
-| 11 Dec 2023 | ₹188.11 |
-| 31 Dec 2023 | ₹193.55 |
-| 16 Jan 2024 | ₹193.88 |
-| 06 Feb 2024 | ₹199.47 |
-| 22 Feb 2024 | ₹205.95 |
-| 13 Mar 2024 | ₹203.88 |
-| 01 Apr 2024 | ₹209.03 |
-| 22 Apr 2024 | ₹210.56 |
-| 09 May 2024 | ₹211.91 |
-| 29 May 2024 | ₹218.92 |
-| 17 Jun 2024 | ₹230.30 |
-| 04 Jul 2024 | ₹236.88 |
-| 23 Jul 2024 | ₹238.44 |
-| 11 Aug 2024 | ₹236.54 |
-| 28 Aug 2024 | ₹242.81 |
-| 16 Sep 2024 | ₹250.15 |
-| 03 Oct 2024 | ₹247.05 |
-| 22 Oct 2024 | ₹244.33 |
-| 10 Nov 2024 | ₹245.97 |
-| 01 Dec 2024 | ₹247.19 |
-| 17 Dec 2024 | ₹245.55 |
-| 06 Jan 2025 | ₹242.63 |
-| 22 Jan 2025 | ₹234.86 |
-| 10 Feb 2025 | ₹234.87 |
-| 27 Feb 2025 | ₹228.07 |
-| 19 Mar 2025 | ₹238.37 |
-| 06 Apr 2025 | ₹231.48 |
-| 28 Apr 2025 | ₹250.19 |
-| 15 May 2025 | ₹256.25 |
-| 03 Jun 2025 | ₹253.69 |
-| 19 Jun 2025 | ₹257.99 |
-| 08 Jul 2025 | ₹262.12 |
-| 24 Jul 2025 | ₹259.53 |
-| 12 Aug 2025 | ₹258.50 |
-| 01 Sep 2025 | ₹261.47 |
-| 18 Sep 2025 | ₹269.70 |
-| 07 Oct 2025 | ₹266.87 |
-| 28 Oct 2025 | ₹274.57 |
-| 16 Nov 2025 | ₹272.59 |
-| 03 Dec 2025 | ₹271.86 |
-| 21 Dec 2025 | ₹270.79 |
-| 08 Jan 2026 | ₹271.11 |
-| 28 Jan 2026 | ₹266.95 |
-| 16 Feb 2026 | ₹275.87 |
-| 05 Mar 2026 | ₹261.49 |
-| 24 Mar 2026 | ₹248.28 |
-| 14 Apr 2026 | ₹259.41 |
-| 04 May 2026 | ₹253.71 |
-| 20 May 2026 | ₹251.40 |
-| 09 Jun 2026 | ₹251.02 |
-| 28 Jun 2026 | ₹262.48 |
-| 15 Jul 2026 | ₹266.38 |
-| 02 Aug 2026 | ₹273.08 |
-| 19 Aug 2026 | ₹269.97 |
-| 06 Sep 2026 | ₹267.28 |
-| 24 Sep 2026 | ₹261.79 |
-| 13 Oct 2026 | ₹256.52 |
-| 02 Nov 2026 | ₹264.53 |
-| 19 Nov 2026 | ₹289.46 |
+| 27 Nov 2023 | ₹177.98 |
+| 13 Dec 2023 | ₹190.76 |
+| 02 Jan 2024 | ₹193.34 |
+| 18 Jan 2024 | ₹195.42 |
+| 08 Feb 2024 | ₹198.82 |
+| 26 Feb 2024 | ₹205.78 |
+| 17 Mar 2024 | ₹203.35 |
+| 03 Apr 2024 | ₹209.74 |
+| 24 Apr 2024 | ₹213.32 |
+| 13 May 2024 | ₹213.38 |
+| 02 Jun 2024 | ₹224.04 |
+| 19 Jun 2024 | ₹231.79 |
+| 08 Jul 2024 | ₹237.64 |
+| 25 Jul 2024 | ₹240.51 |
+| 13 Aug 2024 | ₹234.52 |
+| 01 Sep 2024 | ₹245.05 |
+| 18 Sep 2024 | ₹249.97 |
+| 07 Oct 2024 | ₹246.02 |
+| 24 Oct 2024 | ₹243.91 |
+| 12 Nov 2024 | ₹239.54 |
+| 02 Dec 2024 | ₹248.07 |
+| 19 Dec 2024 | ₹241.30 |
+| 07 Jan 2025 | ₹241.11 |
+| 26 Jan 2025 | ₹230.96 |
+| 11 Feb 2025 | ₹234.52 |
+| 03 Mar 2025 | ₹227.57 |
+| 20 Mar 2025 | ₹240.50 |
+| 08 Apr 2025 | ₹233.46 |
+| 29 Apr 2025 | ₹250.53 |
+| 19 May 2025 | ₹254.48 |
+| 04 Jun 2025 | ₹254.61 |
+| 23 Jun 2025 | ₹258.73 |
+| 09 Jul 2025 | ₹261.46 |
+| 28 Jul 2025 | ₹258.99 |
+| 13 Aug 2025 | ₹258.83 |
+| 03 Sep 2025 | ₹262.54 |
+| 21 Sep 2025 | ₹268.47 |
+| 09 Oct 2025 | ₹269.16 |
+| 29 Oct 2025 | ₹273.20 |
+| 18 Nov 2025 | ₹273.38 |
+| 04 Dec 2025 | ₹273.00 |
+| 22 Dec 2025 | ₹271.35 |
+| 11 Jan 2026 | ₹271.50 |
+| 29 Jan 2026 | ₹266.80 |
+| 17 Feb 2026 | ₹276.83 |
+| 08 Mar 2026 | ₹255.61 |
+| 26 Mar 2026 | ₹243.93 |
+| 15 Apr 2026 | ₹259.23 |
+| 05 May 2026 | ₹258.59 |
+| 21 May 2026 | ₹252.45 |
+| 10 Jun 2026 | ₹250.70 |
+| 29 Jun 2026 | ₹262.51 |
+| 16 Jul 2026 | ₹268.14 |
+| 03 Aug 2026 | ₹272.45 |
+| 20 Aug 2026 | ₹270.02 |
+| 07 Sep 2026 | ₹266.02 |
+| 27 Sep 2026 | ₹257.89 |
+| 14 Oct 2026 | ₹260.20 |
+| 03 Nov 2026 | ₹267.11 |
+| 22 Nov 2026 | ₹285.49 |
 
-NAV: 20 Nov '26
+NAV: 23 Nov '26
 
-₹289.46
+₹285.49
 
 Min. for SIP
 
@@ -99,10 +99,10 @@ Monthly investment
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹1,200 | ₹1,312 | | +9.33% |
-| 3 years | ₹3,600 | ₹4,275 | | +18.75% |
-| 5 years | ₹6,000 | ₹9,154 | | +52.57% |
-| 10 years | ₹12,000 | ₹30,598 | | +154.98% |
+| 1 year | ₹1,200 | ₹1,294 | | +7.83% |
+| 3 years | ₹3,600 | ₹4,215 | | +17.08% |
+| 5 years | ₹6,000 | ₹9,018 | | +50.30% |
+| 10 years | ₹12,000 | ₹30,146 | | +151.22% |
 
 ## Holdings (33)
 
@@ -170,9 +170,9 @@ The total return of a mutual fund over a given period.
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.9% | +18.4% | +16.4% | +15.3% |
-| Category average (Equity Focused) | +14.2% | +11.9% | +15.2% | +15.2% |
-| Rank (Equity Focused) | 3 | 1 | 3 | -- |
+| Fund returns | +17.3% | +18.4% | +16.4% | +15.1% |
+| Category average (Equity Focused) | +13.7% | +11.9% | +15.2% | +15.1% |
+| Rank (Equity Focused) | 3 | 1 | 4 | -- |
 
 ## Understand terms
 
@@ -228,11 +228,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 | | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-| | [Invesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +15.83% | +22.45% | 6,486.06 |
-| | [ICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | +4.35% | +18.92% | 17,247.77 |
-| | [HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | +5.69% | +17.95% | 26,955.90 |
-| | [SBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +10.31% | +16.15% | 50,423.05 |
-| | [ITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +5.18% | +15.92% | 594.40 |
+| | [Invesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +16.20% | +22.29% | 6,486.06 |
+| | [ICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | +3.34% | +18.02% | 17,247.77 |
+| | [HDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | +4.80% | +17.33% | 26,955.90 |
+| | [SBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +10.45% | +16.03% | 50,423.05 |
+| | [ITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +5.14% | +15.55% | 594.40 |
 | | | | | |
 | --- | --- | --- | --- | --- |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
@@ -355,7 +355,7 @@ Also manages these schemes
 
 HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,6
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 20 Nov 2026 is ₹289.46.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 23 Nov 2026 is ₹285.49.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ...Read more
@@ -420,7 +420,7 @@ process is extremely simple, quick and completely paperless. Invest in a few min
 
 ###
 
-The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.25% since its inception.
+The HDFC Focused Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.12% since its inception.
 
 ###
 
@@ -428,13 +428,13 @@ The term
  [Expense Ratio](https://groww.in/p/expense-ratio/) used for HDFC Focused Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund. 
  
-The Expense Ratio of HDFC Focused Fund Direct Growth is 0.61% as of 23 Nov 2026...
+The Expense Ratio of HDFC Focused Fund Direct Growth is 0.61% as of 25 Nov 2026...
 
 ###
 
 The AUM, short for
  [Assets Under Management](https://groww.in/p/asset-under-management/) 
-of HDFC Focused Fund Direct Growth is ₹26,955.90Cr as of 23 Nov 2026.
+of HDFC Focused Fund Direct Growth is ₹26,955.90Cr as of 25 Nov 2026.
 
 ###
 
@@ -451,7 +451,7 @@ your investment objective and risk tolerance.
 
 ###
 
-The NAV of HDFC Focused Fund Direct Growth is ₹289.46 as of 20 Nov 2026.
+The NAV of HDFC Focused Fund Direct Growth is ₹285.49 as of 23 Nov 2026.
 
 ###
 
